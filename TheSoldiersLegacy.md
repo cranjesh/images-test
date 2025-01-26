@@ -62,6 +62,9 @@ Holmes smiled faintly. *“Consider: what would drive two men to such behavior? 
 
 The manor stood shrouded in morning mist, its towers barely visible against the gray sky. Ivy clung tightly to the stone walls, and the iron gates groaned in protest as we pushed them open, the sound echoing faintly in the stillness.
 
+![Introduction of Detectives 1 and 2](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Introduction%20of%20Detectives%201%20and%202.webp)
+
+
 Inside, we found Katherine Blackwood in the library. She stood near a writing desk, her hands clasped tightly as though to steady herself. Her pale face carried the quiet composure of a Captain’s widow, but her sleepless eyes betrayed the strain of her burden.
 
 In the corner, her two young children sat with a small set of wooden blocks. Their subdued laughter carried faintly through the room, a fragile attempt to break the tense atmosphere. Katherine glanced toward them often, as though drawing comfort from their presence.
@@ -78,11 +81,15 @@ Katherine stepped forward, her hand brushing the edge of the desk. The small, he
 
 Raised voices drew us into the drawing room. William paced near the hearth, his shadow darting across the walls.
 
+![WilliamAndLady](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/WillamAndLady.webp)
+
 “Mother, involving Holmes was a mistake,” he said sharply. “This is family business.”
 
 Lady Blackwood’s hands trembled slightly. “I had every right, William. Katherine and her children—”
 
 “Her children?” William interrupted, his voice rising. “What about your son? Edward spent years in India, yet Father treated him like the heir. And now you defend his widow?”
+
+![Lady Blackwood’s Plea](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Lady%20Blackwood%E2%80%99s%20Plea.webp)
 
 Katherine appeared in the doorway, her young daughter clutching her skirt. “Let him speak, Lady Blackwood,” she said quietly. “William has been clear about his feelings these past months.”
 
@@ -181,6 +188,8 @@ Holmes stood suddenly, pacing deliberately. “We have him, Watson. The evidence
 
 The next evening, we gathered in the drawing room of Blackwood Manor. Holmes had orchestrated the meeting with precision, ensuring that both Colonel Sir Reginald and Lieutenant Cartwright were present. Lady Blackwood and Katherine sat to the side, their expressions tense.
 
+![Reginal](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Reginald.webp)
+
 Holmes began calmly. “Colonel, your scheme was bold. Hiding the chest’s contents in a vault at the East India Company was clever, but Edward’s foresight defeated you. He changed the authorization codes shortly before his death.”
 
 Reginald’s jaw tightened. “This is absurd. You have no proof.”
@@ -200,6 +209,8 @@ The room fell silent as his words echoed. Holmes stepped back, his eyes narrowin
 ---
 
 ## Chapter 9: A Soldier’s Honor
+
+![Inn](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Bar.webp)
 
 The dim light of the village inn cast long shadows as Holmes and I faced Lieutenant Cartwright. He sat with his head bowed, hands clasped tightly on the table.
 
