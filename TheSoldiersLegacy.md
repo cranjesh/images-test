@@ -9,8 +9,8 @@
 5. A Web of Lies
 6. Setting the Trap
 7. The Final Game
-8. The Confrontation
-9. A Soldier's Honor
+8. A Soldier's Honor
+9. The Confrontation
 10. Justice Served
 11. Legacy
 
@@ -184,31 +184,7 @@ Holmes stood suddenly, pacing deliberately. “We have him, Watson. The evidence
 
 ---
 
-## Chapter 8: The Confrontation
-
-The next evening, we gathered in the drawing room of Blackwood Manor. Holmes had orchestrated the meeting with precision, ensuring that both Colonel Sir Reginald and Lieutenant Cartwright were present. Lady Blackwood and Katherine sat to the side, their expressions tense.
-
-![Reginal](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Reginald.webp)
-
-Holmes began calmly. “Colonel, your scheme was bold. Hiding the chest’s contents in a vault at the East India Company was clever, but Edward’s foresight defeated you. He changed the authorization codes shortly before his death.”
-
-Reginald’s jaw tightened. “This is absurd. You have no proof.”
-
-Holmes held up Edward’s notebook. “The proof lies here. Captain Blackwood’s journal meticulously documents your meetings at the Oriental Club, the sudden transfers of men like Dr. Thompson, and suspicious withdrawals from your personal accounts.”
-
-The Colonel’s hand trembled, but his voice remained steady. “Clever deductions, Mr. Holmes, but hardly enough to stand in court.”
-
-“Perhaps,” Holmes said, stepping closer. “But your own words may seal your fate. Consider this telegram: *‘Package ready for delivery. Final inspection tomorrow.’* Sent from your club the day before Edward’s death.”
-
-Reginald’s composure cracked. “You think you’ve won, Holmes? You’ve no idea what you’re meddling with!” He lunged for Edward’s notebook, his desperation overtaking him.
-
-The constables Holmes had summoned moved swiftly to restrain him, but not before the Colonel shouted, “You’re meddling in matters far greater than you realize!”
-
-The room fell silent as his words echoed. Holmes stepped back, his eyes narrowing thoughtfully. “Watson, note that down. It seems the Colonel’s ambition was not entirely his own.”
-
----
-
-## Chapter 9: A Soldier’s Honor
+## Chapter 8: A Soldier’s Honor
 
 ![Inn](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Bar.webp)
 
@@ -237,6 +213,38 @@ At that moment, the door of the inn creaked open, and Colonel Sir Reginald Hawth
 “Mr. Holmes,” he said, his voice steady but sharp, “your inquiries seem to have drawn quite the crowd.”
 
 Holmes stood, his gaze unflinching. “Indeed, Colonel. Though the truth has a habit of drawing the guilty as well as the innocent.”
+
+---
+
+## Chapter 9: The Confrontation
+
+The next evening, we gathered in the drawing room of Blackwood Manor. Holmes had orchestrated the meeting with precision, ensuring that both Colonel Sir Reginald and Lieutenant Cartwright were present. Lady Blackwood and Katherine sat to the side, their expressions tense.
+
+![Reginal](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Reginald.webp)
+
+Holmes began calmly. "The regiment's training records revealed your pattern, Colonel," Holmes said, his voice cutting through the tense silence. "Edward discovered your method during inspections - how you'd arrange 'accidents' to silence those who questioned your dealings. The garrison walls were your preferred location. A simple matter to tamper with the safety ropes during an inspection."
+
+The Colonel's face hardened. "Pure speculation."
+
+"Not quite. Edward wrote to Major Forrester two days before his death, detailing his suspicions about the inspection ropes. Most telling was Dr. Thompson's hasty transfer to India after certifying Edward's death as accidental. The good doctor's newly acquired wealth in Bombay makes for interesting reading."
+
+Katherine's hands tightened on her chair. "You killed him because he discovered your corruption."
+
+"Edward was investigating missing supplies," Holmes continued. "But he found something far worse - systematic theft through the East India Company's supply chain, with profits shared among certain highly-placed officers. The training accidents began shortly after each discovery. And the final piece - hiding the chest's contents in a vault at the East India Company - that was particularly clever, Colonel."
+
+Reginald's jaw tightened. "This is absurd. You have no proof."
+
+"The proof lies not just in Edward's journal, but in your own bureaucratic expertise. You used your military authority to register the chest under a false classification - 'Regiment Supply Records, 1880.' Quite ingenious. The perfect place to hide evidence of your dealings - among thousands of identical boxes, made invisible by their very officiality. But you didn't count on Edward changing the authorization codes before his death."
+
+Holmes held up Edward's notebook. "The proof lies here. Captain Blackwood's journal meticulously documents your meetings at the Oriental Club, the sudden transfers of men like Dr. Thompson, and suspicious withdrawals from your personal accounts."
+
+"Perhaps," Holmes said, stepping closer. "But your own words may seal your fate. Consider this telegram: 'Package ready for delivery. Final inspection tomorrow.' Sent from your club the day before Edward's death."
+
+Reginald's composure cracked. "You think you've won, Holmes? You've no idea what you're meddling with!" He lunged for Edward's notebook, his desperation overtaking him.
+
+The constables Holmes had summoned moved swiftly to restrain him, but not before the Colonel shouted, "You're meddling in matters far greater than you realize!"
+
+The room fell silent as his words echoed. Holmes stepped back, his eyes narrowing thoughtfully. "Watson, note that down. It seems the Colonel's ambition was not entirely his own."
 
 ---
 
