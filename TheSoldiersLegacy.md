@@ -68,8 +68,6 @@ The manor stood shrouded in morning mist, its towers barely visible against the 
 
 ![Library](https://github.com/cranjesh/images-test/blob/main/library.webp)
 
-![Library2](https://github.com/cranjesh/images-test/blob/main/Library2.webp)
-
 Inside, we found Katherine Blackwood in the library. She stood near a writing desk, her hands clasped tightly as though to steady herself. Her pale face carried the quiet composure of a Captain’s widow, but her sleepless eyes betrayed the strain of her burden.
 
 In the corner, her two young children sat with a small set of wooden blocks. Their subdued laughter carried faintly through the room, a fragile attempt to break the tense atmosphere. Katherine glanced toward them often, as though drawing comfort from their presence.
@@ -77,6 +75,8 @@ In the corner, her two young children sat with a small set of wooden blocks. The
 Holmes nodded. *“Let’s begin.”*
 
 Katherine stepped forward, her hand brushing the edge of the desk. The small, hesitant motion did not escape Holmes’s notice. His sharp gaze lingered on the desk for a moment before returning to her.
+
+![Library2](https://github.com/cranjesh/images-test/blob/main/Library2.webp)
 
 “Of course, Mr. Holmes,” she said softly. *“I’ll do anything to protect my children.”*
 
