@@ -71,7 +71,7 @@ Inside, we found Katherine Blackwood in the library. She stood near a writing de
 
 In the corner, her two young children sat with a small set of wooden blocks. Their subdued laughter carried faintly through the room, a fragile attempt to break the tense atmosphere. Katherine glanced toward them often, as though drawing comfort from their presence.
 
-![Lib111](https://github.com/cranjesh/images-test/blob/main/lib.webp)
+![li1234](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/li1234.webp)
 
 Holmes nodded. *“Let’s begin.”*
 
