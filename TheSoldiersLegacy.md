@@ -46,11 +46,7 @@ Lady Blackwood added, "Lieutenant Cartwright appeared at the estate last week, c
 
 Holmes turned to me. "Watson, your military connections might prove useful. Contact the War Office about Hawthorne and Cartwright."
 
-After she left, Holmes sat contemplating. "Two points intrigue me, Watson. A Colonel of Hawthorne's standing appears just before the theft, and a Lieutenant emerges after months of silence."
-
-"Both involved?" I asked.
-
-Holmes smiled faintly. "Consider: what would drive two men to such behavior? Most interesting indeed."
+After she left, Holmes sat contemplating. "A theft, a will, and two soldiers emerging from the shadows. This affair runs deeper than mere inheritance, Watson. The game, as they say, is afoot."
 
 ---
 
@@ -246,33 +242,36 @@ Holmes stood suddenly, pacing deliberately. “We have him, Watson. The evidence
 
 ## Chapter 9: The Confrontation
 
-The next evening, we gathered in the drawing room of Blackwood Manor. Holmes had orchestrated the meeting with precision, ensuring that both Colonel Hawthorne and Lieutenant Cartwright were present. Lady Blackwood and Katherine sat to the side, their expressions tense.
-
 ![Finale](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/finale2.webp)
 
-Holmes began calmly. "The regiment's training records revealed your pattern, Colonel," Holmes said, his voice cutting through the tense silence. "Edward discovered your method during inspections - how you'd arrange 'accidents' to silence those who questioned your dealings. The garrison walls were your preferred location. A simple matter to tamper with the safety ropes during an inspection."
+The evening shadows stretched long across the drawing room of Blackwood Manor, where Holmes’s telegram had brought us all together. Colonel Hawthorne stood near the fireplace, his polished demeanor masking a flicker of tension. William slouched in his father’s chair, while Lieutenant Cartwright lingered by the door, shifting uneasily as though considering escape. Katherine, seated by the window, sat with quiet resolve, her eyes fixed on the room where so much had unraveled.
 
-The Colonel's face hardened. "Pure speculation."
+Holmes broke the silence with measured calm. "Curious, isn’t it, Colonel? Dr. Thompson signed Edward’s death certificate within hours of the accident, yet he boarded a ship for India the very next day. A military surgeon’s post, no doubt, but his new house in Bombay—quite the luxury for someone on a captain’s salary."
 
-"Not quite. Edward wrote to Major Forrester two days before his death, detailing his suspicions about the inspection ropes. Most telling was Dr. Thompson's hasty transfer to India after certifying Edward's death as accidental. The good doctor's newly acquired wealth in Bombay makes for interesting reading."
+Hawthorne’s fingers tightened around his pocket watch. "Thompson’s transfer was routine."
 
-Katherine's hands tightened on her chair. "You killed him because he discovered your corruption."
+"Routine, you say?" Holmes retrieved Edward’s journal from the table. "Like the sudden reassignments of officers who questioned your supply routes? Or the garrison accidents that occurred after each discovery of missing supplies?"
 
-"Edward was investigating missing supplies," Holmes continued. "But he found something far worse - systematic theft through the East India Company's supply chain, with profits shared among certain highly-placed officers. The training accidents began shortly after each discovery. And the final piece - hiding the chest's contents in a vault at the East India Company - that was particularly clever, Colonel."
+At this, Katherine’s hands gripped the armrest of her chair. "The inspection," she said, her voice low but steady. "You told us it was routine."
 
-Hawthorne's jaw tightened. "This is absurd. You have no proof."
+Holmes’s eyes never left the Colonel. "Edward discovered your method during inspections, Colonel. How convenient that safety ropes failed during routine checks. The garrison walls provided perfect cover—until Edward wrote to Major Forrester two days before his death, detailing his suspicions."
 
-"The proof lies not just in Edward's journal, but in your own bureaucratic expertise. You used your military authority to register the chest under a false classification - 'Regiment Supply Records, 1880.' Quite ingenious. The perfect place to hide evidence of your dealings - among thousands of identical boxes, made invisible by their very officiality. But you didn't count on Edward changing the authorization codes before his death."
+"Speculation," Hawthorne snapped, though his voice faltered.
 
-Holmes held up Edward's notebook. "The proof lies here. Captain Blackwood's journal meticulously documents your meetings at the Oriental Club, the sudden transfers of men like Dr. Thompson, and suspicious withdrawals from your personal accounts."
+Holmes held up the notebook. "Edward documented everything. Your meetings at the Oriental Club, the suspicious withdrawals from your accounts, and finally, the chest—hidden in plain sight among the East India Company’s supply records. Ingenious, Colonel. But you didn’t anticipate Edward changing the authorization codes before his death."
 
-"Perhaps," Holmes said, stepping closer. "But your own words may seal your fate. Consider this telegram: 'Package ready for delivery. Final inspection tomorrow.' Sent from your club the day before Edward's death."
+Cartwright took a hesitant step forward. "Sir, perhaps—"
 
-Hawthorne's composure cracked. "You think you've won, Holmes? You've no idea what you're meddling with!" He lunged for Edward's notebook, his desperation overtaking him.
+"Silence!" Hawthorne barked, but the command betrayed a tremor. His composure cracked as he lunged for the notebook, desperation overtaking him.
 
-The constables Holmes had summoned moved swiftly to restrain him, but not before the Colonel shouted, "You're meddling in matters far greater than you realize!"
+The waiting constables moved swiftly, restraining him as he thrashed in their grip. "You’re meddling in matters far greater than you realize!" he shouted, his voice echoing in the room.
 
-The room fell silent as his words echoed. Holmes stepped back, his eyes narrowing thoughtfully. "Watson, note that down. It seems the Colonel's ambition was not entirely his own."
+Holmes watched him thoughtfully, his expression unreadable. "Watson, note that down," he said softly. "The Colonel’s ambition, it seems, served more than just himself."
+
+The room fell silent save for the ticking of the mantel clock. Katherine rose from her seat and approached Edward’s leather chair, her hand resting lightly on its back. "All this time," she whispered, her voice tinged with sorrow and strength.
+
+"Justice delayed," Holmes said gently, "but not denied."
+
 
 ---
 
