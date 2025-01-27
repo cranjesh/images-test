@@ -10,7 +10,7 @@
 5. Setting the Trap
 6. A Soldier's Honour
 7. A Colonel's Shadow
-8: The Final Game
+8. The Final Game
 9. The Confrontation
 10. Justice Served
 11. Legacy
