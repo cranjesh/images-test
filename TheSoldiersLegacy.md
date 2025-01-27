@@ -1,4 +1,5 @@
-# The Soldier's Legacy 
+# The Soldier's Legacy
+
 *A Sherlock Holmes Story Narrated by Dr. John Watson*
 
 ## Table of Contents
