@@ -1,16 +1,16 @@
-# The Soldier's Final Legacy
+# The Soldier's Legacy
 
 *A Sherlock Holmes Story Narrated by Dr. John Watson*
 
 ## Table of Contents
 1. First Steps into Mystery
 2. Family Secrets
-3. Dark Corners of the Manor
-4. Hidden Truths
-5. A Web of Lies
-6. Setting the Trap
-7. The Final Game
-8. A Soldier's Honor
+3. Hidden Truths
+4. A Web of Lies
+5. Setting the Trap
+6. A Soldier's Honour
+7. A Colonel's Shadow
+8: The Final Game
 9. The Confrontation
 10. Justice Served
 11. Legacy
@@ -19,126 +19,114 @@
 
 ## Chapter 1: First Steps into Mystery
 
-Rain drummed against the windows of 221B Baker Street, muffling the hum of London’s bustling streets. Inside, Holmes sat motionless in his armchair, pipe smoke curling toward the ceiling as he stared into the fire.
+Rain drummed against the windows of 221B Baker Street as Holmes examined a peculiar telegram. His pipe smoke curled toward the ceiling while I recorded notes from our previous case.
 
-Mrs. Hudson entered, interrupting the stillness. “Lady Blackwood to see you, Mr. Holmes.”
+"A matter of inheritance," he murmured, "yet the client fears something darker."
 
-A woman in mourning stepped into the room, grief etched into her pale face. Her trembling hands gripped the edges of her veil as she removed it with quiet precision.
+Mrs. Hudson's knock interrupted his contemplation. "Lady Blackwood to see you, Mr. Holmes."
 
-Holmes’s eyes darted to her gloves and boots before speaking. “Lady Blackwood,” he said.
+The woman who entered wore widow's black, her composure brittle as glass. Before she could speak, Holmes gestured to a chair. "Your son's military chest was stolen last night. Most concerning, given the East India Company's imminent audit."
+"How could you possibly—"
 
-She faltered. “You know who I am?”
-
-Holmes gestured toward her gloves. “The Blackwood crest is unmistakable, and your boots tell of a long journey—one not taken lightly in this weather.”
+"The morning paper mentions unusual activity at the Company's offices. Your mourning dress is two months old - the period since Captain Blackwood's death." Holmes leaned forward. "Why seek help now, after such delay?"
 
 ![Chapter 1](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/chapter1.webp)
 
-She sank into a chair, her hands shaking. “My son, Captain Edward Blackwood, died two months ago in service to the Crown. Last night, his steel chest containing his will and personal papers was stolen.”
+"The East India Company arrives in three days to audit the estate," she said, producing a letter. "Without Edward's will and the documents proving his legitimacy, his stepbrother William's claim as the elder legitimate son would stand. My daughter-in-law and grandchildren would be destitute."
 
-Holmes leaned forward. “Why seek help now, after two months?”
+"The chest itself?"
 
-“The East India Company arrives in three days to audit the estate,” she said, producing a letter. “Without Edward’s will… his stepbrother William could claim everything, leaving Edward’s wife Katherine and their children destitute.”
+"Military-grade steel, designed for sensitive documents. William was present when it vanished, along with Colonel Hawthorne—Edward's commanding officer—and Lieutenant Cartwright who served under him." Her voice dropped. "This morning, someone offered to buy the estate immediately. And William... he changed three months ago, after news of Edward's great-uncle's death in India."
 
-“Tell me about this chest.”
+"Changed how?"
 
-“Military-grade steel, specially made for sensitive documents. Common tools wouldn’t breach it,” she explained. “William was present the night it vanished, as were Colonel Sir Reginald Hawthorne—Edward’s commanding officer—and Lieutenant Thomas Cartwright, who served under him.”
+"He confronted Edward about hidden documents and rightful claims. He believed those papers were in the chest."
 
-Her voice dropped to a whisper. “This morning, someone offered to buy the estate immediately, inheritance be damned. And William… he changed three months ago, after news of Edward’s great-uncle’s death in India.”
+Lady Blackwood added, "Lieutenant Cartwright appeared at the estate last week, claiming to deliver Edward's personal effects from India. But Edward's belongings were returned months ago. When questioned, he turned pale and mentioned 'unfinished business' with the Colonel. 
 
-“Changed how?”
+Holmes turned to me. "Watson, your military connections might prove useful. Contact the War Office about Hawthorne and Cartwright."
 
-She hesitated. “He confronted Edward about hidden documents and rightful claims. He believed those papers were in the chest.”
+After she left, Holmes sat contemplating. "Two points intrigue me, Watson. A Colonel of Hawthorne's standing appears just before the theft, and a Lieutenant emerges after months of silence."
 
-Holmes turned to me. “Watson, your military connections might prove useful. Could you contact the War Office and inquire about Colonel Sir Reginald and Lieutenant Cartwright?”
+"Both involved?" I asked.
 
-“Of course,” I replied.
-
-After Lady Blackwood departed, Holmes sat in thought, pipe in hand. “Two points intrigue me, Watson. A Colonel of Sir Reginald’s standing appears just before the theft, and a Lieutenant emerges after months of silence.”
-
-“Both involved?” I asked.
-
-Holmes smiled faintly. *“Consider: what would drive two men to such behavior? Most interesting indeed.”*
+Holmes smiled faintly. "Consider: what would drive two men to such behavior? Most interesting indeed."
 
 ---
 
 ## Chapter 2: Family Secrets
 
-![Introduction of Detectives 1 and 2](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Introduction%20of%20Detectives%201%20and%202.webp)
-
-The manor stood shrouded in morning mist, its towers barely visible against the gray sky. Ivy clung tightly to the stone walls, and the iron gates groaned in protest as we pushed them open, the sound echoing faintly in the stillness.
-
-Inside, we found Katherine Blackwood in the library. She stood near a writing desk, her hands clasped tightly as though to steady herself. Her pale face carried the quiet composure of a Captain’s widow, but her sleepless eyes betrayed the strain of her burden.
-
-In the corner, her two young children sat with a small set of wooden blocks. Their subdued laughter carried faintly through the room, a fragile attempt to break the tense atmosphere. Katherine glanced toward them often, as though drawing comfort from their presence.
-
 ![li1234](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/li1234.webp)
 
-Holmes nodded. *“Let’s begin.”*
+Katherine Blackwood received us in the manor's library, her composed manner betraying tension only in her tight grip on her chair. On the writing desk lay a torn fragment that had caught Holmes's eye: "...must see you. Captain Blackwood's deployment gives us the chance to..."
 
-Katherine stepped forward, her hand brushing the edge of the desk. The small, hesitant motion did not escape Holmes’s notice. His sharp gaze lingered on the desk for a moment before returning to her.
+"Lieutenant Cartwright's hand," Holmes observed. "Written during your engagement to Edward, I believe?"
 
-“Of course, Mr. Holmes,” she said softly. *“I’ll do anything to protect my children.”*
+Katherine's fingers twisted in her lap. "Six years ago. Edward had shown such kindness after Father's death. But Cartwright..." She drew a steadying breath. "He grew... possessive during deployments. Convinced himself I belonged to him."
 
----
+"The Colonel visited often during those absences," she continued, voice distant. "Always with William. They spent hours in the study, claiming regiment business. But I'd hear Cartwright's name."
 
-## Chapter 3: Dark Corners of the Manor
+She handed Holmes a creased letter. "Three days ago, William confronted us with this - proof, he claimed, of great-uncle's death in India and documents hidden in Edward's chest." Her voice trembled. "He accused Edward of concealing inheritance truths."
 
-Raised voices drew us into the drawing room. William paced near the hearth, his shadow darting across the walls.
+"Mother tried to calm him," Katherine added. "'Your father settled this years ago.' But William shouted that father was deceived. He demanded to know about Colonel Hawthorne's visits to India."
 
-![WilliamAndLady](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/WillamAndLady.webp)
+Holmes studied the household ledger. "Fresh ink stains, but no recent entries. Someone wrote in haste."
 
-“Mother, involving Holmes was a mistake,” he said sharply. “This is family business.”
+"The chest contains certain documents," Katherine whispered. "Family matters that mustn't be found."
 
-Lady Blackwood’s hands trembled slightly. “I had every right, William. Katherine and her children—”
+"What matters, sister-in-law?" William's voice cut from the doorway. "What secrets did my brother keep?"
 
-“Her children?” William interrupted, his voice rising. “What about your son? Edward spent years in India, yet Father treated him like the heir. And now you defend his widow?”
+Katherine rose abruptly, avoiding his gaze. "Excuse me," she whispered, hurrying past. William lingered, eyes narrowing at Holmes before following.
 
-![Lady Blackwood’s Plea](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Lady%20Blackwood%E2%80%99s%20Plea.webp)
+Holmes moved to the portraits, where Edward's strong likeness to his father hung prominently while William's features differed markedly. His gaze shifted to a newer family portrait. "Observe, Watson. The eldest child bears little resemblance to the Captain's family line. Rather telling."
 
-Katherine appeared in the doorway, her young daughter clutching her skirt. “Let him speak, Lady Blackwood,” she said quietly. “William has been clear about his feelings these past months.”
+Later in the study, Holmes contemplated the evidence. "Three truths emerge: The Colonel's India travels, William's sudden claim, and this letter speaking of opportunity. A threatening letter during deployment, followed quickly by marriage. Now both Colonel and Lieutenant return, seeking hidden documents."
 
-William laughed bitterly. “Clear? Then let me be perfectly clear now. This estate has belonged to my family for generations. Edward may have had Father’s name, but my blood is in these walls.”
+"And Katherine's role?"
 
-“Enough!” Lady Blackwood exclaimed, rising unsteadily as she pressed her hand to her head.
-
-Holmes’s voice cut through the tension. “Tell me, Lady Blackwood, about your late husband’s affairs.”
-
-Lady Blackwood steadied herself, her trembling hands clasping the back of a chair. “My husband had many dealings, Mr. Holmes, but none that I believed would… jeopardize the estate.”
-
-Holmes nodded, his gaze sharp. “Watson, observe how bitterness often masks insecurity. William believes himself wronged, but his anger reveals more than he realizes.”
+"She guards her children with particular vigilance. Not mere inheritance at stake - something far worse threatens this household. Something that began with a lieutenant's obsession and a desperate choice of safety over sentiment."
 
 ---
 
-## Chapter 4: Hidden Truths
+## Chapter 3: Hidden Truths
 
-Holmes lingered in the study, his sharp eyes scanning the mahogany writing desk. With careful precision, he retrieved a torn scrap of paper tucked beneath its surface.
+We found Lieutenant Cartwright in Edward's study, examining the empty chest's location. Fresh ink stains marked the writing desk nearby, though the household ledger showed no recent entries. He snapped to attention at our entrance.
 
-“What do you make of this, Holmes?” I asked as he studied it closely.
+"Mr. Holmes. Dr. Watson." His hand trembled slightly as he saluted.
 
-“A fragment of correspondence,” Holmes replied, passing it to me. *“The date is significant.”*
+"Six years is a long time, Lieutenant," Holmes remarked, pausing before the family portraits where Edward's strong likeness to his father hung prominently. "Since your first posting with Captain Blackwood?"
 
-I examined the torn letter: *‘…must see you. Captain Blackwood’s deployment gives us the chance to…’* It was dated six years ago, during Edward’s early service in India.
+"Yes, in India." Cartwright's eyes darted to the door. "We served together admirably."
 
-“The handwriting matches Lieutenant Cartwright’s military records,” Holmes said, his tone tightening. *“Curious timing, given how quickly Katherine married the Captain afterward.”*
+"Indeed. Your visits to the estate during his deployments speak to your... loyalty. William was most accommodating in arranging them."
 
-Footsteps echoed in the hall as Katherine returned. Her face paled at the sight of the letter in my hand. “Mr. Holmes, I…” she began, then steadied herself. “The chest contains private documents. Family matters that shouldn’t affect the inheritance.”
+Cartwright paled. "Following orders, sir. The Captain requested updates on his wife's welfare."
 
-Holmes regarded her calmly. *“Every document matters in this case, Mrs. Blackwood, especially those someone wishes to conceal.”*
+"Curious timing though," Holmes continued, studying a letter from his pocket. "Your first visit coincided with news of Katherine's pregnancy." His gaze shifted meaningfully to a newer family portrait where the eldest child's features bore little resemblance to the Blackwood line.
 
-Her hands trembled. “You don’t understand. Edward had… concerns. About timing.” Her gaze flicked toward her eldest child playing in the corner. “The chest contains letters, records he kept. Please…”
+"I - I don't recall specific dates."
 
-Holmes’s eyes narrowed slightly. *“And Lieutenant Cartwright’s presence now? A mere coincidence?”*
+"No? Yet you maintained detailed records." Holmes's voice sharpened. "Tell me, Lieutenant, what document in that chest threatens you more - Edward's will, or his investigation of supply discrepancies?"
+
+Cartwright gripped the desk. "You don't understand. Edward suspected... he changed after the child was born. The will..."
+
+"Meet me at the village inn tonight," Holmes cut in. "We'll discuss what Edward truly suspected, and why Katherine guards these 'family matters' so vigilantly."
+
+After Cartwright hurried out, I turned to Holmes. "You knew about Katherine?"
+
+"The timing of her marriage, Cartwright's transfer, Edward's sudden interest in document security - all point to a secret worth killing for, Watson. One that's left its traces in both ledgers and bloodlines."
 
 ---
 
-## Chapter 5: A Web of Lies
+## Chapter 4: A Web of Lies
 
 Colonel Harrison’s first response arrived the next morning. I handed the envelope to Holmes, who opened it eagerly.
 
-“Well,” Holmes said, his expression darkening. *“Most unexpected. Colonel Sir Reginald’s record shows nothing but commendations and honors—a model senior officer by all accounts. But Lieutenant Cartwright…”* He passed me the letter. *“It seems he and Captain Blackwood had a serious dispute just before Edward’s final mission. Something about missing supplies and unaccounted funds.”*
+“Well,” Holmes said, his expression darkening. *“Most unexpected. Colonel Hawthorne’s record shows nothing but commendations and honors—a model senior officer by all accounts. But Lieutenant Cartwright…”* He passed me the letter. *“It seems he and Captain Blackwood had a serious dispute just before Edward’s final mission. Something about missing supplies and unaccounted funds.”*
 
 ---
-## Chapter 6: Setting the Trap
+
+## Chapter 5: Setting the Trap
 
 “Watson,” Holmes said suddenly, studying Edward’s service records. “Visit the East India Company’s local office tomorrow. Inquire about their military document storage protocols, particularly secure vault access.”
 
@@ -160,7 +148,7 @@ The Criterion was nearly empty when I arrived. Major Forrester sat in a shadowed
 
 I stared at the notebook, my hand trembling slightly. “James, what are you saying?”
 
-Forrester sighed and leaned back, his voice low and deliberate. “Edward found proof of Reginald’s treachery—documents that could bring him down. He wanted to confront him, but…” His voice faltered, and he looked away. “Two days later, he was dead.”
+Forrester sighed and leaned back, his voice low and deliberate. “Edward found proof of Hawthorne’s treachery—documents that could bring him down. He wanted to confront him, but…” His voice faltered, and he looked away. “Two days later, he was dead.”
 
 Holmes listened intently as I relayed Forrester’s revelations. His expression remained calm, but his eyes glinted with intensity.
 
@@ -172,59 +160,93 @@ Holmes shook his head. “Not yet. The Colonel and Cartwright won’t act unless
 
 ---
 
-## Chapter 7: The Final Game
+## Chapter 6: A Soldier’s Honour
+
+![Inn](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Bar.webp)
+
+The dim light of the Red Lion cast long shadows as we faced Lieutenant Cartwright. Our informant reported him drinking alone since afternoon, shaken by Holmes's earlier revelations.
+
+"Edward trusted me with Katherine's welfare during deployments," Cartwright began, hands trembling around his glass. "Her father died in service—she feared that life. The loneliness."
+
+"Until the child was born," Holmes prompted.
+
+Cartwright's shoulders slumped. "Edward started investigating everything then. Found my supply infractions. I followed his orders to watch over her, but the records..." He hesitated. "The Colonel used them, forced my silence about larger schemes."
+
+"The letters in the chest?" Holmes pressed.
+
+"All there—my reports to Edward, Katherine's old letters about her doubts." His voice cracked. "Edward changed the will last month to protect his family, whatever truths emerged. I couldn't warn him about Hawthorne. Couldn't protect Katherine from what's coming."
+
+The inn door creaked open. Colonel Hawthorne's imposing figure filled the doorway, manor dust still clinging to his sleeve cuffs. "Mr. Holmes, your inquiries draw quite a crowd."
+
+Holmes studied the fresh mud on Hawthorne's boots. "Indeed, Colonel. Though you've traveled rather far from the estate at this hour. The study proved informative?"
+
+Hawthorne's jaw tightened. "Regiment business requires attention, especially with recent... developments."
+
+"Like your visits to India during Edward's deployments?" Holmes remarked casually. "Curious timing, given the supply routes."
+
+"You overstep, Mr. Holmes." Hawthorne's hand moved to his jacket pocket. "Some matters of honor exceed civilian understanding."
+
+"Truth has a habit of attracting both guilty and innocent," Holmes replied, eyes noting Cartwright's pale face. "Though honor, I find, rarely requires such vigilant protection."
+
+As Hawthorne's shadow loomed over our table, I glimpsed the corner of a document protruding from his pocket—bearing the same ink stains we'd observed in Edward's study.
+
+---
+
+# Chapter 7: A Colonel's Shadow
+
+The Red Lion's flickering lamplight caught the dust motes falling from Colonel Hawthorne's sleeve as he entered. Holmes's eyes narrowed almost imperceptibly.
+
+"Mr. Holmes," Hawthorne's voice carried across the quiet room. "Following a junior officer seems beneath your talents."
+
+"Yet here you are as well, Colonel." Holmes gestured to the chair. "Fresh from the manor, judging by your boots. The study's distinctive red clay clings rather stubbornly."
+
+Cartwright's hand jerked, splashing his drink. Hawthorne remained standing, shadow stretching across our table.
+
+"Your interest in Lieutenant Cartwright puzzles me," Holmes continued. "Though perhaps less than your presence in Bombay last spring. Edward's letters detail your meetings with certain merchants, just as their names began appearing in his supply investigation ledgers."
+
+"Regiment business, as you well know." Hawthorne's fingers drummed against his jacket pocket, document edge visible beneath the fabric.
+
+"March 15th, wasn't it?" Holmes asked mildly. "The same day Edward wrote of discovering 'irregularities that reach beyond mere ledgers.'"
+
+Cartwright went pale, eyes fixed on his glass.
+
+"You overstep, Mr. Holmes." Hawthorne's voice hardened. "Some matters exceed civilian understanding."
+
+"Indeed?" Holmes's gaze settled on the Colonel's pocket. "Like the document you removed from Edward's study this evening? The dust matches your sleeve rather precisely."
+
+Something dangerous flickered in Hawthorne's eyes. "Careful, Mr. Holmes. Honor has its own justice."
+
+"Truth has a habit of attracting both guilty and innocent," Holmes replied quietly. "Though I wonder which concerns you more, Colonel—the truth about Edward's death, or the truth he discovered in India?"
+
+Hawthorne's hand closed over the document in his pocket. Without another word, he turned and strode out, leaving Cartwright trembling in his wake.
+
+"Holmes," I whispered, "surely you don't mean—"
+
+"Not here, Watson." Holmes's eyes followed the Colonel's retreat. "The game grows deadlier, and our friend the Colonel has shown more of his hand than he realizes."
+
+---
+
+## Chapter 8: The Final Game
 
 Back at Baker Street, Holmes pored over Edward’s notebook, his sharp eyes darting across the pages as he muttered to himself. Finally, he looked up, his expression calm but focused.
 
-“Watson, examine these entries,” he said, sliding the notebook toward me. “The Captain tracked Colonel Sir Reginald’s movements with remarkable precision. Note the dates of these so-called ‘training accidents’ in the regiment. Each one follows Reginald’s mysterious meetings at the Oriental Club.”
+“Watson, examine these entries,” he said, sliding the notebook toward me. “The Captain tracked Colonel Hawthorne’s movements with remarkable precision. Note the dates of these so-called ‘training accidents’ in the regiment. Each one follows Hawthorne’s mysterious meetings at the Oriental Club.”
 
 “But surely that’s not enough—” I began.
 
-Holmes interrupted, producing a telegram. “Consider this. Sent from Reginald’s club the day before Edward’s death: *‘Package ready for delivery. Final inspection tomorrow.’* The next day, Captain Blackwood falls during a routine inspection of the garrison walls.”
+Holmes interrupted, producing a telegram. “Consider this. Sent from Colonel Hawthorne’s club the day before Edward’s death: *‘Package ready for delivery. Final inspection tomorrow.’* The next day, Captain Blackwood falls during a routine inspection of the garrison walls.”
 
 “Good Lord,” I murmured, feeling a chill run through me.
 
-Holmes continued, his tone measured but urgent. “The garrison doctor who examined Edward—Dr. Thompson—received an immediate transfer to India. Highly irregular. And look here,” he pointed to a section of Edward’s journal, “these notations align perfectly with suspicious transactions in Reginald’s accounts.”
+Holmes continued, his tone measured but urgent. “The garrison doctor who examined Edward—Dr. Thompson—received an immediate transfer to India. Highly irregular. And look here,” he pointed to a section of Edward’s journal, “these notations align perfectly with suspicious transactions in Hawthorne’s accounts.”
 
 Holmes stood suddenly, pacing deliberately. “We have him, Watson. The evidence may be circumstantial, but when woven together…” He paused, his expression sharpening. “We must proceed carefully. A Colonel of his standing will not surrender easily.”
 
 ---
 
-## Chapter 8: A Soldier’s Honor
-
-![Inn](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Bar.webp)
-
-The dim light of the village inn cast long shadows as Holmes and I faced Lieutenant Cartwright. He sat with his head bowed, hands clasped tightly on the table.
-
-“Lieutenant,” Holmes said firmly, “your reluctance to speak only deepens my suspicions. What were you doing in the study that night?”
-
-Cartwright looked up, his face pale and drawn. “I went for the chest, Mr. Holmes. I thought it might contain… letters.”
-
-“Letters?” Holmes pressed, his tone unwavering.
-
-“From Katherine, before she married Captain Blackwood.” His voice cracked. “She had doubts then—not about loving Edward,” he added quickly, “but about life as an officer’s wife. Her father’s death in service had left deep scars.”
-
-Holmes’s gaze sharpened. “And your visits during the Captain’s deployments? Did you notice anything unusual in the household during those times?”
-
-Cartwright hesitated, his shoulders slumping further. “I followed orders, Mr. Holmes. Captain Blackwood wrote to me himself: *‘Keep her from the loneliness I knew as a child when Father served abroad.’* Those letters are in the chest, along with my reports to him.”
-
-“Yet you feared their discovery?”
-
-“People gossip, sir. Katherine has endured enough suspicious whispers. I wanted to spare her that pain.” He hesitated again, his voice dropping. “And there were… discrepancies in my supply records. Nothing serious, but enough to tarnish my commission if found.”
-
-Holmes regarded him carefully. *“Your loyalty, though misguided, speaks well of you, Lieutenant. However, evidence suggests another hand took the chest before your arrival.”*
-
-At that moment, the door of the inn creaked open, and Colonel Sir Reginald Hawthorne stepped inside, his imposing figure backlit by the moonlight. His eyes narrowed as they fell on us.
-
-“Mr. Holmes,” he said, his voice steady but sharp, “your inquiries seem to have drawn quite the crowd.”
-
-Holmes stood, his gaze unflinching. “Indeed, Colonel. Though the truth has a habit of drawing the guilty as well as the innocent.”
-
----
-
 ## Chapter 9: The Confrontation
 
-The next evening, we gathered in the drawing room of Blackwood Manor. Holmes had orchestrated the meeting with precision, ensuring that both Colonel Sir Reginald and Lieutenant Cartwright were present. Lady Blackwood and Katherine sat to the side, their expressions tense.
+The next evening, we gathered in the drawing room of Blackwood Manor. Holmes had orchestrated the meeting with precision, ensuring that both Colonel Hawthorne and Lieutenant Cartwright were present. Lady Blackwood and Katherine sat to the side, their expressions tense.
 
 ![Finale](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/finale2.webp)
 
@@ -238,7 +260,7 @@ Katherine's hands tightened on her chair. "You killed him because he discovered 
 
 "Edward was investigating missing supplies," Holmes continued. "But he found something far worse - systematic theft through the East India Company's supply chain, with profits shared among certain highly-placed officers. The training accidents began shortly after each discovery. And the final piece - hiding the chest's contents in a vault at the East India Company - that was particularly clever, Colonel."
 
-Reginald's jaw tightened. "This is absurd. You have no proof."
+Hawthorne's jaw tightened. "This is absurd. You have no proof."
 
 "The proof lies not just in Edward's journal, but in your own bureaucratic expertise. You used your military authority to register the chest under a false classification - 'Regiment Supply Records, 1880.' Quite ingenious. The perfect place to hide evidence of your dealings - among thousands of identical boxes, made invisible by their very officiality. But you didn't count on Edward changing the authorization codes before his death."
 
@@ -246,7 +268,7 @@ Holmes held up Edward's notebook. "The proof lies here. Captain Blackwood's jour
 
 "Perhaps," Holmes said, stepping closer. "But your own words may seal your fate. Consider this telegram: 'Package ready for delivery. Final inspection tomorrow.' Sent from your club the day before Edward's death."
 
-Reginald's composure cracked. "You think you've won, Holmes? You've no idea what you're meddling with!" He lunged for Edward's notebook, his desperation overtaking him.
+Hawthorne's composure cracked. "You think you've won, Holmes? You've no idea what you're meddling with!" He lunged for Edward's notebook, his desperation overtaking him.
 
 The constables Holmes had summoned moved swiftly to restrain him, but not before the Colonel shouted, "You're meddling in matters far greater than you realize!"
 
@@ -260,7 +282,7 @@ Holmes’s telegram to the household demonstrated his usual cleverness:
 
 *URGENT STOP EVIDENCE SUGGESTS CHEST WILL BE MOVED TONIGHT STOP ALL PARTIES MUST ATTEND MANOR DRAWING ROOM 8PM STOP STAKES CANNOT BE OVERSTATED STOP*
 
-That evening, Holmes gathered everyone in the parlor. Katherine sat near the window, her children safely upstairs. William fidgeted nervously, while Colonel Sir Reginald stood by the mantle, affecting calm but watching Holmes intently. Lieutenant Cartwright sat quietly, his gaze fixed on the floor.
+That evening, Holmes gathered everyone in the parlor. Katherine sat near the window, her children safely upstairs. William fidgeted nervously, while Colonel Hawthorne stood by the mantle, affecting calm but watching Holmes intently. Lieutenant Cartwright sat quietly, his gaze fixed on the floor.
 
 Holmes paced slowly. “The chest’s location was, as they say, hiding in plain sight. Colonel,” Holmes turned sharply, “your expertise with military bureaucracy proved both your strength and your undoing. The right documents, properly filed, become invisible through their very officiality.”
 
