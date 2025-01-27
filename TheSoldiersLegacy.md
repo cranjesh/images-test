@@ -30,6 +30,8 @@ She faltered. “You know who I am?”
 
 Holmes gestured toward her gloves. “The Blackwood crest is unmistakable, and your boots tell of a long journey—one not taken lightly in this weather.”
 
+![Chapter 1](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/chapter1.webp)
+
 She sank into a chair, her hands shaking. “My son, Captain Edward Blackwood, died two months ago in service to the Crown. Last night, his steel chest containing his will and personal papers was stolen.”
 
 Holmes leaned forward. “Why seek help now, after two months?”
@@ -60,10 +62,11 @@ Holmes smiled faintly. *“Consider: what would drive two men to such behavior? 
 
 ## Chapter 2: Family Secrets
 
-The manor stood shrouded in morning mist, its towers barely visible against the gray sky. Ivy clung tightly to the stone walls, and the iron gates groaned in protest as we pushed them open, the sound echoing faintly in the stillness.
-
 ![Introduction of Detectives 1 and 2](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Introduction%20of%20Detectives%201%20and%202.webp)
 
+The manor stood shrouded in morning mist, its towers barely visible against the gray sky. Ivy clung tightly to the stone walls, and the iron gates groaned in protest as we pushed them open, the sound echoing faintly in the stillness.
+
+![Library](https://github.com/cranjesh/images-test/blob/main/library.webp)
 
 Inside, we found Katherine Blackwood in the library. She stood near a writing desk, her hands clasped tightly as though to steady herself. Her pale face carried the quiet composure of a Captain’s widow, but her sleepless eyes betrayed the strain of her burden.
 
@@ -148,6 +151,8 @@ Holmes tapped the paper. “His signature appears here, witnessing Captain Black
 
 My urgent message to Forrester brought a swift reply: *“Matter most serious. Criterion Bar, seven o’clock. Come alone.”*
 
+![Criterion](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/criterion.webp)
+
 The Criterion was nearly empty when I arrived. Major Forrester sat in a shadowed corner, his military bearing unmistakable even in civilian clothes. His expression was grave as he extended a firm handshake.
 
 “Watson, old friend,” he said quietly, “I’ve carried this burden since Edward’s death. When I heard of your inquiry…” He hesitated, then placed a small leather notebook on the table. “Edward entrusted this to me two days before his… accident.”
@@ -220,7 +225,7 @@ Holmes stood, his gaze unflinching. “Indeed, Colonel. Though the truth has a h
 
 The next evening, we gathered in the drawing room of Blackwood Manor. Holmes had orchestrated the meeting with precision, ensuring that both Colonel Sir Reginald and Lieutenant Cartwright were present. Lady Blackwood and Katherine sat to the side, their expressions tense.
 
-![Reginal](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Reginald.webp)
+![Finale](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/finale2.webp)
 
 Holmes began calmly. "The regiment's training records revealed your pattern, Colonel," Holmes said, his voice cutting through the tense silence. "Edward discovered your method during inspections - how you'd arrange 'accidents' to silence those who questioned your dealings. The garrison walls were your preferred location. A simple matter to tamper with the safety ropes during an inspection."
 
