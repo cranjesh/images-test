@@ -26,6 +26,8 @@ A soft knock at the door interrupted his thought. Mrs. Hudson peered in.
 
 > “Lady Blackwood to see you, Mr. Holmes.”
 
+![Chapter 1](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/chapter1.webp)
+
 The woman who entered wore widow’s black, her composure brittle. Holmes motioned her to a chair before she could speak.
 
 > “Your son’s military chest was stolen last night,” he said. “Most concerning with the East India Company’s audit so near.”
@@ -67,6 +69,8 @@ He lit a match, drew on his pipe, and exhaled slowly.
 ## Chapter 2: Family Secrets
 
 A faint smell of leather bindings and dust greeted us in the manor’s library. Katherine Blackwood sat near a window, her hands clenched on the chair’s arms. On the wide writing desk lay a torn fragment of paper.
+
+![li1234](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/li1234.webp)
 
 > “Lieutenant Cartwright’s handwriting,” Holmes observed, picking up the scrap. “Written during your engagement to Edward, I believe?”
 
@@ -218,6 +222,8 @@ I nodded. “In Afghanistan. A man of integrity. I’ll contact him at once.”
 My urgent message brought an immediate reply:
 
 > “Matter most serious. Criterion Bar, seven o’clock. Come alone.”
+
+![Criterion](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/criterion.webp)
 
 The Criterion was nearly empty. I spotted Major Forrester in a dim corner, his military bearing unshaken by civilian clothes. He gripped my hand firmly, though his expression was grave.
 
@@ -410,6 +416,8 @@ Outside, the lamplit streets of London lay hushed in the late hour, as though th
 ## Chapter 9: The Confrontation
 
 Blackwood Manor’s drawing room was lit by a grand chandelier, though the air felt colder than the weather outside. Colonel Hawthorne stood by the fireplace, arms folded, while William slouched near his father’s chair. Lieutenant Cartwright hovered by the door, glancing toward an open window as if contemplating escape. Katherine remained by the window, her gaze distant yet resolute.
+
+![Finale](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/finale2.webp)
 
 > “Curious, Colonel,”
 
