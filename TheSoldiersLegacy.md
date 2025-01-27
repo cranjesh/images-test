@@ -1,4 +1,4 @@
-# The Soldier's Legacy
+# The Soldier's Final Legacy
 
 *A Sherlock Holmes Story Narrated by Dr. John Watson*
 
