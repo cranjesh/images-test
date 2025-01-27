@@ -272,7 +272,6 @@ The room fell silent save for the ticking of the mantel clock. Katherine rose fr
 
 "Justice delayed," Holmes said gently, "but not denied."
 
-
 ---
 
 ## Chapter 10: Justice Served
@@ -289,8 +288,24 @@ Holmes paced slowly. “The chest’s location was, as they say, hiding in plain
 
 ## Chapter 11: Legacy
 
-The next morning, the chest was recovered from the East India Company vault. Inside, Edward’s will confirmed Katherine and her children’s inheritance, securing their future and ending months of uncertainty.
+The aftermath of Colonel Hawthorne's arrest sent shockwaves through the military establishment. As Holmes predicted, the Colonel's network of corruption reached far beyond the East India Company's supply routes.
 
-Holmes tipped his hat, his voice calm. *“A soldier’s honor, Mrs. Blackwood, deserves nothing less.”*
+William Blackwood, faced with evidence of his complicity in Hawthorne's schemes, chose honor over greed. In a private meeting with Katherine, he relinquished all claims to the estate. "Edward would have wanted unity, not division," he said quietly, before departing for a diplomatic post in India - a self-imposed exile to atone for his role.
+
+Lieutenant Cartwright's testimony proved crucial in unraveling the broader conspiracy. His detailed knowledge of the supply chain irregularities, combined with Edward's meticulous notes, led to the arrest of three senior officers and several East India Company officials. In recognition of his cooperation and in memory of Edward's last wishes, Katherine arranged a position for him overseeing the Blackwood estate's military pensioners' fund - a chance at redemption through service to those who had suffered similar losses.
+
+The investigation exposed systematic corruption within certain regiment supply lines, leading to Parliamentary reforms in military procurement. Edward's death, while tragic, had sparked changes that would protect future soldiers from similar schemes.
+
+Katherine found strength in securing her children's future. The estate flourished under her management, and she established a foundation in Edward's name to support military widows and their families. The military chest, once a source of such conflict, now stood in Edward's study - a reminder that truth, though costly, must be defended.
+
+Holmes's last visit to the manor coincided with the dedication of a memorial garden for fallen soldiers. As we walked among the fresh-planted roses, Katherine's children playing nearby, she spoke of her plans to expand the foundation's work.
+
+"Edward believed in duty," she said softly, "but also in justice. This legacy honors both."
+
+Holmes nodded, watching the children. "Your husband's courage revealed not just one man's crimes, but a system in need of reform. Sometimes the greatest service to one's country is to expose its flaws, that they might be mended."
+
+Later, as our carriage rolled toward London, Holmes was unusually reflective. "You know, Watson, in all our cases, it's rare to see justice serve both truth and healing. The Blackwood legacy may be its finest achievement - turning tragedy into transformation."
+
+I thought of Katherine's strength, William's redemption, and Cartwright's second chance. "Indeed, Holmes. Indeed."
 
 The End
