@@ -66,7 +66,7 @@ Holmes smiled faintly. *“Consider: what would drive two men to such behavior? 
 
 The manor stood shrouded in morning mist, its towers barely visible against the gray sky. Ivy clung tightly to the stone walls, and the iron gates groaned in protest as we pushed them open, the sound echoing faintly in the stillness.
 
-![Lib111](https://github.com/cranjesh/images-test/blob/main/lib.webp)
+![Lib222](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Lib2.webp)
 
 Inside, we found Katherine Blackwood in the library. She stood near a writing desk, her hands clasped tightly as though to steady herself. Her pale face carried the quiet composure of a Captain’s widow, but her sleepless eyes betrayed the strain of her burden.
 
@@ -76,7 +76,7 @@ Holmes nodded. *“Let’s begin.”*
 
 Katherine stepped forward, her hand brushing the edge of the desk. The small, hesitant motion did not escape Holmes’s notice. His sharp gaze lingered on the desk for a moment before returning to her.
 
-![Lib222](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Lib2.webp)
+![Lib111](https://github.com/cranjesh/images-test/blob/main/lib.webp)
 
 “Of course, Mr. Holmes,” she said softly. *“I’ll do anything to protect my children.”*
 
