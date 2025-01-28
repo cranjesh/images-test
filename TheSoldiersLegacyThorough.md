@@ -207,53 +207,51 @@ The countryside blurred past as the carriage carried us back to Blackwood Manor.
 
 ### **Chapter 5: Overhearing William’s Remark**
 
-The tension at Blackwood Manor had become almost palpable by the evening. Dinner was a stifled affair, with Katherine’s quiet grief clashing against William’s sharp, pointed remarks. Holmes and I refrained from conversation, preferring to observe the dynamics between the residents. As the meal concluded, William excused himself abruptly, muttering something about “important matters.”
+The halls of Blackwood Manor seemed cloaked in an air of quiet tension, its once-majestic features dulled by shadows and the weight of recent events. The night was still, save for the faint crackle of the fireplace in the drawing room. I was restless, unable to shake the feeling that something crucial lay just beyond our grasp.
 
-Later that night, as the household retired, I found myself unable to sleep. The events of the day replayed in my mind—Cartwright’s nervous demeanor, Katherine’s veiled fear, and the lingering questions surrounding Edward’s death. Holmes, as always, seemed unaffected by the emotional weight of the case, his mind focused solely on unraveling the mystery.
+Holmes, ever the enigma, sat in silent contemplation near the window. I decided to take a short walk to clear my mind. Passing the dimly lit library, I caught the faint murmur of voices. Intrigued, I stepped closer and recognized William Blackwood’s distinct, sharp tone.
 
-Unable to rest, I ventured into the hallway. The dimly lit corridors of Blackwood Manor felt colder at night, the flickering shadows cast by the oil lamps lending the place an eerie air. As I approached the library, a low voice caught my attention.
+“…Hanger,” he said, his voice low but brimming with irritation. “The man’s loyalties were always questionable. If anyone’s meddling with the estate, it’s him.”
 
-I paused, straining to hear. It was William. His voice was sharp and agitated, though I couldn’t make out his exact words. I edged closer, careful to remain unseen.
+I leaned closer, straining to catch more. There was a pause, then a bitter laugh. “They’ll never pin anything on me. Not with Katherine parading her innocence and Cartwright skulking about like a scolded child.”
 
-“…Mr. Hanger,” he was saying. “I wouldn’t trust that one to lift a finger for me—not after the relationship we had years back.”
+William’s voice trailed off, and I heard footsteps approaching. Retreating quickly, I slipped into a nearby alcove and waited as William strode past, his expression a mixture of frustration and self-satisfaction.
 
-There was a brief pause before he continued, his tone lower but no less bitter. “If anyone’s meddling with the estate, it’s him. But they’ll never find out—not while I’m here.”
+The next morning, over a sparse breakfast, I relayed my discovery to Holmes. His expression sharpened as I recounted William’s comments. “Hanger, you say?” he mused, steepling his fingers. “Interesting. His name has surfaced before, though not in connection with the chest.”
 
-I froze. William was clearly speaking of someone involved with the manor’s operations—Mr. Hanger, apparently. The name rang a bell, but I couldn’t immediately place it.
+“Katherine and Cartwright also expressed concerns about Hawthorne,” I reminded him, attempting to piece together the threads. “Perhaps Hanger’s involvement ties to the Colonel.”
 
-The sound of a door creaking open startled me. I quickly stepped back into the shadows as William exited the library. His expression was grim, his jaw set as he strode down the hallway and disappeared into another room.
+Holmes nodded, his mind already racing ahead. “Watson, your instincts are correct. Katherine hinted at Edward’s mistrust of Hawthorne, but her reticence prevents her from speaking plainly. As for Cartwright, his nervousness suggests he’s hiding more than just his own failings.”
 
-I returned to my quarters immediately, my heart racing. When I told Holmes what I had overheard the next morning, his reaction was immediate.
-
-“Mr. Hanger,” he mused, his sharp eyes gleaming with interest. “A name worth pursuing, Watson. He must be an estate worker or a trusted servant. If William harbors resentment toward him, there may be more to the man than meets the eye.”
-
-“Do you think he could be involved in the disappearance of the chest?” I asked.
-
-“Perhaps,” Holmes replied, “but we must tread carefully. William’s words suggest a longstanding grudge, which may or may not be relevant to our case. Still, it is worth speaking to this Mr. Hanger. His perspective could prove enlightening.”
-
-Later that day, Holmes and I made our way to the stables, where Mr. Hanger was at work brushing down one of the horses. He greeted us with his usual gruff demeanor, his weathered face giving away little.
-
-Holmes wasted no time. “Mr. Hanger, I overheard your name mentioned last night in connection with matters at the estate. I would appreciate your honesty in clarifying your involvement.”
-
-Hanger scowled, his hands tightening on the brush. “If it’s William you’ve been listening to, then you’ll know he’s always had it out for me. But I’ve no quarrel with the rest of the family.”
-
-“Then you’ll have no objection to answering my questions,” Holmes replied coolly. “Do you know anything about Lieutenant Cartwright’s recent movements?”
-
-At the mention of Cartwright, Hanger hesitated, his eyes narrowing slightly. “He’s been asking a lot of questions—about the chest, about the Colonel. Too many questions for someone who claims to want to leave the past buried.”
-
-Holmes’s interest sharpened. “And where is Cartwright now?”
-
-Hanger sighed, leaning on the stable door. “Saw him heading to the village the other night. Likely to the inn—he’s always had a fondness for a quiet corner and a drink when his nerves get the better of him.”
-
-Holmes nodded, satisfaction flickering in his expression. “Thank you, Mr. Hanger. You’ve been most helpful.”
-
-As we walked back toward the manor, I turned to Holmes. “Do you think Cartwright knows more than he’s let on?”
-
-“I don’t think, Watson,” Holmes replied with a faint smile. “I know. And now we shall discover exactly what he’s been hiding.”
+Holmes leaned back in his chair, his eyes alight with purpose. “We must speak to Hanger directly. His role in this drama, however peripheral it seems, could be the key to unraveling the mystery.”
 
 ---
 
-Chapter 6: Messages at Baker Street
+Later that afternoon, Holmes and I found Hanger in the stable yard, brushing down one of the manor’s horses. The man’s weathered face and blunt demeanor matched his reputation, but there was a flicker of unease in his eyes as we approached.
+
+“Mr. Hanger,” Holmes began without preamble, “I understand you’ve been a trusted servant of the Blackwood family for many years. I’m here to ask about recent events surrounding the chest.”
+
+Hanger stiffened but continued his work. “Don’t know what you mean, sir. I keep to my duties.”
+
+Holmes’s voice remained calm, yet carried a sharp edge. “And yet William speaks of you with suspicion, implying you might be involved in certain… irregularities.”
+
+At this, Hanger’s grip on the brush tightened. “William Blackwood’s always had it out for me, Mr. Holmes. He doesn’t need a reason.”
+
+“Perhaps,” Holmes said, his tone softening slightly. “But I need to know: have you seen or heard anything unusual—anything that might explain the chest’s disappearance or Edward’s untimely death?”
+
+Hanger hesitated, then sighed heavily. “There’s been talk—quiet, mind you—about the Colonel. Hawthorne’s men don’t trust him, and neither did the Captain. Edward was a good man, but he was digging where he shouldn’t have. I told him as much.”
+
+Holmes’s eyes gleamed. “And what of Cartwright? He left the manor abruptly, claiming ‘unfinished business.’”
+
+Hanger glanced around, lowering his voice. “Cartwright’s no saint, but he’s no thief either. He was worried—about what Hawthorne might do to protect himself.”
+
+Holmes straightened, his expression inscrutable. “Thank you, Mr. Hanger. You’ve been most helpful.”
+
+As we walked back to the manor, I couldn’t help but ask, “Do you believe Hanger’s story?”
+
+“Partially,” Holmes replied, a faint smile tugging at his lips. “His loyalty to Edward was genuine, but his knowledge of the Colonel’s dealings suggests he’s more involved than he lets on. For now, we must focus on Cartwright. The Lieutenant holds answers we can no longer afford to delay.”
+
+### **Chapter 6: Messages at Baker Street**
 The fog clung to the streets as our carriage approached 221B Baker Street. Holmes had insisted on stopping here before heading to the inn, citing the possibility of awaiting correspondence. His intuition, as always, was rarely misplaced.
 
 “We must be thorough, Watson,” he said, his voice sharp. “I suspect significant updates have arrived that may reshape our investigation.”
@@ -292,7 +290,8 @@ I nodded, slipping both telegrams into my coat pocket. “Let us hope Cartwright
 
 Holmes grabbed his coat and hat, his movements swift and purposeful. “Come, Watson. The game advances.”
 
-Chapter 7: The Confrontation at the Inn
+### **Chapter 7: The Confrontation at the Inn**
+
 The village inn was quiet when we arrived, its dimly lit interior offering an air of anonymity to its patrons. Lieutenant Cartwright sat in a shadowed corner, his shoulders hunched and his head bowed. He looked up as we approached, his face pale and his hands trembling slightly.
 
 “Mr. Holmes. Dr. Watson,” he greeted us hoarsely. “Why are you here?”
