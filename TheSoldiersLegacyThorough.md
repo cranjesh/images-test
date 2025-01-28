@@ -372,14 +372,6 @@ STAKES CANNOT BE OVERSTATED STOP
 
 The words sent a jolt through me. My heart raced as I dressed hurriedly, grabbed the notebook from my desk, and called for a cab. Whatever Holmes had discovered, it was clear the case was approaching its climax. The pieces of the puzzle were falling into place, and I had little doubt that Holmes was preparing to unveil the full truth.
 
-Got it! If Mycroft's visit to Holmes and Holmes's confrontation with Hanger happen the night before the reveal, we’ll reflect Watson’s surprise in **Chapter 9: The Grand Reveal** when Holmes reveals these previously unseen moves. Here's how to incorporate Watson’s surprise and maintain the narrative flow:
-
----
-
-Here are the latest versions of the requested chapters, organized in sequence:
-
----
-
 ### **Chapter 9: The Grand Reveal**
 
 The drawing room at Blackwood Manor was a stage set for confrontation. Holmes had summoned all key players to assemble: Lady Blackwood, Katherine, William, Lieutenant Cartwright, Colonel Hawthorne, and Mr. Hanger. The room, usually an emblem of the estate’s grandeur, now felt charged with tension as the guests exchanged wary glances, each suspecting the reason for the gathering.
