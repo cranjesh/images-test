@@ -66,7 +66,7 @@ Holmes did not respond immediately. Instead, he walked to the window, staring ou
 
 ### Chapter 2: The Widow's Tale
 
-![Chapter2A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2A.webp)
+![Chapter2A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Introduction%20of%20Detectives%201%20and%202.webp)
 
 The mist hung low over the countryside as our carriage rolled toward Blackwood Manor. The estate loomed ahead, its ivy-clad walls and weathered statues suggesting an air of history shrouded in secrets. Holmes sat in silence, his sharp gaze scanning the fleeting landscape, while I mulled over the woman we were about to meet—Katherine Blackwood, widow of a man whose death seemed to cast a shadow far beyond the circumstances described.
 
@@ -120,6 +120,8 @@ While he worked, I spoke quietly with Katherine. "And your children? How are the
 
 Blackwood Manor's halls felt colder as Holmes and I followed the butler to William Blackwood's study. The room, a stark contrast to Edward's orderly workspace, was cluttered with papers and ledgers. A faint tang of pipe smoke lingered, mingling with the musty scent of old books. William stood by the window, his rigid posture and scowl an unspoken warning of his mood.
 
+![Chapter3A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter3A.webp)
+
 He turned as we entered, his sharp features hardening further. "Mr. Holmes, Dr. Watson," he greeted tersely, gesturing to the chairs opposite his desk. "I assume this visit concerns my brother's untimely demise—or perhaps the inheritance?"
 
 Holmes took a seat with calm precision. "Both, Mr. Blackwood. Specifically, the disappearance of your brother's military chest and its implications for the estate."
@@ -145,6 +147,8 @@ William hesitated, his gaze flickering toward the window. "Edward was many thing
 ### Chapter 4: The Lieutenant's Secrets
 
 The garrison was a functional collection of brick buildings, its starkness matching the precision of military life. Lieutenant Cartwright's quarters reflected the same discipline: a plain room with a desk, a journal, and a neatly folded uniform.
+
+![Chapter4A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter4A.webp)
 
 "Mr. Holmes, Dr. Watson," Cartwright greeted us, his tone stiff but polite. "What can I do for you?"
 
@@ -222,6 +226,8 @@ Holmes's eyes gleamed. "Indeed. You will meet Forrester at the Criterion Bar. I 
 
 The village inn was quiet when we arrived, its dimly lit interior offering an air of anonymity to its patrons. Lieutenant Cartwright sat in a shadowed corner, his shoulders hunched and his head bowed.
 
+![Chapter7A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Bar.webp)
+
 "Lieutenant," Holmes began without preamble, "your silence thus far has done little to shield you. It is time for the truth. Why were you so interested in Edward's chest?"
 
 Cartwright shifted uncomfortably. "I... I wanted to retrieve something personal."
@@ -246,6 +252,8 @@ Cartwright's shoulders slumped. "You're right. I embezzled small amounts—nothi
 
 The Criterion Bar was nearly empty when I arrived. Major James Forrester sat in a far corner, dressed in civilian clothes but carrying himself with unmistakable military bearing. His grave expression spoke volumes.
 
+![Chapter8A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/criterion.webp)
+
 "Watson," he said, rising to shake my hand firmly. "I apologize for my delayed response. I returned to England only yesterday and found your message."
 
 Forrester produced a small leather-bound notebook. "Captain Blackwood entrusted this to me two days before his... accident. Edward discovered something damning. Shipping records, coded messages—clear evidence of corruption within the ranks. Colonel Sir Reginald Hawthorne wasn't merely embezzling funds. He was selling classified information—troop movements, fortress defenses, vital military secrets—to foreign agents."
@@ -269,6 +277,8 @@ The door swung open as Colonel Hawthorne strode in, his expression a mask of cal
 Hawthorne's face darkened. "You're bluffing."
 
 Holmes gestured to the chest now sitting in the corner. "The contents of this chest contain all the proof needed to expose your treachery. The authorities are already aware."
+
+![Chapter9B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter9B.webp)
 
 Officers entered the room as Holmes continued, "Within this chest lie records meticulously kept by Captain Edward Blackwood. These documents implicate several others in a web of fraud and corruption extending through the East India Company and the military. Contracts falsified, funds siphoned, and lives endangered for personal gain—all orchestrated by Hawthorne's network."
 
