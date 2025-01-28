@@ -190,6 +190,8 @@ William's voice trailed off, and I heard footsteps approaching. Retreating quick
 
 Later that afternoon, Holmes and I found Hanger in the stable yard, brushing down one of the manor's horses. The man's weathered face and blunt demeanor matched his reputation, but there was a flicker of unease in his eyes as we approached.
 
+![Chapter5A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
+
 "Mr. Hanger," Holmes began without preamble, "I understand you've been a trusted servant of the Blackwood family for many years. I'm here to ask about recent events surrounding the chest."
 
 Hanger stiffened but continued his work. "Don't know what you mean, sir. I keep to my duties."
