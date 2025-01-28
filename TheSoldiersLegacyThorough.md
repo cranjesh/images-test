@@ -70,56 +70,57 @@ As the door closed behind her, Holmes sank into his chair, his fingers steepled.
 
 Though I did not yet understand the full scope of his thoughts, I knew better than to interrupt. Holmes’s mind was already piecing together fragments of the puzzle, and it would not be long before he unearthed something of significance.
 
-Chapter 2: Meeting Katherine
-The drive to Blackwood Manor was cloaked in a dreary mist, the countryside shrouded in damp grey as if mourning the loss of its favorite son. Holmes sat beside me in the carriage, silent but alert, his keen eyes fixed on the fleeting landscape. I, on the other hand, busied myself pondering the woman we were about to meet—Katherine Blackwood, widow to a man whose death had cast a shadow far longer than the fortnight since it occurred.
+### **Chapter 2: Meeting Katherine**
 
-When we arrived, the grandeur of Blackwood Manor spoke of generations of wealth, though time had begun to gnaw at its edges. The ivy-clad walls and weather-beaten statues hinted at an estate steeped in history—and, perhaps, secrets.
+The mist hung low over the countryside as our carriage rolled toward Blackwood Manor. The estate loomed ahead, its ivy-clad walls and weathered statues suggesting an air of history shrouded in secrets. Holmes sat in silence, his sharp gaze scanning the fleeting landscape, while I mulled over the woman we were about to meet—Katherine Blackwood, widow of a man whose death seemed to cast a shadow far beyond the circumstances described.  
 
-A butler led us into the drawing room, where Katherine awaited. She rose as we entered, a picture of quiet composure. She was young, no more than thirty, with auburn hair that fell loosely around her face. Despite her attempts at a calm demeanor, her pale complexion and dark-circled eyes betrayed a grief she could not quite conceal.
+Inside the manor, the grandeur was unmistakable, though its once-pristine elegance bore subtle marks of neglect. A butler led us into the drawing room, where Katherine awaited. She stood as we entered, her figure slight yet composed, though her pale complexion and dark-circled eyes betrayed the toll grief had taken.  
 
-“Mrs. Blackwood,” Holmes said, bowing slightly, “thank you for agreeing to meet with us.”
+“Mrs. Blackwood,” Holmes began, bowing slightly. “Thank you for meeting with us under such difficult circumstances.”  
 
-“Mr. Holmes, Dr. Watson,” she replied, her voice steady but low. “Please, be seated. I must admit, I do not know where to begin.”
+“Mr. Holmes, Dr. Watson,” she replied, her voice steady but low. “Please, sit. I hardly know where to begin.”  
 
-Holmes waved a hand dismissively. “Begin wherever you feel most comfortable, madam. Perhaps by telling us about your husband.”
+Holmes gestured for her to proceed. “Start wherever you feel most comfortable, madam. Perhaps by telling us about your late husband.”  
 
-Her hands tightened around the handkerchief in her lap. “Edward was… everything one could hope for in a husband and father. He was kind, principled, and devoted to his children. But his work often took him away for long stretches. He was stationed in India for the last year, overseeing operations at Fort Kalyan. His letters—when they came—spoke of his struggles to balance duty and family.”
+Her hands tightened around the handkerchief she held. “Edward was everything a husband and father should be—kind, principled, and devoted to our children. But his work took him far from home. This last year in India, stationed at Fort Kalyan, was particularly hard. His letters… they hinted at trouble, though he avoided specifics.”  
 
-She paused, her voice faltering. “And then, two weeks ago, I received word of his death. They said he fell from the cliffs near the fort. But Edward was not the sort of man to wander recklessly. He was careful, precise. I cannot believe it was an accident.”
+She paused, her voice faltering. “Then, two weeks ago, I received the news. They said he fell from the cliffs near the fort. But Edward was not a man prone to carelessness. I cannot believe it was an accident.”  
 
-Holmes leaned forward slightly, his expression thoughtful. “Did he ever confide in you about concerns at the fort? Mention irregularities or individuals he mistrusted?”
+Holmes leaned forward, his expression sharp. “Did he mention any concerns in his letters? Irregularities, or individuals he mistrusted?”  
 
-She hesitated. “His letters hinted at something troubling him, but he never spoke openly. There was one letter—his last—that arrived the day before his chest went missing. It was brief, almost cryptic. He wrote, ‘Watch Hawthorne. Trust no one.’ I don’t know what he meant.”
+She hesitated, then nodded. “In his last letter, which arrived just days before his chest went missing, he wrote: *‘Watch Hawthorne. Trust no one.’* I don’t know what he meant, but he was never one for cryptic messages.”  
 
-Holmes’s lips tightened almost imperceptibly at the mention of Hawthorne. Before I could speak, he interjected, “Let us discuss the missing chest. Who was present in the house when it vanished?”
+“And the missing chest?” Holmes asked.  
 
-“William, of course,” she said, her voice bitter. “He has always resented Edward. He believes the estate should be his, as the eldest son, even though Edward was my late father-in-law’s rightful heir.”
+She glanced away, her composure faltering for the first time. “It was locked and kept in Edward’s study, alongside his other effects. Three nights ago, it vanished. William was here, as were Colonel Hawthorne and Lieutenant Cartwright.”  
 
-“And Colonel Hawthorne?” Holmes asked.
+“William,” Holmes said, his tone neutral. “You mentioned his resentment.”  
 
-She nodded. “He visited shortly after Edward’s death, claiming to offer his condolences. He spent much of his time in Edward’s study, though. It felt… intrusive.”
+“Yes,” Katherine replied bitterly. “He was furious when the estate passed to Edward. He believes it rightfully belongs to him, as the eldest son. But Edward’s father had his reasons, and the will was clear.”  
 
-“And Lieutenant Cartwright?” Holmes pressed.
+“And Hawthorne?” Holmes prompted.  
 
-“He arrived last week, unannounced, with some of Edward’s personal effects. But we’d already received everything months ago. When I questioned him, he turned pale and said something about ‘unfinished business.’ Then he left.”
+“He came shortly after Edward’s death, supposedly to offer condolences. But he spent an inordinate amount of time in Edward’s study. It felt intrusive, though I said nothing at the time.”  
 
-As Katherine spoke, I could not help but notice her hands trembling slightly. Her grief and uncertainty were genuine, but there was something more—a fear she could not bring herself to name.
+Holmes’s gaze remained steady. “And Cartwright?”  
 
-Holmes rose suddenly and began pacing the room, his sharp eyes scanning the space. “Mrs. Blackwood, may I have a moment to examine Edward’s study?”
+“He arrived unannounced a week ago, claiming to deliver Edward’s personal effects. But we’d already received everything months ago. When I asked him about it, he grew nervous and muttered something about ‘unfinished business.’ Then he left abruptly.”  
 
-She nodded hesitantly. “Of course. It’s this way.”
+Holmes rose suddenly and began pacing, his sharp eyes scanning the room. “Mrs. Blackwood, may I examine Edward’s study?”  
 
-We followed her down a dimly lit corridor lined with portraits of the Blackwood lineage. Edward’s study was a small, tidy room, its desk meticulously arranged. Holmes examined the space silently, running his fingers along the edges of the desk and inspecting the bookshelves.
+She nodded hesitantly. “Of course. It’s this way.”  
 
-While he worked, I engaged Katherine in conversation. “Your children—how are they holding up?”
+The study was small but orderly, its desk and shelves neatly arranged. Holmes moved through the space with purpose, his fingers trailing along the edges of the furniture as his gaze flitted between objects.  
 
-She managed a small smile. “They’re young, Dr. Watson. Too young to understand the weight of what’s happening. They ask when their father is coming home, and I have no words to give them.”
+While he worked, I spoke quietly with Katherine. “And your children? How are they faring?”  
 
-I offered what little comfort I could, feeling the weight of her grief. Holmes finally straightened, brushing off his coat as he turned to face us.
+“They’re young, Dr. Watson,” she said with a faint, sad smile. “Too young to grasp what’s happening. They keep asking when their father will come home… and I don’t know how to answer.”  
 
-“We have much to investigate, Mrs. Blackwood,” he said. “I believe this case will require both time and discretion. Rest assured, we shall uncover the truth.”
+I offered what little comfort I could. Holmes, meanwhile, straightened abruptly and brushed off his coat.  
 
-As we took our leave, I could not help but glance back at the manor, its towering silhouette looming against the grey sky. The secrets within its walls were beginning to surface, but it was clear we had only scratched the surface of a far deeper mystery.
+“We have much to investigate, Mrs. Blackwood,” he said. “Rest assured, we shall uncover the truth.”  
+
+As we departed the manor, I glanced back at its imposing silhouette, shrouded in mist and secrets. Though we had uncovered much, it was clear we had barely scratched the surface of a deeper and more tangled mystery.  
 
 ### **Chapter 3: Meeting William**
 
