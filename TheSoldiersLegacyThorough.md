@@ -22,17 +22,15 @@ Rain drummed steadily against the windows of 221B Baker Street as I finished rec
 
 Before I could inquire further, a sharp knock at the door interrupted our quiet. Mrs. Hudson appeared moments later, announcing, “Lady Blackwood to see you, Mr. Holmes.”
 
-The woman who entered was the very picture of mourning. Her attire—a finely tailored black gown—spoke of her status, but her trembling hands and pale complexion betrayed an emotional weight far heavier than her garments. A widow, perhaps, but something in her brittle composure hinted at an urgency beyond grief.
+The woman who entered was the very picture of mourning. Her finely tailored black gown spoke of her status, but her trembling hands and pale complexion betrayed a weight far heavier than her garments. 
 
 Holmes stood, gesturing to the chair opposite his. “Please, Lady Blackwood, take a seat. I suspect your visit concerns the recent disappearance of your son’s military chest—a loss made all the more troubling given the East India Company’s imminent audit.”
 
-Lady Blackwood froze, her expression shifting from surprise to something bordering on alarm. “How could you possibly—”
-
-Holmes’s familiarity with the movements of the East India Company was unparalleled; his morning routine often included scouring financial columns and military dispatches for patterns others might miss.
+Lady Blackwood froze, her expression shifting from surprise to alarm. “How could you possibly—”
 
 Holmes cut her off with a faint smile. “The morning paper notes unusual activity at the Company’s offices. Your mourning dress suggests you’ve been grieving for two weeks, coinciding with Captain Blackwood’s passing. Furthermore, your arrival during such inclement weather speaks to a matter of considerable urgency.”
 
-Lady Blackwood sank into the chair, her gloved hands clutching a small reticule. “My son, Captain Edward Blackwood, died two weeks ago in India. He was stationed at Fort Kalyan and had been conducting routine inspections. The circumstances of his death are… unclear. The local police are still investigating, but they have not ruled out foul play.”
+Lady Blackwood sank into the chair, her gloved hands clutching a small reticule. “My son, Captain Edward Blackwood, died two weeks ago in India. He was stationed at Fort Kalyan, conducting routine inspections. The circumstances of his death are… unclear. The local police are still investigating, but they have not ruled out foul play.”
 
 “Foul play, you say?” Holmes’s voice sharpened. “What makes you think so?”
 
