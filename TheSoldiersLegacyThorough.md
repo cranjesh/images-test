@@ -26,6 +26,8 @@ The woman who entered was the very picture of mourning. Her finely tailored blac
 
 Holmes stood, gesturing to the chair opposite his. "Please, Lady Blackwood, take a seat. I suspect your visit concerns the recent disappearance of your son's military chest—a loss made all the more troubling given the East India Company's imminent audit."
 
+[Chapter 1 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter1A.webp)
+
 Lady Blackwood froze, her expression shifting from surprise to alarm. "How could you possibly—"
 
 Holmes cut her off with a faint smile. "The morning paper notes unusual activity at the Company's offices. Your mourning dress suggests you've been grieving for two weeks, coinciding with Captain Blackwood's passing. Furthermore, your arrival during such inclement weather speaks to a matter of considerable urgency."
@@ -64,6 +66,8 @@ Holmes did not respond immediately. Instead, he walked to the window, staring ou
 
 ### Chapter 2: The Widow's Tale
 
+[Chapter 2 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2A.webp)
+
 The mist hung low over the countryside as our carriage rolled toward Blackwood Manor. The estate loomed ahead, its ivy-clad walls and weathered statues suggesting an air of history shrouded in secrets. Holmes sat in silence, his sharp gaze scanning the fleeting landscape, while I mulled over the woman we were about to meet—Katherine Blackwood, widow of a man whose death seemed to cast a shadow far beyond the circumstances described.
 
 Inside the manor, the grandeur was unmistakable, though its once-pristine elegance bore subtle marks of neglect. A butler led us into the drawing room, where Katherine awaited. She stood as we entered, her figure slight yet composed, though her pale complexion and dark-circled eyes betrayed the toll grief had taken.
@@ -71,6 +75,8 @@ Inside the manor, the grandeur was unmistakable, though its once-pristine elegan
 "Mrs. Blackwood," Holmes began, bowing slightly. "Thank you for meeting with us under such difficult circumstances."
 
 "Mr. Holmes, Dr. Watson," she replied, her voice steady but low. "Please, sit. I hardly know where to begin."
+
+[Chapter 2 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2B.webp)
 
 Holmes gestured for her to proceed. "Start wherever you feel most comfortable, madam. Perhaps by telling us about your late husband."
 
@@ -103,6 +109,8 @@ Holmes rose suddenly and began pacing, his sharp eyes scanning the room. "Mrs. B
 She nodded hesitantly. "Of course. It's this way."
 
 The study was small but orderly, its desk and shelves neatly arranged. Holmes moved through the space with purpose, his fingers trailing along the edges of the furniture as his gaze flitted between objects.
+
+[Chapter 2 C](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2C.webp)
 
 While he worked, I spoke quietly with Katherine. "And your children? How are they faring?"
 
@@ -251,6 +259,8 @@ Forrester nodded grimly. "He documented everything in meticulous detail. This no
 ### Chapter 9: The Final Assembly
 
 The drawing room at Blackwood Manor had become a stage for the final act. Holmes had summoned all key players: Lady Blackwood, Katherine, William, Lieutenant Cartwright, Colonel Hawthorne, and Mr. Hanger.
+
+[Chapter 9 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter9A.webp)
 
 "Thank you all for coming," Holmes began. "Today, we shall put to rest the matters surrounding Captain Edward Blackwood's tragic death, the disappearance of his military chest, and the attempts to usurp his rightful legacy."
 
