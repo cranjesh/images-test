@@ -124,49 +124,37 @@ As we departed the manor, I glanced back at its imposing silhouette, shrouded in
 
 ### **Chapter 3: Meeting William**
 
-In the afternoon, Holmes and I wanted to speak with William Blackwood. William had agreed to meet us in his study, a room far less orderly than Edward’s. The shelves were cluttered with ledgers and documents, and a faint smell of pipe smoke hung in the air.
+Blackwood Manor’s halls felt colder as Holmes and I followed the butler to William Blackwood’s study. The room, a stark contrast to Edward’s orderly workspace, was cluttered with papers and ledgers. A faint tang of pipe smoke lingered, mingling with the musty scent of old books. William stood by the window, his rigid posture and scowl an unspoken warning of his mood.
 
-William rose as we entered, his sharp features set in a scowl. He was a tall man, perhaps in his early forties, with a rigid posture and an air of irritation that seemed habitual. His suit, though finely tailored, bore creases, and his unkempt hair suggested a man too preoccupied to care about appearances.
+He turned as we entered, his sharp features hardening further. “Mr. Holmes, Dr. Watson,” he greeted tersely, gesturing to the chairs opposite his desk. “I assume this visit concerns my brother’s untimely demise—or perhaps the inheritance?”
 
-“Mr. Holmes, Dr. Watson,” he said curtly, gesturing to the chairs opposite his desk. “I trust you’ll make this quick. I have important matters to attend to.”
+Holmes took a seat with calm precision. “Both, Mr. Blackwood. Specifically, the disappearance of your brother’s military chest and its implications for the estate.”
 
-Holmes ignored the hostility, seating himself with practiced calm. “Important matters, Mr. Blackwood? Such as contesting the inheritance?”
+William’s lips curled into a sneer as he leaned back in his chair. “Implications for Katherine, you mean. Convenient, isn’t it, that the chest vanishes when she stands to gain the most?”
 
-William’s scowl deepened. “If that’s why you’ve come, let me make one thing clear: my claim is legitimate. My father’s decision to bypass me in favor of Edward was nothing short of favoritism.”
+Holmes raised an eyebrow. “You suggest Katherine is involved?”
 
-“Edward’s will,” Holmes interjected, “would have clarified the matter. Unfortunately, it has vanished.”
+“Who else?” William shot back. “She gains everything if Edward’s will is missing. And let’s not ignore her prior… association with Lieutenant Cartwright. Who’s to say Edward didn’t discover something and decide to change his will?”
 
-William leaned back, his lips curling into a sneer. “Convenient, isn’t it? Katherine stands to gain everything, and suddenly the will goes missing. Have you considered that she might be responsible?”
+The insinuation made my hands tighten against the armrests. Holmes, however, remained impassive, his piercing gaze fixed on William. “That is an interesting theory, Mr. Blackwood. But theories require evidence. Tell me, where were you on the night the chest disappeared?”
 
-Holmes raised an eyebrow. “And what would Katherine gain from the disappearance of the chest, beyond a delay in securing what is rightfully hers?”
+William stiffened slightly, his scowl deepening. “In my quarters, alone. I heard nothing, saw nothing. And frankly, I’m not obligated to account for myself.”
 
-William’s sneer faltered, but his tone remained combative. “She’s hiding something. Everyone knows she had… connections with Lieutenant Cartwright before she married Edward. Who’s to say Edward wasn’t aware of this? Perhaps he changed his will.”
+Holmes nodded thoughtfully. “Perhaps not. Yet your bitterness toward Edward—and Katherine—seems to color your perspective. Do you believe resentment blinds you to other possibilities?”
 
-I bristled at the insinuation, but Holmes remained unfazed. “You seem well-versed in the details of your brother’s personal life. How did you come by this information?”
+William’s eyes flashed with anger. “Bitterness? My father’s decision to favor Edward over me was nothing short of favoritism. The estate should have been mine. I’ve fought for years to earn my place, while Edward… he was handed everything.”
 
-William hesitated for a fraction of a second. “Edward confided in me shortly before his death. He had doubts—about his marriage, about his eldest child’s paternity. Can you blame him?”
+“And yet,” Holmes said softly, “his death has left you no closer to securing what you claim is rightfully yours.”
 
-Holmes shifted his focus, his gaze sharp and probing. “You were here the night the chest went missing. Did you see or hear anything unusual?”
+William’s hands gripped the edges of his desk. “This interview is over, Mr. Holmes. If you have questions about the estate, I suggest you direct them to Katherine.”
 
-William hesitated again, this time longer. “No. I was in my quarters all night.”
+Holmes rose, his calm demeanor unshaken. “Your cooperation has been noted. Good day, Mr. Blackwood.”
 
-“Alone?” Holmes pressed.
+As we left the study, the tension in the air seemed to follow us. Holmes walked briskly, his expression thoughtful but unreadable. I couldn’t help but voice my thoughts. “He’s hiding something, isn’t he?”
 
-“Yes,” William snapped. “I don’t answer to you, Mr. Holmes.”
+“Indeed, Watson,” Holmes replied, his tone sharp with certainty. “But guilt often lies in what is unsaid. His resentment and evasiveness suggest a man tangled in his own failings, rather than a master of deceit.”
 
-Holmes rose from his chair, his tone calm but firm. “Your cooperation is noted, Mr. Blackwood. This affair is of greater complexity than you might imagine.”
-
-William stood abruptly, his irritation boiling over. “I am busy right now and need to tend to other things. This interview is over.”
-
-Holmes nodded, his expression impassive, and gestured for me to follow him out of the room. As we walked back to the carriage, I broke the silence. “He’s hiding something, isn’t he?”
-
-Holmes’s lips twitched into a faint smile. “Undoubtedly, Watson. But his guilt lies in omission, not necessarily in crime. He revealed much through his deflections. The true players in this game are becoming clearer.”
-
-As the carriage trundled away from the manor, I couldn’t shake the feeling that William’s bitterness ran deeper than simple sibling rivalry. Whatever secrets he harbored, Holmes was already a step closer to uncovering them.
-
-Here’s the revised **Chapter 4: Meeting Cartwright**, removing the section you mentioned and adjusting the context so Holmes and Watson aren’t making daily visits. Now, the assumption is that Holmes and Watson are staying at Blackwood Manor for the investigation.
-
----
+As the carriage trundled away from Blackwood Manor, William’s accusations lingered in my mind. His bitterness was palpable, but Holmes’s calm persistence left no doubt—there was more to this mystery than met the eye, and William’s role, whether active or peripheral, was yet to be fully uncovered.
 
 ### **Chapter 4: Meeting Cartwright**
 
