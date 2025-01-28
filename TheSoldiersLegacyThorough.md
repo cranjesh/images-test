@@ -136,31 +136,27 @@ Holmes raised an eyebrow. “You suggest Katherine is involved?”
 
 “Who else?” William shot back. “She gains everything if Edward’s will is missing. And let’s not ignore her prior… association with Lieutenant Cartwright. Who’s to say Edward didn’t discover something and decide to change his will?”
 
-The insinuation made my hands tighten against the armrests. Holmes, however, remained impassive, his piercing gaze fixed on William. “That is an interesting theory, Mr. Blackwood. But theories require evidence. Tell me, where were you on the night the chest disappeared?”
+Holmes’s expression remained neutral. “Your accusations are bold, Mr. Blackwood, but evidence is required to support such claims. Tell me, where were you on the night the chest disappeared?”
 
 William stiffened slightly, his scowl deepening. “In my quarters, alone. I heard nothing, saw nothing. And frankly, I’m not obligated to account for myself.”
 
 Holmes nodded thoughtfully. “Perhaps not. Yet your bitterness toward Edward—and Katherine—seems to color your perspective. Do you believe resentment blinds you to other possibilities?”
 
-William’s eyes flashed with anger. “Bitterness? My father’s decision to favor Edward over me was nothing short of favoritism. The estate should have been mine. I’ve fought for years to earn my place, while Edward… he was handed everything.”
+William’s hands gripped the edges of his desk. “Bitterness? My father’s decision to favor Edward over me was nothing short of favoritism. The estate should have been mine. I’ve fought for years to earn my place, while Edward… he was handed everything.”
 
-“And yet,” Holmes said softly, “his death has left you no closer to securing what you claim is rightfully yours.”
+Holmes leaned forward slightly, his tone cool and deliberate. “And yet, his death has left you no closer to securing what you claim is rightfully yours. Tell me, do you believe Edward’s death was an accident?”
 
-William’s hands gripped the edges of his desk. “This interview is over, Mr. Holmes. If you have questions about the estate, I suggest you direct them to Katherine.”
+William hesitated, his gaze flickering toward the window. “Edward was many things, but careless wasn’t one of them. If you want my opinion, someone wanted him out of the way—and whoever it was, they succeeded.”
 
 Holmes rose, his calm demeanor unshaken. “Your cooperation has been noted. Good day, Mr. Blackwood.”
 
 As we left the study, the tension in the air seemed to follow us. Holmes walked briskly, his expression thoughtful but unreadable. I couldn’t help but voice my thoughts. “He’s hiding something, isn’t he?”
 
-“Indeed, Watson,” Holmes replied, his tone sharp with certainty. “But guilt often lies in what is unsaid. His resentment and evasiveness suggest a man tangled in his own failings, rather than a master of deceit.”
-
-As the carriage trundled away from Blackwood Manor, William’s accusations lingered in my mind. His bitterness was palpable, but Holmes’s calm persistence left no doubt—there was more to this mystery than met the eye, and William’s role, whether active or peripheral, was yet to be fully uncovered.
+“Indeed, Watson,” Holmes replied, his tone sharp with certainty. “But guilt often lies in what is unsaid. His resentment and evasiveness suggest a man tangled in his own failings rather than a master of deceit.”
 
 ### **Chapter 4: Meeting Cartwright**
 
-Holmes and I remained at Blackwood Manor, where the strained atmosphere between Katherine and William mirrored the weight of unanswered questions. By mid-afternoon, a reply arrived from Lieutenant Cartwright—he had agreed to meet us at the garrison.
-
-The garrison was a functional collection of brick buildings, its starkness matching the precision of military life. Cartwright’s quarters reflected the same discipline: a plain room with a desk, a journal, and a neatly folded uniform.
+The garrison was a functional collection of brick buildings, its starkness matching the precision of military life. Lieutenant Cartwright’s quarters reflected the same discipline: a plain room with a desk, a journal, and a neatly folded uniform.
 
 “Mr. Holmes, Dr. Watson,” Cartwright greeted us, his tone stiff but polite. “What can I do for you?”
 
@@ -168,15 +164,15 @@ Holmes wasted no time. “We are investigating the circumstances of Captain Blac
 
 Cartwright gestured for us to sit, though unease flickered in his expression. “I’ll do my best, though I’m not sure what help I can offer.”
 
-“Let’s start with Captain Blackwood’s final days,” Holmes pressed. “What did you observe?”
+Holmes fixed him with a piercing gaze. “Let’s start with Captain Blackwood’s final days. What did you observe?”
 
 Cartwright hesitated, tapping a finger against the desk. “Edward was meticulous, but in those last weeks, he seemed distracted—preoccupied with something. He didn’t share much, and I didn’t pry.”
 
-“And on the night of his death?” Holmes asked, his gaze narrowing.
+Holmes’s tone sharpened. “And on the night of his death?”
 
 “There was a dinner at the officers’ mess, hosted by Colonel Hawthorne. Edward left early, saying he had work to finish. The next morning, we found him at the base of the cliffs.”
 
-Holmes’s tone sharpened. “Do you suspect foul play?”
+Holmes’s gaze narrowed. “Do you suspect foul play?”
 
 Cartwright’s composure faltered. “I… I don’t know. Edward mentioned discrepancies in supply records—irregularities. He didn’t name anyone, but he seemed wary of Hawthorne.”
 
@@ -201,9 +197,6 @@ Holmes rose abruptly, brushing off his coat. “Rectify that failure, Lieutenant
 As we walked back to the carriage, I broke the silence. “He’s hiding something.”
 
 “Undoubtedly,” Holmes replied, his tone brisk. “But fear clouds judgment, Watson. He knows more than he’s revealed, and we will uncover it soon enough.”
-
-The countryside blurred past as the carriage carried us back to Blackwood Manor. Holmes’s mind, as ever, raced several steps ahead, piecing together fragments of truth I could barely grasp.
-
 
 ### **Chapter 5: Overhearing William’s Remark**
 
