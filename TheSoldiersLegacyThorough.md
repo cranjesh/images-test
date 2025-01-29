@@ -174,39 +174,94 @@ Holmes leaned forward. "You visited Blackwood Manor last week, delivering Edward
 
 ### Chapter 5: Whispers in the Manor
 
-The halls of Blackwood Manor seemed cloaked in an air of quiet tension, its once-majestic features dulled by shadows and the weight of recent events. The night was still, save for the faint crackle of the fireplace in the drawing room. I was restless, unable to shake the feeling that something crucial lay just beyond our grasp.
-
-Holmes, ever the enigma, sat in silent contemplation near the window. I decided to take a short walk to clear my mind. Passing the dimly lit library, I caught the faint murmur of voices. Intrigued, I stepped closer and recognized William Blackwood's distinct, sharp tone.
-
-"...Hanger," he said, his voice low but brimming with irritation. "The man's loyalties were always questionable. If anyone's meddling with the estate, it's him."
-
-I leaned closer, straining to catch more. There was a pause, then a bitter laugh. "They'll never pin anything on me. Not with Katherine parading her innocence and Cartwright skulking about like a scolded child."
-
-William's voice trailed off, and I heard footsteps approaching. Retreating quickly, I slipped into a nearby alcove and waited as William strode past, his expression a mixture of frustration and self-satisfaction.
-
-Later that afternoon, Holmes and I found Hanger in the stable yard, brushing down one of the manor's horses. The man's weathered face and blunt demeanor matched his reputation, but there was a flicker of unease in his eyes as we approached.
+The Stables at Blackwood Manor
 
 ![Chapter5A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
 
-"Mr. Hanger," Holmes began without preamble, "I understand you've been a trusted servant of the Blackwood family for many years. I'm here to ask about recent events surrounding the chest."
+A stablehand was in the stables, grooming a horse with slow, deliberate strokes. He did not look up as we approached, but there was a stiffness in his posture, as though he had already anticipated our arrival.
 
-Hanger stiffened but continued his work. "Don't know what you mean, sir. I keep to my duties."
+Holmes studied him briefly.
 
-Holmes's voice remained calm, yet carried a sharp edge. "And yet William speaks of you with suspicion, implying you might be involved in certain... irregularities."
+“You’ve handled a rifle before,” he said.
 
-At this, Hanger's grip on the brush tightened. "William Blackwood's always had it out for me, Mr. Holmes. He doesn't need a reason."
+The stablehand’s grip on the bridle faltered for a split second. His head jerked up, his eyes narrowing.
 
-"Perhaps," Holmes said, his tone softening slightly. "But I need to know: have you seen or heard anything unusual—anything that might explain the chest's disappearance or Edward's untimely death?"
+Holmes gave a slight nod, satisfied. “Yes. And not just once or twice. Years of training, I’d say. You were in the military.”
 
-Hanger hesitated, then sighed heavily. "There's been talk—quiet, mind you—about the Colonel. Hawthorne's men don't trust him, and neither did the Captain. Edward was a good man, but he was digging where he shouldn't have. I told him as much."
+For the first time, the man truly looked at us. His guarded demeanor wavered. Then, in a tone lower than before, he muttered, “Holmes. Watson.”
 
-Back in our quarters, I asked Holmes how he had deduced Hanger's involvement.
+Holmes regarded him with quiet interest.
 
-"Three small details, Watson. First, the leather polish on his hands matched the distinct variety used on the chest's fittings. Second, his frequent glances toward the library's east wing while discussing William suggested intimate knowledge of that section of the house. Finally, and most tellingly, the way he maintained the stable logs – meticulous, coded entries that mirrored the careful documentation style I observed in Edward's military records. A man chosen for his discretion and attention to detail."
+I studied his weathered face. His expression was still wary, though his hands moved with practiced ease.
 
-"Remarkable!" I exclaimed.
+“Then you must have seen much over the years,” I said. “Did anything seem amiss?”
 
-"Merely observation, Watson. But in this case, observation that confirmed Hanger as Edward's chosen confidant rather than William's suspected spy."
+Hanger’s jaw tightened. “I keep my head down and my hands busy. Not my place to meddle in family business.”
+
+Holmes regarded him with quiet intensity. “Even when that business involves a missing chest?”
+
+For the briefest moment, Hanger’s grip on the bridle tightened. His face remained impassive, but something in his eyes shifted—something quickly concealed.
+
+“I don’t know anything about no chest,” he muttered. “And if I did, it wouldn’t be my place to speak of it.”
+
+Holmes inclined his head slightly. “Loyalty is a commendable trait. But loyalty to whom?”
+
+Hanger scoffed. “To the Blackwood family. The rightful Blackwoods.”
+
+Holmes did not press further. He merely nodded. “Of course.”
+
+Hanger narrowed his eyes. “What are you getting at?”
+
+Holmes gave a small smile. “Nothing at all. Just an observation.”
+
+As we walked away, I turned to Holmes. “You saw something, didn’t you?”
+
+Holmes’s eyes gleamed. “A man trying very hard not to appear nervous.”
+
+The Drawing Room at Blackwood Manor
+That evening, Blackwood Manor seemed heavy with quiet tension. The flickering glow of the fireplace cast long shadows across the paneled walls. Holmes sat by the window, lost in thought, while I paced restlessly.
+
+Something about Hanger lingered in my mind. Hoping to clear my thoughts, I wandered the halls. As I passed the dimly lit library, I heard voices. I stopped, pressing myself against the wall, listening.
+
+“Hanger,” said a sharp voice. William Blackwood. There was irritation in his tone. “The man’s loyalties were always questionable.”
+
+There was a pause, then a bitter laugh. “They’ll never pin anything on me. Not with Katherine parading her innocence and Cartwright skulking about like a scolded child.”
+
+Footsteps approached. I stepped back into an alcove as William strode past, his expression a mixture of frustration and smug satisfaction.
+
+Revisiting Hanger
+The next afternoon, Holmes and I returned to the stable yard. Hanger was in the stables once more, brushing down one of the manor’s horses. His shoulders were stiff, his movements deliberate.
+
+Holmes greeted him directly this time. “Mr. Hanger, I understand you have been a trusted servant of the Blackwood family for many years.”
+
+Hanger’s grip on the brush tightened slightly, though he did not look up. “That I have.”
+
+Holmes’s voice remained calm. “Yet William Blackwood speaks of you with suspicion.”
+
+Hanger hesitated. Then, with a heavy sigh, he set the brush down. “William Blackwood’s always had it out for me, Mr. Holmes. He doesn’t need a reason.”
+
+“Perhaps,” Holmes allowed. “But Captain Blackwood confided in you, didn’t he?”
+
+Hanger hesitated again. His gaze flickered toward the east wing of the manor before he sighed. “Edward was a good man, but he was digging where he shouldn’t have. I told him as much.”
+
+Holmes studied him a moment longer before nodding. “I see.”
+
+Holmes’s Deductions
+Back in our quarters, I turned to Holmes. “You suspected Hanger knew more than he let on, didn’t you?”
+
+Holmes steepled his fingers. “Not of wrongdoing, Watson. But of keeping a secret that may prove critical.”
+
+I frowned. “How?”
+
+Holmes allowed himself a small smile. “Three small details. First, the polish on his hands—it matches the variety used on the chest’s fittings. Second, his glances toward the library’s east wing when William was mentioned—suggesting intimate knowledge of that section. Third, and most tellingly, the way he maintains the stable logs—meticulous, coded entries that mirror Edward’s own military documentation style.”
+
+I exhaled. “So Hanger wasn’t William’s spy. He was Edward’s confidant.”
+
+Holmes’s eyes gleamed. “And that means we’ve been looking in the wrong place.”
+
+I leaned forward. “Where should we be looking, then?”
+
+Holmes smiled. “Where Edward left his last record—before someone ensured he could write no more.”
 
 ### Chapter 6: Messages and Meetings
 
