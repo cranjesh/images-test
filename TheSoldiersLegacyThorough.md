@@ -68,9 +68,9 @@ Holmes did not respond immediately. Instead, he walked to the window, staring ou
 
 ![Chapter2A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Introduction%20of%20Detectives%201%20and%202.webp)
 
-The mist hung low over the countryside as our carriage rolled toward Blackwood Manor. The estate loomed ahead, its ivy-clad walls and weathered statues suggesting an air of history shrouded in secrets. Holmes sat in silence, his sharp gaze scanning the fleeting landscape, while I mulled over the woman we were about to meet—Katherine Blackwood, widow of a man whose death seemed to cast a shadow far beyond the circumstances described.
+The mist lay thick over the countryside as our carriage rattled toward Blackwood Manor. The estate emerged from the gloom, its ivy-clad walls and worn statues hinting at long-buried secrets. Holmes sat in silence, his keen gaze sweeping the landscape, while my thoughts turned to Katherine Blackwood—the widow of a man whose death seemed far from ordinary.
 
-Inside the manor, the grandeur was unmistakable, though its once-pristine elegance bore subtle marks of neglect. A butler led us into the drawing room, where Katherine awaited. She stood as we entered, her figure slight yet composed, though her pale complexion and dark-circled eyes betrayed the toll grief had taken.
+Inside, the manor’s grandeur remained, though time had softened its edges. A butler led us into the drawing room, where Katherine awaited. She stood as we entered, her figure slight yet composed, though her pale complexion and dark-circled eyes betrayed the toll grief had taken.
 
 "Mrs. Blackwood," Holmes began, bowing slightly. "Thank you for meeting with us under such difficult circumstances."
 
@@ -78,43 +78,45 @@ Inside the manor, the grandeur was unmistakable, though its once-pristine elegan
 
 ![Chapter2B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2B.webp)
 
-Holmes gestured for her to proceed. "Start wherever you feel most comfortable, madam. Perhaps by telling us about your late husband."
+Holmes inclined his head. "Wherever you feel most comfortable, madam. Perhaps with your late husband."
 
-Her hands tightened around the handkerchief she held. "Edward was everything a husband and father should be—kind, principled, and devoted to our children. But his work took him far from home. This last year in India, stationed at Fort Kalyan, was particularly hard. His letters... they hinted at trouble, though he avoided specifics."
+She tightened her grip on the handkerchief in her lap. "Edward was a devoted husband and father—principled, kind. But his work often kept him away. This last year, stationed at Fort Kalyan in India, was particularly difficult. His letters… they hinted at unease, though he never spoke plainly."
 
-She paused, her voice faltering. "Then, two weeks ago, I received the news. They said he fell from the cliffs near the fort. But Edward was not a man prone to carelessness. I cannot believe it was an accident."
+She hesitated, as though the words themselves pained her. "Then, two weeks ago, I received word. They said he fell from the cliffs near the fort. But Edward was not a careless man. I cannot accept it was an accident."
 
-Holmes leaned forward, his expression sharp. "Did he mention any concerns in his letters? Irregularities, or individuals he mistrusted?"
+Holmes leaned forward, his expression sharp with intent. "Did he mention specific concerns in his letters? Any names or irregularities?"
 
-She hesitated, then nodded. "In his last letter, which arrived just days before his chest went missing, he wrote: 'Watch Hawthorne. Trust no one.' I don't know what he meant, but he was never one for cryptic messages."
+She hesitated, then nodded. "His last letter arrived mere days before his chest went missing. In it, he wrote: ‘Watch Hawthorne. Trust no one.’ Edward was never one for cryptic warnings."
 
-"And the missing chest?" Holmes asked.
+Holmes exhaled slowly, his fingers steepled. "The missing chest—tell me about it."
 
-She glanced away, her composure faltering for the first time. "It was locked and kept in Edward's study, alongside his other effects. Three nights ago, it vanished. William was here, as were Colonel Hawthorne and Lieutenant Cartwright."
+Her composure wavered. "It was locked, kept in his study among his other belongings. Three nights ago, it vanished. The only ones present were William, Colonel Hawthorne, and Lieutenant Cartwright."
 
-"William," Holmes said, his tone neutral. "You mentioned his resentment."
+"William," Holmes murmured. "Your husband’s brother. You mentioned his resentment."
 
-"Yes," Katherine replied bitterly. "He was furious when the estate passed to Edward. He believes it rightfully belongs to him, as the eldest son. But Edward's father had his reasons, and the will was clear."
+She gave a short, bitter nod. "He was furious when the estate passed to Edward. He believes it rightfully his, as the eldest son. But the will was clear. Edward’s father had his reasons."
 
-"And Hawthorne?" Holmes prompted.
+Holmes studied her, his voice measured. "Did William’s behavior change recently? Any particular event that heightened his interest in the estate?"
 
-"He came shortly after Edward's death, supposedly to offer condolences. But he spent an inordinate amount of time in Edward's study. It felt intrusive, though I said nothing at the time."
+Katherine frowned in thought. "Yes. It was around the time he began demanding to see Edward’s documents. He accused my husband of hiding something."
 
-Holmes's gaze remained steady. "And Cartwright?"
+Holmes’s tone remained neutral, though his gaze sharpened. "And what did he believe Edward was hiding?"
 
-"He arrived unannounced a week ago, claiming to deliver Edward's personal effects. But we'd already received everything months ago. When I asked him about it, he grew nervous and muttered something about 'unfinished business.' Then he left abruptly."
+She exhaled slowly. "Something to do with our great-uncle’s inheritance. When he died in India, William became convinced that there were undisclosed assets or properties that should have passed to the estate."
 
-Holmes rose suddenly and began pacing, his sharp eyes scanning the room. "Mrs. Blackwood, may I examine Edward's study?"
+Holmes tapped his fingers together. "And Edward’s response?"
 
-She nodded hesitantly. "Of course. It's this way."
+"He dismissed it. Said William was chasing ghosts. But…" She hesitated. "Now that I think about it, he never explicitly denied having those documents."
 
-The study was small but orderly, its desk and shelves neatly arranged. Holmes moved through the space with purpose, his fingers trailing along the edges of the furniture as his gaze flitted between objects.
+Holmes nodded, his expression unreadable. "Most intriguing."
 
-![Chapter2C](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2C.webp)
+A hush settled over the room, thick with unspoken truths. Holmes had unearthed something deeper than a mere family dispute. Edward Blackwood had held a secret—one his brother was desperate to uncover. And now, it seemed, that secret had cost him his life.
 
-While he worked, I spoke quietly with Katherine. "And your children? How are they faring?"
+As Holmes rose to his feet and began pacing, I turned to Katherine and spoke quietly. "And your children, Mrs. Blackwood? How are they faring?"
 
-"They're young, Dr. Watson," she said with a faint, sad smile. "Too young to grasp what's happening. They keep asking when their father will come home... and I don't know how to answer."
+She gave a small, tired smile. "They’re young, Dr. Watson… too young to understand. They keep asking when their father will come home. And I don’t know how to answer."
+
+The sorrow in her voice was unmistakable. I nodded, offering what little comfort words could provide. Holmes, ever perceptive, had paused his pacing and observed her for a moment before speaking again.
 
 ### Chapter 3: The Bitter Brother
 
