@@ -336,99 +336,45 @@ Forrester nodded grimly. "He documented everything in meticulous detail. This no
 
 ### Chapter 9: The Final Assembly
 
-The drawing room at Blackwood Manor had become a stage for the final act. Holmes had summoned all key players: Lady Blackwood, Katherine, William, Lieutenant Cartwright, Colonel Hawthorne, and Mr. Hanger.
-
 ![Chapter9A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter9A.webp)
 
-"Thank you all for coming," Holmes began. "Today, we shall put to rest the matters surrounding Captain Edward Blackwood's tragic death, the disappearance of his military chest, and the attempts to usurp his rightful legacy."
-
-The door swung open as Colonel Hawthorne strode in, his expression a mask of calculated calm. Holmes's voice cut through the silence. "Colonel, your presence here is no coincidence. Mr. Hanger, under my direction, sent you a message suggesting I was on the brink of discovering the chest's location. As expected, you could not resist the urge to intervene personally."
-
-Hawthorne's face darkened. "You're bluffing."
-
-Holmes gestured to the chest now sitting in the corner. "The contents of this chest contain all the proof needed to expose your treachery. The authorities are already aware."
-
+The drawing room at Blackwood Manor had become a stage for the final act. Holmes had summoned all key players: Lady Blackwood, Katherine, William, Lieutenant Cartwright, Colonel Hawthorne, and Mr. Hanger. The morning light cast long shadows across their faces.
+"Each person in this room," Holmes began, pacing deliberately, "had reason to seek Edward's military chest. William believed it held inheritance documents that could challenge Edward's claim. Lieutenant Cartwright hoped to recover compromising letters. Lady Blackwood sought proof of her son's suspicions. And Katherine – she wanted justice for her husband."
+Holmes paused, studying each face. "But only one person knew its true contents. Only one understood why Edward Blackwood had to die."
+"Baseless accusations," Hawthorne cut in, his composure slipping.
+"The chest," Holmes continued, gesturing to the corner where it now sat, "contains more than family secrets. Edward documented everything: military secrets sold to foreign powers, defense plans compromised, a network of betrayal reaching the highest offices."
+Katherine gasped softly. William's face paled.
+"Impossible," Hawthorne snarled, lunging forward – only to freeze as Inspector Lestrade and several Scotland Yard officers emerged from the adjoining room.
+"Actually, Colonel," Lestrade said, producing a warrant, "Major Forrester's testimony confirms everything. The game is up."
 ![Chapter9B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter9B.webp)
-
-Officers entered the room as Holmes continued, "Within this chest lie records meticulously kept by Captain Edward Blackwood. These documents implicate several others in a web of fraud and corruption extending through the East India Company and the military. Contracts falsified, funds siphoned, and lives endangered for personal gain—all orchestrated by Hawthorne's network."
-
-### Chapter 10: Confronting Hanger
-
-With Mycroft’s warning echoing in my mind, I found Hanger in the stable yard, brushing down a horse. His movements were precise, almost too deliberate, his silence a stark contrast.
-
-"The chest is in the priest hole behind the east wing’s library, isn’t it?" I asked, stepping closer.
-
-Hanger’s hand faltered for a fraction of a second. "I don’t know what you mean."
-
-"The scuff marks near the bookshelves, the disturbed dust. You checked on it recently." I met his gaze. "Hawthorne wouldn’t think to look there, but you would."
-
-He scoffed. "You talk a lot, Mr. Holmes."
-
-"And you avoid a lot, Mr. Hanger. Hawthorne had you move it. He told you William wanted what was inside."
-
-The brush stilled. "What does it matter? I did my job." His voice was flat, strained.
-
-"It matters because he lied. Hawthorne knew exactly what was in that chest. It wasn’t inheritance documents—it was evidence.  Edward was exposing something dangerous, and that's why he was killed."
-
-Hanger’s jaw tightened.
-
-"You think I don’t know why you helped him?" I continued, watching him closely. "You were in debt. Hawthorne offered you money, knowing you had no choice. He played on your resentment, made you believe William was stealing what belonged to Edward’s family."
-
-A muscle twitched in his cheek.
-
-"But Hawthorne doesn’t care about your debts or the Blackwood estate. He cares about himself. He used you, just as he used Edward, and he’ll discard you when he’s finished."
-
-Hanger’s fists clenched.
-
-"You were loyal to the Blackwoods," I said, softening my tone. "Edward trusted you. You moved that chest because you believed you were protecting something important. But Hawthorne used you, just like he used Edward. He’ll betray you, just like he betrayed him."
-
-Silence hung heavy.  Finally, Hanger exhaled, his shoulders slumping. "Tell me, Mr. Holmes… what now?"
-
-I pulled out a small brass key. "Or did you think you were the only one Katherine trusted?"
-
-Hanger’s head snapped up, his eyes fixed on the key.
-
-He exhaled again, a defeated sound.  "Come with me."
-
-Setting the Trap:
-
-The chest was exactly where I expected. The documents inside confirmed everything. As I relocked the chest, Hanger asked, "What now?"
-
-"You tell Hawthorne I might have found a clue about the chest’s location," I replied. "Let him think he’s still in control."
-
-That evening, the telegram went out. I leaned back, watching the ink dry, the trap set.
-
-Watson’s Discovery:
-
-The next morning, Holmes placed a sheet of paper in front of me. I was riveted by the words, barely registering his voice.
-
-It was far worse than I’d imagined. Not just fraud—treason. Ledgers detailing British supply movements, shipments marked for the Punjab, signatures from men in high places—men far beyond Hawthorne.
-
-I looked up, my heart pounding. "Holmes, this isn’t just corruption. It’s an international conspiracy!"
-
-Holmes nodded calmly. "Edward was thorough. This is the proof of why he had to die."
-
-I shook my head. "And you knew where to look before even opening the chest."
-
-A faint smile touched his lips. "A fortunate deduction."
-
-"We have him, Holmes. This is enough to destroy Hawthorne."
-
-Holmes steepled his fingers. "No, Watson. Hawthorne will destroy himself—men like him always do."
+As officers led Hawthorne away in handcuffs, his mask finally cracked. "You're meddling in matters far beyond your understanding, Holmes!"
+"On the contrary," Holmes replied quietly, "I understand perfectly. Edward died protecting the very Empire you betrayed."
+William stood shakily. "My brother... he tried to warn me."
+Katherine touched his arm gently. "He protected us all, in the end."
+The morning light strengthened, justice finally illuminating the shadows of Blackwood Manor.
 
 ### Chapter 11: Mycroft's Intervention
 
 "It began last night," Holmes explained to me later. Here is what Holmes narrated:
+The gaslight cast long shadows across 221B Baker Street as Mycroft Holmes settled into the worn leather chair. His presence, as always, carried the weight of matters far beyond ordinary crime.
+"Your suspicions about Hawthorne were correct, Sherlock," Mycroft said, producing a leather portfolio bearing the Crown's seal. "But the depth of his treachery exceeds even your estimates."
+Holmes's eyes gleamed as he examined the documents within. "The East India Company audit was merely a facade."
+"Indeed." Mycroft gestured to a particular page. "These intercepted messages reveal a network of foreign agents. Military secrets, fortress plans, troop movements—all sold to the highest bidder. Captain Blackwood's records would prove what we have long suspected."
+Holmes steepled his fingers. "Then Hawthorne will come for the chest himself."
+"The question is," Mycroft replied, "will you allow him that opportunity?"
+A faint smile played across Holmes's lips. "I rather think not. Watson and I have already set our trap."
 
-The night before, Mycroft arrived unannounced at Baker Street. He removed his gloves with measured precision and settled into his usual chair.
 
-"You were right to contact me," he said. "Hawthorne is no mere embezzler. His reach extends further than you suspected."  
+I found Hanger in the stables the next morning, his movements betraying the weight of conscience. The morning mist clung to the grounds of Blackwood Manor like a shroud.
+"The chest," I said quietly. "You hid it in the priest hole behind the east wing's library."
+His hands stilled on the horse's brush. "Mr. Holmes—"
+"Hawthorne manipulated you," I continued. "Used your loyalty to the Blackwoods against you. Made you believe William was the threat, when all along—"
+"I did what I thought was right," Hanger interrupted, his voice rough. "To protect the family."
+"As did Edward," I replied softly. "And now you can help finish what he started."
+The silence stretched between us before Hanger's shoulders slumped. "The priest hole," he admitted. "Edward showed me years ago. Said if anything happened..."
+Within the hour, the chest was retrieved. Its contents confirmed everything: ledgers, correspondence, carefully documented evidence of Hawthorne's treachery. 
 
-With a precise movement, he laid a leather folder on the table. "I've already made some inquiries." The folder contained official documents, Crown-sealed: correspondences, intercepted reports, ledgers—the pieces of a corrupt puzzle. "The audit is a smokescreen. Hawthorne knows the chest's contents could ruin him.  He's selling military secrets to foreign agents, the same networks we're watching." He pointed to an underlined section.  "We suspect it, but we need proof."
 
-I closed the folder. "And the chest?" "If Captain Blackwood was keeping records, they would be inside. If those records exist, Hawthorne knows they could ruin him."
-
-"Then he will come for it." "Precisely." Mycroft leaned back. "But the question, Sherlock, is whether you will let him take the first move." I smiled faintly. "I rather think I won’t."
 
 ### Chapter 12: Aftermath and Justice
 
