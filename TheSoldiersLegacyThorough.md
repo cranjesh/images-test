@@ -60,9 +60,9 @@ Holmes nodded, his expression thoughtful. "This is a tangled web, Lady Blackwood
 
 After she departed, Holmes stood abruptly, his movements purposeful. "Watson, your military connections may prove useful. Make inquiries at the War Office regarding Colonel Hawthorne and Lieutenant Cartwright. I have reason to believe their records will shed light on this affair."
 
-"You seem particularly interested in Hawthorne," I remarked.
+"You seem particularly interested in them," I remarked.
 
-Holmes did not respond immediately. Instead, he walked to the window, staring out at the rain-soaked streets. "His name is familiar. I recall reading about him in connection with some military conspiracy—perhaps six months ago. A man of questionable integrity, if memory serves."
+Holmes did not respond immediately. Instead, he walked to the window, staring out at the rain-soaked streets. "One of their names is familiar. I recall reading about him in connection with some military conspiracy—perhaps six months ago. A man of questionable integrity, if memory serves."
 
 ### Chapter 2: The Widow's Tale
 
@@ -204,6 +204,14 @@ At this, Hanger's grip on the brush tightened. "William Blackwood's always had i
 
 Hanger hesitated, then sighed heavily. "There's been talk—quiet, mind you—about the Colonel. Hawthorne's men don't trust him, and neither did the Captain. Edward was a good man, but he was digging where he shouldn't have. I told him as much."
 
+Back in our quarters, I asked Holmes how he had deduced Hanger's involvement.
+
+"Three small details, Watson. First, the leather polish on his hands matched the distinct variety used on the chest's fittings. Second, his frequent glances toward the library's east wing while discussing William suggested intimate knowledge of that section of the house. Finally, and most tellingly, the way he maintained the stable logs – meticulous, coded entries that mirrored the careful documentation style I observed in Edward's military records. A man chosen for his discretion and attention to detail."
+
+"Remarkable!" I exclaimed.
+
+"Merely observation, Watson. But in this case, observation that confirmed Hanger as Edward's chosen confidant rather than William's suspected spy."
+
 ### Chapter 6: Messages and Meetings
 
 The fog clung to the streets as our carriage approached 221B Baker Street. Holmes had insisted on stopping here before heading to the inn, citing the possibility of awaiting correspondence. Mrs. Hudson greeted us at the door with two urgent telegrams.
@@ -290,11 +298,19 @@ Officers entered the room as Holmes continued, "Within this chest lie records me
 
 Holmes had then orchestrated the trap, using Hanger to lure Hawthorne into revealing himself. The colonel's desperate attempt to secure the chest had sealed his fate.
 
+"The chest, Watson, never left the manor. Hanger, under my instruction, had concealed it within the old priest hole behind the library's east wall. A rather elegant solution, wouldn't you agree?"
+
+"But how did you know Hanger could be trusted?"
+
+"His limp, Watson. The same distinctive gait described in Edward's last letter to Forrester, mentioning 'the loyal man who helped secure the documents.' Furthermore, the dust patterns on his sleeve matched those found near the priest hole's entrance. Elementary deductions, but crucial ones."
+
 ### Chapter 11: Aftermath and Justice
 
 The scandal's ripples extended far beyond Blackwood Manor. Colonel Hawthorne's arrest prompted Parliament to launch a thorough investigation, leading to reforms that dismantled long-standing corrupt practices.
 
-William Blackwood left the estate quietly. Lieutenant Cartwright, freed from Hawthorne's manipulations, worked to support Katherine as she secured the estate.
+William Blackwood's departure from the estate carried a weight of its own revelation. Holmes later shared with me that among Edward's recovered papers was a letter addressed to his stepbrother, acknowledging the pain of their father's choice and offering a substantial portion of the great-uncle's Indian properties as reconciliation. The letter never reached William, intercepted by Hawthorne's men. When the truth emerged, William left not in defeat but in quiet shame, sending only a brief note to Katherine: "Edward was the better man. I see that now."
+
+Lieutenant Cartwright, freed from Hawthorne's manipulations, worked to support Katherine as she secured the estate.
 
 Holmes, reflecting on the case, remarked quietly as we departed, "Watson, sometimes exposing corruption at its roots does more than punish a villain—it changes the course of history."
 
