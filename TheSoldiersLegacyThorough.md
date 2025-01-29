@@ -234,29 +234,46 @@ Holmes's eyes gleamed. "Indeed. You will meet Forrester at the Criterion Bar. I 
 
 ### Chapter 7: Confrontation at the Inn
 
-The village inn was quiet when we arrived, its dimly lit interior offering an air of anonymity to its patrons. Lieutenant Cartwright sat in a shadowed corner, his shoulders hunched and his head bowed.
+The village inn was quiet when we arrived. Lieutenant Cartwright sat in a shadowed corner, hunched over a half-empty glass.
 
 ![Chapter7A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter7A.webp)
 
-"Lieutenant," Holmes began without preamble, "your silence thus far has done little to shield you. It is time for the truth. Why were you so interested in Edward's chest?"
+Holmes approached. "Lieutenant, your silence has done little to shield you. Why were you interested in Edward’s chest?"
 
-Cartwright shifted uncomfortably. "I... I wanted to retrieve something personal."
+Cartwright stiffened but did not look up. "I... I wanted to retrieve something personal."
 
-Holmes's voice sharpened. "Personal? Shall I elaborate? You sought the chest to retrieve two things: letters from Katherine before her marriage—letters you feared might raise questions about your loyalty to Captain Blackwood—and evidence of your own transgressions."
+Holmes's gaze sharpened. "Shall I elaborate? You sought the chest to recover two things: letters from Katherine before her marriage—letters that might call your loyalty to Captain Blackwood into question—and evidence of your own transgressions. Or perhaps, more than that?"
 
-Cartwright's eyes widened in shock. "How... how could you possibly—"
+Cartwright’s eyes widened. "How could you possibly—"
 
-"Because I know, Lieutenant," Holmes interrupted coldly. "Edward trusted you, but his trust came with conditions. Speak now, or I will ensure the full truth is laid bare."
+Holmes leaned forward. "It wasn’t just the contents, but what they could accomplish. A challenge to the will would force the chest into scrutiny. If Katherine demanded justice, the truth might emerge without your direct involvement. Convenient, wasn’t it?"
 
-Cartwright's shoulders slumped. "You're right. I embezzled small amounts—nothing that affected operations, but enough to get by. Edward found out, but he didn't expose me. He said he believed I could change."
+Cartwright exhaled. "I needed Katherine to push for an inquiry. If she contested the will, the chest would be re-examined. I thought if she fought for justice, the truth would come out."
 
-"And the letters?"
+Watson frowned. "And what truth? The corruption you covered up? Or the fact that you feared for yourself?"
 
-"They were personal," Cartwright admitted. "Katherine wrote them before she married Edward. If they got out, it could tarnish her reputation. I wanted to protect her from that shame."
+Cartwright’s fingers clenched. "No. I wanted to protect her. Edward was dead, and I knew Hawthorne would erase everything. If I spoke out alone, no one would believe me—I needed Katherine’s voice."
 
-"And Hawthorne?"
+Holmes exhaled. "A noble excuse wrapped in self-preservation. You wanted justice, but through her."
 
-"The Colonel... he always had connections. He could ruin anyone who stood in his way. He recommended Edward for a promotion before his death, but it felt calculated. Like he was hiding something."
+Cartwright looked away.
+
+After a pause, he sighed. "I made mistakes. I let things happen. But I swear, Holmes, I did not kill Edward. He was my friend."
+
+Holmes studied him. "No, you didn’t. But your cowardice played its part."
+
+Cartwright exhaled sharply, shame flickering in his eyes.
+
+Holmes stood. "We are closing in on the truth. If you wish to atone, now is the time."
+
+Cartwright said nothing, but his hands clenched. Holmes had given him an opening—a chance to act. Whether he would take it, only time would tell.
+
+As we stepped into the cold night, Watson glanced at Holmes. "Do you think he will help us?"
+
+Holmes smirked. "Oh, he will. The question is—will he help himself?"
+
+The rain had stopped, but the weight of the coming storm still hung in the air.
+
 
 ### Chapter 8: Major Forrester's Revelation
 
