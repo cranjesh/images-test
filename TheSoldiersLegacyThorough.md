@@ -210,13 +210,7 @@ Hanger scoffed. “To the Blackwood family. The rightful Blackwoods.”
 
 Holmes’s expression did not change, but something in his eyes sharpened. “And Colonel Hawthorne? I understand you served under him.”
 
-Hanger’s hands stilled. “A man of honor,” he said at last. “A man who earned his rank and his respect.”
-
-Holmes said nothing for a moment, watching him. Then he nodded. “Of course.”
-
-Hanger narrowed his eyes. “What are you getting at?”
-
-Holmes gave a small smile. “Nothing at all. Just an observation.”
+Hanger acknowledged.
 
 As we walked away, I turned to Holmes. “You saw something, didn’t you?”
 
@@ -324,7 +318,6 @@ Holmes smirked. "Oh, he will. The question is—will he help himself?"
 
 The rain had stopped, but the weight of the coming storm still hung in the air.
 
-
 ### Chapter 8: Major Forrester's Revelation
 
 The Criterion Bar was nearly empty when I arrived. Major James Forrester sat in a far corner, dressed in civilian clothes but carrying himself with unmistakable military bearing. His grave expression spoke volumes.
@@ -370,6 +363,34 @@ Holmes had then orchestrated the trap, using Hanger to lure Hawthorne into revea
 "But how did you know Hanger could be trusted?"
 
 "His limp, Watson. The same distinctive gait described in Edward's last letter to Forrester, mentioning 'the loyal man who helped secure the documents.' Furthermore, the dust patterns on his sleeve matched those found near the priest hole's entrance. Elementary deductions, but crucial ones."
+
+### Holmes Confronts Hanger###
+
+"With Mycroft’s warning in mind, I decided to speak with Mr. Hanger," Holmes said. "I found him in the stable yard, tending to one of the horses. His reluctance to speak was evident, but I knew he held the key to more than just the chest’s location."
+
+"And you went alone?" I asked, unable to keep the reproach from my voice.
+
+"Naturally, Watson," Holmes replied evenly. "You were otherwise engaged, and Mr. Hanger is not a man to be forthcoming in the presence of others."
+
+He paused to relight his pipe, exhaling a slow stream of smoke before continuing.
+
+"Hawthorne is a soldier, Mr. Holmes," Hanger had said. "Not a politician, not a schemer. He fought for his men. He led them."
+
+Holmes glanced at me. "It was a sentiment he repeated with conviction. But conviction, Watson, is not the same as certainty."
+
+"So you planted the doubt?" I said.
+
+"Not planted—uncovered," Holmes corrected.
+
+"And what was his answer?"
+
+"There was no answer, Watson," Holmes said. "Not in words, at least. He hesitated—just for a moment. And that moment was all I needed."
+
+"He did not admit to anything outright, of course," Holmes continued. "Men like Hanger do not turn so easily. But it was enough to make him listen. I reminded him that Edward Blackwood had trusted him. That he had, perhaps, been the last man Edward ever trusted. And then I left him to decide for himself which man he truly owed his allegiance to."
+
+"And did he?"
+
+Holmes’s expression was unreadable.
 
 ### Chapter 11: Aftermath and Justice
 
