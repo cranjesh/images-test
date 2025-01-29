@@ -22,7 +22,7 @@ Rain drummed steadily against the windows of 221B Baker Street as I finished rec
 
 Before I could inquire further, a sharp knock at the door interrupted our quiet. Mrs. Hudson appeared moments later, announcing, "Lady Blackwood to see you, Mr. Holmes."
 
-The woman who entered was the very picture of mourning. Her finely tailored black gown spoke of her status, but her trembling hands and pale complexion betrayed a weight far heavier than her garments. 
+The woman who entered was the very picture of mourning. Her finely tailored black gown spoke of her status, but her trembling hands and pale complexion betrayed a weight far heavier than her garments.
 
 Holmes stood, gesturing to the chair opposite his. "Please, Lady Blackwood, take a seat. I suspect your visit concerns the recent disappearance of your son's military chest—a loss made all the more troubling given the East India Company's imminent audit."
 
@@ -34,35 +34,29 @@ Holmes cut her off with a faint smile. "The morning paper notes unusual activity
 
 Lady Blackwood sank into the chair, her gloved hands clutching a small reticule. "My son, Captain Edward Blackwood, died two weeks ago in India. He was stationed at Fort Kalyan, conducting routine inspections. The circumstances of his death are... unclear. The local police are still investigating, but they have not ruled out foul play."
 
-"Foul play, you say?" Holmes's voice sharpened. "What makes you think so?"
+Holmes’s gaze sharpened. "What makes you think so?"
 
-"There were rumours among his men," she explained, her voice faltering. "They said Edward discovered irregularities in the supply chains. He had been reporting directly to Colonel Hawthorne and had grown suspicious of certain dealings. The night he died, he was seen leaving the officers' quarters alone. By morning, he was found at the base of the cliffs. They said he fell... but my son was not careless, Mr. Holmes."
+"There were rumors among his men," she explained, her voice faltering. "They said Edward had concerns—something about irregularities in the supply chains. He had been reporting directly to his superior officers, but in his letters, he seemed... uneasy. The night he died, he was seen leaving the officers' quarters alone. By morning, he was found at the base of the cliffs. They say he fell, but my son was not careless, Mr. Holmes."
 
-Her voice broke slightly before she continued. "Edward was an honourable man, dedicated to his duty and to his family. He loved his wife, Katherine, and their two children more than anything. But in recent months, his letters hinted at a growing unease. He never spoke openly, but I fear he knew something dangerous."
+Her voice broke slightly before she continued. "Edward was an honourable man, devoted to his duty and family. His wife, Katherine, and their children were everything to him. But his letters... they grew shorter. More cautious. As if he feared someone might be watching."
 
-Holmes leaned back slightly, his gaze piercing. "What about the military chest? When was it last seen?"
+Holmes steepled his fingers. "You mentioned a missing military chest?"
 
-"The chest was brought back from India with his effects," she replied. "It was locked, as always, and stored in his study at Blackwood Manor. But it disappeared three days ago. Without the will inside, Edward's stepbrother, William, could claim the estate, leaving Katherine and the children destitute."
+Lady Blackwood nodded. "His belongings were returned to Blackwood Manor along with his effects. The chest was locked, as always, and stored in his study. But three nights ago, it vanished without a trace."
 
-"Do you suspect anyone in particular?" Holmes asked.
+Holmes leaned forward slightly. "Who had access to the study?"
 
-Lady Blackwood hesitated before answering. "William is the obvious choice. He has always resented Edward. But others were present when the chest disappeared—Colonel Hawthorne, Edward's commanding officer, and Lieutenant Cartwright, who served under him. Both have been behaving suspiciously."
+Lady Blackwood hesitated, as though weighing her words. "Few people. His widow, of course, and my stepson, William. There were visitors as well—former associates of Edward’s. I do not wish to make unfounded accusations, Mr. Holmes, but it is all... troubling."
 
-"How so?"
+"Troubling indeed," Holmes murmured.
 
-"Colonel Hawthorne visited Blackwood Manor shortly after Edward's death. He claimed to offer condolences, but his focus seemed to be on Edward's study. Lieutenant Cartwright arrived a week ago, saying he had personal effects to deliver from India. But Edward's belongings had already been returned months before. When I questioned Cartwright, he turned pale and mentioned 'unfinished business' with the Colonel."
+She exhaled shakily. "I do not know what to believe, Mr. Holmes. Perhaps it is nothing. But the chest held his will, among other documents. Without it, the estate may be contested. And if my fears are correct—if Edward’s death was not an accident—then I worry that whoever wanted him silenced has not finished their work."
 
-"And William?" Holmes interjected. "You mentioned resentment."
-
-"William believes he is the rightful heir. He became particularly fixated on the estate three months ago after news of Edward's great-uncle's death in India. He confronted Edward, accusing him of hiding documents that would change the inheritance. Edward dismissed him, but their relationship grew bitter."
-
-Holmes nodded, his expression thoughtful. "This is a tangled web, Lady Blackwood. Rest assured, I shall do everything in my power to find the truth. Now, if you'll excuse us, we must begin our inquiries."
-
-After she departed, Holmes stood abruptly, his movements purposeful. "Watson, your military connections may prove useful. Make inquiries at the War Office regarding Colonel Hawthorne and Lieutenant Cartwright. I have reason to believe their records will shed light on this affair."
+Holmes nodded, his expression unreadable. "I will need to see the study myself. In the meantime, Watson, your military connections may prove useful. Make inquiries at the War Office regarding the officers Edward reported to. I have reason to believe their records will shed light on this affair."
 
 "You seem particularly interested in them," I remarked.
 
-Holmes did not respond immediately. Instead, he walked to the window, staring out at the rain-soaked streets. "One of their names is familiar. I recall reading about him in connection with some military conspiracy—perhaps six months ago. A man of questionable integrity, if memory serves."
+Holmes did not respond immediately. Instead, he walked to the window, staring out at the rain-soaked streets. "A name caught my attention. I recall reading it in connection with a military scandal some months ago. A man of questionable integrity, if memory serves."
 
 ### Chapter 2: The Widow's Tale
 
