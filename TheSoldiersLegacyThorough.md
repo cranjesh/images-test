@@ -174,7 +174,7 @@ Holmes leaned forward. "You visited Blackwood Manor last week, delivering Edward
 
 ### Chapter 5: Whispers in the Manor
 
-The Stables at Blackwood Manor
+🔹 The Stables at Blackwood Manor
 
 ![Chapter5A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
 
@@ -208,7 +208,11 @@ Holmes inclined his head slightly. “Loyalty is a commendable trait. But loyalt
 
 Hanger scoffed. “To the Blackwood family. The rightful Blackwoods.”
 
-Holmes did not press further. He merely nodded. “Of course.”
+Holmes’s expression did not change, but something in his eyes sharpened. “And Colonel Hawthorne? I understand you served under him.”
+
+Hanger’s hands stilled. “A man of honor,” he said at last. “A man who earned his rank and his respect.”
+
+Holmes said nothing for a moment, watching him. Then he nodded. “Of course.”
 
 Hanger narrowed his eyes. “What are you getting at?”
 
@@ -218,18 +222,8 @@ As we walked away, I turned to Holmes. “You saw something, didn’t you?”
 
 Holmes’s eyes gleamed. “A man trying very hard not to appear nervous.”
 
-The Drawing Room at Blackwood Manor
-That evening, Blackwood Manor seemed heavy with quiet tension. The flickering glow of the fireplace cast long shadows across the paneled walls. Holmes sat by the window, lost in thought, while I paced restlessly.
+🔹 Revisiting Hanger
 
-Something about Hanger lingered in my mind. Hoping to clear my thoughts, I wandered the halls. As I passed the dimly lit library, I heard voices. I stopped, pressing myself against the wall, listening.
-
-“Hanger,” said a sharp voice. William Blackwood. There was irritation in his tone. “The man’s loyalties were always questionable.”
-
-There was a pause, then a bitter laugh. “They’ll never pin anything on me. Not with Katherine parading her innocence and Cartwright skulking about like a scolded child.”
-
-Footsteps approached. I stepped back into an alcove as William strode past, his expression a mixture of frustration and smug satisfaction.
-
-Revisiting Hanger
 The next afternoon, Holmes and I returned to the stable yard. Hanger was in the stables once more, brushing down one of the manor’s horses. His shoulders were stiff, his movements deliberate.
 
 Holmes greeted him directly this time. “Mr. Hanger, I understand you have been a trusted servant of the Blackwood family for many years.”
@@ -242,18 +236,23 @@ Hanger hesitated. Then, with a heavy sigh, he set the brush down. “William Bla
 
 “Perhaps,” Holmes allowed. “But Captain Blackwood confided in you, didn’t he?”
 
-Hanger hesitated again. His gaze flickered toward the east wing of the manor before he sighed. “Edward was a good man, but he was digging where he shouldn’t have. I told him as much.”
+Hanger’s expression remained neutral, but his gaze flickered toward the east wing of the manor before he sighed. “Edward was a good man, but he was digging where he shouldn’t have. I told him as much.”
 
 Holmes studied him a moment longer before nodding. “I see.”
 
-Holmes’s Deductions
+🔹 Holmes’s Deductions
+
 Back in our quarters, I turned to Holmes. “You suspected Hanger knew more than he let on, didn’t you?”
 
 Holmes steepled his fingers. “Not of wrongdoing, Watson. But of keeping a secret that may prove critical.”
 
 I frowned. “How?”
 
-Holmes allowed himself a small smile. “Three small details. First, the polish on his hands—it matches the variety used on the chest’s fittings. Second, his glances toward the library’s east wing when William was mentioned—suggesting intimate knowledge of that section. Third, and most tellingly, the way he maintains the stable logs—meticulous, coded entries that mirror Edward’s own military documentation style.”
+Holmes allowed himself a small smile. “Three small details. First, the polish on his hands—it matches the variety used on the chest’s fittings. Second, his glances toward the library’s east wing when William was mentioned—suggesting intimate knowledge of that section. Third, and most tellingly, the way he spoke of Hawthorne.”
+
+I raised a brow. “His loyalty?”
+
+“Exactly.” Holmes exhaled. “He defended Hawthorne when he had no need to. That tells me his allegiance is still strong—but perhaps, not unshakable.”
 
 I exhaled. “So Hanger wasn’t William’s spy. He was Edward’s confidant.”
 
