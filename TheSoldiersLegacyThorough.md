@@ -236,7 +236,7 @@ Holmes's eyes gleamed. "Indeed. You will meet Forrester at the Criterion Bar. I 
 
 The village inn was quiet when we arrived, its dimly lit interior offering an air of anonymity to its patrons. Lieutenant Cartwright sat in a shadowed corner, his shoulders hunched and his head bowed.
 
-![Chapter7A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Bar.webp)
+![Chapter7A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter7A.webp)
 
 "Lieutenant," Holmes began without preamble, "your silence thus far has done little to shield you. It is time for the truth. Why were you so interested in Edward's chest?"
 
