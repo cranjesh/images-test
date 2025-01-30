@@ -357,15 +357,22 @@ Katherine gasped softly. William's face paled.
 
 "Actually, Colonel," Lestrade said, producing a warrant, "Major Forrester's testimony confirms everything. The game is up."
 
-As officers led Hawthorne away in handcuffs, his mask finally cracked. "You're meddling in matters far beyond your understanding, Holmes!"
+As officers moved in, Hawthorne made a sudden move for his revolver, but Holmes was faster. With a swift motion, he drew a small pistol from his pocket and leveled it at the Colonel. "I would strongly advise against that," he said coolly.
 
-"On the contrary," Holmes replied quietly, "I understand perfectly. Edward died protecting the very Empire you betrayed."
+Hawthorne's mask finally cracked, his hand trembling slightly before he slowly let the weapon drop to the floor. "You meddle in affairs beyond your understanding, Holmes! Do you think this ends with me?" he spat.
 
-William stood shakily. "My brother... he tried to warn me."
+"On the contrary," Holmes replied, slipping his pistol back into his coat, "this is merely the beginning. The ledgers you sought to hide will unravel your entire operation. Men of power and influence will be implicated—your former allies will not protect you."
+
+Hawthorne’s sneer faltered as the weight of Holmes’s words settled. The certainty in Holmes’s voice cut through his bravado, and for the first time, true fear flickered in his eyes.
+
+Lestrade stepped forward. "Colonel Reginald Hawthorne, you are under arrest for conspiracy, treason, and the murder of Captain Edward Blackwood."
+
+The man who had orchestrated so much devastation was led away in handcuffs, his bravado replaced by a grim, silent resignation. William stood shakily, his expression hollow. "My brother... he tried to warn me."
 
 Katherine touched his arm gently. "He protected us all, in the end."
 
 The morning light strengthened, justice finally illuminating the shadows of Blackwood Manor.
+
 
 ## Chapter 10: Mycroft's Intervention
 
