@@ -40,13 +40,13 @@ Holmes's gaze sharpened. "What makes you think so?"
 
 "There were rumors among his men," she explained, her voice faltering. "They said Edward had concerns—something about irregularities in the supply chains. He had been reporting directly to his superior officers, but in his letters, he seemed... uneasy. The night he died, he was seen leaving the officers' quarters alone. By morning, he was found at the base of the cliffs. They say he fell, but my son was not careless, Mr. Holmes."
 
-Her voice broke slightly before she continued. "Edward was an honourable man, devoted to his duty and family. His wife, Katherine, and their children were everything to him. But his letters... they grew shorter. More cautious. As if he feared someone might be watching."
+Her voice broke slightly before she continued. "Edward was an honourable man, devoted to his duty and family. His wife, Katherine, and their children were everything to him. But his letters... they grew shorter. More cautious. He wrote in our old childhood code - something he hadn't done since his first deployment. The last letter mentioned supply routes and missing ledgers, but insisted we discuss it in person. Then three days later..." Her voice faltered. "As if he feared someone might be watching."
 
 Holmes steepled his fingers. "You mentioned a missing military chest?"
 
-Lady Blackwood nodded. "His belongings were returned to Blackwood Manor along with his effects. The chest was locked, as always, and stored in his study. But three nights ago, it vanished without a trace."
+Lady Blackwood nodded. "His belongings were returned to Blackwood Manor along with his effects. The chest was locked, as always, and stored in his study. But the night before the East India Company's audit was to begin, it vanished without a trace. Edward had been insistent about keeping it close - he'd even hired a former military man as groundskeeper, someone he trusted from his days at Fort Kalyan."
 
-Holmes leaned forward slightly. "Who had access to the study?"
+Holmes leaned forward slightly, his attention caught by a detail. "The timing coincides with Colonel Hawthorne's unexpected visit to London. Who had access to the study?"
 
 Lady Blackwood hesitated, as though weighing her words. "Few people. His widow, of course, and my stepson, William. There were visitors as well—former associates of Edward's. I do not wish to make unfounded accusations, Mr. Holmes, but it is all... troubling."
 
@@ -244,7 +244,11 @@ Hanger acknowledged.
 
 As we walked away, I turned to Holmes. "You saw something, didn't you?"
 
-Holmes's eyes gleamed. "A man trying very hard not to appear nervous."
+Holmes's eyes gleamed. "Several things, Watson. The particular brass polish on his hands - it's a specific type used only on military equipment, the same variety I noticed on Edward's chest fittings. His unconscious glances toward the east wing whenever William is mentioned suggest intimate knowledge of that section. And most telling - the careful way he positions himself to watch the library windows while pretending to focus on his work. A man accustomed to keeping watch."
+
+"But how did you know about his military background?"
+
+"His stance when startled - perfectly balanced, ready for action. The calluses on his trigger finger haven't fully faded. And notice how he assessed us both the moment we entered, marking potential exits. Old habits, Watson. They reveal more than any words."
 
 The next afternoon, Holmes and I returned to the stable yard. Hanger was in the stables once more, brushing down one of the manor's horses. His shoulders were stiff, his movements deliberate.
 
@@ -272,7 +276,7 @@ Holmes allowed himself a small smile. "Three small details. First, the polish on
 
 I raised a brow. "His loyalty?"
 
-"Exactly." Holmes exhaled. "He defended Hawthorne when he had no need to. That tells me his allegiance is still strong—but perhaps, not unshakable."
+"Exactly." Holmes exhaled. "His evasiveness about Hawthorne suggests fear rather than loyalty. That tells me he knows something damaging about the Colonel."."
 
 I exhaled. "So Hanger wasn't William's spy. He was Edward's confidant."
 
