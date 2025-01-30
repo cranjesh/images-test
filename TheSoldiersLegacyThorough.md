@@ -65,45 +65,36 @@ Holmes did not respond immediately. Instead, he walked to the window, staring ou
 
 ![The Detectives](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Introduction%20of%20Detectives%201%20and%202.webp)
 
-The mist lay thick over the countryside as our carriage rattled toward Blackwood Manor. The estate emerged from the gloom, its ivy-clad walls and worn statues hinting at long-buried secrets. 
+The mist lay thick as our carriage approached Blackwood Manor. The butler led us through the foyer to the drawing room.
 
-Inside, the manor's grandeur remained, though time had softened its edges. 
+Lady Blackwood sat by the fire in mourning dress. "Thank you for coming, Mr. Holmes," she whispered. "I have nowhere else to turn."
 
-Lady Blackwood received us in a dimly lit drawing room, her mourning attire as somber as the fire struggling against the cold. Her composure was practiced, but her trembling hands betrayed unease.
+"You believe your son's death was no accident," Holmes said. "And that the disappearance of his military chest is no ordinary theft."
 
-“Thank you for coming, Mr. Holmes,” she whispered. “I have nowhere else to turn.”
+She nodded. "It vanished three nights ago—locked, untouched. No signs of forced entry."
+"Who had access?"
+"Katherine, my daughter-in-law, my stepson, William, and a few of his former associates. But I cannot cast suspicion blindly."
 
-“You believe your son’s death was no accident,” Holmes said. “And that the disappearance of his military chest is no ordinary theft.”
+He turned to Lady Blackwood. "Would you show us to the study?"
+In the study, Holmes crouched by the floor. "Observe, Watson." His fingers traced faint scratches near where the chest had stood.
+"It was moved," I deduced, "not stolen."
+"Precisely." Holmes's gaze flicked toward the doorway. "And with care. The marks end at the threshold—whoever removed it ensured no trail beyond this room."
 
-She hesitated, then nodded. “It vanished three nights ago—locked, untouched. No signs of forced entry.”
+Lady Blackwood's breath caught. "Then it is still here?"
+"I suspect so," Holmes said. "Tell me, did your son keep ledgers, notes, or letters regarding his work in India?"
+She hesitated. "A locked drawer in his desk. The key was never found."
+Holmes exchanged a glance with me. "Then we must find it."
+Holmes straightened from examining the desk. "The key may be elsewhere. Lady Blackwood, does the house have a library?"
+"Yes, the family library. Through the connecting door."
 
-“Who had access?”
+In the library, Holmes ran a finger along a bookshelf. "Curious," he murmured. "The dust here—disturbed in a peculiar way. As though something large was moved but carefully replaced."
+"Notice, Watson. First, the scratch patterns—diagonal, not parallel, suggesting the chest was rotated. Second, the dust pattern shows it was lifted, not dragged. Third, observe these faint impressions—the work of at least two people, coordinating their movements. And finally, the timing: done at night, when the servants would be below stairs. What does this tell us about our perpetrator?"
 
-“Katherine, my daughter-in-law, my stepson, William, and a few of his former associates. But I cannot cast suspicion blindly.”
+Lady Blackwood looked puzzled. "Nothing has been touched in this room for years."
 
-Holmes stood. “We must see the study.”
+"Evidently," Holmes said lightly, brushing his hands off and stepping away. "Merely an observation."
 
-The manor’s corridors swallowed our footsteps. The study, as I imagined, was lined with bookshelves, its grand desk still carrying the faint scent of pipe smoke. Holmes moved swiftly, then crouched by the floor.
-
-“Observe, Watson.” His fingers traced faint scratches near where the chest had stood.
-
-“It was moved,” I deduced, “not stolen.”
-
-“Precisely.” Holmes’s gaze flicked toward the doorway. “And with care. The marks end at the threshold—whoever removed it ensured no trail beyond this room.”
-
-Lady Blackwood’s breath caught. “Then it is still here?”
-
-“I suspect so,” Holmes said. “Tell me, did your son keep ledgers, notes, or letters regarding his work in India?”
-
-She hesitated. “A locked drawer in his desk. The key was never found.”
-
-Holmes exchanged a glance with me. “Then we must find it.”
-
-The library was dark and cold, the scent of aged parchment and furniture polish lingering in the air. As Holmes stepped inside, he ran a gloved finger along the base of a bookshelf. He frowned. "Curious," he murmured. I glanced over. "What is?" "The dust here—disturbed in a peculiar way. As though something large was moved but carefully replaced."
-
-Lady Blackwood looked puzzled. "Nothing has been touched in this room for years." "Evidently," Holmes said lightly, brushing his hands off and stepping away. "Merely an observation."
-
-The mystery had only deepened, and I had no doubt that before the night was over, we would uncover more than we bargained for.
+The mystery had only deepened, and as we prepared to interview Katherine Blackwood, I suspected the answer lay in Edward's final days at Fort Kalyan.
 
 ## Chapter 3: The Widow's Tale
 
