@@ -281,6 +281,11 @@ Holmes smiled. "Where Edward left his last record—before someone ensured he co
 
 ## Chapter 7: Messages and Meetings
 
+As we left Blackwood Manor, Holmes remained uncharacteristically quiet.  I had known Holmes long enough to recognize when he was drawing connections yet unspoken. As we neared Baker Street, "Watson," he murmured at last, "what do you make of Hanger’s loyalty?"
+
+"He’s protecting something—or someone," I replied. "But his allegiance does not lie with Colonel Hawthorne."
+"Indeed." Holmes exhaled
+
 The fog clung to Baker Street as our carriage arrived. Mrs. Hudson met us with two urgent telegrams.
 
 I read the first:
@@ -295,13 +300,10 @@ Holmes handed me the second:
 Return tonight. Have evidence of Hawthorne's systematic fraud beyond Fort Kalyan. East India Company audit findings crucial.
 — Mycroft"
 
-"Your brother's timing is telling," I observed, checking my revolver.
+Holmes scanned the telegrams, his expression darkening.
 
-Holmes struck a match. "Indeed. We must split up—you to Forrester, I to Mycroft. But first, Cartwright awaits at the inn."
-
-"If either meeting is compromised—"
-
-"The Irregulars watch both locations," Holmes interjected. "Wiggins guards the Criterion's back exit. Test Forrester—ask about the Bombay supply route. If he hesitates, leave immediately. I'll use Baker Street's tradesman's entrance if needed. "A misstep here would be most inconvenient. We must ensure at least one of us leaves with answers."
+"Curious," he said. "Mycroft’s inquiry aligns too conveniently with Blackwood’s fate. And Forrester—if his information is accurate, we are dealing with something far larger than a missing will."
+He turned to me. "Watson, we must divide our efforts. You will meet Forrester; I shall speak with Mycroft. The threads are converging."
 
 The fog thickened as we departed, swallowing the street lamps. Ahead lay Cartwright's secrets, then our separate paths into what felt increasingly like a carefully laid snare.
 
