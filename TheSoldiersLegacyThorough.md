@@ -103,7 +103,7 @@ Lady Blackwood looked puzzled. "Nothing has been touched in this room for years.
 
 The mystery had only deepened, and I had no doubt that before the night was over, we would uncover more than we bargained for.
 
-## Chapter 2a: The Widow's Tale
+## Chapter 3: The Widow's Tale
 
 Holmes sat in silence, his keen gaze sweeping the landscape, while my thoughts turned to Katherine Blackwood—the widow of a man whose death seemed far from ordinary. A butler led us into the drawing room, where Lady Blackwood awaited. A butler led us into another drawing room, where Katherine awaited. She stood as we entered, her figure slight yet composed, though her pale complexion and dark-circled eyes betrayed the toll grief had taken.
 
@@ -153,7 +153,7 @@ She gave a small, tired smile. "They're young, Dr. Watson… too young to unders
 
 The sorrow in her voice was unmistakable. I nodded, offering what little comfort words could provide. Holmes, ever perceptive, had paused his pacing and observed her for a moment before speaking again.
 
-## Chapter 3: The Bitter Brother
+## Chapter 4: The Bitter Brother
 
 Blackwood Manor's halls felt colder as Holmes and I followed the butler to William Blackwood's study. The room, a stark contrast to Edward's orderly workspace, was cluttered with papers and ledgers. A faint tang of pipe smoke lingered, mingling with the musty scent of old books. William stood by the window, his rigid posture and scowl an unspoken warning of his mood.
 
@@ -181,7 +181,7 @@ Holmes leaned forward slightly, his tone cool and deliberate. "And yet, his deat
 
 William hesitated, his gaze flickering toward the window. "Edward was many things, but careless wasn't one of them. If you want my opinion, someone wanted him out of the way—and whoever it was, they succeeded."
 
-## Chapter 4: The Lieutenant's Secrets
+## Chapter 5: The Lieutenant's Secrets
 
 The garrison was a functional collection of brick buildings, its starkness matching the precision of military life. Lieutenant Cartwright's quarters reflected the same discipline: a plain room with a desk, a journal, and a neatly folded uniform.
 
@@ -289,7 +289,7 @@ I leaned forward. "Where should we be looking, then?"
 
 Holmes smiled. "Where Edward left his last record—before someone ensured he could write no more."
 
-## Chapter 6: Messages and Meetings
+## Chapter 7: Messages and Meetings
 
 The fog clung to the streets as our carriage approached 221B Baker Street. Holmes had insisted on stopping here before heading to the inn, citing the possibility of awaiting correspondence. Mrs. Hudson greeted us at the door with two urgent telegrams.
 
@@ -309,7 +309,7 @@ Return to Baker Street tonight. Critical information about Hawthorne and the Eas
 
 Holmes's eyes gleamed. "Indeed. You will meet Forrester at the Criterion Bar. I will return here later tonight to meet Mycroft. First, however, we must confront Lieutenant Cartwright at the inn."
 
-## Chapter 7: Confrontation at the Inn
+## Chapter 8: Confrontation at the Inn
 
 The village inn was quiet when we arrived. Lieutenant Cartwright sat in a shadowed corner, hunched over a half-empty glass.
 
@@ -351,7 +351,7 @@ Holmes smirked. "Oh, he will. The question is—will he help himself?"
 
 The rain had stopped, but the weight of the coming storm still hung in the air.
 
-## Chapter 8: Major Forrester's Revelation
+## Chapter 9: Major Forrester's Revelation
 
 The Criterion Bar was nearly empty when I arrived. Major James Forrester sat in a far corner, dressed in civilian clothes but carrying himself with unmistakable military bearing. His grave expression spoke volumes.
 
@@ -367,7 +367,7 @@ Forrester nodded grimly. "He documented everything in meticulous detail. This no
 
 "Two days later, Edward was dead."
 
-## Chapter 9: The Final Assembly
+## Chapter 10: The Final Assembly
 
 The drawing room at Blackwood Manor had become a stage for the final act. Holmes had summoned all key players: Lady Blackwood, Katherine, William, Lieutenant Cartwright, Colonel Hawthorne, and Mr. Hanger. The morning light cast long shadows across their faces.
 
@@ -399,8 +399,7 @@ Katherine touched his arm gently. "He protected us all, in the end."
 
 The morning light strengthened, justice finally illuminating the shadows of Blackwood Manor.
 
-
-## Chapter 10: Mycroft's Intervention
+## Chapter 11: Mycroft's Intervention
 
 The gaslight cast long shadows across 221B Baker Street as Mycroft Holmes settled into the worn leather chair. His presence, as always, carried the weight of matters far beyond ordinary crime.
 
@@ -416,7 +415,7 @@ Holmes steepled his fingers. "Then Hawthorne will come for the chest himself."
 
 A faint smile played across Holmes's lips. "I rather think not. Watson and I have already set our trap."
 
-### Chapter 11: Hanger's final confrontation
+### Chapter 12: Hanger's final confrontation
 
 I found Hanger in the stable yard, brushing down a horse. His movements were precise, almost too deliberate, his silence a stark contrast. "The chest is in the priest hole behind the east wing’s library, isn’t it?" I asked, stepping closer.
 
@@ -440,7 +439,7 @@ I looked up, my heart pounding. "Holmes, this isn’t just corruption. It’s an
 
 A faint smile touched his lips. "A fortunate deduction." "We have him, Holmes. This is enough to destroy Hawthorne." Holmes steepled his fingers. "No, Watson. Hawthorne will destroy himself—men like him always do."
 
-### Chapter 12: Aftermath and Justice
+### Chapter 13: Aftermath and Justice
 
 The scandal's ripples extended far beyond Blackwood Manor. Colonel Hawthorne's arrest prompted Parliament to launch a thorough investigation, leading to reforms that dismantled long-standing corrupt practices.
 
