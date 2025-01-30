@@ -284,23 +284,29 @@ Holmes smiled. "Where Edward left his last record—before someone ensured he co
 
 ## Chapter 7: Messages and Meetings
 
-The fog clung to the streets as our carriage approached 221B Baker Street. Holmes had insisted on stopping here before heading to the inn, citing the possibility of awaiting correspondence. Mrs. Hudson greeted us at the door with two urgent telegrams.
+The fog clung to Baker Street as our carriage arrived. Mrs. Hudson met us with two urgent telegrams.
 
-I unfolded the first telegram and read:
+I read the first:
 
 "Watson,
-Returned from overseas and saw your message. Urgent we speak. Edward confided critical details about Hawthorne before his death. Criterion Bar, seven o'clock. Come alone.
+Returned from overseas. Edward showed me Hawthorne's doctored supply manifests two days before his death. Military supplies diverted through false accounts. Fort Kalyan's true ledgers hidden in Edward's chest. Hawthorne knows. Criterion Bar, seven o'clock. Come alone.
 — Maj. James Forrester"
 
-Holmes raised an eyebrow, already reading the second telegram. He finished it with a faint smile and handed it to me:
+Holmes handed me the second:
 
 "Holmes,
-Return to Baker Street tonight. Critical information about Hawthorne and the East India Company audit requires your attention.
+Return tonight. Have evidence of Hawthorne's systematic fraud beyond Fort Kalyan. East India Company audit findings crucial.
 — Mycroft"
 
-"Your brother's timing suggests we are approaching dangerous waters," I remarked.
+"Your brother's timing is telling," I observed, checking my revolver.
 
-Holmes's eyes gleamed. "Indeed. You will meet Forrester at the Criterion Bar. I will return here later tonight to meet Mycroft. First, however, we must confront Lieutenant Cartwright at the inn."
+Holmes struck a match. "Indeed. We must split up—you to Forrester, I to Mycroft. But first, Cartwright awaits at the inn."
+
+"If either meeting is compromised—"
+
+"The Irregulars watch both locations," Holmes interjected. "Wiggins guards the Criterion's back exit. Test Forrester—ask about the Bombay supply route. If he hesitates, leave immediately. I'll use Baker Street's tradesman's entrance if needed. We cannot risk losing both leads if this is Hawthorne's trap."
+
+The fog thickened as we departed, swallowing the street lamps. Ahead lay Cartwright's secrets, then our separate paths into what felt increasingly like a carefully laid snare.
 
 ## Chapter 8: Confrontation at the Inn
 
@@ -410,27 +416,35 @@ A faint smile played across Holmes's lips. "I rather think not. Watson and I hav
 
 ### Chapter 12: Hanger's final confrontation
 
-I found Hanger in the stable yard, brushing down a horse. His movements were precise, almost too deliberate, his silence a stark contrast. "The chest is in the priest hole behind the east wing’s library, isn’t it?" I asked, stepping closer.
+I found Hanger in the stable yard, his weathered hands moving mechanically over the horse's flank.
 
-Hanger’s hand faltered for a fraction of a second. "I don’t know what you mean." "The scuff marks near the bookshelves, the disturbed dust. You checked on it recently." I met his gaze. "Hawthorne wouldn’t think to look there, but you would." He scoffed. "You talk a lot, Mr. Holmes."
+"Notice, Watson," Holmes said quietly, "how his left cuff bears traces of the library's distinctive red carpet fibres. And there—" he pointed to Hanger's boots, "—dust from behind the false panel, unique to priest holes of that era."
 
-"And you avoid a lot, Mr. Hanger. Hawthorne had you move it. He told you William wanted what was inside." The brush stilled. "What does it matter? I did my job." His voice was flat, strained. "It matters because he lied. Hawthorne knew exactly what was in that chest. It wasn’t inheritance documents—it was evidence.  Edward was exposing something dangerous, and that's why he was killed."
+"The chest is in the priest hole behind the east wing's library," Holmes declared to Hanger. "The evidence is quite clear."
 
-Hanger’s jaw tightened. "You think I don’t know why you helped him?" I continued, watching him closely. "You were in debt. Hawthorne offered you money, knowing you had no choice. He played on your resentment, made you believe William was stealing what belonged to Edward’s family."
+Hanger's hand froze mid-stroke. "You're mistaken, Mr. Holmes."
 
-A muscle twitched in his cheek. "But Hawthorne doesn’t care about your debts or the Blackwood estate. He cares about himself. He used you, just as he used Edward, and he’ll discard you when he’s finished." Hanger’s fists clenched. "You were loyal to the Blackwoods," I said, softening my tone. "Edward trusted you. You moved that chest because you believed you were protecting something important. But Hawthorne used you, just like he used Edward. He’ll betray you, just like he betrayed him."
+"Am I? The scuff marks by the third bookshelf. Regular checking, judging by the dust pattern. Hawthorne ordered you to move it there, did he not?"
 
-Silence hung heavy.  Finally, Hanger exhaled, his shoulders slumping. "Tell me, Mr. Holmes… what now?" I pulled out a small brass key. "Or did you think you were the only one Katherine trusted?" Hanger’s head snapped up, his eyes fixed on the key. He exhaled again, a defeated sound.  "Come with me."
+"I don't know what you mean."
 
-The chest was exactly where I expected. The documents inside confirmed everything. As I relocked the chest, Hanger asked, "What now?" "You tell Hawthorne I might have found a clue about the chest’s location," I replied. "Let him think he’s still in control."
+"Come now, Mr. Hanger. A former military man like yourself would recognise the importance of those documents. Supply routes. Troop movements. Information that could devastate British forces if it fell into the wrong hands."
 
-That evening, the telegram went out. I leaned back, watching the ink dry, the trap set.
+Hanger's knuckles whitened on the brush.
 
-The next morning, Holmes placed a sheet of paper in front of me. I was riveted by the words, barely registering his voice. It was far worse than I’d imagined. Not just fraud—treason. Ledgers detailing British supply movements, shipments marked for the Punjab, signatures from men in high places—men far beyond Hawthorne.
+"Hawthorne knew your weaknesses—gambling debts from your service days. He manipulated your loyalty to the Blackwoods, claimed William sought inheritance papers that could harm Edward's legacy." Holmes's voice softened. "But Edward trusted you. He would have wanted you to protect those documents, not hide them for his killer."
+
+Holmes produced a small brass key. "I got this from Katherine"
+
+Hanger stared at the key, his military bearing crumbling. Without a word, he led us through the shadowed corridors.
+
+The chest's contents proved everything: military intelligence sold to foreign powers, compromised supply routes, signatures from men in positions far above Hawthorne. Edward's meticulous records revealed why he had to die.
 
 I looked up, my heart pounding. "Holmes, this isn’t just corruption. It’s an international conspiracy!" Holmes nodded calmly. "Edward was thorough. This is the proof of why he had to die." I shook my head. "And you knew where to look before even opening the chest."
 
-A faint smile touched his lips. "A fortunate deduction." "We have him, Holmes. This is enough to destroy Hawthorne." Holmes steepled his fingers. "No, Watson. Hawthorne will destroy himself—men like him always do."
+"Elementary," Holmes replied. "Where else would a military man hide something of vital importance? The east wing was the only section with original Tudor architecture intact. Such houses always had priest holes. Hanger's regular path to that specific section, despite having no duties there, confirmed it."
+
+That evening, Holmes sent the telegram that would spring our trap. Hawthorne's desperation would be his undoing.
 
 ## Chapter 13: Aftermath and Justice
 
