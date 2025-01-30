@@ -217,19 +217,6 @@ Holmes studied him briefly.
 
 "You've handled a rifle before," he said.
 
-# The Soldier's Legacy
-*Chapters 5-8*
-
-## Chapter 5: Whispers in the Manor
-
-A stablehand was in the stables, grooming a horse with slow, deliberate strokes. He did not look up as we approached, but there was a stiffness in his posture, as though he had already anticipated our arrival.
-
-![The Stables](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
-
-Holmes studied him briefly.
-
-"You've handled a rifle before," he said.
-
 The stablehand's grip on the bridle faltered for a split second. His head jerked up, his eyes narrowing.
 
 Holmes gave a slight nod, satisfied. "Yes. And not just once or twice. Years of training, I'd say. You were in the military."
