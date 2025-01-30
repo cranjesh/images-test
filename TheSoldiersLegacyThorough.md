@@ -176,35 +176,32 @@ William hesitated, his gaze flickering toward the window. "Edward was many thing
 
 ## Chapter 5: The Lieutenant's Secrets
 
-The garrison was a functional collection of brick buildings, its starkness matching the precision of military life. Lieutenant Cartwright's quarters reflected the same discipline: a plain room with a desk, a journal, and a neatly folded uniform.
+The garrison was a functional collection of brick buildings, its starkness matching the precision of military life. Lieutenant Cartwright's quarters reflected the same discipline: a plain room with a desk, a journal, and a neatly folded uniform. The distant sound of the evening bugle call filtered through the window.
 
 ![Lieutenant's Quarters](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter4A.webp)
 
 Holmes wasted no time. "We are investigating the circumstances of Captain Blackwood's death and the disappearance of his military chest. Your insight would be invaluable."
 
-Cartwright gestured for us to sit, though unease flickered in his expression. "I'll do my best, though I'm not sure what help I can offer."
+Cartwright gestured for us to sit, his posture rigid with military bearing. "I shall assist to the best of my ability, Mr. Holmes, though I'm uncertain what intelligence I can provide."
 
 Holmes fixed him with a piercing gaze. "Let's start with Captain Blackwood's final days. What did you observe?"
-
-Cartwright hesitated, tapping a finger against the desk. "Edward was meticulous, but in those last weeks, he seemed distracted—preoccupied with something. He didn't share much, and I didn't pry."
+Cartwright's fingers drummed once on his desk before he caught himself. "The Captain maintained his usual exactitude in duties, sir, but in those final weeks, his demeanor altered. He appeared... preoccupied with certain matters. Protocol prevented me from inquiring further."
 
 "And on the night of his death?" Holmes pressed.
 
-"There was a dinner at the officers' mess, hosted by Colonel Hawthorne. Edward left early, saying he had work to finish. The next morning, we found him at the base of the cliffs."
-
+"Colonel Hawthorne hosted a dinner at the officers' mess. The Captain departed early, citing urgent correspondence. The following morning..." Cartwright's voice remained measured. "We discovered him at the base of the cliffs."
 Holmes's gaze narrowed. "Do you suspect foul play?"
 
-Cartwright's composure faltered. "I... I don't know. Edward mentioned discrepancies in supply records—irregularities. He didn't name anyone, but he seemed wary of Hawthorne."
+Cartwright straightened in his chair, glancing briefly at the dispatch box on his shelf. "The evidence remains inconclusive, sir. However, the Captain had expressed concerns regarding supply record discrepancies. He never named specific officers, but his caution regarding Colonel Hawthorne was... notable."
 
 Holmes leaned forward. "You visited Blackwood Manor last week, delivering Edward's personal effects. What exactly did you bring?"
 
-"A compass, some letters, and his journal," Cartwright replied, his voice defensive. "That's all."
-
+"Per regulations, sir: his compass, correspondence, and personal journal," Cartwright replied with military precision. "The chest had been sealed and dispatched separately under Colonel Hawthorne's direct supervision."
 "And the chest?" Holmes pressed further.
 
-"I haven't seen it since it was packed at the fort," Cartwright admitted, his voice tightening. "Hawthorne oversaw the shipment himself."
+"After the Colonel oversaw its sealing at Fort Kalyan, I witnessed its placement in the transport wagon," Cartwright stated, his collar suddenly seeming too tight. "That was the last I saw of it, Mr. Holmes. The Colonel handled all subsequent arrangements personally."
 
-## Chapter 5: Whispers in the Manor
+## Chapter 6: Whispers in the Manor
 
 A stablehand was in the stables, grooming a horse with slow, deliberate strokes. He did not look up as we approached, but there was a stiffness in his posture, as though he had already anticipated our arrival.
 
