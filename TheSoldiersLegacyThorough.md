@@ -400,17 +400,16 @@ The morning light strengthened, justice finally illuminating the shadows of Blac
 
 ## Chapter 11: Mycroft's Intervention
 
-The gaslight cast long shadows across 221B Baker Street as Mycroft Holmes settled into the worn leather chair. His presence, as always, carried the weight of matters far beyond ordinary crime.
+The gaslight cast shadows across 221B as Mycroft Holmes settled into the visitor's chair, his customary umbrella dripping onto the floorboards. His presence, as always, carried the weight of matters far beyond ordinary crime.
 
-"Your suspicions about Hawthorne were correct, Sherlock," Mycroft said, producing a leather portfolio bearing the Crown's seal. "But the depth of his treachery exceeds even your estimates."
+"Brother mine," Mycroft began, producing a leather portfolio bearing the Crown's seal. "Your suspicions about Hawthorne barely scratch the surface of this affair."
 
-Holmes's eyes gleamed as he examined the documents within. "The East India Company audit was merely a facade."
+Holmes's grey eyes sharpened as he examined the documents within. "The East India Company audit was merely a facade."
+"Indeed." Mycroft's voice dropped low. "These intercepted messages reveal a network of foreign agents. Military secrets, fortress plans, troop movements—all sold to the highest bidder. Captain Blackwood's records would prove what the Foreign Office has long suspected."
 
-"Indeed." Mycroft gestured to a particular page. "These intercepted messages reveal a network of foreign agents. Military secrets, fortress plans, troop movements—all sold to the highest bidder. Captain Blackwood's records would prove what we have long suspected."
+Holmes steepled his fingers beneath his chin. "Then Hawthorne will come for the chest himself."
 
-Holmes steepled his fingers. "Then Hawthorne will come for the chest himself."
-
-"The question is," Mycroft replied, "will you allow him that opportunity?"
+"The question remains," Mycroft replied, studying his brother with cold calculation, "will you permit him that final move?"
 
 A faint smile played across Holmes's lips. "I rather think not. Watson and I have already set our trap."
 
