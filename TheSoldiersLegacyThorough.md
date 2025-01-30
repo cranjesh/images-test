@@ -40,15 +40,15 @@ Holmes's gaze sharpened. "What makes you think so?"
 
 "There were rumors among his men," she explained, her voice faltering. "They said Edward had concerns—something about irregularities in the supply chains. He had been reporting directly to his superior officers, but in his letters, he seemed... uneasy. The night he died, he was seen leaving the officers' quarters alone. By morning, he was found at the base of the cliffs. They say he fell, but my son was not careless, Mr. Holmes."
 
-Her voice broke slightly before she continued. "Edward was an honourable man, devoted to his duty and family. His wife, Katherine, and their children were everything to him. But his letters... they grew shorter. More cautious. He wrote in our old childhood code - something he hadn't done since his first deployment. The last letter mentioned supply routes and missing ledgers, but insisted we discuss it in person. Then three days later..." Her voice faltered. "As if he feared someone might be watching."
+Her voice broke slightly before she continued. "Edward was an honourable man, devoted to his duty and family. His wife, Katherine, and their children were everything to him. But his letters... they grew shorter. More cautious. The last letter mentioned supply routes and missing ledgers, but insisted we discuss it in person. Then three days later..." Her voice faltered. "As if he feared someone might be watching."
 
 Holmes steepled his fingers. "You mentioned a missing military chest?"
 
 Lady Blackwood nodded. "His belongings were returned to Blackwood Manor along with his effects. The chest was locked, as always, and stored in his study. But the night before the East India Company's audit was to begin, it vanished without a trace. Edward had been insistent about keeping it close - he'd even hired a former military man as groundskeeper, someone he trusted from his days at Fort Kalyan."
 
-Holmes leaned forward slightly, his attention caught by a detail. "The timing coincides with Colonel Hawthorne's unexpected visit to London. Who had access to the study?"
+Holmes leaned forward slightly, his attention caught by a detail. "Who had access to the study?"
 
-Lady Blackwood hesitated, as though weighing her words. "Few people. His widow, of course, and my stepson, William. There were visitors as well—former associates of Edward's. I do not wish to make unfounded accusations, Mr. Holmes, but it is all... troubling."
+Lady Blackwood hesitated, as though weighing her words. "Few people. His widow, of course, and my stepson, William. We've also had recent visitors—Colonel Hawthorne, Edward's former commanding officer at Fort Kalyan, and Lieutenant Cartwright, who served under Edward. They arrived shortly after we received news of Edward's death. The Colonel claimed he needed to review some military documents, and Lieutenant Cartwright said he had personal effects of Edward's to return. Both seemed particularly interested in Edward's study. I do not wish to make unfounded accusations, Mr. Holmes, but it is all... troubling."
 
 "Troubling indeed," Holmes murmured.
 
@@ -60,20 +60,13 @@ Holmes nodded, his expression unreadable. "I will need to see the study myself. 
 
 Holmes did not respond immediately. Instead, he walked to the window, staring out at the rain-soaked streets. "A name caught my attention. I recall reading it in connection with a military scandal some months ago. A man of questionable integrity, if memory serves."
 
-
 ## Chapter 2: The Vanishing Chest
 
 ![Chapter 2 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2A.webp)
 
 The mist lay thick as our carriage approached Blackwood Manor. The butler led us through the foyer to the drawing room.
 
-Lady Blackwood sat by the fire in mourning dress. "Thank you for coming, Mr. Holmes," she whispered. "I have nowhere else to turn."
-
-"You believe your son's death was no accident," Holmes said. "And that the disappearance of his military chest is no ordinary theft."
-
-She nodded. "It vanished three nights ago—locked, untouched. No signs of forced entry."
-"Who had access?"
-"Katherine, my daughter-in-law, my stepson, William, and a few of his former associates. But I cannot cast suspicion blindly."
+Lady Blackwood sat by the fire in mourning dress. "Thank you for coming, Mr. Holmes," she whispered. 
 
 He turned to Lady Blackwood. "Would you show us to the study?"
 
@@ -97,6 +90,9 @@ Lady Blackwood looked puzzled. "Nothing has been touched in this room for years.
 
 "Evidently," Holmes said lightly, brushing his hands off and stepping away. "Merely an observation."
 
+"Shall we speak with Katherine now?" I asked, knowing she would be waiting for us.
+Holmes nodded. "Yes. I believe Mrs. Blackwood might shed more light on these peculiarities." With that, we made our way to the drawing room.
+
 The mystery had only deepened, and as we prepared to interview Katherine Blackwood, I suspected the answer lay in Edward's final days at Fort Kalyan.
 
 ## Chapter 3: The Widow's Tale
@@ -111,13 +107,7 @@ Holmes sat in silence, his keen gaze sweeping the landscape, while my thoughts t
 
 Holmes inclined his head. "Wherever you feel most comfortable, madam. Perhaps with your late husband."
 
-She tightened her grip on the handkerchief in her lap. "Edward was a devoted husband and father—principled, kind. But his work often kept him away. This last year, stationed at Fort Kalyan in India, was particularly difficult. His letters… they hinted at unease, though he never spoke plainly."
-
-She hesitated, as though the words themselves pained her. "Then, two weeks ago, I received word. They said he fell from the cliffs near the fort. But Edward was not a careless man. I cannot accept it was an accident."
-
-Holmes leaned forward, his expression sharp with intent. "Did he mention specific concerns in his letters? Any names or irregularities?"
-
-She hesitated, then nodded. "His last letter arrived mere days before his chest went missing. In it, he wrote: 'Watch Hawthorne. Trust no one.' Edward was never one for cryptic warnings."
+She tightened her grip on the handkerchief in her lap. "Edward was a devoted husband and father—principled, kind. The official report of his death—a fall from the cliffs—it makes no sense."
 
 Holmes exhaled slowly, his fingers steepled. "The missing chest—tell me about it."
 
@@ -145,9 +135,12 @@ A hush settled over the room, thick with unspoken truths. Holmes had unearthed s
 
 As Holmes rose to his feet and began pacing, I turned to Katherine and spoke quietly. "And your children, Mrs. Blackwood? How are they faring?"
 
-She gave a small, tired smile. "They're young, Dr. Watson… too young to understand. They keep asking when their father will come home. And I don't know how to answer."
+She gave a small, tired smile. "They're young, Dr. Watson… too young to understand." The sorrow in her voice was unmistakable. I nodded, offering what little comfort words could provide. Holmes, ever perceptive, had paused his pacing and observed her for a moment before speaking again.
 
-The sorrow in her voice was unmistakable. I nodded, offering what little comfort words could provide. Holmes, ever perceptive, had paused his pacing and observed her for a moment before speaking again.
+"Thank you, Mrs. Blackwood. You have been most helpful," Holmes said gently. "With your permission, we would like to speak with William now."
+
+Katherine composed herself and nodded. "Of course. You'll find him in his study in the east wing."
+We took our leave, and as we walked through the manor's corridors, the atmosphere grew noticeably heavier.
 
 ## Chapter 4: The Bitter Brother
 
@@ -169,9 +162,9 @@ Holmes's expression remained neutral. "An interesting theory, Mr. Blackwood, but
 
 William stiffened slightly, his scowl deepening. "In my quarters, alone. I heard nothing, saw nothing. And frankly, I'm not obligated to account for myself."
 
-Holmes nodded thoughtfully. "Perhaps not. Yet your bitterness toward Edward—and Katherine—seems to color your perspective. Do you believe resentment blinds you to other possibilities?"
+Holmes nodded thoughtfully. "Perhaps not. Yet your bitterness toward Edward—and Katherine—seems to colour your perspective. Do you believe resentment blinds you to other possibilities?"
 
-William's hands gripped the edges of his desk. "Bitterness? My father's decision to favor Edward over me was nothing short of favoritism. The estate should have been mine. I've fought for years to earn my place, while Edward... he was handed everything."
+William's hands gripped the edges of his desk. "Bitterness? My father's decision to favour Edward over me was nothing short of favoritism. The estate should have been mine. I've fought for years to earn my place, while Edward... he was handed everything."
 
 Holmes leaned forward slightly, his tone cool and deliberate. "And yet, his death has left you no closer to securing what you claim is rightfully yours. Tell me, do you believe Edward's death was an accident?"
 
