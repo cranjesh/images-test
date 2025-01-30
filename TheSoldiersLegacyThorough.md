@@ -3,16 +3,18 @@
 
 ## Table of Contents
 1. [Lady Blackwood's Visit](#chapter-1-lady-blackwoods-visit)
-2. [The Widow's Tale](#chapter-2-the-widows-tale) 
-3. [The Bitter Brother](#chapter-3-the-bitter-brother)
-4. [The Lieutenant's Secrets](#chapter-4-the-lieutenants-secrets)
-5. [Whispers in the Manor](#chapter-5-whispers-in-the-manor)
-6. [Messages and Meetings](#chapter-6-messages-and-meetings)
-7. [Confrontation at the Inn](#chapter-7-confrontation-at-the-inn)
-8. [Major Forrester's Revelation](#chapter-8-major-forresters-revelation)
-9. [The Final Assembly](#chapter-9-the-final-assembly)
-10. [Mycroft's Intervention](#chapter-10-mycrofts-intervention)
-11. [Aftermath and Justice](#chapter-11-aftermath-and-justice)
+2. [The Vanishing Chest](#chapter-2-the-vanishing-chest)
+3. [The Widow's Tale](#chapter-3-the-widows-tale) 
+4. [The Bitter Brother](#chapter-4-the-bitter-brother)
+5. [The Lieutenant's Secrets](#chapter-5-the-lieutenants-secrets)
+6. [Whispers in the Manor](#chapter-6-whispers-in-the-manor)
+7. [Messages and Meetings](#chapter-7-messages-and-meetings)
+8. [Confrontation at the Inn](#chapter-8-confrontation-at-the-inn)
+9. [Major Forrester's Revelation](#chapter-9-major-forresters-revelation)
+10. [The Final Assembly](#chapter-10-the-final-assembly)
+11. [Mycroft's Intervention](#chapter-11-mycrofts-intervention)
+12. [Hanger's final confrontation](#chapter-12-hangers-final-confrontation)
+13. [Aftermath and Justice](#chapter-13-aftermath-and-justice)
 
 ## Chapter 1: Lady Blackwood's Visit
 
@@ -439,7 +441,7 @@ I looked up, my heart pounding. "Holmes, this isn’t just corruption. It’s an
 
 A faint smile touched his lips. "A fortunate deduction." "We have him, Holmes. This is enough to destroy Hawthorne." Holmes steepled his fingers. "No, Watson. Hawthorne will destroy himself—men like him always do."
 
-### Chapter 13: Aftermath and Justice
+## Chapter 13: Aftermath and Justice
 
 The scandal's ripples extended far beyond Blackwood Manor. Colonel Hawthorne's arrest prompted Parliament to launch a thorough investigation, leading to reforms that dismantled long-standing corrupt practices.
 
