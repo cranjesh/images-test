@@ -63,7 +63,7 @@ Holmes did not respond immediately. Instead, he walked to the window, staring ou
 
 ## Chapter 2: The Vanishing Chest
 
-![The Detectives](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Introduction%20of%20Detectives%201%20and%202.webp)
+![Chapter 2 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2A.webp)
 
 The mist lay thick as our carriage approached Blackwood Manor. The butler led us through the foyer to the drawing room.
 
@@ -76,6 +76,9 @@ She nodded. "It vanished three nights ago—locked, untouched. No signs of force
 "Katherine, my daughter-in-law, my stepson, William, and a few of his former associates. But I cannot cast suspicion blindly."
 
 He turned to Lady Blackwood. "Would you show us to the study?"
+
+![Chapter 2 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2B.webp)
+
 In the study, Holmes crouched by the floor. "Observe, Watson." His fingers traced faint scratches near where the chest had stood.
 "It was moved," I deduced, "not stolen."
 "Precisely." Holmes's gaze flicked toward the doorway. "And with care. The marks end at the threshold—whoever removed it ensured no trail beyond this room."
@@ -104,7 +107,7 @@ Holmes sat in silence, his keen gaze sweeping the landscape, while my thoughts t
 
 "Mr. Holmes, Dr. Watson," she replied, her voice steady but low. "Please, sit. I hardly know where to begin."
 
-![Katherine's Meeting](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2B.webp)
+![Chapter 3 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter3A.webp)
 
 Holmes inclined his head. "Wherever you feel most comfortable, madam. Perhaps with your late husband."
 
@@ -150,7 +153,7 @@ The sorrow in her voice was unmistakable. I nodded, offering what little comfort
 
 Blackwood Manor's halls felt colder as Holmes and I followed the butler to William Blackwood's study. The room, a stark contrast to Edward's orderly workspace, was cluttered with papers and ledgers. A faint tang of pipe smoke lingered, mingling with the musty scent of old books. William stood by the window, his rigid posture and scowl an unspoken warning of his mood.
 
-![William's Study](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter3A.webp)
+![Chapter 4 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter4A.webp)
 
 He turned as we entered, his sharp features hardening further. "Mr. Holmes, Dr. Watson," he greeted tersely, gesturing to the chairs opposite his desk. "I assume this visit concerns my brother's untimely demise—or perhaps the inheritance?"
 
@@ -178,7 +181,7 @@ William hesitated, his gaze flickering toward the window. "Edward was many thing
 
 The garrison was a functional collection of brick buildings, its starkness matching the precision of military life. Lieutenant Cartwright's quarters reflected the same discipline: a plain room with a desk, a journal, and a neatly folded uniform. The distant sound of the evening bugle call filtered through the window.
 
-![Lieutenant's Quarters](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter4A.webp)
+![Chapter 5 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
 
 Holmes wasted no time. "We are investigating the circumstances of Captain Blackwood's death and the disappearance of his military chest. Your insight would be invaluable."
 
@@ -205,7 +208,7 @@ Holmes leaned forward. "You visited Blackwood Manor last week, delivering Edward
 
 A stablehand was in the stables, grooming a horse with slow, deliberate strokes. He did not look up as we approached, but there was a stiffness in his posture, as though he had already anticipated our arrival.
 
-![The Stables](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
+![Chapter 6 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter6A.webp)
 
 Holmes studied him briefly.
 
@@ -369,6 +372,8 @@ Forrester nodded grimly. "He documented everything in meticulous detail. This no
 
 The drawing room at Blackwood Manor had become a stage for the final act. Holmes had summoned all key players: Lady Blackwood, Katherine, William, Lieutenant Cartwright, Colonel Hawthorne, and Mr. Hanger. The morning light cast long shadows across their faces.
 
+![Chapter 10 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10A.webp)
+
 "Each person in this room," Holmes began, pacing deliberately, "had reason to seek Edward's military chest. William believed it held inheritance documents that could challenge Edward's claim. Lieutenant Cartwright hoped to recover compromising letters. Lady Blackwood sought proof of her son's suspicions. And Katherine – she wanted justice for her husband."
 
 Holmes paused, studying each face. "But only one person knew its true contents. Only one understood why Edward Blackwood had to die."
@@ -419,6 +424,8 @@ Hawthorne’s sneer faltered as the weight of Holmes’s words settled. The cert
 
 Lestrade stepped forward. "Colonel Reginald Hawthorne, you are under arrest for conspiracy, treason, and the murder of Captain Edward Blackwood."
 
+![Chapter 10 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10B.webp)
+
 The man who had orchestrated so much devastation was led away in handcuffs, his bravado replaced by a grim, silent resignation. William stood shakily, his expression hollow. "My brother... he tried to warn me."
 
 Katherine touched his arm gently. "He protected us all, in the end."
@@ -428,6 +435,8 @@ The morning light strengthened, justice finally illuminating the shadows of Blac
 ## Chapter 11: Mycroft's Intervention
 
 The gaslight cast shadows across 221B as Mycroft Holmes settled into the visitor's chair, his customary umbrella dripping onto the floorboards. His presence, as always, carried the weight of matters far beyond ordinary crime.
+
+![Chapter 11 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter11A.webp)
 
 "Brother mine," Mycroft began, producing a leather portfolio bearing the Crown's seal. "Your suspicions about Hawthorne barely scratch the surface of this affair."
 
