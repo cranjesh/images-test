@@ -97,6 +97,10 @@ She hesitated. “A locked drawer in his desk. The key was never found.”
 
 Holmes exchanged a glance with me. “Then we must find it.”
 
+The library was dark and cold, the scent of aged parchment and furniture polish lingering in the air. As Holmes stepped inside, he ran a gloved finger along the base of a bookshelf. He frowned. "Curious," he murmured. I glanced over. "What is?" "The dust here—disturbed in a peculiar way. As though something large was moved but carefully replaced."
+
+Lady Blackwood looked puzzled. "Nothing has been touched in this room for years." "Evidently," Holmes said lightly, brushing his hands off and stepping away. "Merely an observation."
+
 The mystery had only deepened, and I had no doubt that before the night was over, we would uncover more than we bargained for.
 
 ## Chapter 2a: The Widow's Tale
@@ -381,11 +385,9 @@ Katherine gasped softly. William's face paled.
 
 "Actually, Colonel," Lestrade said, producing a warrant, "Major Forrester's testimony confirms everything. The game is up."
 
-As officers moved in, Hawthorne made a sudden move for his revolver, but Holmes was faster. With a swift motion, he drew a small pistol from his pocket and leveled it at the Colonel. "I would strongly advise against that," he said coolly.
+As officers moved in, Hawthorne's mask finally cracked, "You meddle in affairs beyond your understanding, Holmes! Do you think this ends with me?" he spat.
 
-Hawthorne's mask finally cracked, his hand trembling slightly before he slowly let the weapon drop to the floor. "You meddle in affairs beyond your understanding, Holmes! Do you think this ends with me?" he spat.
-
-"On the contrary," Holmes replied, slipping his pistol back into his coat, "this is merely the beginning. The ledgers you sought to hide will unravel your entire operation. Men of power and influence will be implicated—your former allies will not protect you."
+"On the contrary," Holmes replied, "this is merely the beginning. The ledgers you sought to hide will unravel your entire operation. Men of power and influence will be implicated—your former allies will not protect you."
 
 Hawthorne’s sneer faltered as the weight of Holmes’s words settled. The certainty in Holmes’s voice cut through his bravado, and for the first time, true fear flickered in his eyes.
 
@@ -442,7 +444,8 @@ A faint smile touched his lips. "A fortunate deduction." "We have him, Holmes. T
 
 The scandal's ripples extended far beyond Blackwood Manor. Colonel Hawthorne's arrest prompted Parliament to launch a thorough investigation, leading to reforms that dismantled long-standing corrupt practices.
 
-William Blackwood's departure from the estate carried a weight of its own revelation. Holmes later shared with me that among Edward's recovered papers was a letter addressed to his stepbrother, acknowledging the pain of their father's choice and offering a substantial portion of the great-uncle's Indian properties as reconciliation. The letter never reached William, intercepted by Hawthorne's men. When the truth emerged, William left not in defeat but in quiet shame, sending only a brief note to Katherine: "Edward was the better man. I see that now."
+William Blackwood's departure from the estate carried a weight of its own revelation. Holmes later shared with me that among Edward's recovered papers was a letter addressed to his stepbrother, acknowledging the pain of their father's choice and offering a substantial portion of the great-uncle's Indian properties as reconciliation. The letter never reached William, intercepted by Hawthorne's men. When Katherine received William’s letter, she read it in silence, her fingers trembling slightly at the faded ink.
+"I was wrong. That’s all I can say now. Some things cannot be undone. Take care of the children."
 
 Lieutenant Cartwright, freed from Hawthorne's manipulations, worked to support Katherine as she secured the estate.
 
