@@ -373,6 +373,34 @@ The drawing room at Blackwood Manor had become a stage for the final act. Holmes
 
 Holmes paused, studying each face. "But only one person knew its true contents. Only one understood why Edward Blackwood had to die."
 
+The tension in the drawing room of Blackwood Manor was thick. Holmes stood near the fireplace, his gaze unreadable, as the gathered faces watched him expectantly. Hawthorne’s patience was fraying.
+
+“You have spoken in circles, Holmes,” Hawthorne scoffed.
+
+Holmes exhaled, shaking his head. “Curious,” he murmured. “A man confident in his innocence would hardly be so eager to declare my failure.” He turned, pacing slowly. “We have here a tale of resentment and deception. Lieutenant Cartwright, burdened by past indiscretions. William Blackwood, driven by inheritance and jealousy. And you, Colonel, with the most to lose.”
+
+Hawthorne leaned back, arms crossed. “And yet, Holmes, you have no proof.”
+
+He strode to the wall, where an unassuming wooden chest sat. William’s breath hitched. Katherine stiffened. Hawthorne’s smirk faltered.
+
+Holmes withdrew a small brass key and, with deliberate slowness, unlocked the chest. The lid creaked open. Inside, stacks of military records, sealed letters, and official dispatches lay in pristine condition. Holmes lifted a bundle of documents.
+
+“Captain Blackwood’s private records,” he announced. “Documenting corruption, forged ledgers, and—most damning of all—classified intelligence leaked under your direct orders, Colonel Hawthorne.”
+
+The air thickened. Cartwright turned pale. William’s fingers twitched at his sides.
+
+Hawthorne’s sneer returned, sharper now, his voice low. “You meddle in things beyond your understanding, Holmes. Do you think this ends with me?”
+
+Holmes tapped the papers lightly. “No, Colonel. I rather think this is only the beginning.”
+
+From the adjoining hall, Inspector Lestrade and two officers stepped forward.
+
+“Colonel Reginald Hawthorne,” Lestrade announced, unfolding an arrest warrant, “you are under arrest for treason”
+
+Hawthorne’s eyes flickered with something close to fear, but he squared his shoulders. As the officers restrained him, Holmes closed the chest with a quiet click.
+
+“Well, Watson,” he said lightly, turning toward me. “I do believe we have, at last, gotten rather close to the case.”
+
 "Baseless accusations," Hawthorne cut in, his composure slipping.
 
 "The chest," Holmes continued, gesturing to the corner where it now sat, "contains more than family secrets. Edward documented everything: military secrets sold to foreign powers, defense plans compromised, a network of betrayal reaching the highest offices."
