@@ -162,7 +162,7 @@ Holmes raised an eyebrow. "You suggest Katherine is involved?"
 
 "Who else?" William shot back. "She gains everything if Edward's will is missing. And let's not ignore her prior... association with Lieutenant Cartwright. Who's to say Edward didn't discover something and decide to change his will?"
 
-Holmes's expression remained neutral. "Your accusations are bold, Mr. Blackwood, but evidence is required to support such claims. Tell me, where were you on the night the chest disappeared?"
+Holmes's expression remained neutral. "An interesting theory, Mr. Blackwood, but one that demands evidence before it can be entertained. Tell me, where were you on the night the chest disappeared?"
 
 William stiffened slightly, his scowl deepening. "In my quarters, alone. I heard nothing, saw nothing. And frankly, I'm not obligated to account for myself."
 
@@ -301,7 +301,7 @@ Holmes struck a match. "Indeed. We must split up—you to Forrester, I to Mycrof
 
 "If either meeting is compromised—"
 
-"The Irregulars watch both locations," Holmes interjected. "Wiggins guards the Criterion's back exit. Test Forrester—ask about the Bombay supply route. If he hesitates, leave immediately. I'll use Baker Street's tradesman's entrance if needed. We cannot risk losing both leads if this is Hawthorne's trap."
+"The Irregulars watch both locations," Holmes interjected. "Wiggins guards the Criterion's back exit. Test Forrester—ask about the Bombay supply route. If he hesitates, leave immediately. I'll use Baker Street's tradesman's entrance if needed. "A misstep here would be most inconvenient. We must ensure at least one of us leaves with answers."
 
 The fog thickened as we departed, swallowing the street lamps. Ahead lay Cartwright's secrets, then our separate paths into what felt increasingly like a carefully laid snare.
 
@@ -327,7 +327,7 @@ Watson frowned. "And what truth? The corruption you covered up? Or the fact that
 
 Cartwright's fingers clenched. "No. I wanted to protect her. Edward was dead, and I knew Hawthorne would erase everything. If I spoke out alone, no one would believe me—I needed Katherine's voice."
 
-Holmes exhaled. "A noble excuse wrapped in self-preservation. You wanted justice, but through her."
+Holmes exhaled. "A strategic decision rather than a direct confrontation. You sought justice, but through her actions rather than your own."
 
 Cartwright looked away.
 
@@ -361,7 +361,7 @@ Forrester produced a small leather-bound notebook. "Captain Blackwood entrusted 
 
 Forrester nodded grimly. "He documented everything in meticulous detail. This notebook contains the records he managed to uncover. Edward planned to confront Hawthorne directly. He thought he could force a confession—or at least protect the information until it reached the proper authorities."
 
-"Two days later, Edward was dead."
+"And within forty-eight hours, Captain Blackwood’s inquiries were permanently halted."
 
 ## Chapter 10: The Final Assembly
 
@@ -383,7 +383,7 @@ Katherine gasped softly. William's face paled.
 
 As officers moved in, Hawthorne's mask finally cracked, "You meddle in affairs beyond your understanding, Holmes! Do you think this ends with me?" he spat.
 
-"On the contrary," Holmes replied, "this is merely the beginning. The ledgers you sought to hide will unravel your entire operation. Men of power and influence will be implicated—your former allies will not protect you."
+Holmes replied "I suspect this is only the first thread to be pulled. The ledgers contain enough to expose your entire network.". Men of power and influence will be implicated—your former allies will not protect you."
 
 Hawthorne’s sneer faltered as the weight of Holmes’s words settled. The certainty in Holmes’s voice cut through his bravado, and for the first time, true fear flickered in his eyes.
 
@@ -424,11 +424,11 @@ Hanger's hand froze mid-stroke. "You're mistaken, Mr. Holmes."
 
 "I don't know what you mean."
 
-"Come now, Mr. Hanger. A former military man like yourself would recognise the importance of those documents. Supply routes. Troop movements. Information that could devastate British forces if it fell into the wrong hands."
+"A man of your experience would certainly understand the value of such records. Supply routes. Troop movements. Information that could devastate British forces if it fell into the wrong hands."
 
 Hanger's knuckles whitened on the brush.
 
-"Hawthorne knew your weaknesses—gambling debts from your service days. He manipulated your loyalty to the Blackwoods, claimed William sought inheritance papers that could harm Edward's legacy." Holmes's voice softened. "But Edward trusted you. He would have wanted you to protect those documents, not hide them for his killer."
+"Hawthorne was aware of your financial difficulties. He understood how loyalty can be shaped by necessity, particularly when family legacies are at stake." Holmes's voice softened. "But Edward trusted you. He would have wanted you to protect those documents, not hide them for his killer."
 
 Holmes produced a small brass key. "I got this from Katherine"
 
