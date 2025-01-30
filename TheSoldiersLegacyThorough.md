@@ -52,19 +52,56 @@ Lady Blackwood hesitated, as though weighing her words. "Few people. His widow, 
 
 She exhaled shakily. "I do not know what to believe, Mr. Holmes. Perhaps it is nothing. But the chest held his will, among other documents. Without it, the estate may be contested. And if my fears are correct—if Edward's death was not an accident—then I worry that whoever wanted him silenced has not finished their work."
 
-Holmes nodded, his expression unreadable. "I will need to see the study myself. In the meantime, Watson, your military connections may prove useful. Make inquiries at the War Office regarding the officers Edward reported to. I have reason to believe their records will shed light on this affair."
+Holmes nodded, his expression unreadable. "I will need to see the study myself. In the meantime, Watson, your military connections may prove useful. Make inquiries at the War Office regarding the officers Edward reported to. I have reason to believe their records will shed light on this affair." He paused, then added, almost offhandedly, "I may need to consult my brother on certain military matters. He has access to information beyond the War Office’s usual channels."
 
 "You seem particularly interested in them," I remarked.
 
 Holmes did not respond immediately. Instead, he walked to the window, staring out at the rain-soaked streets. "A name caught my attention. I recall reading it in connection with a military scandal some months ago. A man of questionable integrity, if memory serves."
 
-## Chapter 2: The Widow's Tale
+
+## Chapter 2: The Vanishing Chest
 
 ![The Detectives](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Introduction%20of%20Detectives%201%20and%202.webp)
 
-The mist lay thick over the countryside as our carriage rattled toward Blackwood Manor. The estate emerged from the gloom, its ivy-clad walls and worn statues hinting at long-buried secrets. Holmes sat in silence, his keen gaze sweeping the landscape, while my thoughts turned to Katherine Blackwood—the widow of a man whose death seemed far from ordinary.
+The mist lay thick over the countryside as our carriage rattled toward Blackwood Manor. The estate emerged from the gloom, its ivy-clad walls and worn statues hinting at long-buried secrets. 
 
-Inside, the manor's grandeur remained, though time had softened its edges. A butler led us into the drawing room, where Katherine awaited. She stood as we entered, her figure slight yet composed, though her pale complexion and dark-circled eyes betrayed the toll grief had taken.
+Inside, the manor's grandeur remained, though time had softened its edges. 
+
+Lady Blackwood received us in a dimly lit drawing room, her mourning attire as somber as the fire struggling against the cold. Her composure was practiced, but her trembling hands betrayed unease.
+
+“Thank you for coming, Mr. Holmes,” she whispered. “I have nowhere else to turn.”
+
+“You believe your son’s death was no accident,” Holmes said. “And that the disappearance of his military chest is no ordinary theft.”
+
+She hesitated, then nodded. “It vanished three nights ago—locked, untouched. No signs of forced entry.”
+
+“Who had access?”
+
+“Katherine, my daughter-in-law, my stepson, William, and a few of his former associates. But I cannot cast suspicion blindly.”
+
+Holmes stood. “We must see the study.”
+
+The manor’s corridors swallowed our footsteps. The study, as I imagined, was lined with bookshelves, its grand desk still carrying the faint scent of pipe smoke. Holmes moved swiftly, then crouched by the floor.
+
+“Observe, Watson.” His fingers traced faint scratches near where the chest had stood.
+
+“It was moved,” I deduced, “not stolen.”
+
+“Precisely.” Holmes’s gaze flicked toward the doorway. “And with care. The marks end at the threshold—whoever removed it ensured no trail beyond this room.”
+
+Lady Blackwood’s breath caught. “Then it is still here?”
+
+“I suspect so,” Holmes said. “Tell me, did your son keep ledgers, notes, or letters regarding his work in India?”
+
+She hesitated. “A locked drawer in his desk. The key was never found.”
+
+Holmes exchanged a glance with me. “Then we must find it.”
+
+The mystery had only deepened, and I had no doubt that before the night was over, we would uncover more than we bargained for.
+
+## Chapter 2a: The Widow's Tale
+
+Holmes sat in silence, his keen gaze sweeping the landscape, while my thoughts turned to Katherine Blackwood—the widow of a man whose death seemed far from ordinary. A butler led us into the drawing room, where Lady Blackwood awaited. A butler led us into another drawing room, where Katherine awaited. She stood as we entered, her figure slight yet composed, though her pale complexion and dark-circled eyes betrayed the toll grief had taken.
 
 "Mrs. Blackwood," Holmes began, bowing slightly. "Thank you for meeting with us under such difficult circumstances."
 
