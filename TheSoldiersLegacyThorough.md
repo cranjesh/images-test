@@ -101,7 +101,7 @@ The mystery had only deepened, and as we prepared to interview Katherine Blackwo
 
 ## Chapter 3: The Widow's Tale
 
-Holmes sat in silence, his keen gaze sweeping the landscape, while my thoughts turned to Katherine Blackwood—the widow of a man whose death seemed far from ordinary. A butler led us into the drawing room, where Lady Blackwood awaited. A butler led us into another drawing room, where Katherine awaited. She stood as we entered, her figure slight yet composed, though her pale complexion and dark-circled eyes betrayed the toll grief had taken.
+Holmes sat in silence, his keen gaze sweeping the landscape, while my thoughts turned to Katherine Blackwood—the widow of a man whose death seemed far from ordinary. We walked into the drawing room, where Katherine awaited. She stood as we entered, her figure slight yet composed, though her pale complexion and dark-circled eyes betrayed the toll grief had taken.
 
 "Mrs. Blackwood," Holmes began, bowing slightly. "Thank you for meeting with us under such difficult circumstances."
 
@@ -151,7 +151,7 @@ The sorrow in her voice was unmistakable. I nodded, offering what little comfort
 
 ## Chapter 4: The Bitter Brother
 
-Blackwood Manor's halls felt colder as Holmes and I followed the butler to William Blackwood's study. The room, a stark contrast to Edward's orderly workspace, was cluttered with papers and ledgers. A faint tang of pipe smoke lingered, mingling with the musty scent of old books. William stood by the window, his rigid posture and scowl an unspoken warning of his mood.
+Blackwood Manor's halls felt colder as Holmes and I got to William Blackwood's study. The room, a stark contrast to Edward's orderly workspace, was cluttered with papers and ledgers. A faint tang of pipe smoke lingered, mingling with the musty scent of old books. William stood by the window, his rigid posture and scowl an unspoken warning of his mood.
 
 ![Chapter 4 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter4A.webp)
 
@@ -250,7 +250,7 @@ Holmes's eyes gleamed. "Several things, Watson. The particular brass polish on h
 
 "His stance when startled - perfectly balanced, ready for action. The calluses on his trigger finger haven't fully faded. And notice how he assessed us both the moment we entered, marking potential exits. Old habits, Watson. They reveal more than any words."
 
-The next afternoon, Holmes and I returned to the stable yard. Hanger was in the stables once more, brushing down one of the manor's horses. His shoulders were stiff, his movements deliberate.
+Afternoon, Holmes and I returned to the stable yard. Hanger was in the stables once more, brushing down one of the manor's horses. His shoulders were stiff, his movements deliberate.
 
 Holmes greeted him directly this time. "Mr. Hanger, I understand you have been a trusted servant of the Blackwood family for many years."
 
