@@ -289,6 +289,8 @@ As we left Blackwood Manor, Holmes remained uncharacteristically quiet.  I had k
 "He’s protecting something—or someone," I replied. "But his allegiance does not lie with Colonel Hawthorne."
 "Indeed." Holmes exhaled
 
+![Chapter 7 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter7A.webp)
+
 The fog clung to Baker Street as our carriage arrived. Mrs. Hudson met us with two urgent telegrams.
 
 I read the first:
@@ -314,7 +316,7 @@ The fog thickened as we departed, swallowing the street lamps. Ahead lay Cartwri
 
 The village inn was quiet when we arrived. Lieutenant Cartwright sat in a shadowed corner, hunched over a half-empty glass.
 
-![The Inn](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter7A.webp)
+![Chapter 8 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter8A.webp)
 
 Holmes approached. "Lieutenant, your silence has done little to shield you. Why were you interested in Edward's chest?"
 
