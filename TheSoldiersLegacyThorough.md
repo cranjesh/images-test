@@ -3,10 +3,10 @@
 
 ## Table of Contents
 1. [Lady Blackwood's Visit](#chapter-1-lady-blackwoods-visit)
-2. [The Vanishing Chest](#chapter-2-the-vanishing-chest)
-3. [The Widow's Tale](#chapter-3-the-widows-tale) 
-4. [The Bitter Brother](#chapter-4-the-bitter-brother)
-5. [The Lieutenant's Secrets](#chapter-5-the-lieutenants-secrets)
+2. [The Lieutenant's Secrets](#chapter-5-the-lieutenants-secrets)
+3. [The Vanishing Chest](#chapter-3-the-vanishing-chest)
+4. [The Widow's Tale](#chapter-4-the-widows-tale) 
+5. [The Bitter Brother](#chapter-5-the-bitter-brother)
 6. [Whispers in the Manor](#chapter-6-whispers-in-the-manor)
 7. [Messages and Meetings](#chapter-7-messages-and-meetings)
 8. [Confrontation at the Inn](#chapter-8-confrontation-at-the-inn)
@@ -60,7 +60,36 @@ Holmes nodded, his expression unreadable. "I will need to see the study myself. 
 
 Holmes did not respond immediately. Instead, he walked to the window, staring out at the rain-soaked streets. "A name caught my attention. I recall reading it in connection with a military scandal some months ago. A man of questionable integrity, if memory serves."
 
-## Chapter 2: The Vanishing Chest
+## Chapter 2: The Lieutenant's Secrets
+
+Holmes's network of informants revealed Lieutenant Cartwright had been deployed near Blackwood Manor—a coincidence too perfect to ignore.
+
+Through mist-shrouded carriage windows, I watched London's gray suburbs give way to the garrison's stark brick buildings. In Cartwright's quarters, a desk, journal, and crisp uniform spoke of military precision. Evening bugle notes drifted through the window.
+
+![Chapter 5 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
+
+Holmes wasted no time. "We are investigating the circumstances of Captain Blackwood's death and the disappearance of his military chest. Your insight would be invaluable."
+
+Cartwright gestured for us to sit, his posture rigid with military bearing. "I shall assist to the best of my ability, Mr. Holmes, though I'm uncertain what intelligence I can provide."
+
+Holmes fixed him with a piercing gaze. "Let's start with Captain Blackwood's final days. What did you observe?"
+Cartwright's fingers drummed once on his desk before he caught himself. "The Captain maintained his usual exactitude in duties, sir, but in those final weeks, his demeanor altered. He appeared... preoccupied with certain matters. Protocol prevented me from inquiring further."
+
+"And on the night of his death?" Holmes pressed.
+
+"Colonel Hawthorne hosted a dinner at the officers' mess. The Captain departed early, citing urgent correspondence. The following morning..." Cartwright's voice remained measured. "We discovered him at the base of the cliffs."
+Holmes's gaze narrowed. "Do you suspect foul play?"
+
+Cartwright straightened in his chair, glancing briefly at the dispatch box on his shelf. "The evidence remains inconclusive, sir. However, the Captain had expressed concerns regarding supply record discrepancies. He never named specific officers, but his caution regarding Colonel Hawthorne was... notable."
+
+Holmes leaned forward. "You visited Blackwood Manor last week, delivering Edward's personal effects. What exactly did you bring?"
+
+"Per regulations, sir: his compass, correspondence, and personal journal," Cartwright replied with military precision. "The chest had been sealed and dispatched separately under Colonel Hawthorne's direct supervision."
+"And the chest?" Holmes pressed further.
+
+"After the Colonel oversaw its sealing at Fort Kalyan, I witnessed its placement in the transport wagon," Cartwright stated, his collar suddenly seeming too tight. "That was the last I saw of it, Mr. Holmes. The Colonel handled all subsequent arrangements personally."
+
+## Chapter 3: The Vanishing Chest
 
 ![Chapter 2 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2A.webp)
 
@@ -90,12 +119,43 @@ Lady Blackwood looked puzzled. "Nothing has been touched in this room for years.
 
 "Evidently," Holmes said lightly, brushing his hands off and stepping away. "Merely an observation."
 
-"Shall we speak with Katherine now?" I asked, knowing she would be waiting for us.
-Holmes nodded. "Yes. I believe Mrs. Blackwood might shed more light on these peculiarities." With that, we made our way to the drawing room.
+"Shall we speak with William now?" I asked.
+
+Lady Blackwood hesitated. "William keeps to his study in the west wing. He's... taken this hard with the inheritance matter straining things further."
 
 The mystery had only deepened, and as we prepared to interview Katherine Blackwood, I suspected the answer lay in Edward's final days at Fort Kalyan.
 
-## Chapter 3: The Widow's Tale
+## Chapter 4: The Bitter Brother
+
+Blackwood Manor's halls felt colder as Holmes and I got to William Blackwood's study. The room, a stark contrast to Edward's orderly workspace, was cluttered with papers and ledgers. A faint tang of pipe smoke lingered, mingling with the musty scent of old books. William stood by the window, his rigid posture and scowl an unspoken warning of his mood.
+
+![Chapter 4 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter4A.webp)
+
+He turned as we entered, his sharp features hardening further. "Mr. Holmes, Dr. Watson," he greeted tersely, gesturing to the chairs opposite his desk. "I assume this visit concerns my brother's untimely demise—or perhaps the inheritance?"
+
+Holmes took a seat with calm precision. "Both, Mr. Blackwood. Specifically, the disappearance of your brother's military chest and its implications for the estate."
+
+William's lips curled into a sneer as he leaned back in his chair. "Implications for Katherine, you mean. Convenient, isn't it, that the chest vanishes when she stands to gain the most?"
+
+Holmes raised an eyebrow. "You suggest Katherine is involved?"
+
+"Who else?" William shot back. "She gains everything if Edward's will is missing. And let's not ignore her prior... association with Lieutenant Cartwright. Who's to say Edward didn't discover something and decide to change his will?"
+
+Holmes's expression remained neutral. "An interesting theory, Mr. Blackwood, but one that demands evidence before it can be entertained. Tell me, where were you on the night the chest disappeared?"
+
+William stiffened slightly, his scowl deepening. "In my quarters, alone. I heard nothing, saw nothing. And frankly, I'm not obligated to account for myself."
+
+Holmes nodded thoughtfully. "Perhaps not. Yet your bitterness toward Edward—and Katherine—seems to colour your perspective. Do you believe resentment blinds you to other possibilities?"
+
+William's hands gripped the edges of his desk. "Bitterness? My father's decision to favour Edward over me was nothing short of favoritism. The estate should have been mine. I've fought for years to earn my place, while Edward... he was handed everything."
+
+Holmes leaned forward slightly, his tone cool and deliberate. "And yet, his death has left you no closer to securing what you claim is rightfully yours. Tell me, do you believe Edward's death was an accident?"
+
+William hesitated, his gaze flickering toward the window. "Edward was many things, but careless wasn't one of them. If you want my opinion, someone wanted him out of the way—and whoever it was, they succeeded."
+
+With each passing hour, the chances of recovering the chest—and with it, the truth—gradually seemed to dim. Watching Holmes's composed profile in the fading daylight, I felt certain he would unravel this web of deception.
+
+## Chapter 5: The Widow's Tale
 
 Holmes sat in silence, his keen gaze sweeping the landscape, while my thoughts turned to Katherine Blackwood—the widow of a man whose death seemed far from ordinary. We walked into the drawing room, where Katherine awaited. She stood as we entered, her figure slight yet composed, though her pale complexion and dark-circled eyes betrayed the toll grief had taken.
 
@@ -141,61 +201,6 @@ She gave a small, tired smile. "They're young, Dr. Watson… too young to unders
 
 Katherine composed herself and nodded. "Of course. You'll find him in his study in the east wing."
 We took our leave, and as we walked through the manor's corridors, the atmosphere grew noticeably heavier.
-
-## Chapter 4: The Bitter Brother
-
-Blackwood Manor's halls felt colder as Holmes and I got to William Blackwood's study. The room, a stark contrast to Edward's orderly workspace, was cluttered with papers and ledgers. A faint tang of pipe smoke lingered, mingling with the musty scent of old books. William stood by the window, his rigid posture and scowl an unspoken warning of his mood.
-
-![Chapter 4 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter4A.webp)
-
-He turned as we entered, his sharp features hardening further. "Mr. Holmes, Dr. Watson," he greeted tersely, gesturing to the chairs opposite his desk. "I assume this visit concerns my brother's untimely demise—or perhaps the inheritance?"
-
-Holmes took a seat with calm precision. "Both, Mr. Blackwood. Specifically, the disappearance of your brother's military chest and its implications for the estate."
-
-William's lips curled into a sneer as he leaned back in his chair. "Implications for Katherine, you mean. Convenient, isn't it, that the chest vanishes when she stands to gain the most?"
-
-Holmes raised an eyebrow. "You suggest Katherine is involved?"
-
-"Who else?" William shot back. "She gains everything if Edward's will is missing. And let's not ignore her prior... association with Lieutenant Cartwright. Who's to say Edward didn't discover something and decide to change his will?"
-
-Holmes's expression remained neutral. "An interesting theory, Mr. Blackwood, but one that demands evidence before it can be entertained. Tell me, where were you on the night the chest disappeared?"
-
-William stiffened slightly, his scowl deepening. "In my quarters, alone. I heard nothing, saw nothing. And frankly, I'm not obligated to account for myself."
-
-Holmes nodded thoughtfully. "Perhaps not. Yet your bitterness toward Edward—and Katherine—seems to colour your perspective. Do you believe resentment blinds you to other possibilities?"
-
-William's hands gripped the edges of his desk. "Bitterness? My father's decision to favour Edward over me was nothing short of favoritism. The estate should have been mine. I've fought for years to earn my place, while Edward... he was handed everything."
-
-Holmes leaned forward slightly, his tone cool and deliberate. "And yet, his death has left you no closer to securing what you claim is rightfully yours. Tell me, do you believe Edward's death was an accident?"
-
-William hesitated, his gaze flickering toward the window. "Edward was many things, but careless wasn't one of them. If you want my opinion, someone wanted him out of the way—and whoever it was, they succeeded."
-
-## Chapter 5: The Lieutenant's Secrets
-
-The garrison was a functional collection of brick buildings, its starkness matching the precision of military life. Lieutenant Cartwright's quarters reflected the same discipline: a plain room with a desk, a journal, and a neatly folded uniform. The distant sound of the evening bugle call filtered through the window.
-
-![Chapter 5 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
-
-Holmes wasted no time. "We are investigating the circumstances of Captain Blackwood's death and the disappearance of his military chest. Your insight would be invaluable."
-
-Cartwright gestured for us to sit, his posture rigid with military bearing. "I shall assist to the best of my ability, Mr. Holmes, though I'm uncertain what intelligence I can provide."
-
-Holmes fixed him with a piercing gaze. "Let's start with Captain Blackwood's final days. What did you observe?"
-Cartwright's fingers drummed once on his desk before he caught himself. "The Captain maintained his usual exactitude in duties, sir, but in those final weeks, his demeanor altered. He appeared... preoccupied with certain matters. Protocol prevented me from inquiring further."
-
-"And on the night of his death?" Holmes pressed.
-
-"Colonel Hawthorne hosted a dinner at the officers' mess. The Captain departed early, citing urgent correspondence. The following morning..." Cartwright's voice remained measured. "We discovered him at the base of the cliffs."
-Holmes's gaze narrowed. "Do you suspect foul play?"
-
-Cartwright straightened in his chair, glancing briefly at the dispatch box on his shelf. "The evidence remains inconclusive, sir. However, the Captain had expressed concerns regarding supply record discrepancies. He never named specific officers, but his caution regarding Colonel Hawthorne was... notable."
-
-Holmes leaned forward. "You visited Blackwood Manor last week, delivering Edward's personal effects. What exactly did you bring?"
-
-"Per regulations, sir: his compass, correspondence, and personal journal," Cartwright replied with military precision. "The chest had been sealed and dispatched separately under Colonel Hawthorne's direct supervision."
-"And the chest?" Holmes pressed further.
-
-"After the Colonel oversaw its sealing at Fort Kalyan, I witnessed its placement in the transport wagon," Cartwright stated, his collar suddenly seeming too tight. "That was the last I saw of it, Mr. Holmes. The Colonel handled all subsequent arrangements personally."
 
 ## Chapter 6: Whispers in the Manor
 
