@@ -1,4 +1,4 @@
-# The Soldier's Legacy
+ # The Soldier's Legacy
 *A Sherlock Holmes Story Narrated by Dr. John Watson*
 
 ## Table of Contents
@@ -433,6 +433,14 @@ Holmes studied him for a long moment. "Then where is it now?"
 
 Hanger hesitated before answering. "The west wing," he finally admitted. "In the old wine cellar beneath the servant’s quarters."
 
+"Move it? Why? And how?" I asked, my curiosity piqued.
+
+"The night it vanished, I waited until the household was asleep," Hanger explained, his eyes darting toward the door as if ensuring we were alone. "The servants' quarters were empty—most of the staff had gone to the village fair. I knew it was my only chance."
+
+"But how did you manage it alone?" I pressed. "That chest is no small thing."
+
+"There’s a hidden passage, sir," Hanger replied, his voice dropping to a near whisper. "Runs from the study to the wine cellar. Edward showed it to me years ago, when he needed help moving some... sensitive items. I used it that night. Took me near an hour, but I got the chest down to the cellar without a soul noticing."
+
 Holmes exhaled slowly, his mind already forming the next move. "A bold decision, Mr. Hanger. And a dangerous one."
 
 Watson shot Holmes a questioning glance. "What now?"
@@ -465,6 +473,14 @@ He strode to the wall, where an unassuming wooden chest sat. William’s breath 
 Holmes withdrew a small brass key and, with deliberate slowness, unlocked the chest. The lid creaked open. Inside, stacks of military records, sealed letters, and official dispatches lay in pristine condition. Holmes lifted a bundle of documents.
 
 "The chest," Holmes continued, gesturing to the corner where it now sat, "contains more than family secrets. Edward documented everything: military secrets sold to foreign powers, defense plans compromised, a network of betrayal reaching the highest offices."
+
+I stepped forward, holding up a handful of papers from the chest. "Indeed," I added, my voice firm. "Here are detailed records of missing supplies—gunpowder, rifles, provisions—all meticulously logged by Edward. Each entry is dated and signed, with notes pointing to irregularities in the supply chain."
+
+I set the ledger aside and picked up another document. "There are also forged invoices," I continued, "showing payments made to fictitious suppliers. These were used to cover the theft of military resources, funneling funds into private accounts."
+
+Finally, I held up a sealed letter, its wax imprint broken. "And here," I said, my tone growing somber, "are letters implicating high-ranking officials in the East India Company. Colonel Hawthorne’s name appears repeatedly. Edward had uncovered a network of corruption, and it cost him his life."
+
+Holmes stepped forward, his gaze fixed on Hawthorne. "This chest was no mere keepsake, Colonel. It was a weapon—one that could destroy careers, dismantle empires, and expose the rot at the heart of the East India Company."
 
 The air thickened. Katherine gasped softly. Cartwright turned pale. William’s fingers twitched at his sides.
 
