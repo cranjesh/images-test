@@ -293,7 +293,7 @@ Mrs. Hudson met us with two urgent telegrams.
 I read the first:
 
 "Watson,
-I arrived in London yesterday. Edward discovered something dangerous—supply records that don’t match official ledgers. He feared he was being watched. The truth is buried, but his chest holds the key. Others will try to stop this. Meet me at the Criterion Bar, seven o’clock. Come alone."
+I arrived in London yesterday. From memory, Edward in the past had discovered that some supply records that don’t match official ledgers. He suspected Cartwright and found some records."
 — Maj. James Forrester
 
 Holmes handed me the second:
@@ -305,7 +305,6 @@ Return tonight. New evidence confirms a larger conspiracy beyond Fort Kalyan. Th
 Holmes scanned the telegrams, his expression darkening.
 
 "Curious," he said. "Mycroft’s inquiry aligns too conveniently with Blackwood’s fate. And Forrester—if his information is accurate, we are dealing with something far larger than a missing will."
-He turned to me. "Watson, we must divide our efforts. You will meet Forrester; I shall speak with Mycroft. The threads are converging."
 
 The fog thickened as we departed, swallowing the street lamps. Ahead lay Cartwright's secrets, then our separate paths into what felt increasingly like a carefully laid snare.
 
@@ -349,29 +348,74 @@ Holmes smirked. "Oh, he will. The question is—will he help himself?"
 
 The rain had stopped, but the weight of the coming storm still hung in the air.
 
-## Chapter 9: Major Forrester's Revelation
+## Chapter 9: Mycroft's Intervention
 
-The Criterion Bar was nearly empty when I arrived. Major James Forrester sat in a far corner, dressed in civilian clothes but carrying himself with unmistakable military bearing. His grave expression spoke volumes.
+The rain had slowed to a drizzle by the time we arrived at Baker Street. Holmes had barely removed his coat when Mrs. Hudson intercepted us, a familiar note of disapproval in her voice. "A gentleman is waiting for you, Mr. Holmes. Though I daresay he hardly requires an invitation."
 
-![The Criterion Bar](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/criterion.webp)
+![Chapter 11 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter11A.webp)
 
-"Watson," he said, rising to shake my hand firmly. "I apologize for my delayed response. I returned to England only yesterday and found your message."
+Holmes steepled his fingers. I could see the faint flicker of realization in his expression—he had been waiting for this confirmation. “Then Hawthorne will come for the chest himself.”
 
-Forrester produced a small leather-bound notebook. "Captain Blackwood entrusted this to me two days before his... accident. Edward discovered something damning. Shipping records, coded messages—clear evidence of corruption within the ranks. Colonel Hawthorne wasn't merely embezzling funds. He was selling classified information—troop movements, fortress defenses, vital military secrets—to foreign agents."
+Holmes's grey eyes sharpened as he examined the documents within. "The East India Company audit was merely a facade."
+"Indeed." Mycroft's voice dropped low. "These intercepted messages reveal a network of foreign agents. Military secrets, fortress plans, troop movements—all sold to the highest bidder. Captain Blackwood's records would prove what the Foreign Office has long suspected."
 
-"And Edward had proof of this?"
+Holmes steepled his fingers beneath his chin. "Then Hawthorne will come for the chest himself."
 
-Forrester nodded grimly. "He documented everything in meticulous detail. This notebook contains the records he managed to uncover. Edward planned to confront Hawthorne directly. He thought he could force a confession—or at least protect the information until it reached the proper authorities."
+"The question remains," Mycroft replied, studying his brother with cold calculation, "will you permit him that final move?"
 
-"And within forty-eight hours, Captain Blackwood’s inquiries were permanently halted."
+A faint smile played across Holmes's lips. "I rather think not. Watson and I have already set our trap."
 
-## Chapter 10: The Final Assembly
+As we left 221B, Mycroft’s words lingered in my mind. This was no longer a simple case of missing documents. We were about to force the hand of powerful men who would do anything to remain in the dark.
 
-At dawn, a telegram arrived from Holmes:
+## Chapter 10: Behind the Panel
 
+The halls of Blackwood Manor felt unnaturally silent as we made our way to the east wing’s library. A storm had begun to gather outside, the wind pressing against the old glass panes.
+
+I found Hanger alone in the stable yard, his weathered hands moving mechanically over the horse's flank.
+
+"Colonel Hawthorne's career has been marked by curious coincidences," I began quietly. "Supply routes compromised. Intelligence leaked. And now, a dedicated officer dead after discovering discrepancies in military records."
+
+Hanger's hand stilled on the brush, though his face remained impassive.
+
+"Edward suspected something, didn't he? Kept meticulous records. A man of honor, facing a web of corruption."
+
+"What do you want, Mr. Holmes?" His voice was rough.
+
+"William denied you help when your sister was ill. A cruel act. But Hawthorne—he saw an opportunity in your resentment, didn't he? Used your knowledge of the house to hide evidence that could expose him."
+
+Hanger's knuckles whitened. "You don't understand—"
+
+"I understand loyalty, Mr. Hanger. But to whom is it truly owed? To a man who exploited your hardship? Or to Edward, who trusted you? To Katherine, who now stands to lose everything?"
+
+I produced the small brass key Lady Blackwood had entrusted to me. "Edward's records could bring justice. Or they could disappear forever, leaving his killer free."
+
+His bearing crumbled. "Edward was a good man. He didn't deserve—" He swallowed hard. "Hawthorne said no one would be hurt. Just documents to be... examined."
+
+"Hawthorne knew it was still here," Hanger muttered. "I told him I took care of it, but he never really believed me. He’s been waiting. Watching. If he got the key or found another way to open it, he'd have it by now."
+Holmes’s expression darkened. "And why wait?"
+
+Hanger hesitated. "Because he doesn't just want the chest gone—he wants what’s inside. Whatever Edward found... it’s not just about him, is it?"
+
+Holmes nodded grimly. "No, Mr. Hanger. It isn’t."
+
+"The priest hole behind the east wing’s library," I said softly. "That’s where Hawthorne had you hide it."
+
+But Hanger hesitated. His fingers clenched at his sides. "No... it isn’t there anymore."
+
+Holmes’s expression didn’t shift, but the room felt colder. "Explain."
+
+"I moved it," Hanger admitted, his voice hoarse. "Hawthorne’s men were watching me too closely. If they found it first, he would have burned the documents. I... I thought I was doing the right thing."
+
+"Then where is it now?" I asked, feeling my pulse quicken.
+
+"The west wing." Hanger swallowed hard. "In the old wine cellar beneath the servant’s quarters."
+
+I said, "Then we have no time to waste. We move now—retrieve the chest and send Hawthorne a telegram. Tell him the chest is secure, but that I'm investigating. He’ll come straight to us."
+
+## Chapter 11: The Final Assembly
+
+Before dawn, a telegram sent by Holmes:
 "Key evidence found on the chest. Will disclose at 8 AM in the drawing room at Blackwood Manor. Urgent."
-
-There was no signature—there never was with Holmes—but the urgency in his words was unmistakable. Without delay, I made my way to the manor, the weight of anticipation settling over me as the carriage rattled down the mist-laden country road.
 
 The drawing room at Blackwood Manor had become a stage for the final act. Holmes had summoned all key players: Lady Blackwood, Katherine, William, Lieutenant Cartwright, Colonel Hawthorne, and Mr. Hanger. The morning light cast long shadows across their faces.
 
@@ -429,79 +473,7 @@ The morning light strengthened, justice finally illuminating the shadows of Blac
 
 As the study emptied, Holmes recounted his meeting with Mycroft, the previous night, and how he had finally uncovered the chest’s location.
 
-## Chapter 11: Holmes' Flashback - Mycroft's Intervention
-
-The gaslight cast shadows across 221B as Mycroft Holmes settled into the visitor's chair, his customary umbrella dripping onto the floorboards. His presence, as always, carried the weight of matters far beyond ordinary crime.
-
-![Chapter 11 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter11A.webp)
-
-"Brother mine," Mycroft began, producing a leather portfolio bearing the Crown's seal. "Your suspicions about Hawthorne barely scratch the surface of this affair."
-
-Holmes's grey eyes sharpened as he examined the documents within. "The East India Company audit was merely a facade."
-"Indeed." Mycroft's voice dropped low. "These intercepted messages reveal a network of foreign agents. Military secrets, fortress plans, troop movements—all sold to the highest bidder. Captain Blackwood's records would prove what the Foreign Office has long suspected."
-
-Holmes steepled his fingers beneath his chin. "Then Hawthorne will come for the chest himself."
-
-"The question remains," Mycroft replied, studying his brother with cold calculation, "will you permit him that final move?"
-
-A faint smile played across Holmes's lips. "I rather think not. Watson and I have already set our trap."
-
-## Chapter 12: Holmes' Flashback Behind the Panel
-
-I found Hanger alone in the stable yard, his weathered hands moving mechanically over the horse's flank.
-
-"Colonel Hawthorne's career has been marked by curious coincidences," I began quietly. "Supply routes compromised. Intelligence leaked. And now, a dedicated officer dead after discovering discrepancies in military records."
-
-Hanger's hand stilled on the brush, though his face remained impassive.
-
-"Edward suspected something, didn't he? Kept meticulous records. A man of honor, facing a web of corruption."
-
-"What do you want, Mr. Holmes?" His voice was rough.
-
-"William denied you help when your sister was ill. A cruel act. But Hawthorne—he saw an opportunity in your resentment, didn't he? Used your knowledge of the house to hide evidence that could expose him."
-
-Hanger's knuckles whitened. "You don't understand—"
-
-"I understand loyalty, Mr. Hanger. But to whom is it truly owed? To a man who exploited your hardship? Or to Edward, who trusted you? To Katherine, who now stands to lose everything?"
-
-I produced the small brass key Lady Blackwood had entrusted to me. "Edward's records could bring justice. Or they could disappear forever, leaving his killer free."
-
-His bearing crumbled. "Edward was a good man. He didn't deserve—" He swallowed hard. "Hawthorne said no one would be hurt. Just documents to be... examined."
-
-"Hawthorne knew it was still here," Hanger muttered. "I told him I took care of it, but he never really believed me. He’s been waiting. Watching. If he got the key or found another way to open it, he'd have it by now."
-Holmes’s expression darkened. "And why wait?"
-
-Hanger hesitated. "Because he doesn't just want the chest gone—he wants what’s inside. Whatever Edward found... it’s not just about him, is it?"
-
-Holmes nodded grimly. "No, Mr. Hanger. It isn’t."
-
-"The priest hole behind the east wing’s library," I said softly. "That’s where Hawthorne had you hide it."
-
-But Hanger hesitated. His fingers clenched at his sides. "No... it isn’t there anymore."
-
-Holmes’s expression didn’t shift, but the room felt colder. "Explain."
-
-"I moved it," Hanger admitted, his voice hoarse. "Hawthorne’s men were watching me too closely. If they found it first, he would have burned the documents. I... I thought I was doing the right thing."
-
-"Then where is it now?" I asked, feeling my pulse quicken.
-
-"The west wing." Hanger swallowed hard. "In the old wine cellar beneath the servant’s quarters."
-
-I said, "Then we have no time to waste. We move now—retrieve the chest and send Hawthorne a telegram. Tell him the chest is secure, but that I'm investigating. He’ll come straight to us."
-
-## Chapter 13: Back to the present
-
-Later that evening, as Holmes finished his account, I examined the damning documents spread across our sitting room table. My heart pounded as the full scope became clear. "Holmes, this isn't just corruption. It's an international conspiracy!" 
-
-"Indeed." Holmes lit his pipe calmly. "Edward was thorough. His records prove why he had to die."
-
-"But the priest hole—you knew where to look before even opening the chest."
-
-"Elementary," Holmes replied. "Tudor manors always had such hiding places. The east wing retained its original architecture. Hanger's inexplicable attention to that section, despite having no duties there, merely confirmed what architecture suggested."
-
-I sat back, marveling at how the pieces had finally aligned. In his meticulous way, Edward had documented everything—and paid the ultimate price for his discovery.
-
-## Chapter 14: Aftermath and Justice
+## Chapter 12: Aftermath and Justice
 
 The scandal's ripples extended far beyond Blackwood Manor. Colonel Hawthorne's arrest prompted Parliament to launch a thorough investigation, leading to reforms that dismantled long-standing corrupt practices.
 
