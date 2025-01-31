@@ -480,7 +480,7 @@ I set the ledger aside and picked up another document. "There are also forged in
 
 Finally, I held up a sealed letter, its wax imprint broken. "And here," I said, my tone growing somber, "are letters implicating high-ranking officials in the East India Company. Colonel Hawthorne’s name appears repeatedly. Edward had uncovered a network of corruption, and it cost him his life."
 
-Holmes stepped forward, his gaze fixed on Hawthorne. "This chest was no mere keepsake, Colonel. It was a weapon—one that could destroy careers, dismantle empires, and expose the rot at the heart of the East India Company."
+Holmes stepped forward, his gaze fixed on Hawthorne. "This chest was no mere keepsake, Colonel. It was a weapon—one that could destroy careers, dismantle empires, and expose the rot at the heart of the East India Company. The audit isn’t just about Hawthorne—it’s about a network of corruption that spans continents. Edward’s findings could bring it all crashing down."
 
 The air thickened. Katherine gasped softly. Cartwright turned pale. William’s fingers twitched at his sides.
 
