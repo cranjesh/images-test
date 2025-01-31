@@ -369,13 +369,33 @@ As we left 221B, Mycroft’s words lingered in my mind. This was no longer a sim
 
 ## Chapter 10: Behind the Panel
 
-The halls of Blackwood Manor felt unnaturally silent as we made our way to the east wing’s library. A storm had begun to gather outside, the wind pressing against the old glass panes.
+The hour was late when we returned to Blackwood Manor, the mist curling around the estate like a living thing. Our footsteps echoed against the stone corridor as Holmes led the way to the east wing’s library.
 
-I found Hanger alone in the stable yard, his weathered hands moving mechanically over the horse's flank.
+He stopped before an unassuming wooden panel. His fingers traced the edges, feeling for a mechanism unseen to the eye. Then, with a firm press, the wood creaked open, revealing a narrow passage.
 
-"Colonel Hawthorne's career has been marked by curious coincidences," I began quietly. "Supply routes compromised. Intelligence leaked. And now, a dedicated officer dead after discovering discrepancies in military records."
+I peered inside. It was little more than a cramped, dusty alcove—bare and empty.
 
-Hanger's hand stilled on the brush, though his face remained impassive.
+Holmes remained motionless, his sharp gaze sweeping over the darkness. “This was the place,” he murmured.
+
+A strange tension filled the air. I found myself holding my breath. “Then where is it now?”
+
+Holmes turned abruptly. “Hanger.”
+
+Without another word, he strode out of the room, his coat billowing behind him.
+
+I hurried after him. “Holmes, what—”
+
+“He moved it,” Holmes said flatly. “And if we’re not careful, we’ll be two steps behind Hawthorne before the night is through.”
+
+The stable quarters were modest, with a single cot pushed against the wall and an old wooden trunk at the foot of it. Hanger sat at a small desk, polishing a brass buckle, but the tension in his shoulders betrayed him.
+
+Holmes did not hesitate. “The priest hole,” he said, his voice like a knife through the quiet. “It’s empty.”
+
+Hanger’s hand froze. His grip tightened on the buckle before he set it down, his jaw clenched.
+
+Watson folded his arms. “You were the last one to touch it, Hanger. Where is it now?”
+
+"Colonel Hawthorne's career has been marked by curious coincidences," Holmes began quietly. "Supply routes compromised. Intelligence leaked. And now, a dedicated officer dead after discovering discrepancies in military records."
 
 "Edward suspected something, didn't he? Kept meticulous records. A man of honor, facing a web of corruption."
 
@@ -387,30 +407,37 @@ Hanger's knuckles whitened. "You don't understand—"
 
 "I understand loyalty, Mr. Hanger. But to whom is it truly owed? To a man who exploited your hardship? Or to Edward, who trusted you? To Katherine, who now stands to lose everything?"
 
-I produced the small brass key Lady Blackwood had entrusted to me. "Edward's records could bring justice. Or they could disappear forever, leaving his killer free."
+Holmes produced the small brass key Lady Blackwood had entrusted to me. "Edward's records could bring justice. Or they could disappear forever, leaving his killer free."
 
 His bearing crumbled. "Edward was a good man. He didn't deserve—" He swallowed hard. "Hawthorne said no one would be hurt. Just documents to be... examined."
 
-"Hawthorne knew it was still here," Hanger muttered. "I told him I took care of it, but he never really believed me. He’s been waiting. Watching. If he got the key or found another way to open it, he'd have it by now."
-Holmes’s expression darkened. "And why wait?"
-
 Hanger hesitated. "Because he doesn't just want the chest gone—he wants what’s inside. Whatever Edward found... it’s not just about him, is it?"
 
-Holmes nodded grimly. "No, Mr. Hanger. It isn’t."
+"Mr. Hanger," he said, his voice cold, "I assume you have an explanation for why the chest is no longer where you hid it?"
 
-"The priest hole behind the east wing’s library," I said softly. "That’s where Hawthorne had you hide it."
+Hanger’s hands stilled. Slowly, he set the buckle aside. "I don’t know what you mean."
 
-But Hanger hesitated. His fingers clenched at his sides. "No... it isn’t there anymore."
+Holmes’s gaze never wavered. "The priest hole. It’s empty."
 
-Holmes’s expression didn’t shift, but the room felt colder. "Explain."
+The color drained slightly from Hanger’s face.
 
-"I moved it," Hanger admitted, his voice hoarse. "Hawthorne’s men were watching me too closely. If they found it first, he would have burned the documents. I... I thought I was doing the right thing."
+Watson folded his arms. "You were the last one to touch it, Hanger. Where is it now?"
 
-"Then where is it now?" I asked, feeling my pulse quicken.
+Hanger exhaled sharply, running a hand over his face. "I... I had to move it."
 
-"The west wing." Hanger swallowed hard. "In the old wine cellar beneath the servant’s quarters."
+Holmes stepped forward, his voice cutting through the room like steel. "Why?"
 
-I said, "Then we have no time to waste. We move now—retrieve the chest and send Hawthorne a telegram. Tell him the chest is secure, but that I'm investigating. He’ll come straight to us."
+Hanger swallowed hard. "Hawthorne’s men were watching me too closely. If they got to it first, they’d have destroyed everything inside." His voice wavered slightly. "I thought I was doing the right thing."
+
+Holmes studied him for a long moment. "Then where is it now?"
+
+Hanger hesitated before answering. "The west wing," he finally admitted. "In the old wine cellar beneath the servant’s quarters."
+
+Holmes exhaled slowly, his mind already forming the next move. "A bold decision, Mr. Hanger. And a dangerous one."
+
+Watson shot Holmes a questioning glance. "What now?"
+
+Holmes turned toward the door. "Now, we bait Hawthorne into making his move."
 
 ## Chapter 11: The Final Assembly
 
