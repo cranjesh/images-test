@@ -367,6 +367,12 @@ Forrester nodded grimly. "He documented everything in meticulous detail. This no
 
 ## Chapter 10: The Final Assembly
 
+At dawn, a telegram arrived from Holmes:
+
+"Key evidence found on the chest. Will disclose at 8 AM in the drawing room at Blackwood Manor. Urgent."
+
+There was no signature—there never was with Holmes—but the urgency in his words was unmistakable. Without delay, I made my way to the manor, the weight of anticipation settling over me as the carriage rattled down the mist-laden country road.
+
 The drawing room at Blackwood Manor had become a stage for the final act. Holmes had summoned all key players: Lady Blackwood, Katherine, William, Lieutenant Cartwright, Colonel Hawthorne, and Mr. Hanger. The morning light cast long shadows across their faces.
 
 ![Chapter 10 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10A.webp)
@@ -421,7 +427,7 @@ Katherine touched his arm gently. "He protected us all, in the end."
 
 The morning light strengthened, justice finally illuminating the shadows of Blackwood Manor.
 
-As the study emptied, Holmes recounted his meeting with Mycroft and how, the previous night, he had finally uncovered the chest’s location.
+As the study emptied, Holmes recounted his meeting with Mycroft, the previous night, and how he had finally uncovered the chest’s location.
 
 ## Chapter 11: Holmes' Flashback Mycroft's Intervention
 
@@ -460,8 +466,6 @@ Hanger's knuckles whitened. "You don't understand—"
 
 I produced the small brass key Lady Blackwood had entrusted to me. "Edward's records could bring justice. Or they could disappear forever, leaving his killer free."
 
-"The priest hole behind the east wing's library," I said softly. "That's where Hawthorne had you hide it."
-
 His bearing crumbled. "Edward was a good man. He didn't deserve—" He swallowed hard. "Hawthorne said no one would be hurt. Just documents to be... examined."
 
 "Hawthorne knew it was still here," Hanger muttered. "I told him I took care of it, but he never really believed me. He’s been waiting. Watching. If he got the key or found another way to open it, he'd have it by now."
@@ -471,9 +475,19 @@ Hanger hesitated. "Because he doesn't just want the chest gone—he wants what�
 
 Holmes nodded grimly. "No, Mr. Hanger. It isn’t."
 
-"Send Hawthorne a telegram. Tell him the chest is secure, but that I'm investigating."
+"The priest hole behind the east wing’s library," I said softly. "That’s where Hawthorne had you hide it."
 
-Hanger nodded slowly, then led me through the shadowed corridors.
+But Hanger hesitated. His fingers clenched at his sides. "No... it isn’t there anymore."
+
+Holmes’s expression didn’t shift, but the room felt colder. "Explain."
+
+"I moved it," Hanger admitted, his voice hoarse. "Hawthorne’s men were watching me too closely. If they found it first, he would have burned the documents. I... I thought I was doing the right thing."
+
+"Then where is it now?" I asked, feeling my pulse quicken.
+
+"The west wing." Hanger swallowed hard. "In the old wine cellar beneath the servant’s quarters."
+
+I said, "Then we have no time to waste. We move now—retrieve the chest and send Hawthorne a telegram. Tell him the chest is secure, but that I'm investigating. He’ll come straight to us."
 
 ## Chapter 13: Back to the present
 
