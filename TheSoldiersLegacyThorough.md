@@ -13,7 +13,7 @@
 9. [Major Forrester's Revelation](#chapter-9-major-forresters-revelation)
 10. [The Final Assembly](#chapter-10-the-final-assembly)
 11. [Holmes' Flashback Mycroft's Intervention](#chapter-11-holmes-flashback-mycrofts-intervention)
-12. [Holmes' Flashback Hanger's final confrontation](#chapter-12-holmes-flashback-hangers-final-confrontation)
+12. [Holmes' Flashback Behind the Panel](#chapter-12-holmes-flashback-behind-the-panel)
 13. [Back to the Present](#chapter-13-back-to-the-present)
 14. [Aftermath and Justice](#chapter-14-aftermath-and-justice)
 
