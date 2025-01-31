@@ -84,9 +84,8 @@ Cartwright straightened in his chair, glancing briefly at the dispatch box on hi
 Holmes leaned forward. "You visited Blackwood Manor last week, delivering Edward's personal effects. What exactly did you bring?"
 
 "Per regulations, sir: his compass, correspondence, and personal journal," Cartwright replied with military precision. "The chest had been sealed and dispatched separately under Colonel Hawthorne's direct supervision."
-"And the chest?" Holmes pressed further.
 
-"After the Colonel oversaw its sealing at Fort Kalyan, I witnessed its placement in the transport wagon," Cartwright stated, his collar suddenly seeming too tight. "That was the last I saw of it, Mr. Holmes. The Colonel handled all subsequent arrangements personally."
+Holmes rose abruptly, his eyes narrowing. “Then we must see this supervision for ourselves. Come, Watson—Blackwood Manor awaits.”
 
 ## Chapter 3: The Vanishing Chest
 
