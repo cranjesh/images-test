@@ -8,14 +8,12 @@
 4. [The Bitter Brother](#chapter-4-the-bitter-brother)
 5. [The Widow's Tale](#chapter-5-the-widows-tale) 
 6. [Whispers in the Manor](#chapter-6-whispers-in-the-manor)
-7. [Messages and Meetings](#chapter-7-messages-and-meetings)
+7. [The Foreign Office Shadow](#chapter-7-the-foreign-office-shadow)
 8. [Confrontation at the Inn](#chapter-8-confrontation-at-the-inn)
-9. [Major Forrester's Revelation](#chapter-9-major-forresters-revelation)
-10. [The Final Assembly](#chapter-10-the-final-assembly)
-11. [Holmes' Flashback Mycroft's Intervention](#chapter-11-holmes-flashback-mycrofts-intervention)
-12. [Holmes' Flashback Behind the Panel](#chapter-12-holmes-flashback-behind-the-panel)
-13. [Back to the Present](#chapter-13-back-to-the-present)
-14. [Aftermath and Justice](#chapter-14-aftermath-and-justice)
+9. [Mycroft's Intervention](#chapter-9-mycrofts-intervention)
+10. [The Preist Hole](#chapter-10-the-preist-hole)
+11. [The Final Assembly](#chapter-11-the-final-assembly)
+12. [Aftermath and Justice](#chapter-12-aftermath-and-justice)
 
 ## Chapter 1: Lady Blackwood's Visit
 
@@ -57,7 +55,7 @@ She exhaled shakily. "I do not know what to believe, Mr. Holmes. Perhaps it is n
 
 Holmes nodded, his expression unreadable. "I will need to see the study myself. In the meantime, Watson, your military connections may prove useful. Make inquiries at the War Office regarding the officers Edward reported to. I have reason to believe their records will shed light on this affair." He paused, then added, almost offhandedly, "I may need to consult my brother on certain military matters. He has access to information beyond the War Office’s usual channels."
 
-"You seem particularly interested in them," I remarked.
+"You seem particularly interested in them," I remarked as Holmes’s mention of his enigmatic brother piqued my curiosity. Mycroft Holmes rarely involved himself in “common” crimes—but when he did, the stakes invariably spanned empires.
 
 Holmes did not respond immediately. Instead, he walked to the window, staring out at the rain-soaked streets. "A name caught my attention. I recall reading it in connection with a military scandal some months ago. A man of questionable integrity, if memory serves."
 
@@ -268,7 +266,7 @@ Later, as we walked back through the gathering dusk, I turned to Holmes. "You sa
 
 Above us, the windows of the east wing glowed faintly in the gathering dark, like eyes keeping watch over the estate's secrets.
 
-## Chapter 7: Messages and Meetings
+## Chapter 7: The Foreign Office Shadow
 
 As we left Blackwood Manor, Holmes remained uncharacteristically quiet. I had known Holmes long enough to recognize when he was drawing connections yet unspoken. 
 
@@ -352,7 +350,7 @@ The rain had stopped, but the weight of the coming storm still hung in the air.
 
 The rain had slowed to a drizzle by the time we arrived at Baker Street. Holmes had barely removed his coat when Mrs. Hudson intercepted us, a familiar note of disapproval in her voice. "A gentleman is waiting for you, Mr. Holmes. Though I daresay he hardly requires an invitation."
 
-![Chapter 11 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter11A.webp)
+![ChapterMycroft](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/ChapterMycroft.webp)
 
 Holmes steepled his fingers. I could see the faint flicker of realization in his expression—he had been waiting for this confirmation. “Then Hawthorne will come for the chest himself.”
 
@@ -367,13 +365,15 @@ A faint smile played across Holmes's lips. "I rather think not. Watson and I hav
 
 As we left 221B, Mycroft’s words lingered in my mind. This was no longer a simple case of missing documents. We were about to force the hand of powerful men who would do anything to remain in the dark.
 
-## Chapter 10: Behind the Panel
+## Chapter 10: The Priest Hole
 
 The hour was late when we returned to Blackwood Manor, the mist curling around the estate like a living thing. Our footsteps echoed against the stone corridor as Holmes led the way to the east wing’s library.
 
 He stopped before an unassuming wooden panel. His fingers traced the edges, feeling for a mechanism unseen to the eye. Then, with a firm press, the wood creaked open, revealing a narrow passage.
 
 I peered inside. It was little more than a cramped, dusty alcove—bare and empty.
+
+![ChapterThePriestHole1](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/ChapterThePriestHole1.webp)
 
 Holmes remained motionless, his sharp gaze sweeping over the darkness. “This was the place,” he murmured.
 
@@ -388,6 +388,8 @@ I hurried after him. “Holmes, what—”
 “He moved it,” Holmes said flatly. “And if we’re not careful, we’ll be two steps behind Hawthorne before the night is through.”
 
 The stable quarters were modest, with a single cot pushed against the wall and an old wooden trunk at the foot of it. Hanger sat at a small desk, polishing a brass buckle, but the tension in his shoulders betrayed him.
+
+![ChapterThePriestHole2](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/ChapterThePriestHole2.webp)
 
 Holmes did not hesitate. “The priest hole,” he said, his voice like a knife through the quiet. “It’s empty.”
 
@@ -520,9 +522,18 @@ The scandal's ripples extended far beyond Blackwood Manor. Colonel Hawthorne's a
 
 William Blackwood's departure from the estate carried a weight of its own revelation. Holmes later shared with me that among Edward's recovered papers was a letter addressed to his stepbrother, acknowledging the pain of their father's choice and offering a substantial portion of the great-uncle's Indian properties as reconciliation. The letter never reached William, intercepted by Hawthorne's men. When Katherine received William’s letter, she read it in silence, her fingers trembling slightly at the faded ink.
 "I was wrong. That’s all I can say now. Some things cannot be undone. Take care of the children."
+Katherine found the pocket watch on Edward’s desk, its repaired hinge gleaming. She turned it over, tracing the E.B. initials—and suddenly saw William as a boy, cheeks smudged with oil, grinning as Edward guided his hands to fix it.
+ 
+Holmes later observed the replaced spring. “A child’s lesson remembered too late, Watson. Some fractures outlast even time.”
 
 Lieutenant Cartwright, freed from Hawthorne's manipulations, worked to support Katherine as she secured the estate.
 
-Holmes, reflecting on the case, remarked quietly as we departed, "Watson, sometimes exposing corruption at its roots does more than punish a villain—it changes the course of history."
+Holmes tossed the Times onto my lap, his finger tapping a headline: “Parliament Passes Military Stores Act 1897: Stricter Accountability for Supply Officers.”
+
+“Observe the date, Watson,” he said. “Six months to the day since Hawthorne’s arrest. Theft of regimental stores now carries penal servitude—direct thanks to Edward Blackwood’s ledgers gathering dust in Whitehall.”
+
+I thought of Katherine’s children that night, and the countless soldiers’ families who would never know how Edward’s quiet diligence, and Holmes’s relentless mind, had reshaped the empire’s bones.
+
+Holmes, reflecting on the case, remarked quietly as we departed, "A single rotten branch may poison the tree, Watson. But uproot it,” he tapped his cane decisively, “and the roots remember how to grow.”
 
 *The End*
