@@ -3,10 +3,10 @@
 
 ## Table of Contents
 1. [Lady Blackwood's Visit](#chapter-1-lady-blackwoods-visit)
-2. [The Lieutenant's Secrets](#chapter-5-the-lieutenants-secrets)
+2. [The Lieutenant's Secrets](#chapter-2-the-lieutenants-secrets)
 3. [The Vanishing Chest](#chapter-3-the-vanishing-chest)
-4. [The Widow's Tale](#chapter-4-the-widows-tale) 
-5. [The Bitter Brother](#chapter-5-the-bitter-brother)
+4. [The Bitter Brother](#chapter-4-the-bitter-brother)
+5. [The Widow's Tale](#chapter-5-the-widows-tale) 
 6. [Whispers in the Manor](#chapter-6-whispers-in-the-manor)
 7. [Messages and Meetings](#chapter-7-messages-and-meetings)
 8. [Confrontation at the Inn](#chapter-8-confrontation-at-the-inn)
@@ -52,7 +52,7 @@ Lady Blackwood hesitated, as though weighing her words. "Few people. His widow, 
 
 "Troubling indeed," Holmes murmured.
 
-She exhaled shakily. "I do not know what to believe, Mr. Holmes. Perhaps it is nothing. But the chest held his will, among other documents. Without it, the estate may be contested. And if my fears are correct—if Edward's death was not an accident—then I worry that whoever wanted him silenced has not finished their work."
+She exhaled shakily. "I do not know what to believe, Mr. Holmes. Perhaps it is nothing. But, the chest held his will, among other documents. Without it, my daughter-in-law may face challenges in securing Edward’s wishes.. And if my fears are correct—if Edward's death was not an accident—then I worry that whoever wanted him silenced has not finished their work."
 
 Holmes nodded, his expression unreadable. "I will need to see the study myself. In the meantime, Watson, your military connections may prove useful. Make inquiries at the War Office regarding the officers Edward reported to. I have reason to believe their records will shed light on this affair." He paused, then added, almost offhandedly, "I may need to consult my brother on certain military matters. He has access to information beyond the War Office’s usual channels."
 
@@ -99,16 +99,17 @@ Lady Blackwood sat by the fire in mourning dress. "Thank you for coming, Mr. Hol
 
 He turned to Lady Blackwood. "Would you show us to the study?"
 
-![Chapter 2 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2B.webp)
-
 In the study, Holmes crouched by the floor. "Observe, Watson." His fingers traced faint scratches near where the chest had stood.
 "It was moved," I deduced, "not stolen."
 "Precisely." Holmes's gaze flicked toward the doorway. "And with care. The marks end at the threshold—whoever removed it ensured no trail beyond this room."
 
-Lady Blackwood's breath caught. "Then it is still here?"
-"I suspect so," Holmes said. "Tell me, did your son keep ledgers, notes, or letters regarding his work in India?"
+![Chapter 2 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2B.webp)
+
+“Then it may still be here?” Lady Blackwood’s breath caught.
+“Possibly,” Holmes said. “And if so, it is not just the will at stake—it is whatever Edward wished to keep secret.” "Tell me, did your son keep ledgers, notes, or letters regarding his work in India?"
 She hesitated. "A locked drawer in his desk. The key was never found."
 Holmes exchanged a glance with me. "Then we must find it."
+
 Holmes straightened from examining the desk. "The key may be elsewhere. Lady Blackwood, does the house have a library?"
 "Yes, the family library. Through the connecting door."
 
@@ -121,7 +122,7 @@ Lady Blackwood looked puzzled. "Nothing has been touched in this room for years.
 
 "Shall we speak with William now?" I asked.
 
-Lady Blackwood hesitated. "William keeps to his study in the west wing. He's... taken this hard with the inheritance matter straining things further."
+Lady Blackwood hesitated. "William keeps to his study in the west wing. He's..., taken this hard with the inheritance matter straining things further."
 
 The mystery had only deepened, and as we prepared to interview Katherine Blackwood, I suspected the answer lay in Edward's final days at Fort Kalyan.
 
@@ -224,85 +225,48 @@ We took our leave, and as we walked through the manor's corridors, the atmospher
 
 ## Chapter 6: Whispers in the Manor
 
-A stablehand was in the stables, grooming a horse with slow, deliberate strokes. He did not look up as we approached, but there was a stiffness in his posture, as though he had already anticipated our arrival.
+Passing the dimly lit library, I caught William Blackwood's distinct, sharp tone. Through the partially open door, I glimpsed him pacing before someone seated in shadow.
+
+"...Hanger," he said, voice low but brimming with irritation. "The man's loyalties were always questionable. If anyone's meddling with the estate, it's him. He seemed to be loyal to Hawthorne for unknown reason."
+
+A bitter laugh followed. "They'll never pin anything on me. Not with Katherine parading her innocence and Cartwright skulking about like a scolded child."
+
+He tapped his fingers against the desk. "Hargreaves says we need only wait. No will, no challenge. The courts will favor the next male heir, and by then, any objections will be nothing more than noise."
+
+I retreated as William strode past, his expression a mixture of frustration and self-satisfaction. The identity of his confidant remained hidden in the library's shadows.
 
 ![Chapter 6 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter6A.webp)
 
-Holmes studied him briefly.
 
-"You've handled a rifle before," he said.
+Rain drummed against the stable roof when we found Hanger later that afternoon. Inside, he worked methodically, each stroke of the brush against the horse's flank measured and precise. The stable's warmth carried the mingled scents of hay and leather.
 
-The stablehand's grip on the bridle faltered for a split second. His head jerked up, his eyes narrowing.
+"Your hands tell an interesting story, Mr. Hanger," Holmes observed. "That brass polish matches exactly what I found in Captain Blackwood's study."
 
-Holmes gave a slight nod, satisfied. "Yes. And not just once or twice. Years of training, I'd say. You were in the military."
+Hanger's grip on the bridle faltered, his weathered face tightening. "I polish the stable fixtures, Mr. Holmes."
 
-For the first time, the man truly looked at us. His guarded demeanor wavered. Then, in a tone lower than before, he muttered, "Holmes. Watson."
+"And yet William speaks of you with particular suspicion," Holmes continued, his tone carefully neutral. "He implies you might be involved in certain... irregularities."
 
-Holmes regarded him with quiet interest.
+The brush stilled in Hanger's hand. "William Blackwood's always had it out for me, Mr. Holmes." Bitterness crept into his voice. "When I needed help with my sister's medical bills, he turned me away. Said it wasn't his concern."
 
-I studied his weathered face. His expression was still wary, though his hands moved with practiced ease.
+"Even when that business involves a missing chest?" Holmes pressed.
 
-"Then you must have seen much over the years," I said. "Did anything seem amiss?"
+I noticed Hanger's eyes dart briefly toward the east wing, a gesture so quick it might have gone unnoticed by a less attentive observer.
 
-Hanger's jaw tightened. "I keep my head down and my hands busy. Not my place to meddle in family business."
+"I keep my head down and my hands busy," he muttered. "Not my place to meddle in family business."
 
-Holmes regarded him with quiet intensity. "Even when that business involves a missing chest?"
+"Colonel Hawthorne seems more... understanding of financial hardships," Holmes remarked quietly. 
 
-For the briefest moment, Hanger's grip on the bridle tightened. His face remained impassive, but something in his eyes shifted—something quickly concealed.
+Something flickered in Hanger's expression – fear, perhaps, or regret. His knuckles whitened on the brush handle. "A man does what he must, Mr. Holmes."
 
-"I don't know anything about no chest," he muttered. "And if I did, it wouldn't be my place to speak of it."
+Later, as we walked back through the gathering dusk, I turned to Holmes. "You saw something in there."
 
-Holmes inclined his head slightly. "Loyalty is a commendable trait. But loyalty to whom?"
+"Three things, Watson. First, the brass marks in the study matched this polish exactly—not military-issue, but a cheaper civilian variety trying to mimic it. Second, Hanger's glances toward the east wing's library weren't those of a servant, but of someone guarding a secret. And third—" He paused, studying the darkening windows of the manor. "When I mentioned William's financial records, Hanger's reaction confirmed their past friction. A man denied help by his employer becomes vulnerable to other offers."
 
-Hanger scoffed. "To the Blackwood family. The rightful Blackwoods."
+"But why move the chest at all?"
 
-Holmes's expression did not change, but something in his eyes sharpened. "And Colonel Hawthorne? I understand you served under him."
+"Consider the timing. William's recent obsession with inheritance documents, Hawthorne's convenient arrival, and a disgruntled servant with knowledge of the house's hidden spaces." Holmes's voice dropped lower. "The east wing's library holds more secrets than books—Victorian manors often do."
 
-Hanger acknowledged.
-
-As we walked away, I turned to Holmes. "You saw something, didn't you?"
-
-Holmes's eyes gleamed. "Several things, Watson. The particular brass polish on his hands - it's a specific type used only on military equipment, the same variety I noticed on Edward's chest fittings. His unconscious glances toward the east wing whenever William is mentioned suggest intimate knowledge of that section. And most telling - the careful way he positions himself to watch the library windows while pretending to focus on his work. A man accustomed to keeping watch."
-
-"But how did you know about his military background?"
-
-"His stance when startled - perfectly balanced, ready for action. The calluses on his trigger finger haven't fully faded. And notice how he assessed us both the moment we entered, marking potential exits. Old habits, Watson. They reveal more than any words."
-
-Afternoon, Holmes and I returned to the stable yard. Hanger was in the stables once more, brushing down one of the manor's horses. His shoulders were stiff, his movements deliberate.
-
-Holmes greeted him directly this time. "Mr. Hanger, I understand you have been a trusted servant of the Blackwood family for many years."
-
-Hanger's grip on the brush tightened slightly, though he did not look up. "That I have."
-
-Holmes's voice remained calm. "Yet William Blackwood speaks of you with suspicion."
-
-Hanger hesitated. Then, with a heavy sigh, he set the brush down. "William Blackwood's always had it out for me, Mr. Holmes. He doesn't need a reason."
-
-"Perhaps," Holmes allowed. "But Captain Blackwood confided in you, didn't he?"
-
-Hanger's expression remained neutral, but his gaze flickered toward the east wing of the manor before he sighed. "Edward was a good man, but he was digging where he shouldn't have. I told him as much."
-
-Holmes studied him a moment longer before nodding. "I see."
-
-Back in our quarters, I turned to Holmes. "You suspected Hanger knew more than he let on, didn't you?"
-
-Holmes steepled his fingers. "Not of wrongdoing, Watson. But of keeping a secret that may prove critical."
-
-I frowned. "How?"
-
-Holmes allowed himself a small smile. "Three small details. First, the polish on his hands—it matches the variety used on the chest's fittings. Second, his glances toward the library's east wing when William was mentioned—suggesting intimate knowledge of that section. Third, and most tellingly, the way he spoke of Hawthorne."
-
-I raised a brow. "His loyalty?"
-
-"Exactly." Holmes exhaled. "His evasiveness about Hawthorne suggests fear rather than loyalty. That tells me he knows something damaging about the Colonel."."
-
-I exhaled. "So Hanger wasn't William's spy. He was Edward's confidant."
-
-Holmes's eyes gleamed. "And that means we've been looking in the wrong place."
-
-I leaned forward. "Where should we be looking, then?"
-
-Holmes smiled. "Where Edward left his last record—before someone ensured he could write no more."
+Above us, the windows of the east wing glowed faintly in the gathering dark, like eyes keeping watch over the estate's secrets.
 
 ## Chapter 7: Messages and Meetings
 
@@ -318,14 +282,14 @@ The fog clung to Baker Street as our carriage arrived. Mrs. Hudson met us with t
 I read the first:
 
 "Watson,
-Returned from overseas. Edward showed me Hawthorne's doctored supply manifests two days before his death. Military supplies diverted through false accounts. Fort Kalyan's true ledgers hidden in Edward's chest. Hawthorne knows. Criterion Bar, seven o'clock. Come alone.
-— Maj. James Forrester"
+I arrived in London yesterday. Edward discovered something dangerous—supply records that don’t match official ledgers. He feared he was being watched. The truth is buried, but his chest holds the key. Others will try to stop this. Meet me at the Criterion Bar, seven o’clock. Come alone."
+— Maj. James Forrester
 
 Holmes handed me the second:
 
 "Holmes,
-Return tonight. Have evidence of Hawthorne's systematic fraud beyond Fort Kalyan. East India Company audit findings crucial.
-— Mycroft"
+Return tonight. New evidence confirms a larger conspiracy beyond Fort Kalyan. The East India Company audit findings may expose everything. Time is critical."
+— Mycroft
 
 Holmes scanned the telegrams, his expression darkening.
 
@@ -392,7 +356,7 @@ The Criterion Bar was nearly empty when I arrived. Major James Forrester sat in 
 
 "Watson," he said, rising to shake my hand firmly. "I apologize for my delayed response. I returned to England only yesterday and found your message."
 
-Forrester produced a small leather-bound notebook. "Captain Blackwood entrusted this to me two days before his... accident. Edward discovered something damning. Shipping records, coded messages—clear evidence of corruption within the ranks. Colonel Sir Reginald Hawthorne wasn't merely embezzling funds. He was selling classified information—troop movements, fortress defenses, vital military secrets—to foreign agents."
+Forrester produced a small leather-bound notebook. "Captain Blackwood entrusted this to me two days before his... accident. Edward discovered something damning. Shipping records, coded messages—clear evidence of corruption within the ranks. Colonel Hawthorne wasn't merely embezzling funds. He was selling classified information—troop movements, fortress defenses, vital military secrets—to foreign agents."
 
 "And Edward had proof of this?"
 
@@ -481,37 +445,45 @@ Holmes steepled his fingers beneath his chin. "Then Hawthorne will come for the 
 
 A faint smile played across Holmes's lips. "I rather think not. Watson and I have already set our trap."
 
-### Chapter 12: Hanger's final confrontation
+## Chapter 12: Behind the Panel
 
-I found Hanger in the stable yard, his weathered hands moving mechanically over the horse's flank.
+As the attendees at the study left, Holmes revealed how he had finally uncovered the chest's location that afternoon:
 
-"Notice, Watson," Holmes said quietly, "how his left cuff bears traces of the library's distinctive red carpet fibres. And there—" he pointed to Hanger's boots, "—dust from behind the false panel, unique to priest holes of that era."
+I found Hanger alone in the stable yard, his weathered hands moving mechanically over the horse's flank.
 
-"The chest is in the priest hole behind the east wing's library," Holmes declared to Hanger. "The evidence is quite clear."
+"Colonel Hawthorne's career has been marked by curious coincidences," I began quietly. "Supply routes compromised. Intelligence leaked. And now, a dedicated officer dead after discovering discrepancies in military records."
 
-Hanger's hand froze mid-stroke. "You're mistaken, Mr. Holmes."
+Hanger's hand stilled on the brush, though his face remained impassive.
 
-"Am I? The scuff marks by the third bookshelf. Regular checking, judging by the dust pattern. Hawthorne ordered you to move it there, did he not?"
+"Edward suspected something, didn't he? Kept meticulous records. A man of honor, facing a web of corruption."
 
-"I don't know what you mean."
+"What do you want, Mr. Holmes?" His voice was rough.
 
-"A man of your experience would certainly understand the value of such records. Supply routes. Troop movements. Information that could devastate British forces if it fell into the wrong hands."
+"William denied you help when your sister was ill. A cruel act. But Hawthorne—he saw an opportunity in your resentment, didn't he? Used your knowledge of the house to hide evidence that could expose him."
 
-Hanger's knuckles whitened on the brush.
+Hanger's knuckles whitened. "You don't understand—"
 
-"Hawthorne was aware of your financial difficulties. He understood how loyalty can be shaped by necessity, particularly when family legacies are at stake." Holmes's voice softened. "But Edward trusted you. He would have wanted you to protect those documents, not hide them for his killer."
+"I understand loyalty, Mr. Hanger. But to whom is it truly owed? To a man who exploited your hardship? Or to Edward, who trusted you? To Katherine, who now stands to lose everything?"
 
-Holmes produced a small brass key. "I got this from Katherine"
+I produced the small brass key Lady Blackwood had entrusted to me. "Edward's records could bring justice. Or they could disappear forever, leaving his killer free."
 
-Hanger stared at the key, his military bearing crumbling. Without a word, he led us through the shadowed corridors.
+"The priest hole behind the east wing's library," I said softly. "That's where Hawthorne had you hide it."
 
-The chest's contents proved everything: military intelligence sold to foreign powers, compromised supply routes, signatures from men in positions far above Hawthorne. Edward's meticulous records revealed why he had to die.
+His bearing crumbled. "Edward was a good man. He didn't deserve—" He swallowed hard. "Hawthorne said no one would be hurt. Just documents to be... examined."
 
-I looked up, my heart pounding. "Holmes, this isn’t just corruption. It’s an international conspiracy!" Holmes nodded calmly. "Edward was thorough. This is the proof of why he had to die." I shook my head. "And you knew where to look before even opening the chest."
+"Send Hawthorne a telegram. Tell him the chest is secure, but that I'm investigating."
 
-"Elementary," Holmes replied. "Where else would a military man hide something of vital importance? The east wing was the only section with original Tudor architecture intact. Such houses always had priest holes. Hanger's regular path to that specific section, despite having no duties there, confirmed it."
+Hanger nodded slowly, then led me through the shadowed corridors.
 
-That evening, Holmes sent the telegram that would spring our trap. Hawthorne's desperation would be his undoing.
+Later that evening, as Holmes finished his account, I examined the damning documents spread across our sitting room table. My heart pounded as the full scope became clear. "Holmes, this isn't just corruption. It's an international conspiracy!" 
+
+"Indeed." Holmes lit his pipe calmly. "Edward was thorough. His records prove why he had to die."
+
+"But the priest hole—you knew where to look before even opening the chest."
+
+"Elementary," Holmes replied. "Tudor manors always had such hiding places. The east wing retained its original architecture. Hanger's inexplicable attention to that section, despite having no duties there, merely confirmed what architecture suggested."
+
+I sat back, marveling at how the pieces had finally aligned. In his meticulous way, Edward had documented everything—and paid the ultimate price for his discovery.
 
 ## Chapter 13: Aftermath and Justice
 
