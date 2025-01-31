@@ -12,10 +12,10 @@
 8. [Confrontation at the Inn](#chapter-8-confrontation-at-the-inn)
 9. [Major Forrester's Revelation](#chapter-9-major-forresters-revelation)
 10. [The Final Assembly](#chapter-10-the-final-assembly)
-11. [Mycroft's Intervention](#chapter-11-mycrofts-intervention)
-12. [Hanger's final confrontation](#chapter-12-hangers-final-confrontation)
+11. [Holmes' Flashback Mycroft's Intervention](#chapter-11-holmes-flashback-mycrofts-intervention)
+12. [Holmes' Flashback Hanger's final confrontation](#chapter-12-holmes-flashback-hangers-final-confrontation)
 13. [Back to the Present](#chapter-13-back-to-the-present)
-14. [Aftermath and Justice](#chapter-13-aftermath-and-justice)
+14. [Aftermath and Justice](#chapter-14-aftermath-and-justice)
 
 ## Chapter 1: Lady Blackwood's Visit
 
@@ -429,7 +429,7 @@ The morning light strengthened, justice finally illuminating the shadows of Blac
 
 As the study emptied, Holmes recounted his meeting with Mycroft, the previous night, and how he had finally uncovered the chest’s location.
 
-## Chapter 11: Holmes' Flashback Mycroft's Intervention
+## Chapter 11: Holmes' Flashback - Mycroft's Intervention
 
 The gaslight cast shadows across 221B as Mycroft Holmes settled into the visitor's chair, his customary umbrella dripping onto the floorboards. His presence, as always, carried the weight of matters far beyond ordinary crime.
 
