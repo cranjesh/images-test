@@ -237,7 +237,6 @@ I retreated as William strode past, his expression a mixture of frustration and 
 
 ![Chapter 6 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter6A.webp)
 
-
 Rain drummed against the stable roof when we found Hanger later that afternoon. Inside, he worked methodically, each stroke of the brush against the horse's flank measured and precise. The stable's warmth carried the mingled scents of hay and leather.
 
 "Your hands tell an interesting story, Mr. Hanger," Holmes observed. "That brass polish matches exactly what I found in Captain Blackwood's study."
@@ -270,14 +269,25 @@ Above us, the windows of the east wing glowed faintly in the gathering dark, lik
 
 ## Chapter 7: Messages and Meetings
 
-As we left Blackwood Manor, Holmes remained uncharacteristically quiet.  I had known Holmes long enough to recognize when he was drawing connections yet unspoken. As we neared Baker Street, "Watson," he murmured at last, "what do you make of Hanger’s loyalty?"
-
-"He’s protecting something—or someone," I replied. "But his allegiance does not lie with Colonel Hawthorne."
-"Indeed." Holmes exhaled
+As we left Blackwood Manor, Holmes remained uncharacteristically quiet. I had known Holmes long enough to recognize when he was drawing connections yet unspoken. 
 
 ![Chapter 7 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter7A.webp)
 
-The fog clung to Baker Street as our carriage arrived. Mrs. Hudson met us with two urgent telegrams.
+The fog clung to Baker Street as our carriage arrived. As we neared Baker Street, we are stopped by a uniformed constable.
+
+"Mr. Holmes," the officer said, blocking our path. "I must advise you to drop your inquiries regarding Blackwood Manor. Official military investigators have taken over the case."
+
+Holmes’s lips curled slightly. "Curious. And who, may I ask, issued such orders?"
+
+The constable hesitated, then produced a sealed notice from the War Office. "These matters pertain to classified military operations. Civilian interference is discouraged."
+
+Holmes took the paper, scanned it, and handed it back. "A well-crafted deception," he murmured. "Tell your superior——that I regret to inform him that my curiosity remains undeterred."
+
+As the officer departed, Watson whispered, "They’re watching us."
+
+Holmes nodded, eyes sharp. "Indeed, Watson. Which means we are finally making progress."
+
+Mrs. Hudson met us with two urgent telegrams.
 
 I read the first:
 
@@ -418,7 +428,23 @@ Holmes replied "I suspect this is only the first thread to be pulled. The ledger
 
 Hawthorne’s sneer faltered as the weight of Holmes’s words settled. The certainty in Holmes’s voice cut through his bravado, and for the first time, true fear flickered in his eyes.
 
-Lestrade stepped forward. "Colonel Reginald Hawthorne, you are under arrest for conspiracy, treason, and the murder of Captain Edward Blackwood."
+As the tension mounted, Hawthorne leaned back in his chair, a knowing smirk playing at his lips.
+
+"You overreach, Holmes," he said smoothly. "Even if what you claim were true, do you truly believe the War Office will allow this spectacle? You tread on matters beyond your grasp."
+
+He turned his gaze to Lestrade. "Inspector, I strongly advise you to reconsider your next course of action. There are men—men far above your rank—who would be most displeased."
+
+Lestrade hesitated for a fraction of a second. Just long enough.
+
+Holmes noticed. "You see, Watson?" he murmured. "Even in his downfall, he believes his friends in high places will shield him."
+
+Hawthorne chuckled. "Why do you think I remained in my position for so long, Holmes? You believe this little display will undo decades of carefully cultivated connections? I will walk free before the week is out."
+
+Holmes exhaled, almost disappointed. "That, Colonel, is where you miscalculate. You see, I took the liberty of sending a copy of these documents to Major Forrester, the Foreign Office, and The Times. Even your friends in Parliament will be scrambling to disavow you."
+
+The smile faded from Hawthorne’s face.
+
+Lestrade stepped forward. "Colonel Reginald Hawthorne, you are under arrest for conspiracy and treason"
 
 ![Chapter 10 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10B.webp)
 
