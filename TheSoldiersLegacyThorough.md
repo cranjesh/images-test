@@ -44,7 +44,7 @@ Her voice broke slightly before she continued. "Edward was an honourable man, de
 
 Holmes steepled his fingers. "You mentioned a missing military chest?"
 
-Lady Blackwood nodded. "His belongings were returned to Blackwood Manor along with his effects. The chest was locked, as always, and stored in his study. But the night before the East India Company's audit was to begin, it vanished without a trace. Edward had been insistent about keeping it close - he'd even hired a former military man as groundskeeper, someone he trusted from his days at Fort Kalyan."
+Lady Blackwood nodded. "We were surprised when Edward purchased the chest just a few months ago and last used it during his visit two months past. But the night before the East India Company's audit was to begin, it vanished without a trace. He had been insistent on keeping it safe."
 
 Holmes leaned forward slightly, his attention caught by a detail. "Who had access to the study?"
 
@@ -247,11 +247,11 @@ Hanger's grip on the bridle faltered, his weathered face tightening. "I polish t
 
 The brush stilled in Hanger's hand. "William Blackwood's always had it out for me, Mr. Holmes." Bitterness crept into his voice. "When I needed help with my sister's medical bills, he turned me away. Said it wasn't his concern."
 
-"Even when that business involves a missing chest?" Holmes pressed.
+Holmes studied Hanger as the man polished the bridle. "The chest vanished from the study. Did you see anything unusual that night?"
 
 I noticed Hanger's eyes dart briefly toward the east wing, a gesture so quick it might have gone unnoticed by a less attentive observer.
 
-"I keep my head down and my hands busy," he muttered. "Not my place to meddle in family business."
+Hanger’s hands faltered slightly before he resumed his work. "I keep to my duties, sir. Nothing more."
 
 "Colonel Hawthorne seems more... understanding of financial hardships," Holmes remarked quietly. 
 
@@ -314,41 +314,31 @@ The village inn was quiet when we arrived. Lieutenant Cartwright sat in a shadow
 
 ![Chapter 8 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter8A.webp)
 
-Holmes approached. "Lieutenant, your silence has done little to shield you. Why were you interested in Edward's chest?"
+Holmes approached. "Lieutenant, your silence has done little to shield you. Why were you so interested in Edward's chest?"
 
-Cartwright stiffened but did not look up. "I... I wanted to retrieve something personal."
+Cartwright’s fingers clenched around his glass. "I had my reasons."
 
-Holmes's gaze sharpened. "Shall I elaborate? You sought the chest to recover two things: letters from Katherine before her marriage—letters that might call your loyalty to Captain Blackwood into question—and evidence of your own transgressions. Or perhaps, more than that?"
+Holmes’s gaze sharpened. "Let me name them for you. First, Edward held records—discrepancies in supply reports, minor corruption that pointed to you. Not enough to ruin you, but enough to taint your name. Second, there were letters—your letters—to Katherine before her marriage. You feared what she might find if she opened that chest."
 
-Cartwright's eyes widened. "How could you possibly—"
+Cartwright exhaled sharply. "I needed Katherine to open it herself. Lady Blackwood had the key, and I couldn’t simply demand it. If Katherine had a reason to believe it held something for her, she would push to see it opened."
 
 Holmes leaned forward. "It wasn't just the contents, but what they could accomplish. A challenge to the will would force the chest into scrutiny. If Katherine demanded justice, the truth might emerge without your direct involvement. Convenient, wasn't it?"
 
-Cartwright exhaled. "I needed Katherine to push for an inquiry. If she contested the will, the chest would be re-examined. I thought if she fought for justice, the truth would come out."
+Cartwright stiffened. "No. I wanted to protect her. Edward was dead, and I knew Hawthorne would erase everything. If I spoke out alone, no one would believe me—I needed Katherine's voice."
 
 Watson frowned. "And what truth? The corruption you covered up? Or the fact that you feared for yourself?"
 
-Cartwright's fingers clenched. "No. I wanted to protect her. Edward was dead, and I knew Hawthorne would erase everything. If I spoke out alone, no one would believe me—I needed Katherine's voice."
+Cartwright swallowed hard, his face pale. "Both," he admitted.
 
-Holmes exhaled. "A strategic decision rather than a direct confrontation. You sought justice, but through her actions rather than your own."
+Holmes’s voice cut through the silence. "The letters weren't your only concern. Edward discovered something else—your involvement in the missing supplies at Fort Kalyan. Small amounts, easily overlooked. But Edward noticed."
 
-Cartwright looked away. 
+Cartwright’s glass slipped slightly. "That's impossible—"
 
-After a pause, he sighed. "I made mistakes. I let things happen. But I swear, Holmes, I did not kill Edward. He was my friend."
+Holmes tapped his fingers against the table. "The timing of your visits to the study aligned perfectly with the East India Company's audit schedule. You needed those records destroyed before they reached London." He leaned closer. "But someone else moved first, didn’t they? Someone who knew about both your secrets—the letters and the supplies."
 
-Holmes studied him. "No, you didn't. But your cowardice played its part."
+Cartwright’s face drained of color. "Colonel Hawthorne," he whispered.
 
-Cartwright exhaled sharply, shame flickering in his eyes.
-
-Holmes's voice cut through the silence. "The letters weren't your only concern. Edward discovered something else—your involvement in the missing supplies at Fort Kalyan. Small amounts, easily overlooked. But Edward noticed."
-
-Cartwright's glass slipped slightly. "That's impossible—"
-
-"The timing of your visits to the study aligned perfectly with the East India Company's audit schedule. You needed those records destroyed before they reached London." Holmes leaned closer. "But someone else moved first, didn't they? Someone who knew about both your secrets—the letters and the supplies."
-
-Cartwright's face drained of color. "Colonel Hawthorne," he whispered.
-
-Holmes stood. "We are closing in on the truth. If you wish to atone, now is the time."
+Holmes studied him carefully. "You have a choice, Lieutenant. Speak now, or let the truth bury you along with Hawthorne."
 
 Cartwright said nothing, but his hands clenched. Holmes had given him an opening—a chance to act. Whether he would take it, only time would tell.
 
