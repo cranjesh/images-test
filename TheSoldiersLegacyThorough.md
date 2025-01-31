@@ -141,6 +141,14 @@ Holmes raised an eyebrow. "You suggest Katherine is involved?"
 
 "Who else?" William shot back. "She gains everything if Edward's will is missing. And let's not ignore her prior... association with Lieutenant Cartwright. Who's to say Edward didn't discover something and decide to change his will?"
 
+"And Lieutenant Cartwright," Holmes interjected smoothly, "his interest in the study—what did you make of it?"
+
+William's sneer deepened. "Oh, that's rich. You should ask Katherine about their 'interest' in each other. Before Edward, they were quite... close." His voice dripped with contempt. "Edward received some enlightening letters about their past. Destroyed him, really. But then again, Katherine always did have a talent for destroying things."
+
+"These letters," Holmes pressed. "You seem well-informed of their contents."
+
+William's laugh was harsh. "The servants talk, Mr. Holmes. And walls have ears. Edward's discovery of their... history... well, let's just say it cast doubt on more than Katherine's character."
+
 Holmes's expression remained neutral. "An interesting theory, Mr. Blackwood, but one that demands evidence before it can be entertained. Tell me, where were you on the night the chest disappeared?"
 
 William stiffened slightly, his scowl deepening. "In my quarters, alone. I heard nothing, saw nothing. And frankly, I'm not obligated to account for myself."
@@ -192,6 +200,18 @@ Holmes tapped his fingers together. "And Edward's response?"
 Holmes nodded, his expression unreadable. "Most intriguing."
 
 A hush settled over the room, thick with unspoken truths. Holmes had unearthed something deeper than a mere family dispute. Edward Blackwood had held a secret—one his brother was desperate to uncover. And now, it seemed, that secret had cost him his life.
+
+"Mrs. Blackwood," Holmes said gently, "Lieutenant Cartwright's concern for your welfare seems... particular."
+
+Katherine's fingers twisted her handkerchief. "We were acquainted before Edward. Nothing more."
+
+"Yet his recent visits to the study—" Holmes paused deliberately.
+
+"He claimed to have Edward's personal effects." Her voice wavered slightly. "Old correspondence that needed returning."
+
+"Correspondence that Edward had already seen?" Holmes asked softly.
+
+Katherine paled. "How did you—"
 
 As Holmes rose to his feet and began pacing, I turned to Katherine and spoke quietly. "And your children, Mrs. Blackwood? How are they faring?"
 
@@ -338,13 +358,21 @@ Cartwright's fingers clenched. "No. I wanted to protect her. Edward was dead, an
 
 Holmes exhaled. "A strategic decision rather than a direct confrontation. You sought justice, but through her actions rather than your own."
 
-Cartwright looked away.
+Cartwright looked away. 
 
 After a pause, he sighed. "I made mistakes. I let things happen. But I swear, Holmes, I did not kill Edward. He was my friend."
 
 Holmes studied him. "No, you didn't. But your cowardice played its part."
 
 Cartwright exhaled sharply, shame flickering in his eyes.
+
+Holmes's voice cut through the silence. "The letters weren't your only concern. Edward discovered something else—your involvement in the missing supplies at Fort Kalyan. Small amounts, easily overlooked. But Edward noticed."
+
+Cartwright's glass slipped slightly. "That's impossible—"
+
+"The timing of your visits to the study aligned perfectly with the East India Company's audit schedule. You needed those records destroyed before they reached London." Holmes leaned closer. "But someone else moved first, didn't they? Someone who knew about both your secrets—the letters and the supplies."
+
+Cartwright's face drained of color. "Colonel Hawthorne," he whispered.
 
 Holmes stood. "We are closing in on the truth. If you wish to atone, now is the time."
 
