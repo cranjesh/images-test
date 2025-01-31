@@ -14,7 +14,8 @@
 10. [The Final Assembly](#chapter-10-the-final-assembly)
 11. [Mycroft's Intervention](#chapter-11-mycrofts-intervention)
 12. [Hanger's final confrontation](#chapter-12-hangers-final-confrontation)
-13. [Aftermath and Justice](#chapter-13-aftermath-and-justice)
+13. [Back to the Present](#chapter-13-back-to-the-present)
+14. [Aftermath and Justice](#chapter-13-aftermath-and-justice)
 
 ## Chapter 1: Lady Blackwood's Visit
 
@@ -386,55 +387,31 @@ He strode to the wall, where an unassuming wooden chest sat. William’s breath 
 
 Holmes withdrew a small brass key and, with deliberate slowness, unlocked the chest. The lid creaked open. Inside, stacks of military records, sealed letters, and official dispatches lay in pristine condition. Holmes lifted a bundle of documents.
 
-“Captain Blackwood’s private records,” he announced. “Documenting corruption, forged ledgers, and—most damning of all—classified intelligence leaked under your direct orders, Colonel Hawthorne.”
-
-The air thickened. Cartwright turned pale. William’s fingers twitched at his sides.
-
-Hawthorne’s sneer returned, sharper now, his voice low. “You meddle in things beyond your understanding, Holmes. Do you think this ends with me?”
-
-Holmes tapped the papers lightly. “No, Colonel. I rather think this is only the beginning.”
-
-From the adjoining hall, Inspector Lestrade and two officers stepped forward.
-
-“Colonel Reginald Hawthorne,” Lestrade announced, unfolding an arrest warrant, “you are under arrest for treason”
-
-Hawthorne’s eyes flickered with something close to fear, but he squared his shoulders. As the officers restrained him, Holmes closed the chest with a quiet click.
-
-“Well, Watson,” he said lightly, turning toward me. “I do believe we have, at last, gotten rather close to the case.”
-
-"Baseless accusations," Hawthorne cut in, his composure slipping.
-
 "The chest," Holmes continued, gesturing to the corner where it now sat, "contains more than family secrets. Edward documented everything: military secrets sold to foreign powers, defense plans compromised, a network of betrayal reaching the highest offices."
 
-Katherine gasped softly. William's face paled.
+The air thickened. Katherine gasped softly. Cartwright turned pale. William’s fingers twitched at his sides.
 
-"Impossible," Hawthorne snarled, lunging forward – only to freeze as Inspector Lestrade and several Scotland Yard officers emerged from the adjoining room.
+Hawthorne leaned back. "You think I wanted to hide these documents? No, Holmes. I needed to open them." "For blackmail," Holmes said. "A crude word. This is leverage, Holmes. The kind that builds empires. Do you think they'll let this case stand?"
 
-"Actually, Colonel," Lestrade said, producing a warrant, "Major Forrester's testimony confirms everything. The game is up."
-
-As officers moved in, Hawthorne's mask finally cracked, "You meddle in affairs beyond your understanding, Holmes! Do you think this ends with me?" he spat.
-
-Holmes replied "I suspect this is only the first thread to be pulled. The ledgers contain enough to expose your entire network.". Men of power and influence will be implicated—your former allies will not protect you."
-
-Hawthorne’s sneer faltered as the weight of Holmes’s words settled. The certainty in Holmes’s voice cut through his bravado, and for the first time, true fear flickered in his eyes.
-
-As the tension mounted, Hawthorne leaned back in his chair, a knowing smirk playing at his lips.
-
-"You overreach, Holmes," he said smoothly. "Even if what you claim were true, do you truly believe the War Office will allow this spectacle? You tread on matters beyond your grasp."
+"The documents no longer belong to you." Hawthorne's smirk remained. "You think the Foreign Office will act? They'll vanish before sunrise."
 
 He turned his gaze to Lestrade. "Inspector, I strongly advise you to reconsider your next course of action. There are men—men far above your rank—who would be most displeased."
 
 Lestrade hesitated for a fraction of a second. Just long enough.
 
-Holmes noticed. "You see, Watson?" he murmured. "Even in his downfall, he believes his friends in high places will shield him."
+Holmes's voice stayed measured. "Which is why copies went to the military tribunal. And The Times." He paused. "The first article should be printing now."
 
-Hawthorne chuckled. "Why do you think I remained in my position for so long, Holmes? You believe this little display will undo decades of carefully cultivated connections? I will walk free before the week is out."
+Hawthorne's smirk vanished.
 
-Holmes exhaled, almost disappointed. "That, Colonel, is where you miscalculate. You see, I took the liberty of sending a copy of these documents to Major Forrester, the Foreign Office, and The Times. Even your friends in Parliament will be scrambling to disavow you."
+"Your allies aren't silencing evidence," Holmes said softly. "They're distancing themselves. You're no longer an asset—you're a liability."
 
-The smile faded from Hawthorne’s face.
+For the first time, Hawthorne's jaw clenched.
 
-Lestrade stepped forward. "Colonel Reginald Hawthorne, you are under arrest for conspiracy and treason"
+Holmes turned. "Inspector?"
+
+"Colonel Reginald Hawthorne," Lestrade declared, "you are under arrest for conspiracy and treason."
+
+The man who had controlled secrets sat silent as the cuffs clicked shut.
 
 ![Chapter 10 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10B.webp)
 
@@ -444,7 +421,9 @@ Katherine touched his arm gently. "He protected us all, in the end."
 
 The morning light strengthened, justice finally illuminating the shadows of Blackwood Manor.
 
-## Chapter 11: Mycroft's Intervention
+As the study emptied, Holmes recounted his meeting with Mycroft and how, the previous night, he had finally uncovered the chest’s location.
+
+## Chapter 11: Holmes' Flashback Mycroft's Intervention
 
 The gaslight cast shadows across 221B as Mycroft Holmes settled into the visitor's chair, his customary umbrella dripping onto the floorboards. His presence, as always, carried the weight of matters far beyond ordinary crime.
 
@@ -461,9 +440,7 @@ Holmes steepled his fingers beneath his chin. "Then Hawthorne will come for the 
 
 A faint smile played across Holmes's lips. "I rather think not. Watson and I have already set our trap."
 
-## Chapter 12: Behind the Panel
-
-As the attendees at the study left, Holmes revealed how he had finally uncovered the chest's location that afternoon:
+## Chapter 12: Holmes' Flashback Behind the Panel
 
 I found Hanger alone in the stable yard, his weathered hands moving mechanically over the horse's flank.
 
@@ -487,9 +464,18 @@ I produced the small brass key Lady Blackwood had entrusted to me. "Edward's rec
 
 His bearing crumbled. "Edward was a good man. He didn't deserve—" He swallowed hard. "Hawthorne said no one would be hurt. Just documents to be... examined."
 
+"Hawthorne knew it was still here," Hanger muttered. "I told him I took care of it, but he never really believed me. He’s been waiting. Watching. If he got the key or found another way to open it, he'd have it by now."
+Holmes’s expression darkened. "And why wait?"
+
+Hanger hesitated. "Because he doesn't just want the chest gone—he wants what’s inside. Whatever Edward found... it’s not just about him, is it?"
+
+Holmes nodded grimly. "No, Mr. Hanger. It isn’t."
+
 "Send Hawthorne a telegram. Tell him the chest is secure, but that I'm investigating."
 
 Hanger nodded slowly, then led me through the shadowed corridors.
+
+## Chapter 13: Back to the present
 
 Later that evening, as Holmes finished his account, I examined the damning documents spread across our sitting room table. My heart pounded as the full scope became clear. "Holmes, this isn't just corruption. It's an international conspiracy!" 
 
@@ -501,7 +487,7 @@ Later that evening, as Holmes finished his account, I examined the damning docum
 
 I sat back, marveling at how the pieces had finally aligned. In his meticulous way, Edward had documented everything—and paid the ultimate price for his discovery.
 
-## Chapter 13: Aftermath and Justice
+## Chapter 14: Aftermath and Justice
 
 The scandal's ripples extended far beyond Blackwood Manor. Colonel Hawthorne's arrest prompted Parliament to launch a thorough investigation, leading to reforms that dismantled long-standing corrupt practices.
 
