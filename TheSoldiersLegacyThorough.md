@@ -444,7 +444,7 @@ Holmes turned toward the door. "Now, we bait Hawthorne into making his move."
 Before dawn, a telegram sent by Holmes:
 "Key evidence found on the chest. Will disclose at 8 AM in the drawing room at Blackwood Manor. Urgent."
 
-The drawing room at Blackwood Manor had become a stage for the final act. Holmes had summoned all key players: Lady Blackwood, Katherine, William, Lieutenant Cartwright, Colonel Hawthorne, and Mr. Hanger. The morning light cast long shadows across their faces.
+The drawing room at Blackwood Manor had become a stage for the final act. Holmes had summoned all key players: Lady Blackwood, Katherine, William, Lieutenant Cartwright, Colonel Hawthorne, and Mr. Hanger. The morning light cast long shadows across their faces. The household had been eerily still that morning, the kind of silence that only precedes something inevitable.
 
 ![Chapter 10 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10A.webp)
 
@@ -496,9 +496,7 @@ The man who had orchestrated so much devastation was led away in handcuffs, his 
 
 Katherine touched his arm gently. "He protected us all, in the end."
 
-The morning light strengthened, justice finally illuminating the shadows of Blackwood Manor.
-
-As the study emptied, Holmes recounted his meeting with Mycroft, the previous night, and how he had finally uncovered the chest’s location.
+The morning light strengthened, justice finally illuminating the shadows of Blackwood Manor. I had seen many men fall to Holmes’s deductions, but rarely had I witnessed one crumble under the weight of his own overconfidence. As the door closed behind him, I realized that Blackwood Manor had finally exorcised its ghosts.
 
 ## Chapter 12: Aftermath and Justice
 
