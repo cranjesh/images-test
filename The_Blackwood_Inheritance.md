@@ -554,5 +554,4 @@ That night, I thought of Katherine’s children—and the countless families who
 
 As we departed, Holmes remarked quietly, "A single rotten branch may poison the tree, Watson. But uproot it"—he tapped his cane decisively—"and the roots remember how to grow."  
 
-### *The End*  
-
+*The End*
