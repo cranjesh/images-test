@@ -15,9 +15,6 @@
 11. [The Final Assembly](#chapter-11-the-final-assembly)
 12. [Aftermath and Justice](#chapter-12-aftermath-and-justice)
 
-Here’s the edited Chapter 1 following your style guidelines, preserving all dialogue, plot points, and image placement while tightening prose:
-
----
 ## Chapter 1: Lady Blackwood's Visit
 
 Rain drummed against the windows of 221B Baker Street as I finished recording notes from our last case. Holmes, in his armchair, studied a telegram, pipe smoke curling rhythmically upward.
