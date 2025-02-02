@@ -25,7 +25,7 @@ Before I could inquire further, a sharp knock at the door interrupted our quiet.
 
 The woman who entered was the very picture of mourning. Her finely tailored black gown spoke of her status, but her trembling hands and pale complexion betrayed a weight far heavier than her garments.
 
-Holmes stood, gesturing to the chair opposite his. "Please, Lady Blackwood, take a seat. I suspect your visit concerns the recent disappearance of your son's military chest—a loss made all the more troubling given the East India Company's imminent audit."
+Holmes stood, gesturing to the chair opposite his. "Please, Lady Blackwood, take a seat. I suspect your visit concerns the recent disappearance of your son's chest—a loss made all the more troubling given the East India Company's imminent audit."
 
 ![Lady Blackwood's Visit](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter1A.webp)
 
@@ -41,7 +41,7 @@ Holmes's gaze sharpened. "What makes you think so?"
 
 Her voice broke slightly before she continued. "Edward was an honourable man, devoted to his duty and family. His wife, Katherine, and their children were everything to him. But his letters... they grew shorter. More cautious. The last letter mentioned supply routes and missing ledgers, but insisted we discuss it in person. Then three days later..." Her voice faltered. "As if he feared someone might be watching."
 
-Holmes steepled his fingers. "You mentioned a missing military chest?"
+Holmes steepled his fingers. "You mentioned a missing chest?"
 
 Lady Blackwood nodded. "We were surprised when Edward purchased the chest just a few months ago and last used it during his visit two months past. But the night before the East India Company's audit was to begin, it vanished without a trace. He had been insistent on keeping it safe."
 
@@ -67,7 +67,7 @@ Through mist-shrouded carriage windows, I watched London's gray suburbs give way
 
 ![Chapter 5 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
 
-Holmes wasted no time. "We are investigating the circumstances of Captain Blackwood's death and the disappearance of his military chest. Your insight would be invaluable."
+Holmes wasted no time. "We are investigating the circumstances of Captain Blackwood's death and the disappearance of his chest. Your insight would be invaluable."
 
 Cartwright gestured for us to sit, his posture rigid with military bearing. "I shall assist to the best of my ability, Mr. Holmes, though I'm uncertain what intelligence I can provide."
 
@@ -132,7 +132,7 @@ Blackwood Manor's halls felt colder as Holmes and I got to William Blackwood's s
 
 He turned as we entered, his sharp features hardening further. "Mr. Holmes, Dr. Watson," he greeted tersely, gesturing to the chairs opposite his desk. "I assume this visit concerns my brother's untimely demise—or perhaps the inheritance?"
 
-Holmes took a seat with calm precision. "Both, Mr. Blackwood. Specifically, the disappearance of your brother's military chest and its implications for the estate."
+Holmes took a seat with calm precision. "Both, Mr. Blackwood. Specifically, the disappearance of your brother's chest and its implications for the estate."
 
 William's lips curled into a sneer as he leaned back in his chair. "Implications for Katherine, you mean. Convenient, isn't it, that the chest vanishes when she stands to gain the most?"
 
@@ -457,7 +457,7 @@ The drawing room at Blackwood Manor had become a stage for the final act. Holmes
 
 ![Chapter 10 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10A.webp)
 
-"Each person in this room," Holmes began, pacing deliberately, "had reason to seek Edward's military chest. William believed it held inheritance documents that could challenge Edward's claim. Lieutenant Cartwright hoped to recover compromising letters. Lady Blackwood sought proof of her son's suspicions. And Katherine – she wanted justice for her husband."
+"Each person in this room," Holmes began, pacing deliberately, "had reason to seek Edward's chest. William believed it held inheritance documents that could challenge Edward's claim. Lieutenant Cartwright hoped to recover compromising letters. Lady Blackwood sought proof of her son's suspicions. And Katherine – she wanted justice for her husband."
 
 Holmes paused, studying each face. "But only one person knew its true contents. Only one understood why Edward Blackwood had to die."
 
