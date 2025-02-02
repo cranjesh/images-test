@@ -223,11 +223,9 @@ As Holmes rose and paced, I turned to Katherine and spoke quietly. "And your chi
 
 She gave a small, tired smile. "They're young, Dr. Watson… too young to understand." The sorrow in her voice was unmistakable. I nodded, offering what little comfort words could provide. Holmes, ever perceptive, paused his pacing and observed her before speaking again.  
 
-"Thank you, Mrs. Blackwood. You have been most helpful," Holmes said gently. "With your permission, we would like to speak with William now."  
+"Thank you, Mrs. Blackwood. You have been most helpful," Holmes said gently. "With your permission, we would like to speak with others now."  
 
-Katherine composed herself and nodded. "Of course. You'll find him in his study in the east wing."  
-
-We took our leave, and as we walked through the manor's corridors, the atmosphere grew heavier.  
+Katherine composed herself and nodded. We took our leave, and as we walked through the manor's corridors, the atmosphere grew heavier.  
 
 ## Chapter 6: Whispers in the Manor  
 
