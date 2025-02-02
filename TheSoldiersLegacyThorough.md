@@ -1,23 +1,23 @@
 
-Blank
+test
 
-Blank
+test
 
-Blank
+test
 
-Blank
+test
 
-Blank
+test
 
-Blank
+test
 
-Blank
+test
 
-Blank
+test
 
-Blank
+test
 
-Blank
+test
 
 # The Soldier's Legacy
 *A Sherlock Holmes Story Narrated by Dr. John Watson*
@@ -48,7 +48,7 @@ The woman who entered was the very picture of mourning. Her finely tailored blac
 
 Holmes stood, gesturing to the chair opposite his. "Please, Lady Blackwood, take a seat. I suspect your visit concerns the recent disappearance of your son's chest—a loss made all the more troubling given the East India Company's imminent audit."
 
-![Lady Blackwood's Visit](https://raw.githubusercontent.com/cranjesh/images-Blank/refs/heads/main/Chapter1A.webp)
+![Lady Blackwood's Visit](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter1A.webp)
 
 Lady Blackwood froze, her expression shifting from surprise to alarm. "How could you possibly—"
 
@@ -86,7 +86,7 @@ Holmes's network of informants revealed Lieutenant Cartwright had been deployed 
 
 Through mist-shrouded carriage windows, I watched London's gray suburbs give way to the garrison's stark brick buildings. In Cartwright's quarters, a desk, journal, and crisp uniform spoke of military precision. Evening bugle notes drifted through the window.
 
-![Chapter 5 A](https://raw.githubusercontent.com/cranjesh/images-Blank/refs/heads/main/Chapter5A.webp)
+![Chapter 5 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
 
 Holmes wasted no time. "We are investigating the circumstances of Captain Blackwood's death and the disappearance of his chest. Your insight would be invaluable."
 
@@ -110,7 +110,7 @@ Holmes rose abruptly, his eyes narrowing. “Then we must see this supervision f
 
 ## Chapter 3: The Vanishing Chest
 
-![Chapter 2 A](https://raw.githubusercontent.com/cranjesh/images-Blank/refs/heads/main/Chapter2A.webp)
+![Chapter 2 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2A.webp)
 
 The mist lay thick as our carriage approached Blackwood Manor. The butler led us through the foyer to the drawing room.
 
@@ -122,7 +122,7 @@ In the study, Holmes crouched by the floor. "Observe, Watson." His fingers trace
 "It was moved," I deduced, "not stolen."
 "Precisely." Holmes's gaze flicked toward the doorway. "And with care. The marks end at the threshold—whoever removed it ensured no trail beyond this room."
 
-![Chapter 2 B](https://raw.githubusercontent.com/cranjesh/images-Blank/refs/heads/main/Chapter2B.webp)
+![Chapter 2 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2B.webp)
 
 “Then it may still be here?” Lady Blackwood’s breath caught.
 “Possibly,” Holmes said. “And if so, it is not just the will at stake—it is whatever Edward wished to keep secret.” "Tell me, did your son keep ledgers, notes, or letters regarding his work in India?"
@@ -149,7 +149,7 @@ The mystery had only deepened, and as we prepared to interview Katherine Blackwo
 
 Blackwood Manor's halls felt colder as Holmes and I got to William Blackwood's study. The room, a stark contrast to Edward's orderly workspace, was cluttered with papers and ledgers. A faint tang of pipe smoke lingered, mingling with the musty scent of old books. William stood by the window, his rigid posture and scowl an unspoken warning of his mood.
 
-![Chapter 4 A](https://raw.githubusercontent.com/cranjesh/images-Blank/refs/heads/main/Chapter4A.webp)
+![Chapter 4 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter4A.webp)
 
 He turned as we entered, his sharp features hardening further. "Mr. Holmes, Dr. Watson," he greeted tersely, gesturing to the chairs opposite his desk. "I assume this visit concerns my brother's untimely demise—or perhaps the inheritance?"
 
@@ -191,7 +191,7 @@ Holmes sat in silence, his keen gaze sweeping the landscape, while my thoughts t
 
 "Mr. Holmes, Dr. Watson," she replied, her voice steady but low. "Please, sit. I hardly know where to begin."
 
-![Chapter 3 A](https://raw.githubusercontent.com/cranjesh/images-Blank/refs/heads/main/Chapter3A.webp)
+![Chapter 3 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter3A.webp)
 
 Holmes inclined his head. "Wherever you feel most comfortable, madam. Perhaps with your late husband."
 
@@ -254,7 +254,7 @@ He tapped his fingers against the desk. "Hargreaves says we need only wait. No w
 
 I retreated as William strode past, his expression a mixture of frustration and self-satisfaction. The identity of his confidant remained hidden in the library's shadows.
 
-![Chapter 6 A](https://raw.githubusercontent.com/cranjesh/images-Blank/refs/heads/main/Chapter6A.webp)
+![Chapter 6 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter6A.webp)
 
 Rain drummed against the stable roof when we found Hanger later that afternoon. Inside, he worked methodically, each stroke of the brush against the horse's flank measured and precise. The stable's warmth carried the mingled scents of hay and leather.
 
@@ -290,7 +290,7 @@ Above us, the windows of the east wing glowed faintly in the gathering dark, lik
 
 As we left Blackwood Manor, Holmes remained uncharacteristically quiet. I had known Holmes long enough to recognize when he was drawing connections yet unspoken. 
 
-![Chapter 7 A](https://raw.githubusercontent.com/cranjesh/images-Blank/refs/heads/main/Chapter7A.webp)
+![Chapter 7 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter7A.webp)
 
 The fog clung to Baker Street as our carriage arrived. As we neared Baker Street, we are stopped by a uniformed constable.
 
@@ -330,7 +330,7 @@ The fog thickened as we departed, swallowing the street lamps. Ahead lay Cartwri
 
 The village inn was quiet when we arrived. Lieutenant Cartwright sat in a shadowed corner, hunched over a half-empty glass.
 
-![Chapter 8 A](https://raw.githubusercontent.com/cranjesh/images-Blank/refs/heads/main/Chapter8A.webp)
+![Chapter 8 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter8A.webp)
 
 Holmes approached. "Lieutenant, your silence has done little to shield you. Why were you so interested in Edward's chest?"
 
@@ -370,7 +370,7 @@ The rain had stopped, but the weight of the coming storm still hung in the air.
 
 The rain had slowed to a drizzle by the time we arrived at Baker Street. Holmes had barely removed his coat when Mrs. Hudson intercepted us, a familiar note of disapproval in her voice. "A gentleman is waiting for you, Mr. Holmes. Though I daresay he hardly requires an invitation."
 
-![ChapterMycroft](https://raw.githubusercontent.com/cranjesh/images-Blank/refs/heads/main/ChapterMycroft.webp)
+![ChapterMycroft](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/ChapterMycroft.webp)
 
 Holmes steepled his fingers. I could see the faint flicker of realization in his expression—he had been waiting for this confirmation. “Then Hawthorne will come for the chest himself.”
 
@@ -393,7 +393,7 @@ He stopped before an unassuming wooden panel. His fingers traced the edges, feel
 
 I peered inside. It was little more than a cramped, dusty alcove—bare and empty.
 
-![ChapterThePriestHole1](https://raw.githubusercontent.com/cranjesh/images-Blank/refs/heads/main/ChapterThePriestHole1.webp)
+![ChapterThePriestHole1](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/ChapterThePriestHole1.webp)
 
 Holmes remained motionless, his sharp gaze sweeping over the darkness. “This was the place,” he murmured.
 
@@ -409,7 +409,7 @@ I hurried after him. “Holmes, what—”
 
 The stable quarters were modest, with a single cot pushed against the wall and an old wooden trunk at the foot of it. Hanger sat at a small desk, polishing a brass buckle, but the tension in his shoulders betrayed him.
 
-![ChapterThePriestHole2](https://raw.githubusercontent.com/cranjesh/images-Blank/refs/heads/main/ChapterThePriestHole2.webp)
+![ChapterThePriestHole2](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/ChapterThePriestHole2.webp)
 
 Holmes did not hesitate. “The priest hole,” he said, his voice like a knife through the quiet. “It’s empty.”
 
@@ -476,7 +476,7 @@ Before dawn, a telegram sent by Holmes:
 
 The drawing room at Blackwood Manor had become a stage for the final act. Holmes had summoned all key players: Lady Blackwood, Katherine, William, Lieutenant Cartwright, Colonel Hawthorne, and Mr. Hanger. The morning light cast long shadows across their faces. The household had been eerily still that morning, the kind of silence that only precedes something inevitable.
 
-![Chapter 10 A](https://raw.githubusercontent.com/cranjesh/images-Blank/refs/heads/main/Chapter10A.webp)
+![Chapter 10 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10A.webp)
 
 "Each person in this room," Holmes began, pacing deliberately, "had reason to seek Edward's chest. William believed it held inheritance documents that could challenge Edward's claim. Lieutenant Cartwright hoped to recover compromising letters. Lady Blackwood sought proof of her son's suspicions. And Katherine – she wanted justice for her husband."
 
@@ -528,7 +528,7 @@ Holmes turned. "Inspector?"
 
 The man who had controlled secrets sat silent as the cuffs clicked shut.
 
-![Chapter 10 B](https://raw.githubusercontent.com/cranjesh/images-Blank/refs/heads/main/Chapter10B.webp)
+![Chapter 10 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10B.webp)
 
 The man who had orchestrated so much devastation was led away in handcuffs, his bravado replaced by a grim, silent resignation. William stood shakily, his expression hollow. "My brother... he tried to warn me."
 
