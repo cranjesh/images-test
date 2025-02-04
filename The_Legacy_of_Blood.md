@@ -1,9 +1,9 @@
-#The Legacy of Blood
-*A Sherlock Holmes Mystery*
-*Narrated by Dr. John Watson*
+# The Legacy of Blood
+* A Sherlock Holmes Mystery*
+* Narrated by Dr. John Watson*
 
-##Chapter 1: The Vanishing Groom
-###221B Baker Street, London – A Summer Afternoon
+## Chapter 1: The Vanishing Groom
+### 221B Baker Street, London – A Summer Afternoon
 
 The London sun shone unusually bright, yet the air in 221B Baker Street was thick with something heavier than the scent of Holmes’s tobacco—a mystery in waiting. I had seen troubled clients before, but few carried urgency as raw as Margaret Montague.
 
@@ -79,8 +79,8 @@ Holmes retrieved his coat and hat. "I believe Henry Montague did not disappear o
 
 He glanced at me. "Watson, we have an engagement at Fairchild Manor."
 
-##Chapter 2: The Cold Welcome
-###Fairchild Manor – Late Afternoon
+## Chapter 2: The Cold Welcome
+### Fairchild Manor – Late Afternoon
 
 Fairchild Manor stood against the fading light, its ivy-clad stone façade exuding quiet power. The sprawling gardens were manicured to perfection, yet something about their stillness felt unnatural.
 
@@ -106,7 +106,7 @@ Lord Fairchild exhaled sharply. "Mr. Holmes, I see no reason to prolong this con
 
 Holmes’s smile was barely there. "That remains to be seen."
 
-####A Listening Ear
+#### A Listening Ear
 As we left the hall, I leaned toward Holmes. "You don’t believe them?"
 
 His voice was low. "They knew Henry was gone before Margaret did. The question, Watson, is how they knew."
@@ -139,8 +139,8 @@ As we walked away, I turned to him. "You saw her hesitation before she even spok
 
 Holmes allowed a small, knowing smile. "Naturally, Watson. The question is not only who has answers—but who is willing to give them."
 
-##Chapter 3: Shadows of the Past
-###Fairchild Manor – Servants’ Quarters, Evening
+## Chapter 3: Shadows of the Past
+### Fairchild Manor – Servants’ Quarters, Evening
 
 The warmth of the summer afternoon had faded, leaving behind the stillness of a house holding its breath. The servants’ quarters stood in stark contrast to the grandeur of the main estate—plain wooden doors lined the dimly lit corridor, their chipped paint and worn handles whispering of lives spent in quiet servitude.
 
@@ -158,7 +158,7 @@ Her fingers tensed slightly. "I know things," she admitted. "But knowing is not 
 
 Holmes regarded her with quiet intensity. "Tell me, Mrs. Thomson—what did you hear?"
 
-####An Argument Behind Closed Doors
+#### An Argument Behind Closed Doors
 She exhaled, as if releasing something long kept inside.
 
 "Two nights before Mr. Montague vanished, I heard him arguing with Master Edmund. It was late—I was passing the study when I heard raised voices."
@@ -187,7 +187,7 @@ Holmes’s gaze sharpened. "Newspaper archives?"
 
 She nodded. "Possibly. But whatever he found, it troubled him."
 
-####The Smell of Smoke
+#### The Smell of Smoke
 Holmes was silent for a long moment before speaking again. "Have the Fairchilds restricted access to any part of the house since Henry’s disappearance?"
 
 Mrs. Thomson shook her head. "Not that I know of. But…" She hesitated.
@@ -202,8 +202,8 @@ She nodded. "Yes, sir. Just a faint smell of smoke a few nights ago."
 
 Holmes exchanged a glance with me. "The answer, Watson, lies in the east wing. And I suspect we are not the only ones looking for it."
 
-##Chapter 4: A Ransacked Study
-###Henry Montague’s Residence – Night
+## Chapter 4: A Ransacked Study
+### Henry Montague’s Residence – Night
 
 London had settled into the quiet hum of evening by the time I arrived at Henry Montague’s home. Margaret had given me the key, her expression grave as she insisted, "If there’s anything left to find, it will be there."
 
@@ -215,7 +215,7 @@ A drawer slightly misaligned. A stack of papers that had been disturbed and hast
 
 Someone had been here before me.
 
-####A Letter Turned to Ash
+#### A Letter Turned to Ash
 I scanned the room, my fingers tracing along the desk’s surface, searching for anything out of place. Then—my gaze caught on the fireplace.
 
 Kneeling, I brushed my hand over the faint traces of charred paper in the ashes. Most had been destroyed, but one fragment remained, edges singed. I lifted it carefully.
@@ -232,7 +232,7 @@ A floorboard creaked behind me.
 
 I turned sharply—just in time to see a shadow retreat through the open study door.
 
-####The Chase
+#### The Chase
 I lunged forward, racing after the intruder.
 
 They moved fast—too fast for someone unfamiliar with the house. They knew their way.
@@ -247,7 +247,7 @@ I cursed under my breath.
 
 Someone had been watching the house. And they had not expected me to be here.
 
-####221B Baker Street – Later That Night
+#### 221B Baker Street – Later That Night
 Holmes was waiting when I returned, seated in his chair, fingers steepled. His sharp gaze swept over me before I said a word.
 
 "You weren’t alone at Henry’s house."
@@ -292,8 +292,8 @@ I exhaled. "Then our next step is clear."
 
 Holmes nodded. "Indeed. It is time we paid Mr. Forsythe a visit."
 
-##Chapter 5: The Reporter’s Warning
-###The Evening Gazette Office – Late Morning
+## Chapter 5: The Reporter’s Warning
+### The Evening Gazette Office – Late Morning
 
 The offices of the Evening Gazette hummed with the metallic clatter of printing presses. The air was thick with ink, damp paper, and hurried voices.
 
@@ -321,7 +321,7 @@ Holmes’s fingers tapped lightly against the chair. "Did he find something?"
 
 Forsythe’s expression darkened. "That, I don’t know. He was supposed to follow up—but he never did."
 
-####The Truth About Thomas Montague
+#### The Truth About Thomas Montague
 Holmes’s voice was quiet. "What do you know about Thomas Montague?"
 
 Forsythe’s lips pressed into a thin line. "So that’s what this is about."
@@ -338,7 +338,7 @@ Holmes’s gaze was unwavering. "And Henry started asking questions."
 
 Forsythe nodded grimly. "And now he’s missing."
 
-####A Warning in Ink
+#### A Warning in Ink
 Forsythe reached into his desk drawer, pulling out a small, crumpled note. He set it before us.
 
 Holmes unfolded it carefully. The ink was smudged, the paper rough. He read aloud:
@@ -353,7 +353,7 @@ Forsythe met his gaze. "Then you and your doctor friend are in deeper than you t
 
 Holmes slipped the note into his coat pocket. "On the contrary, Mr. Forsythe. We are exactly where we need to be."
 
-####Outside the Gazette Office
+#### Outside the Gazette Office
 The London streets bustled with their usual indifference as we stepped out of the Gazette, but the weight of what we had just learned settled over us like a fog.
 
 Holmes walked in silence for a few moments before I finally spoke. "So Henry found something."
@@ -421,7 +421,7 @@ Eleanor nodded, her voice barely above a whisper. "No one uses that part of the 
 
 Holmes exhaled slowly, slipping the burned fragment back into his pocket. "Then I believe it is time we paid it a visit."
 
-####Fairchild Manor – The East Wing
+#### Fairchild Manor – The East Wing
 The corridor of the east wing stretched before us, thick with dust and shadow. The air was heavy, undisturbed, except for one thing.
 
 Holmes ran his fingers along the wall, his palm flattening against the aged paneling. His fingertips, trained to notice the slightest imperfections, pressed along the subtle ridges of the wood.
@@ -442,8 +442,8 @@ I felt my breath hitch as the hidden door creaked open.
 
 Holmes stepped forward, his voice steady. "Shall we, Watson?"
 
-##Chapter 7: The Silent Prisoner
-###Fairchild Manor – The Hidden Passageway
+## Chapter 7: The Silent Prisoner
+### Fairchild Manor – The Hidden Passageway
 
 The wall panel shifted, revealing a narrow staircase spiraling downward into darkness. The air that drifted up was stale, thick with the scent of damp stone and something else—something unmistakably human.
 
@@ -469,7 +469,7 @@ The lock gave way.
 
 Holmes pushed the door open.
 
-####Inside the Hidden Room
+#### Inside the Hidden Room
 The lantern’s glow spilled into the chamber, revealing a small, stone-walled cell. The air was thick, unmoving. Against the far wall, slumped in exhaustion, was Henry Montague.
 
 His clothes were disheveled, his wrists bruised where they had been bound. His breathing was shallow, his face drawn from days of confinement.
@@ -509,7 +509,7 @@ Watson looked grim. "They were going to keep you locked away here until everyone
 
 Holmes helped Henry to his feet, his expression cold with understanding. "Come, Mr. Montague. We must see you returned to safety."
 
-####The Escape
+#### The Escape
 We ascended the hidden staircase, Henry leaning heavily on Watson for support. The manor above was still, as if the house itself had not yet realized its secret had been uncovered.
 
 But as we stepped into the corridor, a voice cut through the silence.
@@ -558,8 +558,8 @@ And neither did Henry.
 
 Without a word, we left Fairchild Manor behind.
 
-#Chapter 8: The Reckoning at Fairchild Manor
-###221B Baker Street – The Morning After the Rescue
+## Chapter 8: The Reckoning at Fairchild Manor
+### 221B Baker Street – The Morning After the Rescue
 
 London awoke as it always did, indifferent to the shadows lurking beneath its grand estates. But inside 221B Baker Street, something had changed.
 
@@ -598,7 +598,7 @@ Lestrade folded his arms. "That won’t be enough, Mr. Montague. These are power
 
 Holmes’s lips pressed into a thin line. "Then we shall ensure there is evidence."
 
-####Fairchild Manor – The Final Confrontation
+#### Fairchild Manor – The Final Confrontation
 Two hours later, we arrived at Fairchild Manor—this time with Lestrade and a contingent of officers.
 
 The grand estate loomed, unchanged in its elegance, yet beneath its pristine exterior lay something rotting.
@@ -651,7 +651,7 @@ Outside, Henry’s voice was low. "So they get away with it? Just like that?"
 
 Holmes exhaled. "For now. But power does not erase guilt. The Fairchilds will always have to live with the knowledge of what they have done. And one day, their past will return to them."
 
-####Epilogue: The Price of Silence
+#### Epilogue: The Price of Silence
 The next morning, the papers carried only a small mention of Henry’s return. The Fairchilds remained untouched, their wealth shielding them once again.
 
 At 221B Baker Street, Holmes sat in his chair, gazing out the window, his expression unreadable.
