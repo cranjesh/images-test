@@ -185,7 +185,7 @@ William stiffened slightly, his scowl deepening. "In my quarters, alone. I heard
 
 Holmes nodded thoughtfully. "Perhaps not. Yet your bitterness toward Edward—and Katherine—seems to colour your perspective. Do you believe resentment blinds you to other possibilities?"
 
-William's hands gripped the edges of his desk. "Bitterness? My father's decision to favour Edward over me was nothing short of favoritism. The estate should have been mine. I've fought for years to earn my place, while Edward... he was handed everything."
+William's hands gripped the edges of his desk. "Bitterness? My father's decision to favour Edward over me was nothing short of favoritism. The estate should have been mine. I've fought for years to earn my place, while Edward... he was handed everything." “Katherine may think she’s secured her future, but she’ll soon discover the estate obeys more than a single will. If she continues to meddle, I’ll see to it that her good fortune is short-lived.”
 
 Holmes leaned forward slightly, his tone cool and deliberate. "And yet, his death has left you no closer to securing what you claim is rightfully yours. Tell me, do you believe Edward's death was an accident?"
 
@@ -241,7 +241,17 @@ Katherine's fingers twisted her handkerchief. "We were acquainted before Edward.
 
 "Correspondence that Edward had already seen?" Holmes asked softly.
 
-Katherine paled. "How did you—"
+Katherine paled. "How did you—" and turned a letter over in her hands, her gaze distant. The firelight caught the edges of the worn paper, its seal faintly smudged.
+
+“I read them at night sometimes,” she murmured. “Not for answers—just to remember his words before things changed.”
+
+She hesitated. “Edward never said it outright, but he knew. Cartwright’s attentions were persistent once, though I never encouraged them. Edward was not a jealous man, but he distrusted easily. I wonder now if his suspicions ran deeper than I realized.”
+
+Her fingers tightened slightly around the letter. “His last letters were different. Shorter. Cautious. As if he feared he was writing for more than my eyes.”
+
+She met Holmes’s gaze, her expression unreadable but firm. “If he had reason to be wary, I fear it was not without cause.”
+
+The fire crackled softly, filling the silence that followed. Holmes studied her a moment longer, then nodded—as if another piece had fallen into place.
 
 As Holmes rose to his feet and began pacing, I turned to Katherine and spoke quietly. "And your children, Mrs. Blackwood? How are they faring?"
 
@@ -364,11 +374,15 @@ Cartwright’s glass slipped slightly. "That's impossible—"
 
 Holmes tapped his fingers against the table. "The timing of your visits to the study aligned perfectly with the East India Company's audit schedule. You needed those records destroyed before they reached London." He leaned closer. "But someone else moved first, didn’t they? Someone who knew about both your secrets—the letters and the supplies."
 
-Cartwright’s face drained of color. "Colonel Hawthorne," he whispered.
+Cartwright’s face drained of color. "Colonel Hawthorne," he whispered. “They can ruin me, Mr. Holmes—court-martial me, lock me away, or worse. If I speak the truth, I’m not just risking my rank; I’m risking my life.”
 
 Holmes studied him carefully. "You have a choice, Lieutenant. Speak now, or let the truth bury you along with Hawthorne."
 
-Cartwright said nothing, but his hands clenched. Holmes had given him an opening—a chance to act. Whether he would take it, only time would tell.
+Cartwright exhaled shakily, meeting Holmes’s gaze. “There’s something you need to know about Edward’s final days—something I’ve kept quiet for too long.”
+He took a step forward, then froze. His eyes locked onto a folded letter resting on the side table. Whatever courage had fueled his confession a moment earlier seemed to vanish.
+“I… I’m sorry,” he murmured, pulling back from Holmes. “I’m not ready to talk about this yet.”
+
+Holmes had given him an opening—a chance to act. Whether he would take it, only time would tell.
 
 As we stepped into the cold night, Watson glanced at Holmes. "Do you think he will help us?"
 
@@ -439,6 +453,9 @@ Hanger's knuckles whitened. "You don't understand—"
 
 "I understand loyalty, Mr. Hanger. But to whom is it truly owed? To a man who exploited your hardship? Or to Edward, who trusted you? To Katherine, who now stands to lose everything?"
 
+Hanger swallowed hard, unable to meet Holmes’s gaze. “I knew it was wrong, but my sister... she was all I had left. I couldn’t watch her suffer, not when Hawthorne offered a way out.”
+His fingers curled around a worn letter he’d pulled from his pocket. “She writes me every week. Says the medicine’s helping. If Hawthorne cuts her off...” His voice faltered. “He knows exactly how to keep me in line.”
+
 Holmes produced the small brass key Lady Blackwood had entrusted to me. "Edward's records could bring justice. Or they could disappear forever, leaving his killer free."
 
 His bearing crumbled. "Edward was a good man. He didn't deserve—" He swallowed hard. "Hawthorne said no one would be hurt. Just documents to be... examined."
@@ -459,7 +476,7 @@ Hanger exhaled sharply, running a hand over his face. "I... I had to move it."
 
 Holmes stepped forward, his voice cutting through the room like steel. "Why?"
 
-Hanger swallowed hard. "Hawthorne’s men were watching me too closely. If they got to it first, they’d have destroyed everything inside." His voice wavered slightly. "I thought I was doing the right thing."
+Hanger swallowed hard. "Hawthorne’s men were watching me too closely. If they got to it first, they’d have destroyed everything inside." His voice wavered slightly. "I thought I was doing the right thing." 
 
 Holmes studied him for a long moment. "Then where is it now?"
 
@@ -477,12 +494,13 @@ Holmes exhaled slowly, his mind already forming the next move. "A bold decision,
 
 Watson shot Holmes a questioning glance. "What now?"
 
+Holmes paused to scribble telegrams.
+
 Holmes turned toward the door. "Now, we bait Hawthorne into making his move."
 
 ## Chapter 11: The Final Assembly
 
 Before dawn, a telegram sent by Holmes:
-"Key evidence found on the chest. Will disclose at 8 AM in the drawing room at Blackwood Manor. Urgent."
 
 The drawing room at Blackwood Manor had become a stage for the final act. Holmes had summoned all key players: Lady Blackwood, Katherine, William, Lieutenant Cartwright, Colonel Hawthorne, and Mr. Hanger. The morning light cast long shadows across their faces. The household had been eerily still that morning, the kind of silence that only precedes something inevitable.
 
@@ -520,7 +538,11 @@ Hawthorne leaned back. "You think I wanted to hide these documents? No, Holmes. 
 
 "The documents no longer belong to you." Hawthorne's smirk remained. "You think the Foreign Office will act? They'll vanish before sunrise."
 
-He turned his gaze to Lestrade. "Inspector, I strongly advise you to reconsider your next course of action. There are men—men far above your rank—who would be most displeased."
+“I’m afraid your grand reveal has come to an abrupt end,” Hawthorne said, clapping slowly. At his signal, two shadowy figures materialized at opposite doorways, muskets poised. “My loyal associates have a certain… enthusiasm for preventing your victory,” he added, voice dripping with menace.
+
+Holmes’s gaze flicked to the far side of the room, where Inspector Lestrade stood, having arrived on Holmes’s telegram just moments earlier.
+
+Hawthorne turned his attention to the newcomer, a thin smile on his lips. “Inspector, I strongly advise you to reconsider your next course of action. There are men—men far above your rank—who would be most displeased.”
 
 Lestrade hesitated for a fraction of a second. Just long enough.
 
