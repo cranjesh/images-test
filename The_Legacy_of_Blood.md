@@ -1,6 +1,5 @@
 # The Legacy of Blood
-* A Sherlock Holmes Mystery*
-* Narrated by Dr. John Watson*
+*A Sherlock Holmes Mystery arrated by Dr. John Watson*
 
 ## Chapter 1: The Vanishing Groom
 ### 221B Baker Street, London – A Summer Afternoon
