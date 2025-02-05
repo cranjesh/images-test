@@ -75,10 +75,6 @@ Holmes did not respond immediately. Instead, he walked to the window, staring ou
 
 Holmes tapped his fingers against the armrest, eyes narrowing slightly. "You may expect us at Blackwood Manor tomorrow. The chest will be found," he said simply. Lady Blackwood exhaled slowly, her fingers tightening around the reticule in her lap. Watson, watching the exchange, could not help but feel a familiar stirring of anticipation. The game was afoot.
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
 ## Chapter 2: The Lieutenant's Secrets
 
 Holmes's network of informants revealed Lieutenant Cartwright had been deployed near Blackwood Manor—a coincidence too perfect to ignore.
@@ -192,9 +188,6 @@ Holmes’s gaze darkened. "And they did not act alone."
 <br><br><br>
 <br><br><br>
 <br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
 ## Chapter 4: The Bitter Brother
 
 Blackwood Manor's halls felt colder as Holmes and I got to William Blackwood's study. The room, a stark contrast to Edward's orderly workspace, was cluttered with papers and ledgers. A faint tang of pipe smoke lingered, mingling with the musty scent of old books. William stood by the window, his rigid posture and scowl an unspoken warning of his mood.
@@ -231,7 +224,11 @@ Holmes leaned forward slightly, his tone cool and deliberate. "And yet, his deat
 
 William hesitated, his gaze flickering toward the window. "Edward was many things, but careless wasn't one of them. If you want my opinion, someone wanted him out of the way—and whoever it was, they succeeded."
 
-With each passing hour, the chances of recovering the chest—and with it, the truth—gradually seemed to dim. Watching Holmes's composed profile in the fading daylight, I felt certain he would unravel this web of deception.
+He exhaled sharply, his fingers stilling against the desk. “Not that he was always against me,” he muttered. “When we were boys, he taught me how to fix a pocket watch—patient, steady hands. Gave it to me on my fifteenth birthday, said I’d learned well enough to keep it running myself.” His jaw tensed. “And yet, in the end, I was never meant to hold anything that mattered.”
+
+William’s mouth pressed into a thin line. For a moment, the bitterness wavered. Then, just as quickly, it returned.
+
+Holmes said nothing, only watching him with that knowing gaze. I thought of Edward then—not as the cause of William’s resentment, nor the victim of political schemes, but as a husband and father whose absence was still felt beyond inheritance and betrayal.
 
 <br><br><br>
 <br><br><br>
@@ -651,8 +648,11 @@ The morning light strengthened, justice finally illuminating the shadows of Blac
 
 The scandal's ripples extended far beyond Blackwood Manor. Colonel Hawthorne's arrest prompted Parliament to launch a thorough investigation, leading to reforms that dismantled long-standing corrupt practices.
 
-William Blackwood's departure from the estate carried a weight of its own revelation. Holmes later shared with me that among Edward's recovered papers was a letter addressed to his stepbrother, acknowledging the pain of their father's choice and offering a substantial portion of the great-uncle's Indian properties as reconciliation. The letter never reached William, intercepted by Hawthorne's men. When Katherine received William’s letter, she read it in silence, her fingers trembling slightly at the faded ink.
-"I was wrong. That’s all I can say now. Some things cannot be undone. Take care of the children."
+William Blackwood's departure from the estate carried a weight of its own revelation. 
+
+Holmes later shared with me that among Edward's recovered papers was a letter addressed to his stepbrother, acknowledging the pain of their father's choice and offering a substantial portion of the great-uncle's Indian properties as reconciliation. The letter never reached William, intercepted by Hawthorne's men. 
+
+When Katherine received William’s letter, she read it in silence, her fingers trembling slightly at the faded ink. "I was wrong. That’s all I can say now. Some things cannot be undone. Take care of the children."
 Katherine found the pocket watch on Edward’s desk, its repaired hinge gleaming. She turned it over, tracing the E.B. initials—and suddenly saw William as a boy, cheeks smudged with oil, grinning as Edward guided his hands to fix it.
  
 Holmes later observed the replaced spring. “A child’s lesson remembered too late, Watson. Some fractures outlast even time.”
@@ -666,5 +666,11 @@ Holmes tossed the Times onto my lap, his finger tapping a headline: “Parliamen
 I thought of Katherine’s children that night, and the countless soldiers’ families who would never know how Edward’s quiet diligence, and Holmes’s relentless mind, had reshaped the empire’s bones.
 
 Holmes, reflecting on the case, remarked quietly as we departed, "A single rotten branch may poison the tree, Watson. But uproot it,” he tapped his cane decisively, “and the roots remember how to grow.”
+
+A few days later, at Blackwood Manor, I found Katherine by the parlor window, watching her children in the garden. Their laughter, once silenced by grief, rang through the halls again.
+
+Beside her lay a leather-bound journal—Edward’s notes, his careful handwriting preserved. She traced the cover lightly and exhaled.
+
+“He would have wanted them to grow up without fear,” she murmured. “And now, at last, they can.”
 
 *The End*
