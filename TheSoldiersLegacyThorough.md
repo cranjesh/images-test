@@ -53,7 +53,7 @@ Her voice broke slightly before she continued. "Edward was an honourable man, de
 
 Holmes steepled his fingers. "You mentioned a missing chest?"
 
-Lady Blackwood nodded. "We were surprised when Edward purchased the chest just a few months ago and last used it during his visit two months past. But the night before the East India Company's audit was to begin, it vanished without a trace. He had been insistent on keeping it safe."
+Lady Blackwood nodded. "We were surprised when Edward purchased the chest just a few months ago and last used it during his visit two months past. He was quite particular about it—he even had the lock replaced just before returning to India.nBut the night before the East India Company's audit was to begin, it vanished without a trace. He had been insistent on keeping it safe."
 
 Holmes leaned forward slightly, his attention caught by a detail. "Who had access to the study?"
 
@@ -61,15 +61,19 @@ Lady Blackwood hesitated, as though weighing her words. "Few people. His widow, 
 
 "Troubling indeed," Holmes murmured.
 
-She exhaled shakily. "I do not know what to believe, Mr. Holmes. Perhaps it is nothing. But, the chest held his will, among other documents. Without it, my daughter-in-law may face challenges in securing Edward’s wishes.. And if my fears are correct—if Edward's death was not an accident—then I worry that whoever wanted him silenced has not finished their work."
+She exhaled shakily. "I do not know what to believe, Mr. Holmes. Perhaps it is nothing. But, the chest held his will, among other documents. Without it, my daughter-in-law may face challenges in securing Edward’s wishes. And if my fears are correct—if Edward's death was not an accident—then I worry that whoever wanted him silenced has not finished their work."
 
-Holmes nodded, his expression unreadable. "I will need to see the study myself. In the meantime, Watson, your military connections may prove useful. Make inquiries at the War Office regarding the officers Edward reported to. I have reason to believe their records will shed light on this affair." 
+"The chest held his will, among other documents." She hesitated, her fingers tightening slightly around her reticule. "I— I hardly know what else. Edward never spoke of it, but he was insistent that it remain safe. As though it were his final safeguard."
 
-He paused, then added, almost offhandedly, "I may need to consult my brother on certain military matters. He has access to information beyond the War Office’s usual channels."
+Holmes nodded, his expression unreadable. "I may need to consult my brother on certain military matters. He has access to information beyond the War Office’s usual channels."
 
 "You seem particularly interested in them," I remarked as Holmes’s mention of his enigmatic brother piqued my curiosity. Mycroft Holmes rarely involved himself in “common” crimes—but when he did, the stakes invariably spanned empires.
 
+Holmes remained by the window, fingers tapping a slow rhythm against the glass. His eyes flicked toward the rain-darkened streets, but his thoughts had already turned elsewhere.
+
 Holmes did not respond immediately. Instead, he walked to the window, staring out at the rain-soaked streets. "A name caught my attention. I recall reading it in connection with a military scandal some months ago. A man of questionable integrity, if memory serves."
+
+Holmes tapped his fingers against the armrest, eyes narrowing slightly. "You may expect us at Blackwood Manor tomorrow. The chest will be found," he said simply. Lady Blackwood exhaled slowly, her fingers tightening around the reticule in her lap. Watson, watching the exchange, could not help but feel a familiar stirring of anticipation. The game was afoot.
 
 <br><br><br>
 <br><br><br>
@@ -82,6 +86,8 @@ Holmes's network of informants revealed Lieutenant Cartwright had been deployed 
 Through mist-shrouded carriage windows, I watched London's gray suburbs give way to the garrison's stark brick buildings. In Cartwright's quarters, a desk, journal, and crisp uniform spoke of military precision. Evening bugle notes drifted through the window.
 
 ![Chapter 5 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
+
+Holmes’s gaze flickered over the room, then back to Cartwright. "You’re uneasy, Lieutenant. Not about our presence, but about what we might already know."
 
 Holmes wasted no time. "We are investigating the circumstances of Captain Blackwood's death and the disappearance of his chest. Your insight would be invaluable."
 
@@ -99,9 +105,25 @@ Cartwright straightened in his chair, glancing briefly at the dispatch box on hi
 
 Holmes leaned forward. "You visited Blackwood Manor last week, delivering Edward's personal effects. What exactly did you bring?"
 
-"Per regulations, sir: his compass, correspondence, and personal journal," Cartwright replied with military precision. "The chest had been sealed and dispatched separately under Colonel Hawthorne's direct supervision."
+"Per regulations, sir: his compass, correspondence, and personal journal".
 
-Holmes rose abruptly, his eyes narrowing. “Then we must see this supervision for ourselves. Come, Watson—Blackwood Manor awaits.”
+Holmes’s gaze locked onto Cartwright. "And the chest?"
+
+A flicker of hesitation. "I knew of it. The Captain kept important documents inside and its been stolen."
+
+Holmes’s gaze didn’t waver. "Do you have any suspicions, Lieutenant?"
+
+Cartwright’s posture stiffened. "It’s not my place to speculate, sir."
+
+Holmes’s expression remained unreadable. "Not your place, or not safe to?"
+
+A flicker of something—doubt, fear—passed over Cartwright’s face, gone as quickly as it came.
+
+Holmes studied him for a beat, then exhaled. "Very well, Lieutenant. We’ll speak again."
+
+As we stepped out, I exhaled. "He’s hiding something."
+
+Holmes allowed himself the faintest smile. "And next time, Watson, he won’t have a choice."
 
 <br><br><br>
 <br><br><br>
@@ -109,38 +131,61 @@ Holmes rose abruptly, his eyes narrowing. “Then we must see this supervision f
 
 ![Chapter 2 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2A.webp)
 
-The mist lay thick as our carriage approached Blackwood Manor. The butler led us through the foyer to the drawing room.
+The mist curled around Blackwood Manor as our carriage approached. A solemn butler led us inside, where the dim glow of the drawing-room fire cast flickering shadows on Lady Blackwood’s mourning dress.  
 
-Lady Blackwood sat by the fire in mourning dress. "Thank you for coming, Mr. Holmes," she whispered. 
+"Thank you for coming, Mr. Holmes," she whispered.  
 
-He turned to Lady Blackwood. "Would you show us to the study?"
+Holmes nodded. "Would you show us to the study?"
 
-In the study, Holmes crouched by the floor. "Observe, Watson." His fingers traced faint scratches near where the chest had stood.
-"It was moved," I deduced, "not stolen."
-"Precisely." Holmes's gaze flicked toward the doorway. "And with care. The marks end at the threshold—whoever removed it ensured no trail beyond this room."
+![Study](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Study.webp)
 
-![Chapter 2 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2B.webp)
+Inside the study, the air was heavy with dust and disuse. Holmes crouched near the floor, his fingers tracing faint scratches where the missing chest had once stood.  
 
-“Then it may still be here?” Lady Blackwood’s breath caught.
-“Possibly,” Holmes said. “And if so, it is not just the will at stake—it is whatever Edward wished to keep secret.” "Tell me, did your son keep ledgers, notes, or letters regarding his work in India?"
-She hesitated. "A locked drawer in his desk. The key was never found."
-Holmes exchanged a glance with me. "Then we must find it."
+"Observe, Watson."
 
-Holmes straightened from examining the desk. "The key may be elsewhere. Lady Blackwood, does the house have a library?"
-"Yes, the family library. Through the connecting door."
+I leaned in. "These marks—subtle, but deliberate. The chest wasn’t stolen. It was moved."  
 
-In the library, Holmes ran a finger along a bookshelf. "Curious," he murmured. "The dust here—disturbed in a peculiar way. As though something large was moved but carefully replaced."
-"Notice, Watson. First, the scratch patterns—diagonal, not parallel, suggesting the chest was rotated. Second, the dust pattern shows it was lifted, not dragged. Third, observe these faint impressions—the work of at least two people, coordinating their movements. And finally, the timing: done at night, when the servants would be below stairs. What does this tell us about our perpetrator?"
+"Exactly." Holmes’s gaze flicked to the doorway. "And with care. Notice how the scratches stop at the threshold. Beyond this room, there is no sign of disturbance."  
 
-Lady Blackwood looked puzzled. "Nothing has been touched in this room for years."
+Lady Blackwood’s breath caught. "Then it may still be in the house?"  
 
-"Evidently," Holmes said lightly, brushing his hands off and stepping away. "Merely an observation."
+"Not just possible—likely," Holmes murmured. He turned to her. "Did your son keep ledgers, notes, or letters about his work in India?"  
 
-"Shall we speak with William now?" I asked.
+She hesitated. "A locked drawer in his desk. The key was never found."  
 
-Lady Blackwood hesitated. "William keeps to his study in the west wing. He's..., taken this hard with the inheritance matter straining things further."
+Holmes exchanged a glance with me. "Then we must find it."  
 
-The mystery had only deepened, and as we prepared to interview Katherine Blackwood, I suspected the answer lay in Edward's final days at Fort Kalyan.
+He straightened, his sharp eyes scanning the room. Then, as if struck by a thought, he turned.  
+
+"Lady Blackwood, does the house have a library?"  
+
+"Yes, through the adjoining door."  
+
+![Chapter 2 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2B.webp)  
+
+Holmes stepped inside, running a gloved finger along a shelf. He stopped, eyes narrowing.  
+
+"Curious."
+
+I followed his gaze. "The dust—it’s been disturbed. As though something large was moved and replaced."  
+
+"Not just moved—rotated." Holmes gestured to faint diagonal scratch marks on the wooden floor. "Someone placed the chest here, but did so carefully."  
+
+I frowned. "Then where is it now?"  
+
+Holmes crouched again. "Note the dust pattern—it settled again over time. Whatever was hidden here… was moved again."  
+
+Lady Blackwood’s voice wavered. "This room hasn’t been touched in years."  
+
+Holmes exhaled, brushing off his hands. "Until now."  
+
+I stiffened. "Then someone inside this house is hiding it."  
+
+Holmes’s gaze darkened. "And they did not act alone."
+
+Lady Blackwood hesitated. "William keeps to his study in the west wing. He's… taken this hard, and the inheritance matter has only made things worse."  
+
+Holmes’s expression remained unreadable. "Then I believe it is time we spoke with William Blackwood"
 
 <br><br><br>
 <br><br><br>
@@ -256,9 +301,8 @@ As Holmes rose to his feet and began pacing, I turned to Katherine and spoke qui
 
 She gave a small, tired smile. "They're young, Dr. Watson… too young to understand." The sorrow in her voice was unmistakable. I nodded, offering what little comfort words could provide. Holmes, ever perceptive, had paused his pacing and observed her for a moment before speaking again.
 
-"Thank you, Mrs. Blackwood. You have been most helpful," Holmes said gently. "With your permission, we would like to speak with others now."
+"Thank you, Mrs. Blackwood. You have been most helpful," Holmes said gently. "With your permission, we would like to speak with others now." Katherine composed herself and nodded.
 
-Katherine composed herself and nodded. "Of course. You'll find him in his study in the east wing."
 We took our leave, and as we walked through the manor's corridors, the atmosphere grew noticeably heavier.
 
 <br><br><br>
