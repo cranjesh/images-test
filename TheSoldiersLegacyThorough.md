@@ -1,36 +1,12 @@
 
-# space for print 150%
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-# space for print 150%
-
-# space for print 150%
-
-# space for print 150%
-
-# space for print 150%
-
-# space for print 150%
-
-# space for print 150%
-
-# space for print 150%
-
-# space for print 150%
-
-# space for print 150%
-
-# space for print 150%
-
-# space for print 150%
-
-# space for print 150%
-
-# space for print 150%
-
-# space for print 150%
+<br><br><br>
+![Cover](https://github.com/cranjesh/images-test/blob/main/CoverImage.png)
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 # The Soldier's Legacy
-*A Sherlock Holmes Story Narrated by Dr. John Watson*
+*A Sherlock Holmes Story narrated by Dr. John Watson*
 
 ## Table of Contents
 1. [Lady Blackwood's Visit](#chapter-1-lady-blackwoods-visit)
@@ -46,6 +22,8 @@
 11. [The Final Assembly](#chapter-11-the-final-assembly)
 12. [Aftermath and Justice](#chapter-12-aftermath-and-justice)
 
+<br><br><br>
+<br><br><br>
 ## Chapter 1: Lady Blackwood's Visit
 
 Rain drummed steadily against the windows of 221B Baker Street as I finished recording the notes from our previous case. Holmes, seated in his customary armchair, studied a peculiar telegram. His pipe smoke curled toward the ceiling in rhythmic spirals, his mind clearly at work on some unseen thread.
@@ -84,12 +62,18 @@ Lady Blackwood hesitated, as though weighing her words. "Few people. His widow, 
 
 She exhaled shakily. "I do not know what to believe, Mr. Holmes. Perhaps it is nothing. But, the chest held his will, among other documents. Without it, my daughter-in-law may face challenges in securing Edward’s wishes.. And if my fears are correct—if Edward's death was not an accident—then I worry that whoever wanted him silenced has not finished their work."
 
-Holmes nodded, his expression unreadable. "I will need to see the study myself. In the meantime, Watson, your military connections may prove useful. Make inquiries at the War Office regarding the officers Edward reported to. I have reason to believe their records will shed light on this affair." He paused, then added, almost offhandedly, "I may need to consult my brother on certain military matters. He has access to information beyond the War Office’s usual channels."
+Holmes nodded, his expression unreadable. "I will need to see the study myself. In the meantime, Watson, your military connections may prove useful. Make inquiries at the War Office regarding the officers Edward reported to. I have reason to believe their records will shed light on this affair." 
+
+He paused, then added, almost offhandedly, "I may need to consult my brother on certain military matters. He has access to information beyond the War Office’s usual channels."
 
 "You seem particularly interested in them," I remarked as Holmes’s mention of his enigmatic brother piqued my curiosity. Mycroft Holmes rarely involved himself in “common” crimes—but when he did, the stakes invariably spanned empires.
 
 Holmes did not respond immediately. Instead, he walked to the window, staring out at the rain-soaked streets. "A name caught my attention. I recall reading it in connection with a military scandal some months ago. A man of questionable integrity, if memory serves."
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 2: The Lieutenant's Secrets
 
 Holmes's network of informants revealed Lieutenant Cartwright had been deployed near Blackwood Manor—a coincidence too perfect to ignore.
@@ -118,6 +102,8 @@ Holmes leaned forward. "You visited Blackwood Manor last week, delivering Edward
 
 Holmes rose abruptly, his eyes narrowing. “Then we must see this supervision for ourselves. Come, Watson—Blackwood Manor awaits.”
 
+<br><br><br>
+<br><br><br>
 ## Chapter 3: The Vanishing Chest
 
 ![Chapter 2 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2A.webp)
@@ -155,6 +141,12 @@ Lady Blackwood hesitated. "William keeps to his study in the west wing. He's...,
 
 The mystery had only deepened, and as we prepared to interview Katherine Blackwood, I suspected the answer lay in Edward's final days at Fort Kalyan.
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 4: The Bitter Brother
 
 Blackwood Manor's halls felt colder as Holmes and I got to William Blackwood's study. The room, a stark contrast to Edward's orderly workspace, was cluttered with papers and ledgers. A faint tang of pipe smoke lingered, mingling with the musty scent of old books. William stood by the window, his rigid posture and scowl an unspoken warning of his mood.
@@ -193,6 +185,12 @@ William hesitated, his gaze flickering toward the window. "Edward was many thing
 
 With each passing hour, the chances of recovering the chest—and with it, the truth—gradually seemed to dim. Watching Holmes's composed profile in the fading daylight, I felt certain he would unravel this web of deception.
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 5: The Widow's Tale
 
 Holmes sat in silence, his keen gaze sweeping the landscape, while my thoughts turned to Katherine Blackwood—the widow of a man whose death seemed far from ordinary. We walked into the drawing room, where Katherine awaited. She stood as we entered, her figure slight yet composed, though her pale complexion and dark-circled eyes betrayed the toll grief had taken.
@@ -262,6 +260,10 @@ She gave a small, tired smile. "They're young, Dr. Watson… too young to unders
 Katherine composed herself and nodded. "Of course. You'll find him in his study in the east wing."
 We took our leave, and as we walked through the manor's corridors, the atmosphere grew noticeably heavier.
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 6: Whispers in the Manor
 
 Passing the dimly lit library, I caught William Blackwood's distinct, sharp tone. Through the partially open door, I glimpsed him pacing before someone seated in shadow.
@@ -306,6 +308,8 @@ Later, as we walked back through the gathering dusk, I turned to Holmes. "You sa
 
 Above us, the windows of the east wing glowed faintly in the gathering dark, like eyes keeping watch over the estate's secrets.
 
+<br><br><br>
+<br><br><br>
 ## Chapter 7: The Foreign Office Shadow
 
 As we left Blackwood Manor, Holmes remained uncharacteristically quiet. I had known Holmes long enough to recognize when he was drawing connections yet unspoken. 
@@ -346,6 +350,12 @@ Holmes scanned the telegrams, his expression darkening.
 
 The fog thickened as we departed, swallowing the street lamps. Ahead lay Cartwright's secrets, then our separate paths into what felt increasingly like a carefully laid snare.
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 8: Confrontation at the Inn
 
 The village inn was quiet when we arrived. Lieutenant Cartwright sat in a shadowed corner, hunched over a half-empty glass.
@@ -390,6 +400,12 @@ Holmes smirked. "Oh, he will. The question is—will he help himself?"
 
 The rain had stopped, but the weight of the coming storm still hung in the air.
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 9: Mycroft's Intervention
 
 The rain had slowed to a drizzle by the time we arrived at Baker Street. Holmes had barely removed his coat when Mrs. Hudson intercepted us, a familiar note of disapproval in her voice. "A gentleman is waiting for you, Mr. Holmes. Though I daresay he hardly requires an invitation."
@@ -409,6 +425,8 @@ A faint smile played across Holmes's lips. "I rather think not. Watson and I hav
 
 As we left 221B, Mycroft’s words lingered in my mind. This was no longer a simple case of missing documents. We were about to force the hand of powerful men who would do anything to remain in the dark.
 
+<br><br><br>
+<br><br><br>
 ## Chapter 10: The Priest Hole
 
 The hour was late when we returned to Blackwood Manor, the mist curling around the estate like a living thing. Our footsteps echoed against the stone corridor as Holmes led the way to the east wing’s library.
@@ -498,6 +516,13 @@ Holmes paused to scribble telegrams.
 
 Holmes turned toward the door. "Now, we bait Hawthorne into making his move."
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 11: The Final Assembly
 
 Before dawn, a telegram sent by Holmes:
@@ -568,6 +593,11 @@ Katherine touched his arm gently. "He protected us all, in the end."
 
 The morning light strengthened, justice finally illuminating the shadows of Blackwood Manor. I had seen many men fall to Holmes’s deductions, but rarely had I witnessed one crumble under the weight of his own overconfidence. As the door closed behind him, I realized that Blackwood Manor had finally exorcised its ghosts.
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 12: Aftermath and Justice
 
 The scandal's ripples extended far beyond Blackwood Manor. Colonel Hawthorne's arrest prompted Parliament to launch a thorough investigation, leading to reforms that dismantled long-standing corrupt practices.
