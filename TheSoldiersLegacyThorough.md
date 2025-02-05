@@ -3,7 +3,8 @@
 
 <br><br><br>
 ![Cover](https://github.com/cranjesh/images-test/blob/main/CoverImage.png)
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
+<br><br><br>
 
 # The Soldier's Legacy
 *A Sherlock Holmes Story narrated by Dr. John Watson*
@@ -593,6 +594,8 @@ Katherine touched his arm gently. "He protected us all, in the end."
 
 The morning light strengthened, justice finally illuminating the shadows of Blackwood Manor. I had seen many men fall to Holmes’s deductions, but rarely had I witnessed one crumble under the weight of his own overconfidence. As the door closed behind him, I realized that Blackwood Manor had finally exorcised its ghosts.
 
+<br><br><br>
+<br><br><br>
 <br><br><br>
 <br><br><br>
 <br><br><br>
