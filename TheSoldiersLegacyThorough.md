@@ -139,53 +139,55 @@ Holmes nodded. "Would you show us to the study?"
 
 ![Study](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Study.webp)
 
-Inside the study, the air was heavy with dust and disuse. Holmes crouched near the floor, his fingers tracing faint scratches where the missing chest had once stood.  
+The air in the study was heavy with dust and disuse. Holmes moved with quiet precision, his sharp gaze sweeping the room before he crouched near the floor, fingers tracing faint scratches where the missing chest had once stood.
 
 "Observe, Watson."
 
-I leaned in. "These marks—subtle, but deliberate. The chest wasn’t stolen. It was moved."  
+I leaned in. The marks were subtle but deliberate.
 
-"Exactly." Holmes’s gaze flicked to the doorway. "And with care. Notice how the scratches stop at the threshold. Beyond this room, there is no sign of disturbance."  
+"These scratches—" I began, before stopping myself. "They aren’t scuff marks from careless movement. The chest wasn’t stolen. It was moved."
 
-Lady Blackwood’s breath caught. "Then it may still be in the house?"  
+"Exactly." Holmes’s gaze flicked to the doorway. "And with care. Notice how the scratches stop at the threshold. Beyond this room, there is no further disturbance."
 
-"Not just possible—likely," Holmes murmured. He turned to her. "Did your son keep ledgers, notes, or letters about his work in India?"  
+Lady Blackwood’s breath caught. "Then it may still be in the house?"
 
-She hesitated. "A locked drawer in his desk. The key was never found."  
+Holmes ran a thoughtful hand along the floor. "Not just possible—likely. If the chest had been taken out of the house, we would expect a continued trail of scuff marks, at the very least. But there are none."
 
-Holmes exchanged a glance with me. "Then we must find it."  
+I frowned. "Then whoever moved it lifted it beyond this point?"
 
-He straightened, his sharp eyes scanning the room. Then, as if struck by a thought, he turned.  
+"Precisely, Watson. It could have left uneven drag marks or missteps. The absence of such indicates planning, precision... and intent."
 
-"Lady Blackwood, does the house have a library?"  
+Holmes straightened, his gaze sharpening. His sharp eyes roved the room before he turned suddenly. "Lady Blackwood, does the house have a library?"
 
-"Yes, through the adjoining door."  
+"Yes, through the adjoining door."
+
+Holmes exhaled. "Then that is where we must look next."
 
 ![Chapter 2 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2B.webp)  
 
-Holmes stepped inside, running a gloved finger along a shelf. He stopped, eyes narrowing.  
+The library was dim, lined with towering bookshelves that smelled of aged parchment and oak. Holmes entered first, his fingers brushing over the spines of books as he moved toward the far wall. Then, abruptly, he halted.
 
 "Curious."
 
-I followed his gaze. "The dust—it’s been disturbed. As though something large was moved and replaced."  
+I followed his gaze. "The dust—it’s been disturbed. As though something large was moved and replaced."
 
-"Not just moved—rotated." Holmes gestured to faint diagonal scratch marks on the wooden floor. "Someone placed the chest here, but did so carefully."  
+"Not just moved—rotated," Holmes corrected, gesturing toward faint diagonal scratches on the wooden floor.
 
-I frowned. "Then where is it now?"  
+I crouched beside him. "Then the chest was placed here deliberately?"
 
-Holmes crouched again. "Note the dust pattern—it settled again over time. Whatever was hidden here… was moved again."  
+"Yes, and more importantly—" Holmes ran a gloved hand lightly over the floorboards. "The disturbance is recent, but look here—the dust has resettled unevenly. This tells us something vital, Watson."
 
-Lady Blackwood’s voice wavered. "This room hasn’t been touched in years."  
+I furrowed my brow. "That it was here, but not for long?"
 
-Holmes exhaled, brushing off his hands. "Until now."  
+"Exactly." Holmes stood, brushing off his hands. "This was not the final hiding place. It was left here temporarily, then moved again."
 
-I stiffened. "Then someone inside this house is hiding it."  
+Lady Blackwood’s voice wavered. "This room hasn’t been touched in years."
+
+Holmes glanced around. "Until recently."
+
+I exhaled. "Then someone inside this house is hiding it."
 
 Holmes’s gaze darkened. "And they did not act alone."
-
-Lady Blackwood hesitated. "William keeps to his study in the west wing. He's… taken this hard, and the inheritance matter has only made things worse."  
-
-Holmes’s expression remained unreadable. "Then I believe it is time we spoke with William Blackwood"
 
 <br><br><br>
 <br><br><br>
