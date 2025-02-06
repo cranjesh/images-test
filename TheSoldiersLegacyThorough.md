@@ -222,17 +222,18 @@ William's hands gripped the edges of his desk. "Bitterness? My father's decision
 
 Holmes leaned forward slightly, his tone cool and deliberate. "And yet, his death has left you no closer to securing what you claim is rightfully yours. Tell me, do you believe Edward's death was an accident?"
 
-William hesitated, his gaze flickering toward the window. "Edward was many things, but careless wasn't one of them. If you want my opinion, someone wanted him out of the way—and whoever it was, they succeeded."
+William hesitated, his gaze flickering toward the window. "Edward was many things, but careless wasn't one of them. If you want my opinion, someone wanted him out of the way—and whoever it was, they succeeded. Cartwright isn’t the only one with blood on his hands. Ask about...Fort Kalyan’s ‘special shipments’!” He abruptly stops, as though he’s said too much.
 
-He exhaled sharply, his fingers stilling against the desk. “Not that he was always against me,” he muttered. “When we were boys, he taught me how to fix a pocket watch—patient, steady hands. Gave it to me on my fifteenth birthday, said I’d learned well enough to keep it running myself.” His jaw tensed. “And yet, in the end, I was never meant to hold anything that mattered.”
+William exhaled sharply, fingers stilling on the desk. “He wasn’t always against me,” he muttered. “When we were boys, he taught me to fix a pocket watch—patient, steady hands. Gave it to me on my fifteenth birthday. Said I’d learned well enough to keep it running myself.” His jaw tightened. “And yet, in the end, I was never meant to hold anything that mattered.”
 
-William’s mouth pressed into a thin line. For a moment, the bitterness wavered. Then, just as quickly, it returned.
+For a moment, the bitterness wavered. Then, just as quickly, it returned.
 
-Holmes said nothing, only watching him with that knowing gaze. I thought of Edward then—not as the cause of William’s resentment, nor the victim of political schemes, but as a husband and father whose absence was still felt beyond inheritance and betrayal.
+Holmes said nothing, only watching.
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
+I thought of Edward—not just as a soldier or a victim of politics, but as a man whose absence was felt beyond inheritance and betrayal.
+
+As we stepped into the corridor, Holmes spoke quietly, more to himself than to me. “Fort Kalyan—then the cause of Edward’s death lies beyond these walls.”
+
 <br><br><br>
 <br><br><br>
 <br><br><br>
@@ -572,6 +573,28 @@ Holmes turned toward the door. "Now, we bait Hawthorne into making his move."
 Before dawn, a telegram sent by Holmes:
 
 The drawing room at Blackwood Manor had become a stage for the final act. Holmes had summoned all key players: Lady Blackwood, Katherine, William, Lieutenant Cartwright, Colonel Hawthorne, and Mr. Hanger. The morning light cast long shadows across their faces. The household had been eerily still that morning, the kind of silence that only precedes something inevitable.
+
+I saw when Holmes had barely stepped away, when a shadow slid into his path. Colonel Hawthorne.
+
+"Your reputation precedes you, Mr. Holmes," he murmured. "You unravel mysteries with alarming ease."
+
+Holmes barely glanced up. "A reputation earned, not bestowed."
+
+Hawthorne stepped closer. "Be careful you don’t unravel your own safety in the process."
+
+Holmes exhaled. "Loose threads rarely surprise me."
+
+Hawthorne’s smile thinned. "A favor, then. One rarely given twice."
+
+Holmes returned a slight smile. "Favors, like debts, are best left uncollected."
+
+Hawthorne held his gaze a beat longer, then vanished into the crowd.
+
+Holmes dusted his sleeve. "Threats dressed as favors, Watson. A man grasping at control."
+
+I had no doubt—Hawthorne thought himself untouchable.
+
+Holmes, I suspected, would prove otherwise.
 
 ![Chapter 10 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10A.webp)
 
