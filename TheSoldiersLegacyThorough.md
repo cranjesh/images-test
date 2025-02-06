@@ -73,7 +73,7 @@ Holmes remained by the window, fingers tapping a slow rhythm against the glass. 
 
 Holmes did not respond immediately. Instead, he walked to the window, staring out at the rain-soaked streets. "A name caught my attention. I recall reading it in connection with a military scandal some months ago. A man of questionable integrity, if memory serves."
 
-Holmes tapped his fingers against the armrest, eyes narrowing slightly. "You may expect us at Blackwood Manor tomorrow. The chest will be found," he said simply. Lady Blackwood exhaled slowly, her fingers tightening around the reticule in her lap. Watson, watching the exchange, could not help but feel a familiar stirring of anticipation. The game was afoot.
+Holmes tapped his fingers against the armrest, eyes narrowing slightly. "You may expect us at Blackwood Manor tomorrow. The chest will be found," he said simply. Lady Blackwood exhaled slowly, her fingers tightening around the reticule in her lap. I watching the exchange, could not help but feel a familiar stirring of anticipation. The game was afoot.
 
 ## Chapter 2: The Lieutenant's Secrets
 
@@ -237,6 +237,8 @@ As we stepped into the corridor, Holmes spoke quietly, more to himself than to m
 <br><br><br>
 <br><br><br>
 <br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 5: The Widow's Tale
 
 Holmes sat in silence, his keen gaze sweeping the landscape, while my thoughts turned to Katherine Blackwood—the widow of a man whose death seemed far from ordinary. We walked into the drawing room, where Katherine awaited. She stood as we entered, her figure slight yet composed, though her pale complexion and dark-circled eyes betrayed the toll grief had taken.
@@ -309,6 +311,8 @@ We took our leave, and as we walked through the manor's corridors, the atmospher
 <br><br><br>
 <br><br><br>
 <br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 6: Whispers in the Manor
 
 Passing the dimly lit library, I caught William Blackwood's distinct, sharp tone. Through the partially open door, I glimpsed him pacing before someone seated in shadow.
@@ -371,7 +375,7 @@ The constable hesitated, then produced a sealed notice from the War Office. "The
 
 Holmes took the paper, scanned it, and handed it back. "A well-crafted deception," he murmured. "Tell your superior——that I regret to inform him that my curiosity remains undeterred."
 
-As the officer departed, Watson whispered, "They’re watching us."
+As the officer departed, I whispered, "They’re watching us."
 
 Holmes nodded, eyes sharp. "Indeed, Watson. Which means we are finally making progress."
 
@@ -419,7 +423,7 @@ Holmes leaned forward. "It wasn't just the contents, but what they could accompl
 
 Cartwright stiffened. "No. I wanted to protect her. Edward was dead, and I knew Hawthorne would erase everything. If I spoke out alone, no one would believe me—I needed Katherine's voice."
 
-Watson frowned. "And what truth? The corruption you covered up? Or the fact that you feared for yourself?"
+I frowned. "And what truth? The corruption you covered up? Or the fact that you feared for yourself?"
 
 Cartwright swallowed hard, his face pale. "Both," he admitted.
 
@@ -439,7 +443,7 @@ He took a step forward, then froze. His eyes locked onto a folded letter resting
 
 Holmes had given him an opening—a chance to act. Whether he would take it, only time would tell.
 
-As we stepped into the cold night, Watson glanced at Holmes. "Do you think he will help us?"
+As we stepped into the cold night, I glanced at Holmes. "Do you think he will help us?"
 
 Holmes smirked. "Oh, he will. The question is—will he help himself?"
 
@@ -498,54 +502,41 @@ The stable quarters were modest, with a single cot pushed against the wall and a
 
 ![ChapterThePriestHole2](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/ChapterThePriestHole2.webp)
 
-Holmes did not hesitate. “The priest hole,” he said, his voice like a knife through the quiet. “It’s empty.”
+“Mr. Hanger,” he said, his voice cold, “I assume you have an explanation for why the chest is no longer where you hid it?”
 
-Hanger’s hand froze. His grip tightened on the buckle before he set it down, his jaw clenched.
+Hanger’s hands stilled. Slowly, he set the buckle aside. “I don’t know what you mean.”
 
-Watson folded his arms. “You were the last one to touch it, Hanger. Where is it now?”
+Holmes’s gaze never wavered. “The priest hole. It’s empty.”
 
-"Colonel Hawthorne's career has been marked by curious coincidences," Holmes began quietly. "Supply routes compromised. Intelligence leaked. And now, a dedicated officer dead after discovering discrepancies in military records."
+The color drained slightly from Hanger’s face.
 
-"Edward suspected something, didn't he? Kept meticulous records. A man of honor, facing a web of corruption."
-
-"What do you want, Mr. Holmes?" His voice was rough.
-
-"William denied you help when your sister was ill. A cruel act. But Hawthorne—he saw an opportunity in your resentment, didn't he? Used your knowledge of the house to hide evidence that could expose him."
+“Colonel Hawthorne's career has been marked by curious coincidences,” Holmes began quietly. “Supply routes compromised. Intelligence leaked. And now, a dedicated officer dead after discovering discrepancies in military records. Edward suspected something, didn't he? Kept meticulous records. A man of honor, facing a web of corruption. William denied you help when your sister was ill. A cruel act. But Hawthorne—he saw an opportunity in your resentment, didn't he? Used your knowledge of the house to hide evidence that could expose him."
 
 Hanger's knuckles whitened. "You don't understand—"
 
 "I understand loyalty, Mr. Hanger. But to whom is it truly owed? To a man who exploited your hardship? Or to Edward, who trusted you? To Katherine, who now stands to lose everything?"
 
 Hanger swallowed hard, unable to meet Holmes’s gaze. “I knew it was wrong, but my sister... she was all I had left. I couldn’t watch her suffer, not when Hawthorne offered a way out.”
+
 His fingers curled around a worn letter he’d pulled from his pocket. “She writes me every week. Says the medicine’s helping. If Hawthorne cuts her off...” His voice faltered. “He knows exactly how to keep me in line.”
 
-Holmes produced the small brass key Lady Blackwood had entrusted to me. "Edward's records could bring justice. Or they could disappear forever, leaving his killer free."
+Holmes produced the small brass key Lady Blackwood had entrusted to me. “Edward's records could bring justice. Or they could disappear forever, leaving his killer free.”
 
-His bearing crumbled. "Edward was a good man. He didn't deserve—" He swallowed hard. "Hawthorne said no one would be hurt. Just documents to be... examined."
+Hanger’s bearing crumbled. “Edward was a good man. He didn't deserve— Hawthorne said no one would be hurt. Just documents to be... examined.”
 
-Hanger hesitated. "Because he doesn't just want the chest gone—he wants what’s inside. Whatever Edward found... it’s not just about him, is it?"
+Hanger hesitated. “Because he doesn’t just want the chest gone—he wants what’s inside...”
 
-"Mr. Hanger," he said, his voice cold, "I assume you have an explanation for why the chest is no longer where you hid it?"
+I folded my arms. “You were the last one to touch it, Hanger. Where is it now?”
 
-Hanger’s hands stilled. Slowly, he set the buckle aside. "I don’t know what you mean."
+Hanger exhaled sharply, running a hand over his face. “I... I had to move it.”
 
-Holmes’s gaze never wavered. "The priest hole. It’s empty."
+Holmes stepped forward, his voice cutting through the room like steel. “Why?”
 
-The color drained slightly from Hanger’s face.
-
-Watson folded his arms. "You were the last one to touch it, Hanger. Where is it now?"
-
-Hanger exhaled sharply, running a hand over his face. "I... I had to move it."
-
-Holmes stepped forward, his voice cutting through the room like steel. "Why?"
-
-Hanger swallowed hard. "Hawthorne’s men were watching me too closely. If they got to it first, they’d have destroyed everything inside." His voice wavered slightly. "I thought I was doing the right thing." 
-
-Holmes studied him for a long moment. "Then where is it now?"
+Hanger swallowed hard. "Hawthorne’s men were watching me too closely. If they got to it first, they’d have destroyed everything inside." His voice wavered slightly. "I thought I was doing the right thing."
 
 Hanger hesitated before answering. "The west wing," he finally admitted. "In the old wine cellar beneath the servant’s quarters."
 
-"Move it? Why? And how?" I asked, my curiosity piqued.
+"Move it? How?" I asked, my curiosity piqued.
 
 "The night it vanished, I waited until the household was asleep," Hanger explained, his eyes darting toward the door as if ensuring we were alone. "The servants' quarters were empty—most of the staff had gone to the village fair. I knew it was my only chance."
 
@@ -555,16 +546,12 @@ Hanger hesitated before answering. "The west wing," he finally admitted. "In the
 
 Holmes exhaled slowly, his mind already forming the next move. "A bold decision, Mr. Hanger. And a dangerous one."
 
-Watson shot Holmes a questioning glance. "What now?"
+I shot Holmes a questioning glance. "What now?"
 
 Holmes paused to scribble telegrams.
 
 Holmes turned toward the door. "Now, we bait Hawthorne into making his move."
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
 <br><br><br>
 <br><br><br>
 <br><br><br>
