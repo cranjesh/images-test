@@ -127,6 +127,10 @@ Holmes allowed himself the faintest smile. "And next time, Watson, he won’t ha
 
 ![Chapter 2 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2A.webp)
 
+The manor exuded the weight of centuries—thick oak beams, uneven corridors, walls that seemed slightly misaligned. I recalled reading that many Elizabethan-era manors contained hidden recesses, remnants of times when sheltering fugitives or priests was a necessity.
+
+Holmes trailed his fingers along the dark wood paneling, pausing briefly. “A house of this age, Watson, often harbors more than its occupants know.”
+
 The mist curled around Blackwood Manor as our carriage approached. A solemn butler led us inside, where the dim glow of the drawing-room fire cast flickering shadows on Lady Blackwood’s mourning dress.  
 
 "Thank you for coming, Mr. Holmes," she whispered.  
@@ -152,6 +156,10 @@ Holmes ran a thoughtful hand along the floor. "Not just possible—likely. If th
 I frowned. "Then whoever moved it lifted it beyond this point?"
 
 "Precisely, Watson. It could have left uneven drag marks or missteps. The absence of such indicates planning, precision... and intent."
+
+Holmes crouched near the bookshelf, fingertips brushing over the wood. He frowned, then pressed lightly against one edge. A faint shift—almost imperceptible—responded beneath his touch.
+
+“Interesting,” he murmured. He adjusted his grip, but then, as if deciding against further investigation, he straightened. “Not yet, Watson.”
 
 Holmes straightened, his gaze sharpening. His sharp eyes roved the room before he turned suddenly. "Lady Blackwood, does the house have a library?"
 
@@ -321,7 +329,7 @@ Passing the dimly lit library, I caught William Blackwood's distinct, sharp tone
 
 A bitter laugh followed. "They'll never pin anything on me. Not with Katherine parading her innocence and Cartwright skulking about like a scolded child."
 
-He tapped his fingers against the desk. "Hargreaves says we need only wait. No will, no challenge. The courts will favor the next male heir, and by then, any objections will be nothing more than noise."
+He tapped his fingers against the desk. "Hargreave, my lawyer says we need only wait. No will, no challenge. The courts will favor the next male heir, and by then, any objections will be nothing more than noise."
 
 I retreated as William strode past, his expression a mixture of frustration and self-satisfaction. The identity of his confidant remained hidden in the library's shadows.
 
@@ -415,7 +423,9 @@ Holmes approached. "Lieutenant, your silence has done little to shield you. Why 
 
 Cartwright’s fingers clenched around his glass. "I had my reasons."
 
-Holmes’s gaze sharpened. "Let me name them for you. First, Edward held records—discrepancies in supply reports, minor corruption that pointed to you. Not enough to ruin you, but enough to taint your name. Second, there were letters—your letters—to Katherine before her marriage. You feared what she might find if she opened that chest."
+Holmes’s gaze sharpened. "Let me name them for you. There were letters—your letters—to Katherine before her marriage. You feared what they might be found if the chest was opened and affect Katherine. Also, Edward discovered something else—your involvement in the missing supplies at Fort Kalyan. Small amounts, easily overlooked. But Edward noticed."
+
+Holmes tapped his fingers against the table. "The timing of your visits to the study aligned perfectly with the East India Company's audit schedule. You needed those records destroyed before they reached London." He leaned closer. "But someone else moved first, didn’t they? Someone who knew about both your secrets—the letters and the supplies."
 
 Cartwright exhaled sharply. "I needed Katherine to open it herself. Lady Blackwood had the key, and I couldn’t simply demand it. If Katherine had a reason to believe it held something for her, she would push to see it opened."
 
@@ -425,21 +435,15 @@ Cartwright stiffened. "No. I wanted to protect her. Edward was dead, and I knew 
 
 I frowned. "And what truth? The corruption you covered up? Or the fact that you feared for yourself?"
 
-Cartwright swallowed hard, his face pale. "Both," he admitted.
+Cartwright swallowed hard, his face pale. "Both," he admitted. “Look, I thought it was just supplies, a few ledger discrepancies. But Edward… he found something more.”
 
-Holmes’s voice cut through the silence. "The letters weren't your only concern. Edward discovered something else—your involvement in the missing supplies at Fort Kalyan. Small amounts, easily overlooked. But Edward noticed."
+Holmes leaned forward, his tone even. “More than missing provisions. Smuggled arms? Stolen intelligence? Or something buried deeper—payments, names?”
 
-Cartwright’s glass slipped slightly. "That's impossible—"
+Cartwright hesitated, his gaze flickering to the darkened corners of the inn. “I don’t know, Mr. Holmes. But records didn’t match shipments, and funds kept vanishing—always through the same hands."
 
-Holmes tapped his fingers against the table. "The timing of your visits to the study aligned perfectly with the East India Company's audit schedule. You needed those records destroyed before they reached London." He leaned closer. "But someone else moved first, didn’t they? Someone who knew about both your secrets—the letters and the supplies."
+Holmes studied him carefully. "You have a choice, Lieutenant. Speak now, or let the truth bury you."
 
-Cartwright’s face drained of color. "Colonel Hawthorne," he whispered. “They can ruin me, Mr. Holmes—court-martial me, lock me away, or worse. If I speak the truth, I’m not just risking my rank; I’m risking my life.”
-
-Holmes studied him carefully. "You have a choice, Lieutenant. Speak now, or let the truth bury you along with Hawthorne."
-
-Cartwright exhaled shakily, meeting Holmes’s gaze. “There’s something you need to know about Edward’s final days—something I’ve kept quiet for too long.”
-He took a step forward, then froze. His eyes locked onto a folded letter resting on the side table. Whatever courage had fueled his confession a moment earlier seemed to vanish.
-“I… I’m sorry,” he murmured, pulling back from Holmes. “I’m not ready to talk about this yet.”
+Cartwright’s face drained of color. "They can ruin me, Mr. Holmes—court-martial me, lock me away, or worse. If I speak the truth, I’m not just risking my rank; I’m risking my life."
 
 Holmes had given him an opening—a chance to act. Whether he would take it, only time would tell.
 
@@ -457,22 +461,37 @@ The rain had stopped, but the weight of the coming storm still hung in the air.
 <br><br><br>
 ## Chapter 9: Mycroft's Intervention
 
-The rain had slowed to a drizzle by the time we arrived at Baker Street. Holmes had barely removed his coat when Mrs. Hudson intercepted us, a familiar note of disapproval in her voice. "A gentleman is waiting for you, Mr. Holmes. Though I daresay he hardly requires an invitation."
+The rain had slowed to a fine drizzle by the time we arrived at Baker Street. Holmes had barely removed his coat when Mrs. Hudson intercepted us with a knowing glance.
 
 ![ChapterMycroft](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/ChapterMycroft.webp)
 
-Holmes steepled his fingers. I could see the faint flicker of realization in his expression—he had been waiting for this confirmation. “Then Hawthorne will come for the chest himself.”
+"A gentleman is waiting for you, Mr. Holmes. Though I daresay he hardly requires an invitation."
 
-Holmes's grey eyes sharpened as he examined the documents within. "The East India Company audit was merely a facade."
-"Indeed." Mycroft's voice dropped low. "These intercepted messages reveal a network of foreign agents. Military secrets, fortress plans, troop movements—all sold to the highest bidder. Captain Blackwood's records would prove what the Foreign Office has long suspected."
+Holmes strode into the sitting room, where Mycroft reclined, a bundle of documents resting on the table.
 
-Holmes steepled his fingers beneath his chin. "Then Hawthorne will come for the chest himself."
+"Ah, brother mine," Mycroft greeted. "Your telegram was well-timed. Our interests, it seems, align."
 
-"The question remains," Mycroft replied, studying his brother with cold calculation, "will you permit him that final move?"
+Holmes smirked. "As they often do, though you rarely admit it."
 
-A faint smile played across Holmes's lips. "I rather think not. Watson and I have already set our trap."
+Mycroft exhaled. "Spare me. I verified your suspicions regarding Colonel Hawthorne. His activities extend beyond mere military fraud." He tapped the folder. "You’ll find these findings instructive."
 
-As we left 221B, Mycroft’s words lingered in my mind. This was no longer a simple case of missing documents. We were about to force the hand of powerful men who would do anything to remain in the dark.
+Holmes skimmed the documents, his expression sharpening. "Diversion of funds, fictitious suppliers, and high-ranking officials in the East India Company implicated."
+
+I frowned. "So this isn’t just supply theft?"
+
+"Not remotely," Mycroft said. "Blackwood’s records hold enough leverage to topple men of considerable power. Hawthorne, it seems, is one of them."
+
+Holmes set the papers down. "A tangled web indeed." He glanced at Mycroft. "Your assistance is, as always, invaluable."
+
+Mycroft waved a hand. "You’d have uncovered it in time. But efficiency is a virtue, Sherlock, and I am nothing if not efficient."
+
+Holmes leaned back. "Then Hawthorne will come for the chest himself."
+
+"The question is," Mycroft said, watching his brother closely, "will you let him?"
+
+A faint smile touched Holmes’s lips. "I rather think not. Watson and I have already set our trap."
+
+As we left 221B, Mycroft’s words echoed in my mind. This was no longer just a missing chest. We were about to force the hand of powerful men who would do anything to stay in the dark.
 
 <br><br><br>
 <br><br><br>
