@@ -2,7 +2,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <br><br><br>
-![Cover](https://github.com/cranjesh/images-test/blob/main/CoverImage.png)
+![Cover](https://github.com/cranjesh/images-test/blob/main/CoverImageText.webp)
 <br><br><br>
 <br><br><br>
 
