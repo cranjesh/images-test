@@ -67,7 +67,7 @@ She exhaled shakily. "I do not know what to believe, Mr. Holmes. Perhaps it is n
 
 "The chest held his will, among other documents." She hesitated, her fingers tightening slightly around her reticule. "I— I hardly know what else. Edward never spoke of it, but he was insistent that it remain safe. As though it were his final safeguard."
 
-Holmes nodded, his expression unreadable. "I may need to consult my brother on certain military matters. He has access to information beyond the War Office’s usual channels."
+Holmes mused, his fingers lightly tapping the armrest as his thoughts unraveled.. "I may need to consult my brother on certain military matters. He has access to information beyond the War Office’s usual channels."
 
 "You seem particularly interested in them," I remarked as Holmes’s mention of his enigmatic brother piqued my curiosity. Mycroft Holmes rarely involved himself in “common” crimes—but when he did, the stakes invariably spanned empires.
 
@@ -94,7 +94,7 @@ Cartwright gestured for us to sit, his posture rigid with military bearing. "I s
 Holmes fixed him with a piercing gaze. "Let's start with Captain Blackwood's final days. What did you observe?"
 Cartwright's fingers drummed once on his desk before he caught himself. "The Captain maintained his usual exactitude in duties, sir, but in those final weeks, his demeanor altered. He appeared... preoccupied with certain matters. Protocol prevented me from inquiring further."
 
-"And on the night of his death?" Holmes pressed.
+"And on the night of his death?" Holmes challenged, his gaze sharp as a scalpel.
 
 "Colonel Hawthorne hosted a dinner at the officers' mess. The Captain departed early, citing urgent correspondence. The following morning..." Cartwright's voice remained measured. "We discovered him at the base of the cliffs."
 Holmes's gaze narrowed. "Do you suspect foul play?"
@@ -137,7 +137,7 @@ The mist curled around Blackwood Manor as our carriage approached. A solemn butl
 
 "Thank you for coming, Mr. Holmes," she whispered.  
 
-Holmes nodded. "Would you show us to the study?"
+Holmes observed, his fingers tracing the faint scratches on the floor. "Would you show us to the study?"
 
 ![Study](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Study.webp)
 
@@ -533,7 +533,7 @@ Holmes’s gaze never wavered. “The priest hole. It’s empty.”
 
 The color drained slightly from Hanger’s face.
 
-“Colonel Hawthorne's career has been marked by curious coincidences,” Holmes began quietly. “Supply routes compromised. Intelligence leaked. And now, a dedicated officer dead after discovering discrepancies in military records. Edward suspected something, didn't he? Kept meticulous records. A man of honor, facing a web of corruption. William denied you help when your sister was ill. A cruel act. But Hawthorne—he saw an opportunity in your resentment, didn't he? Used your knowledge of the house to hide evidence that could expose him."
+“Colonel Hawthorne's career has been marked by curious coincidences,” Holmes began quietly. “Supply routes compromised. Intelligence leaked. And now, a dedicated officer dead after discovering discrepancies in military records. Edward suspected something, didn't he? Kept meticulous records. A man of honour, facing a web of corruption. William denied you help when your sister was ill. A cruel act. But Hawthorne—he saw an opportunity in your resentment, didn't he? Used your knowledge of the house to hide evidence that could expose him."
 
 Hanger's knuckles whitened. "You don't understand—"
 
@@ -723,6 +723,6 @@ A few days later, at Blackwood Manor, I found Katherine by the parlor window, wa
 
 Beside her lay a leather-bound journal—Edward’s notes, his careful handwriting preserved. She traced the cover lightly and exhaled.
 
-Katherine watched her children play in the garden where Edward had once taught them about honor. "He chose justice over vengeance," she murmured. "And in doing so, he protected not just our family, but countless others."
+Katherine watched her children play in the garden where Edward had once taught them about honour. "He chose justice over vengeance," she murmured. "And in doing so, he protected not just our family, but countless others."
 
 *The End*
