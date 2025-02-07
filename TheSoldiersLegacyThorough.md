@@ -660,7 +660,21 @@ The man who had controlled secrets sat silent as the cuffs clicked shut.
 
 ![Chapter 10 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10B.webp)
 
-The man who had orchestrated so much devastation was led away in handcuffs, his bravado replaced by a grim, silent resignation. William stood shakily, his expression hollow. "My brother... he tried to warn me."
+The man who had orchestrated so much devastation was led away in handcuffs, his bravado replaced by a grim, silent resignation. 
+
+Holmes’s gaze locked onto William. “Tell me, do you believe Edward died a fool? That he deserved nothing from you?”
+
+William scoffed. “He always got what he wanted.”
+
+Holmes’s tone sharpened. “No, William. He fought for what was right—against men who would see your family ruined. Even for you.”
+
+William exhaled sharply, looking away. For the first time, his hands weren’t clenched in defiance but loose at his sides. “And if I’ve been wrong?” His voice was quieter, uncertain.
+
+“This was among Edward’s papers,” Holmes said, unfolding a faded scrap of parchment. The ink was smudged, hurriedly scrawled, but still legible.
+
+William always wanted to fix things. I never told him how much I admired that.
+
+William’s fingers clenched as he read it, then he snatched the paper and crumpled it. “It’s nothing,” he muttered, turning away. But his grip remained tight, the paper trembling in his fist.
 
 Katherine touched his arm gently. "He protected us all, in the end."
 
@@ -681,8 +695,11 @@ William Blackwood's departure from the estate carried a weight of its own revela
 
 Holmes later shared with me that among Edward's recovered papers was a letter addressed to his stepbrother, acknowledging the pain of their father's choice and offering a substantial portion of the great-uncle's Indian properties as reconciliation. The letter never reached William, intercepted by Hawthorne's men. 
 
-When Katherine received William’s letter, she read it in silence, her fingers trembling slightly at the faded ink. "I was wrong. That’s all I can say now. Some things cannot be undone. Take care of the children."
-Katherine found the pocket watch on Edward’s desk, its repaired hinge gleaming. She turned it over, tracing the E.B. initials—and suddenly saw William as a boy, cheeks smudged with oil, grinning as Edward guided his hands to fix it.
+"I was wrong. That’s all I can say now. Some things cannot be undone. Take care of the children."
+
+One morning, Katherine found a pocket watch on Edward’s old desk, its repaired hinge gleaming. She turned it over, tracing the E.B. initials—and suddenly saw William as a boy, cheeks smudged with oil, grinning as Edward guided his hands to fix it. There was also a note, she read it in silence, her fingers trembling slightly at the faded ink. 
+"I have much to atone for—both as a brother and an heir. May the estate flourish under your care. I see now Edward was trying to protect us all.
+—William"
  
 Holmes later observed the replaced spring. “A child’s lesson remembered too late, Watson. Some fractures outlast even time.”
 
