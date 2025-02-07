@@ -53,7 +53,7 @@ Her voice broke slightly before she continued. "Edward was an honourable man, de
 
 Holmes steepled his fingers. "You mentioned a missing chest?"
 
-Lady Blackwood nodded. "We were surprised when Edward purchased the chest just a few months ago and last used it during his visit two months past. He was quite particular about it—he even had the lock replaced just before returning to India.nBut the night before the East India Company's audit was to begin, it vanished without a trace. He had been insistent on keeping it safe."
+Lady Blackwood nodded. "We were surprised when Edward purchased the chest just a few months ago and last used it during his visit two months past. He was quite particular about it—he even had the lock replaced just before returning to India. But the night before the East India Company's audit was to begin, it vanished without a trace. He had been insistent on keeping it safe."
 
 Holmes leaned forward slightly, his attention caught by a detail. "Who had access to the study?"
 
