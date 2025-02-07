@@ -51,6 +51,8 @@ Holmes's gaze sharpened. "What makes you think so?"
 
 Her voice broke slightly before she continued. "Edward was an honourable man, devoted to his duty and family. His wife, Katherine, and their children were everything to him. But his letters... they grew shorter. More cautious. The last letter mentioned supply routes and missing ledgers, but insisted we discuss it in person. Then three days later..." Her voice faltered. "As if he feared someone might be watching."
 
+"Edward's death came precisely three days before the scheduled audit," Lady Blackwood explained. "He had written to me just the week before, insisting certain documents must reach London before the Company's inspection could begin."
+
 Holmes steepled his fingers. "You mentioned a missing chest?"
 
 Lady Blackwood nodded. "We were surprised when Edward purchased the chest just a few months ago and last used it during his visit two months past. He was quite particular about it—he even had the lock replaced just before returning to India. But the night before the East India Company's audit was to begin, it vanished without a trace. He had been insistent on keeping it safe."
@@ -139,7 +141,9 @@ Holmes nodded. "Would you show us to the study?"
 
 ![Study](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Study.webp)
 
-The air in the study was heavy with dust and disuse. Holmes moved with quiet precision, his sharp gaze sweeping the room before he crouched near the floor, fingers tracing faint scratches where the missing chest had once stood.
+The air in the study was heavy with dust and disuse. Holmes lifted a seemingly innocent supply ledger. "Curious. These numbers don't align with standard military provisions. Your son was tracking something far more significant, Lady Blackwood."
+
+Holmes moved with quiet precision, his sharp gaze sweeping the room before he crouched near the floor, fingers tracing faint scratches where the missing chest had once stood.
 
 "Observe, Watson."
 
@@ -363,7 +367,7 @@ Later, as we walked back through the gathering dusk, I turned to Holmes. "You sa
 
 "Consider the timing. William's recent obsession with inheritance documents, Hawthorne's convenient arrival, and a disgruntled servant with knowledge of the house's hidden spaces." Holmes's voice dropped lower. "The east wing's library holds more secrets than books—Victorian manors often do."
 
-Above us, the windows of the east wing glowed faintly in the gathering dark, like eyes keeping watch over the estate's secrets.
+Above us, the windows of the east wing glowed faintly in the gathering dark, like eyes keeping watch over the estate's secrets. I noticed a well-dressed man studying the manor through a brass telescope from the village inn. His methodical note-taking spoke of official observation rather than mere curiosity. Holmes later confirmed my suspicions – the Foreign Office had taken interest.
 
 <br><br><br>
 <br><br><br>
@@ -634,9 +638,9 @@ The air thickened. Katherine gasped softly. Cartwright turned pale. William’s 
 
 Hawthorne leaned back. "You think I wanted to hide these documents? No, Holmes. I needed to open them." "For blackmail," Holmes said. "A crude word. This is leverage, Holmes. The kind that builds empires. Do you think they'll let this case stand?"
 
-"The documents no longer belong to you." Hawthorne's smirk remained. "You think the Foreign Office will act? They'll vanish before sunrise."
+"The documents no longer belong to you." Hawthorne's smirk remained. "The Foreign Office understands discretion, Holmes. These documents won't see daylight."
 
-“I’m afraid your grand reveal has come to an abrupt end,” Hawthorne said, clapping slowly. At his signal, two shadowy figures materialized at opposite doorways, muskets poised. “My loyal associates have a certain… enthusiasm for preventing your victory,” he added, voice dripping with menace.
+“I’m afraid your grand reveal has come to an abrupt end,” Hawthorne said, clapping slowly. At his signal, two shadowy figures materialized at opposite doorways, muskets poised. “My men are quite efficient at handling complications, Mr. Holmes.” he added, voice dripping with menace.
 
 Holmes’s gaze flicked to the far side of the room, where Inspector Lestrade stood, having arrived on Holmes’s telegram just moments earlier.
 
@@ -657,6 +661,8 @@ Holmes turned. "Inspector?"
 "Colonel Reginald Hawthorne," Lestrade declared, "you are under arrest for conspiracy and treason."
 
 The man who had controlled secrets sat silent as the cuffs clicked shut.
+
+Lady Blackwood's quiet dignity seemed to fill the room. "You underestimated my son's determination, Colonel. He was more than your schemes."
 
 ![Chapter 10 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10B.webp)
 
@@ -717,6 +723,6 @@ A few days later, at Blackwood Manor, I found Katherine by the parlor window, wa
 
 Beside her lay a leather-bound journal—Edward’s notes, his careful handwriting preserved. She traced the cover lightly and exhaled.
 
-“He would have wanted them to grow up without fear,” she murmured. “And now, at last, they can.”
+Katherine watched her children play in the garden where Edward had once taught them about honor. "He chose justice over vengeance," she murmured. "And in doing so, he protected not just our family, but countless others."
 
 *The End*
