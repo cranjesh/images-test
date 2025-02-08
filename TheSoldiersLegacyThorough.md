@@ -27,13 +27,13 @@
 <br><br><br>
 ## Chapter 1: Lady Blackwood's Visit
 
-Rain drummed steadily against the windows of 221B Baker Street as I finished recording the notes from our previous case. Holmes, seated in his customary armchair, studied a peculiar telegram. His pipe smoke curled toward the ceiling in rhythmic spirals, his mind clearly at work on some unseen thread.
+Rain drummed steadily against the windows of 221B Baker Street as I finished recording the notes from our previous case. Holmes hunched forward in his armchair, staring at a telegram like a student puzzling over a difficult math problem. His pipe smoke curled toward the ceiling in rhythmic spirals, his mind clearly at work on some unseen thread.
 
 "A matter of inheritance," he murmured, almost to himself. "And yet the client fears something darker."
 
 Before I could inquire further, a sharp knock at the door interrupted our quiet. Mrs. Hudson appeared moments later, announcing, "Lady Blackwood to see you, Mr. Holmes."
 
-The woman who entered was the very picture of mourning. Her finely tailored black gown spoke of her status, but her trembling hands and pale complexion betrayed a weight far heavier than her garments.
+A gust of cold air followed Lady Blackwood into the room. Her handkerchief trembled as she dabbed her eyes, and I noticed how she paused at the threshold, as if gathering strength. Her finely tailored black gown spoke of her status, but her trembling hands and pale complexion betrayed a weight far heavier than her garments.
 
 Holmes stood, gesturing to the chair opposite his. "Please, Lady Blackwood, take a seat. I suspect your visit concerns the recent disappearance of your son's chest—a loss made all the more troubling given the East India Company's imminent audit."
 
@@ -41,7 +41,7 @@ Holmes stood, gesturing to the chair opposite his. "Please, Lady Blackwood, take
 
 Lady Blackwood froze, her expression shifting from surprise to alarm. "How could you possibly—"
 
-Holmes cut her off with a faint smile. "The morning paper notes unusual activity at the Company's offices. Your mourning dress suggests you've been grieving for two weeks, coinciding with Captain Blackwood's passing. Furthermore, your arrival during such inclement weather speaks to a matter of considerable urgency."
+Holmes warmed his hands by the fire. "Your boots are soaked through - you walked here despite the storm." He turned to face her. "The morning papers note unusual happenings at the Company offices." He watched as her grip tightened on the handkerchief. "And your fresh mourning dress tells me of a loss two weeks past." His voice softened. "Only the most urgent matter would bring a grieving mother out on such a terrible day."
 
 Lady Blackwood sank into the chair, her gloved hands clutching a small reticule. "My son, Captain Edward Blackwood, died two weeks ago in India. He was stationed at Fort Kalyan, conducting routine inspections. The circumstances of his death are... unclear. The local police are still investigating, but they have not ruled out foul play."
 
@@ -141,7 +141,7 @@ Holmes observed, his fingers tracing the faint scratches on the floor. "Would yo
 
 ![Study](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Study.webp)
 
-The air in the study was heavy with dust and disuse. Holmes lifted a seemingly innocent supply ledger. "Curious. These numbers don't align with standard military provisions. Your son was tracking something far more significant, Lady Blackwood."
+The air in the study was heavy with dust and disuse. Holmes lifted the supply ledger, its pages dog-eared from frequent checking. "Curious. These numbers don't align with standard military provisions. Your son was tracking something far more significant, Lady Blackwood."
 
 Holmes moved with quiet precision, his sharp gaze sweeping the room before he crouched near the floor, fingers tracing faint scratches where the missing chest had once stood.
 
