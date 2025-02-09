@@ -509,17 +509,21 @@ I peered inside. It was little more than a cramped, dusty alcove—bare and empt
 
 ![ChapterThePriestHole1](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/ChapterThePriestHole1.webp)
 
-Holmes remained motionless, his sharp gaze sweeping over the darkness. “This was the place,” he murmured.
+Holmes ran a gloved hand over the paneling, tracing the dust where the chest had once been.
 
-A strange tension filled the air. I found myself holding my breath. “Then where is it now?”
+"Watson," he murmured, "someone wanted us to believe this was the final hiding place."
 
-Holmes turned abruptly. “Hanger.”
+I exhaled sharply. "Holmes, every moment we waste—"
 
-Without another word, he strode out of the room, his coat billowing behind him.
+"Is calculated," he interrupted. "The chest isn’t lost, Watson. It’s waiting."
 
-I hurried after him. “Holmes, what—”
+I frowned. "You’re sure?"
 
-“He moved it,” Holmes said flatly. “And if we’re not careful, we’ll be two steps behind Hawthorne before the night is through.”
+Holmes turned to the door, adjusting his coat. "I know the man who moved it. More importantly, I know why he hesitated." His voice softened. "And it’s only a matter of time before I have him tell us where it is."
+
+"How can you be certain?"
+
+Holmes smiled faintly. "Because guilt, my dear Watson, is a most persuasive force."
 
 The stable quarters were modest, with a single cot pushed against the wall and an old wooden trunk at the foot of it. Hanger sat at a small desk, polishing a brass buckle, but the tension in his shoulders betrayed him.
 
@@ -569,7 +573,27 @@ Hanger hesitated before answering. "The west wing," he finally admitted. "In the
 
 Holmes exhaled slowly, his mind already forming the next move. "A bold decision, Mr. Hanger. And a dangerous one."
 
-I shot Holmes a questioning glance. "What now?"
+Holmes had been silent since we left the stable quarters. As we walked back toward the manor, his hands were clasped behind his back, his pace slower than usual.
+
+"You knew," I said at last.
+
+"I suspected. Mycroft confirmed it," Holmes replied, voice quiet.
+
+I hesitated. "Then Hawthorne knows too. He won’t wait for us to act."
+
+Holmes finally turned his gaze to me. "That depends. If he were certain of what we knew, the chest would already be gone. But he isn’t."
+
+"And what’s stopping him?"
+
+"Doubt, Watson. A man like Hawthorne does not panic—he calculates. If he overplays his hand too soon, he risks exposing more than he’s already lost. Right now, he still believes he has control. We need him to waste that belief."
+
+A sudden rustling in the hedges made me stiffen. Holmes barely turned his head. His voice dropped lower. "Three men. One watching from the treeline, another near the stables, and the last—"
+
+"The manor?" I guessed.
+
+Holmes nodded. "Hawthorne’s men aren’t just watching us—they’re waiting for a signal."
+
+I shot Holmes a questioning glance. "Then we don’t have long. What now?"
 
 Holmes paused to scribble telegrams.
 
@@ -642,13 +666,29 @@ Hawthorne leaned back. "You think I wanted to hide these documents? No, Holmes. 
 
 “I’m afraid your grand reveal has come to an abrupt end,” Hawthorne said, clapping slowly. At his signal, two shadowy figures materialized at opposite doorways, muskets poised. “My men are quite efficient at handling complications, Mr. Holmes.” he added, voice dripping with menace.
 
-Holmes’s gaze flicked to the far side of the room, where Inspector Lestrade stood, having arrived on Holmes’s telegram just moments earlier.
+I stiffened as they advanced, boots scuffing against the floorboards. They weren’t hesitating. One moved toward the chest, the other toward Holmes.
+
+I swallowed hard, glancing at him. Surely he saw the danger? But Holmes remained perfectly still, hands at his sides, watching Hawthorne like a chess player waiting for a blunder.
+
+"Holmes," I murmured. "They’re not bluffing."
+
+"No," he agreed quietly. "But neither am I."
+
+Hawthorne let out a short laugh. "Let’s be reasonable, shall we? You’re outnumbered. And before you imagine some miraculous escape—" He nodded at his men. "Take the documents."
+
+One of them reached for the chest.
+
+Holmes exhaled. Not in frustration. Not in fear. Something else.
+
+The door burst open, Inspector Lestrade stepped in, flanked by two officers.
+
+"Colonel Reginald Hawthorne," Lestrade announced, "you are under arrest for conspiracy and treason."
 
 Hawthorne turned his attention to the newcomer, a thin smile on his lips. “Inspector, I strongly advise you to reconsider your next course of action. There are men—men far above your rank—who would be most displeased.”
 
 Lestrade hesitated for a fraction of a second. Just long enough.
 
-Holmes's voice stayed measured. "Which is why copies went to the military tribunal. And The Times." He paused. "The first article should be printing now."
+Holmes's voice stayed measured. "Which is why those documents are already with the military tribunal. And The Times. By now, the ink has dried on the first article."
 
 Hawthorne's smirk vanished.
 
@@ -674,13 +714,13 @@ William scoffed. “He always got what he wanted.”
 
 Holmes’s tone sharpened. “No, William. He fought for what was right—against men who would see your family ruined. Even for you.”
 
-William exhaled sharply, looking away. For the first time, his hands weren’t clenched in defiance but loose at his sides. “And if I’ve been wrong?” His voice was quieter, uncertain.
+William exhaled sharply, looking away. His hands, once clenched in defiance, loosened—then curled into fists again, but this time with something else. Regret.
 
 “This was among Edward’s papers,” Holmes said, unfolding a faded scrap of parchment. The ink was smudged, hurriedly scrawled, but still legible.
 
 William always wanted to fix things. I never told him how much I admired that.
 
-William’s fingers clenched as he read it, then he snatched the paper and crumpled it. “It’s nothing,” he muttered, turning away. But his grip remained tight, the paper trembling in his fist.
+William’s fingers tightened around the note. His breath caught. A second passed—then another—before he crushed it in his palm. “It’s nothing,” he muttered, voice rough. But his knuckles had gone white.
 
 Katherine touched his arm gently. "He protected us all, in the end."
 
