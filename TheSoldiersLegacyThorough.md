@@ -4,7 +4,6 @@
 <br><br><br>
 ![Cover](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/CoverImageText.webp)
 <br><br><br>
-<br><br><br>
 
 # The Soldier's Legacy
 *A Sherlock Holmes Story narrated by Dr. John Watson*
@@ -23,8 +22,6 @@
 11. [The Final Assembly](#chapter-11-the-final-assembly)
 12. [Aftermath and Justice](#chapter-12-aftermath-and-justice)
 
-<br><br><br>
-<br><br><br>
 ## Chapter 1: Lady Blackwood's Visit
 
 Rain drummed steadily against the windows of 221B Baker Street as I finished recording the notes from our previous case. Holmes hunched forward in his armchair, staring at a telegram like a student puzzling over a difficult math problem. His pipe smoke curled toward the ceiling in rhythmic spirals, his mind clearly at work on some unseen thread.
