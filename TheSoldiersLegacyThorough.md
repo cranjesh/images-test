@@ -702,7 +702,11 @@ Holmes turned. "Inspector?"
 
 The man who had controlled secrets sat silent as the cuffs clicked shut.
 
-Lady Blackwood's quiet dignity seemed to fill the room. "You underestimated my son's determination, Colonel. He was more than your schemes."
+Lestrade adjusted his gloves, glancing at Holmes. "Your telegram was timely. We had men in place before dawn."
+
+Holmes gave a slight nod. "I expected no less."
+
+Lady Blackwood held her head high. "You underestimated my son, Colonel. He was more than a piece in your schemes."
 
 ![Chapter 10 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10B.webp)
 
