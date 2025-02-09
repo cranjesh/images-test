@@ -22,6 +22,7 @@
 11. [The Final Assembly](#chapter-11-the-final-assembly)
 12. [Aftermath and Justice](#chapter-12-aftermath-and-justice)
 
+<br><br>
 ## Chapter 1: Lady Blackwood's Visit
 
 Rain drummed steadily against the windows of 221B Baker Street as I finished recording the notes from our previous case. Holmes hunched forward in his armchair, staring at a telegram like a student puzzling over a difficult math problem. His pipe smoke curled toward the ceiling in rhythmic spirals, his mind clearly at work on some unseen thread.
@@ -30,7 +31,9 @@ Rain drummed steadily against the windows of 221B Baker Street as I finished rec
 
 Before I could inquire further, a sharp knock at the door interrupted our quiet. Mrs. Hudson appeared moments later, announcing, "Lady Blackwood to see you, Mr. Holmes."
 
-A gust of cold air followed Lady Blackwood into the room. Her handkerchief trembled as she dabbed her eyes, and I noticed how she paused at the threshold, as if gathering strength. Her finely tailored black gown spoke of her status, but her trembling hands and pale complexion betrayed a weight far heavier than her garments.
+A gust of cold air followed Lady Blackwood into the room. Her handkerchief trembled as she dabbed her eyes, and I noticed how she paused at the threshold, as if gathering strength. 
+
+Her finely tailored black gown spoke of her status, but her trembling hands and pale complexion betrayed a weight far heavier than her garments.
 
 Holmes stood, gesturing to the chair opposite his. "Please, Lady Blackwood, take a seat. I suspect your visit concerns the recent disappearance of your son's chest—a loss made all the more troubling given the East India Company's imminent audit."
 
@@ -74,6 +77,9 @@ Holmes did not respond immediately. Instead, he walked to the window, staring ou
 
 Holmes tapped his fingers against the armrest, eyes narrowing slightly. "You may expect us at Blackwood Manor tomorrow. The chest will be found," he remarked simply. Lady Blackwood exhaled slowly, her fingers tightening around the reticule in her lap. I watching the exchange, could not help but feel a familiar stirring of anticipation. The investigation had begun.
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 2: The Lieutenant's Secrets
 
 Holmes's network of informants revealed Lieutenant Cartwright had been deployed near Blackwood Manor—a coincidence too perfect to ignore.
@@ -319,11 +325,6 @@ She gave a small, tired smile. "They're young, Dr. Watson… too young to unders
 We took our leave, and as we walked through the manor's corridors, the atmosphere grew noticeably heavier.
 
 <br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
 ## Chapter 6: Whispers in the Manor
 
 Passing the dimly lit library, I caught William Blackwood's distinct, sharp tone. Through the partially open door, I glimpsed him pacing before someone seated in shadow.
@@ -413,11 +414,6 @@ As I watched Holmes examine the telegrams, his expression darkening, I couldn't 
 The fog thickened as we departed, swallowing the street lamps. Ahead lay Cartwright's secrets, then our separate paths into what felt increasingly like a carefully laid snare.
 
 <br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
 ## Chapter 8: Confrontation at the Inn
 
 The village inn was quiet when we arrived. Lieutenant Cartwright sat in a shadowed corner, hunched over a half-empty glass.
@@ -458,12 +454,6 @@ Holmes smirked. "Oh, he will. The question is—will he help himself?"
 
 The rain had stopped, but the weight of the coming storm still hung in the air.
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
 ## Chapter 9: Mycroft's Intervention
 
 The rain had slowed to a fine drizzle by the time we arrived at Baker Street. Holmes had barely removed his coat when Mrs. Hudson intercepted us with a knowing glance.
@@ -498,6 +488,8 @@ A faint smile touched Holmes’s lips. "I rather think not. Watson and I have al
 
 As we left 221B, Mycroft’s words echoed in my mind. This was no longer just a missing chest. We were about to force the hand of powerful men who would do anything to stay in the dark.
 
+<br><br><br>
+<br><br><br>
 <br><br><br>
 <br><br><br>
 ## Chapter 10: The Priest Hole
@@ -602,8 +594,6 @@ Holmes paused to scribble telegrams.
 
 Holmes turned toward the door. "Now, we bait Hawthorne into making his move."
 
-<br><br><br>
-<br><br><br>
 <br><br><br>
 ## Chapter 11: The Final Assembly
 
@@ -736,10 +726,6 @@ The morning light strengthened, justice finally illuminating the shadows of Blac
 <br><br><br>
 <br><br><br>
 <br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
 ## Chapter 12: Aftermath and Justice
 
 The scandal's ripples extended far beyond Blackwood Manor. Colonel Hawthorne's arrest prompted Parliament to launch a thorough investigation, leading to reforms that dismantled long-standing corrupt practices.
@@ -766,7 +752,11 @@ I thought of Katherine’s children that night, and the countless soldiers’ fa
 
 Holmes, reflecting on the case, remarked quietly as we departed, "A single rotten branch may poison the tree, Watson. But uproot it,” he tapped his cane decisively, “and the roots remember how to grow.”
 
-A few days later, at Blackwood Manor, I found Katherine by the parlor window, watching her children in the garden. Their laughter, once silenced by grief, rang through the halls again.
+Katherine, in time, forgave Mr. Hanger. He remained at the estate, tending to the stables as he always had—though now with lighter shoulders. She saw to it that his sister received the care she needed, without debt or obligation.
+
+When I last passed through Blackwood Manor, I found him at work, hands steady as he adjusted a saddle’s worn straps. He met my gaze, nodded once, and returned to his task. Some burdens, I thought, could only be repaid through quiet service.
+
+I also found Katherine by the parlor window, watching her children in the garden. Their laughter, once silenced by grief, rang through the halls again.
 
 Beside her lay a leather-bound journal—Edward’s notes, his careful handwriting preserved. She traced the cover lightly and exhaled.
 
