@@ -138,6 +138,8 @@ The manor exuded the weight of centuries—thick oak beams, uneven corridors, wa
 
 Holmes trailed his fingers along the dark wood paneling, pausing briefly. “A house of this age, Watson, often harbors more than its occupants know.”
 
+![BlackwoodManorPlan](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/BlackwoodManorPlan.webp)
+
 The mist curled around Blackwood Manor as our carriage approached. A solemn butler led us inside, where the dim glow of the drawing-room fire cast flickering shadows on Lady Blackwood’s mourning dress.  
 
 "Thank you for coming, Mr. Holmes," she whispered.  
