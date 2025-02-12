@@ -29,9 +29,11 @@ Rain drummed steadily against the windows of 221B Baker Street as I finished rec
 
 "A matter of inheritance," he murmured, almost to himself. "And yet the client fears something darker."
 
-Before I could inquire further, a sharp knock at the door interrupted our quiet. Mrs. Hudson appeared moments later, announcing, "Lady Blackwood to see you, Mr. Holmes."
+I set down my pen, suppressing a sigh. Inheritance disputes were common enough—bitter quarrels over wills, squabbles among estranged relatives. Hardly the sort of affair that would intrigue Holmes. Before I could voice my skepticism, a sharp knock at the door interrupted our quiet.
 
-A gust of cold air followed Lady Blackwood into the room. Her handkerchief trembled as she dabbed her eyes, and I noticed how she paused at the threshold, as if gathering strength. 
+Mrs. Hudson appeared moments later, announcing, "Lady Blackwood to see you, Mr. Holmes."
+
+A gust of cold air followed Lady Blackwood into the room. Her handkerchief trembled as she dabbed her eyes, and I noticed how she hesitated at the threshold, as if gathering strength.
 
 Her finely tailored black gown spoke of her status, but her trembling hands and pale complexion betrayed a weight far heavier than her garments.
 
@@ -41,41 +43,57 @@ Holmes stood, gesturing to the chair opposite his. "Please, Lady Blackwood, take
 
 Lady Blackwood froze, her expression shifting from surprise to alarm. "How could you possibly—"
 
-Holmes warmed his hands by the fire. "Your boots are soaked through - you walked here despite the storm." He turned to face her. "The morning papers note unusual happenings at the Company offices." He watched as her grip tightened on the handkerchief. "And your fresh mourning dress tells me of a loss two weeks past." His voice softened. "Only the most urgent matter would bring a grieving mother out on such a terrible day."
+Holmes warmed his hands by the fire. "Your boots are soaked through—you walked here despite the storm." He turned to face her. "The morning papers note unusual happenings at the Company offices." His gaze flicked to the handkerchief she clenched. "And your fresh mourning dress tells me of a loss two weeks past." His voice softened. "Only the most urgent matter would bring a grieving mother out on such a terrible day."
 
-Lady Blackwood sank into the chair, her gloved hands clutching a small reticule. "My son, Captain Edward Blackwood, died two weeks ago in India. He was stationed at Fort Kalyan, conducting routine inspections. The circumstances of his death are... unclear. The local police are still investigating, but they have not ruled out foul play."
+Lady Blackwood sank into the chair, her gloved hands tightening around a small reticule. "My son, Captain Edward Blackwood, died two weeks ago in India. He was stationed at Fort Kalyan, conducting routine inspections. The circumstances of his death are... unclear. The local police are still investigating, but they have not ruled out foul play."
 
-Holmes's gaze sharpened. "What makes you think so?"
+Holmes’s gaze sharpened. "What makes you think so?"
 
-"There were rumors among his men," she explained, her voice faltering. "They observed Edward had concerns—something about irregularities in the supply chains. He had been reporting directly to his superior officers, but in his letters, he seemed... uneasy. The night he died, he was seen leaving the officers' quarters alone. By morning, he was found at the base of the cliffs. They say he fell, but my son was not careless, Mr. Holmes."
+"There were rumours among his men," she explained, her voice faltering. "Edward had concerns—something about irregularities in the supply chains. He had been reporting directly to his superior officers, but in his letters, he seemed... uneasy. The night he died, he was seen leaving the officers' quarters alone. By morning, he was found at the base of the cliffs. They say he fell, but my son was not careless, Mr. Holmes."
 
-Her voice broke slightly before she continued. "Edward was an honourable man, devoted to his duty and family. His wife, Katherine, and their children were everything to him. But his letters... they grew shorter. More cautious. The last letter mentioned supply routes and missing ledgers, but insisted we discuss it in person. Then three days later..." Her voice faltered. "As if he feared someone might be watching."
+Her voice broke slightly before she continued. "Edward was an honourable man, devoted to his duty and family. His wife, Katherine, and their children were everything to him. But his letters... they grew shorter. More cautious. The last letter mentioned supply routes and missing ledgers, but insisted we discuss it in person. Then, three days later..." Her voice faltered. "As if he feared someone might be watching."
 
-"Edward's death came precisely three days before the scheduled audit," Lady Blackwood explained. "He had written to me just the week before, insisting certain documents must reach London before the Company's inspection could begin."
+Holmes’s expression did not change, but I saw his fingers tap a slow rhythm against the armrest.
+
+"Edward's death came precisely three days before the scheduled audit," Lady Blackwood continued. "He had written to me just the week before, insisting certain documents must reach London before the Company's inspection could begin."
 
 Holmes steepled his fingers. "You mentioned a missing chest?"
 
-Lady Blackwood nodded. "We were surprised when Edward purchased the chest just a few months ago and last used it during his visit two months past. He was quite particular about it—he even had the lock replaced just before returning to India. But the night before the East India Company's audit was to begin, it vanished without a trace. He had been insistent on keeping it safe."
+She nodded. "We were surprised when Edward purchased the chest just a few months ago and last used it during his visit two months past. He was quite particular about it—he even had the lock replaced just before returning to India. But the night before the East India Company's audit was to begin, it vanished without a trace. He had been insistent on keeping it safe."
 
-Holmes leaned forward slightly, his attention caught by a detail. "Who had access to the study?"
+Something about that struck me as odd. Why would a man so meticulous about securing his affairs be careless enough to leave something so important at risk?
+
+"Who had access to the study?" Holmes asked.
 
 Lady Blackwood hesitated, as though weighing her words. "Few people. His widow, of course, and my stepson, William. We've also had recent visitors—Colonel Hawthorne, Edward's former commanding officer at Fort Kalyan, and Lieutenant Cartwright, who served under Edward. They arrived shortly after we received news of Edward's death. The Colonel claimed he needed to review some military documents, and Lieutenant Cartwright said he had personal effects of Edward's to return. Both seemed particularly interested in Edward's study. I do not wish to make unfounded accusations, Mr. Holmes, but it is all... troubling."
 
 "Troubling indeed," Holmes murmured.
 
-She exhaled shakily. "I do not know what to believe, Mr. Holmes. Perhaps it is nothing. But, the chest held his will, among other documents. Without it, my daughter-in-law may face challenges in securing Edward’s wishes. And if my fears are correct—if Edward's death was not an accident—then I worry that whoever wanted him silenced has not finished their work."
+She exhaled shakily. "I do not know what to believe, Mr. Holmes. Perhaps it is nothing. But the chest held his will, among other documents. Without it, my daughter-in-law may face challenges in securing Edward’s wishes. And if my fears are correct—if Edward's death was not an accident—then I worry that whoever wanted him silenced has not finished their work."
 
-"The chest held his will, among other documents." She hesitated, her fingers tightening slightly around her reticule. "I— I hardly know what else. Edward never spoke of it, but he was insistent that it remain safe. As though it were his final safeguard."
+Something in her words sent an unpleasant chill through me. I shifted in my seat, trying to suppress it.
 
-Holmes mused, his fingers lightly tapping the armrest as his thoughts unraveled.. "I may need to consult my brother on certain military matters. He has access to information beyond the War Office’s usual channels."
+"The chest held his will, among other documents," she repeated. Her fingers clenched slightly around the reticule. "I— I hardly know what else. Edward never spoke of it, but he was insistent that it remain safe. As though it were his final safeguard."
+
+I glanced at Holmes, expecting him to reassure her, to dismiss her concerns as unwarranted. But his expression had darkened, his gaze distant.
 
 "You seem particularly interested in them," I remarked as Holmes’s mention of his enigmatic brother piqued my curiosity. Mycroft Holmes rarely involved himself in “common” crimes—but when he did, the stakes invariably spanned empires.
 
 Holmes remained by the window, fingers tapping a slow rhythm against the glass. His eyes flicked toward the rain-darkened streets, but his thoughts had already turned elsewhere.
 
-Holmes did not respond immediately. Instead, he walked to the window, staring out at the rain-soaked streets. "A name caught my attention. I recall reading it in connection with a military scandal some months ago. A man of questionable integrity, if memory serves."
+"Holmes?" I prompted.
 
-Holmes tapped his fingers against the armrest, eyes narrowing slightly. "You may expect us at Blackwood Manor tomorrow. The chest will be found," he remarked simply. Lady Blackwood exhaled slowly, her fingers tightening around the reticule in her lap. I watching the exchange, could not help but feel a familiar stirring of anticipation. The investigation had begun.
+He did not respond immediately. Instead, he walked to the window, staring out at the rain-soaked streets. "A name caught my attention. I recall reading it in connection with a military scandal some months ago. A man of questionable integrity, if memory serves."
+
+He tapped his fingers against the armrest, eyes narrowing slightly. "You may expect us at Blackwood Manor tomorrow. The chest will be found," he remarked simply.
+
+Lady Blackwood exhaled slowly, her fingers tightening around the reticule in her lap. The relief on her face was evident, yet I could not shake the feeling that Holmes had already seen beyond the surface of this case.
+
+As the fire crackled in the hearth, I found myself watching him closely. He had not dismissed the missing chest as a simple inheritance matter. Nor had he asked after the will or financial disputes. His focus had been elsewhere—from the moment Lady Blackwood had spoken.
+
+And in that moment, I realised something unsettling.
+
+I had thought this was merely a matter of inheritance. But Holmes’s silence told me otherwise. The chest was more than a relic—it was a message, waiting to be read.
 
 <br><br><br>
 <br><br><br>
@@ -144,7 +162,7 @@ The mist curled around Blackwood Manor as our carriage approached. A solemn butl
 
 "Thank you for coming, Mr. Holmes," she whispered.  
 
-Holmes observed, his fingers tracing the faint scratches on the floor. "Would you show us to the study?"
+Holmes observed. "Would you show us to the study?"
 
 ![Study](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Study.webp)
 
