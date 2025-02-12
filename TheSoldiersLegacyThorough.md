@@ -100,49 +100,67 @@ I had thought this was merely a matter of inheritance. But Holmes’s silence to
 <br><br><br>
 ## Chapter 2: The Lieutenant's Secrets
 
-Holmes's network of informants revealed Lieutenant Cartwright had been deployed near Blackwood Manor—a coincidence too perfect to ignore.
+Holmes’s network of informants had revealed that Lieutenant Cartwright had been deployed near Blackwood Manor—a coincidence too perfect to ignore.
 
-Through mist-shrouded carriage windows, I watched London's gray suburbs give way to the garrison's stark brick buildings. In Cartwright's quarters, a desk, journal, and crisp uniform spoke of military precision. Evening bugle notes drifted through the window.
+Through mist-shrouded carriage windows, I watched as London’s grey suburbs gave way to the garrison’s stark brick buildings. The rhythmic thud of hooves against cobblestones slowed as we neared the barracks, where soldiers in crisp uniforms moved with military precision.
 
 ![Chapter 5 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
 
-Holmes’s gaze flickered over the room, then back to Cartwright. "You’re uneasy, Lieutenant. Not about our presence, but about what we might already know."
+Cartwright’s quarters were as I had expected—orderly, rigid, uncomfortably impersonal. A desk sat against the far wall, a neatly arranged stack of reports beside a locked dispatch box. His uniform was folded with exacting care. The evening bugle call drifted through the open window, a sharp note against the heavy silence inside the room.
 
-Holmes wasted no time. "We are investigating the circumstances of Captain Blackwood's death and the disappearance of his chest. Your insight would be invaluable."
+Holmes’s gaze flickered over the space before settling on Cartwright. He did not sit, but rather stood in the centre of the room, arms clasped behind his back.
 
-Cartwright gestured for us to sit, his posture rigid with military bearing. "I shall assist to the best of my ability, Mr. Holmes, though I'm uncertain what intelligence I can provide."
+"You’re uneasy, Lieutenant," Holmes observed. "Not about our presence, but about what we might already know."
 
-Holmes fixed him with a piercing gaze. "Let's start with Captain Blackwood's final days. What did you observe?"
-Cartwright's fingers drummed once on his desk before he caught himself. "The Captain maintained his usual exactitude in duties, sir, but in those final weeks, his demeanor altered. He appeared... preoccupied with certain matters. Protocol prevented me from inquiring further."
+Cartwright stiffened slightly.
 
-As Cartwright spoke of Edward, I noticed his hands trembling slightly before he clasped them together. "The Captain was an honorable man," he declared, voice thick with what seemed more like guilt than grief. "Perhaps too honorable for what he discovered."
+Holmes wasted no time. "We are investigating the circumstances of Captain Blackwood’s death and the disappearance of his chest. Your insight would be invaluable."
+
+Cartwright gestured for us to sit, his posture rigid. "I shall assist to the best of my ability, Mr Holmes, though I’m uncertain what intelligence I can provide."
+
+Holmes fixed him with a piercing gaze. "Let’s start with Captain Blackwood’s final days. What did you observe?"
+
+Cartwright’s fingers drummed once against the desk before he caught himself, quickly clasping them together. "The Captain maintained his usual exactitude in duties, sir, but in those final weeks, his demeanour altered. He appeared... preoccupied with certain matters. Protocol prevented me from inquiring further."
+
+As he spoke, I noted something odd. His voice was steady, controlled—but his hands betrayed him. The slight tremor in his fingers, the way he kept them pressed together as if willing them still, did not go unnoticed.
+
+"The Captain was an honourable man," Cartwright continued, though his voice carried a strain beneath the words. "Perhaps too honourable for what he discovered."
 
 "And on the night of his death?" Holmes challenged, his gaze sharp as a scalpel.
 
-"Colonel Hawthorne hosted a dinner at the officers' mess. The Captain departed early, citing urgent correspondence. The following morning..." Cartwright's voice remained measured. "We discovered him at the base of the cliffs."
-Holmes's gaze narrowed. "Do you suspect foul play?"
+Cartwright’s posture tightened. "Colonel Hawthorne hosted a dinner at the officers’ mess. The Captain departed early, citing urgent correspondence. The following morning..." A pause. "We discovered him at the base of the cliffs."
 
-Cartwright straightened in his chair, glancing briefly at the dispatch box on his shelf. "The evidence remains inconclusive, sir. However, the Captain had expressed concerns regarding supply record discrepancies. He never named specific officers, but his caution regarding Colonel Hawthorne was... notable."
+Holmes’s eyes narrowed. "Do you suspect foul play?"
 
-Holmes leaned forward. "You visited Blackwood Manor last week, delivering Edward's personal effects. What exactly did you bring?"
+Cartwright’s gaze flicked—just briefly—toward the locked dispatch box on his desk before he replied.
 
-"Per regulations, sir: his compass, correspondence, and personal journal".
+"The evidence remains inconclusive, sir. However, the Captain had expressed concerns regarding supply record discrepancies. He never named specific officers, but his caution regarding Colonel Hawthorne was... notable."
 
-Holmes’s gaze locked onto Cartwright. "And the chest?"
+Holmes leaned forward. "You visited Blackwood Manor last week, delivering Edward’s personal effects. What exactly did you bring?"
 
-A flicker of hesitation. "I knew of it. The Captain kept important documents inside and its been stolen."
+"Per regulations, sir: his compass, correspondence, and personal journal."
 
-Holmes’s gaze didn’t waver. "Do you have any suspicions, Lieutenant?"
+"And the chest?"
 
-Cartwright’s posture stiffened. "It’s not my place to speculate, sir."
+For the first time, Cartwright hesitated.
 
-Holmes’s expression remained unreadable. "Not your place, or not safe to?"
+The pause was minute, but telling.
 
-A flicker of something—doubt, fear—passed over Cartwright’s face, gone as quickly as it came.
+"I knew of it," he admitted. "The Captain kept important documents inside. And now it’s been stolen."
 
-Holmes studied him for a beat, then exhaled. "Very well, Lieutenant. We’ll speak again."
+Holmes’s expression did not change. "Do you have any suspicions, Lieutenant?"
 
-As we stepped out, I exhaled. "He’s hiding something."
+Cartwright’s jaw tightened. "It’s not my place to speculate, sir."
+
+Holmes’s voice was quiet. "Not your place, or not safe to?"
+
+A flicker of something—doubt, fear—passed across Cartwright’s face. Gone as quickly as it came.
+
+Holmes studied him a moment longer, then exhaled. "Very well, Lieutenant. We’ll speak again."
+
+As we stepped into the corridor, I glanced back. Cartwright remained seated, his gaze locked on the locked dispatch box.
+
+The moment we were out of earshot, I turned to Holmes. "He’s hiding something."
 
 Holmes allowed himself the faintest smile. "And next time, Watson, he won’t have a choice."
 
@@ -150,77 +168,115 @@ Holmes allowed himself the faintest smile. "And next time, Watson, he won’t ha
 <br><br><br>
 ## Chapter 3: The Vanishing Chest
 
+The mist curled thick around Blackwood Manor as our carriage approached, its great stone facade looming in the dimming afternoon light. The house exuded the weight of centuries—thick oak beams, uneven corridors, walls that seemed slightly misaligned. I recalled reading that many Elizabethan-era manors contained hidden recesses, remnants of times when sheltering fugitives or priests had been a necessity.
+
 ![Chapter 2 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2A.webp)
 
-The manor exuded the weight of centuries—thick oak beams, uneven corridors, walls that seemed slightly misaligned. I recalled reading that many Elizabethan-era manors contained hidden recesses, remnants of times when sheltering fugitives or priests was a necessity.
+Holmes trailed his fingers along the dark wood panelling as we were led through the halls, pausing briefly.
 
-Holmes trailed his fingers along the dark wood paneling, pausing briefly. “A house of this age, Watson, often harbors more than its occupants know.”
+"A house of this age, Watson, often harbours more than its occupants know."
+
+A solemn butler ushered us inside, where the dim glow of the drawing-room fire cast flickering shadows on Lady Blackwood’s mourning dress.
+
+"Thank you for coming, Mr Holmes," she whispered.
 
 ![BlackwoodManorPlan](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/BlackwoodManorPlan.webp)
 
-The mist curled around Blackwood Manor as our carriage approached. A solemn butler led us inside, where the dim glow of the drawing-room fire cast flickering shadows on Lady Blackwood’s mourning dress.  
+Holmes observed, his sharp gaze sweeping the room before his fingers traced faint scratches on the floor near the hearth. He crouched.
 
-"Thank you for coming, Mr. Holmes," she whispered.  
+"Would you show us to the study?"
 
-Holmes observed. "Would you show us to the study?"
+#### The Study
+The air in the study was heavy with dust and disuse. I felt an almost palpable stillness, as if the room had been left untouched since the chest disappeared. Holmes moved with quiet precision, his gloved fingers brushing over the supply ledger on the desk.
+
+He flipped through the pages, his brow furrowing. "Curious. These numbers don’t align with standard military provisions. Your son was tracking something far more significant, Lady Blackwood."
+
+Lady Blackwood stiffened. "Significant? What do you mean?"
+
+Holmes did not answer immediately. Instead, he crouched near the floor, fingers lightly tracing scratches where the missing chest had once stood.
 
 ![Study](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Study.webp)
 
-The air in the study was heavy with dust and disuse. Holmes lifted the supply ledger, its pages dog-eared from frequent checking. "Curious. These numbers don't align with standard military provisions. Your son was tracking something far more significant, Lady Blackwood."
-
-Holmes moved with quiet precision, his sharp gaze sweeping the room before he crouched near the floor, fingers tracing faint scratches where the missing chest had once stood.
-
 "Observe, Watson."
 
-I leaned in. The marks were subtle but deliberate.
+I leaned in. The marks were subtle, but deliberate.
 
-"These scratches—" I began, before stopping myself. "They aren’t scuff marks from careless movement. The chest wasn’t stolen. It was moved."
+"These scratches—" I began, before stopping myself. Something about them felt wrong.
 
-"Exactly." Holmes’s gaze flicked to the doorway. "And with care. Notice how the scratches stop at the threshold. Beyond this room, there is no further disturbance."
+"They aren’t scuff marks from careless movement. The chest wasn’t stolen. It was moved."
+
+Holmes nodded approvingly. "Precisely. And look—" He gestured toward the doorway.
+
+The marks stopped abruptly at the threshold.
+
+"Beyond this room, there is no further disturbance."
 
 Lady Blackwood’s breath caught. "Then it may still be in the house?"
 
-Holmes ran a thoughtful hand along the floor. "Not just possible—likely. If the chest had been taken out of the house, we would expect a continued trail of scuff marks, at the very least. But there are none."
+Holmes exhaled. "Not just possible—likely. If the chest had been taken out of the manor, we would expect a continued trail of scuff marks, at the very least. But there are none."
 
-I frowned. "Then whoever moved it lifted it beyond this point?"
+I frowned. "Then whoever moved it must have lifted it beyond this point?"
 
-"Precisely, Watson. It could have left uneven drag marks or missteps. The absence of such indicates planning, precision... and intent."
+"Exactly. A casual thief would have dragged it—leaving an uneven trail. The absence of such marks indicates planning, precision... and intent."
 
-Holmes crouched near the bookshelf, fingertips brushing over the wood. He frowned, then pressed lightly against one edge. A faint shift—almost imperceptible—responded beneath his touch.
+Holmes’s gaze swept the study, his keen eyes flickering to the large bookcase against the far wall. His fingers traced along the wood before he pressed lightly against one edge.
 
-“Interesting,” he murmured. He adjusted his grip, but then, as if deciding against further investigation, he straightened. “Not yet, Watson.”
+A faint shift—almost imperceptible—responded beneath his touch.
 
-Holmes straightened, his gaze sharpening. His sharp eyes roved the room before he turned suddenly. "Lady Blackwood, does the house have a library?"
+"Interesting," he murmured. He adjusted his grip, then, as if deciding against further investigation, he straightened. "Not yet, Watson."
+
+I raised an eyebrow. "You suspect something?"
+
+"I suspect many things, but I require proof."
+
+He turned to Lady Blackwood. "Does the house have a library?"
 
 "Yes, through the adjoining door."
 
-Holmes exhaled. "Then that is where we must look next."
+Holmes exhaled, dusting off his gloves. "Then that is where we must look next."
 
-![Chapter 2 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2B.webp)  
+#### The Library
+The library was dim, lined with towering bookshelves that smelled of aged parchment and oak. The room was vast, yet strangely oppressive, the sheer volume of books pressing in from all sides. Holmes entered first, his fingers brushing over the spines as he moved towards the far wall.
 
-The library was dim, lined with towering bookshelves that smelled of aged parchment and oak. Holmes entered first, his fingers brushing over the spines of books as he moved toward the far wall. Then, abruptly, he halted.
+Then, abruptly, he halted.
 
 "Curious."
 
-I followed his gaze. "The dust—it’s been disturbed. As though something large was moved and replaced."
+I followed his gaze.
 
-"Not just moved—rotated," Holmes corrected, gesturing toward faint diagonal scratches on the wooden floor.
+"The dust—it’s been disturbed," I noted. "As though something large was moved and replaced."
 
-I crouched beside him. "Then the chest was placed here deliberately?"
+![Chapter 2 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2B.webp)
 
-"Yes, and more importantly—" Holmes ran a gloved hand lightly over the floorboards. "The disturbance is recent, but look here—the dust has resettled unevenly. This tells us something vital, Watson."
+"Not just moved—rotated," Holmes corrected, gesturing towards faint diagonal scratches on the wooden floor.
 
-I furrowed my brow. "That it was here, but not for long?"
+I crouched beside him, running my fingers along the marks.
 
-"Exactly." Holmes stood, brushing off his hands. "This was not the final hiding place. It was left here temporarily, then moved again."
+"Then the chest was placed here deliberately?"
+
+"Yes, and more importantly—" Holmes ran a gloved hand lightly over the floorboards. His eyes narrowed slightly.
+
+"The disturbance is recent, but look here—the dust has resettled unevenly."
+
+I furrowed my brow. "That means it was here, but not for long?"
+
+"Exactly." Holmes straightened, brushing off his hands. "This was not the final hiding place. It was left here temporarily, then moved again."
 
 Lady Blackwood’s voice wavered. "This room hasn’t been touched in years."
 
-Holmes glanced around. "Until recently."
+Holmes’s gaze flicked up sharply. "Until recently."
 
-I exhaled. "Then someone inside this house is hiding it."
+A cold weight settled in my stomach. This was no common burglary. Someone within this house had taken the chest.
 
-Holmes’s gaze darkened. "And they did not act alone."
+Someone who knew exactly where to put it—if only for a short while.
+
+Holmes turned, his expression darkening. "And they did not act alone."
+
+I looked again at the disturbed dust, at the deliberate concealment of the chest’s absence.
+
+The implications were clear.
+
+"The chest had not vanished. It had been hidden." I exhaled. "And whoever had hidden it was waiting—for what, I did not yet know."
 
 <br><br><br>
 <br><br><br>
