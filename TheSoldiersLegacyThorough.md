@@ -185,8 +185,6 @@ The moment we were out of earshot, I turned to Holmes. "He's hiding something."
 
 Holmes allowed himself the faintest smile. "And next time, Watson, he won't have a choice."
 
-<br><br><br>
-<br><br><br>
 ## Chapter 3: Arrival at Blackwood Manor
 
 ![Chapter 2 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2A.webp)
@@ -203,9 +201,15 @@ Holmes gave a small nod, his sharp gaze sweeping the room. His fingers traced fa
 
 "Would you show us to the study?" he asked.
 
+<br><br><br>
+<br><br><br>
+## Chapter 4: The Vanishing Chest
+
+Lady Blackwood led us down a narrow corridor. 
+
 ![Study](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Study.webp)
 
-Lady Blackwood led us down a narrow corridor. The air in the study was heavy with dust and disuse. I felt an almost palpable stillness, as if the room had been left untouched since the chest disappeared. Holmes moved with quiet precision, his gloved fingers brushing over the supply ledger on the desk.
+The air in the study was heavy with dust and disuse. I felt an almost palpable stillness, as if the room had been left untouched since the chest disappeared. Holmes moved with quiet precision, his gloved fingers brushing over the supply ledger on the desk.
 
 He flipped through the pages, his brow furrowing. "Curious. These numbers don’t align with standard military provisions. Your son was tracking something far more significant, Lady Blackwood."
 
@@ -293,9 +297,6 @@ The implications were clear.
 
 "The chest had not vanished. It had been hidden." I exhaled. "And whoever had hidden it was waiting—for what, I did not yet know."
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
 ## Chapter 5: The Brother's Resentment
 
 The corridors of Blackwood Manor felt colder as Holmes and I made our way towards William Blackwood's study. Though the fire in the hallway sconces flickered steadily, a peculiar chill clung to the air—whether from the damp stone walls or the lingering unease in this house, I could not say.
@@ -394,9 +395,6 @@ Holmes did not answer immediately. Instead, he glanced back at the door to Willi
 
 "I think William Blackwood is a man who expects to be doubted, Watson. And that is precisely why he does not lie outright. He lets truth and falsehood blur—until even the most rational man begins to doubt what he knows."
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
 <br><br><br>
 <br><br><br>
 ## Chapter 6: The Widow's Confession
@@ -528,11 +526,13 @@ William tapped his fingers against the desk. "Hargreave, my lawyer says we need 
 
 I stepped back into the shadows as William strode past, his expression a mix of frustration and self-satisfaction. The identity of his confidant remained hidden in the library's gloom. Holmes said nothing but met my gaze. Whatever was in that chest, it was more than a legal document—it was power.
 
+<br><br><br>
+<br><br><br>
 ## Chapter 8: The Stable Hand's Secret
 
-![Chapter 6 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter6A.webp)
-
 Rain drummed steadily against the stable roof as we found Hanger. Inside, the warmth of hay and leather filled the air as he worked, each stroke of the brush against the horse’s flank measured and precise.
+
+![Chapter 6 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter6A.webp)
 
 Holmes studied him. "Your hands tell an interesting story, Mr Hanger."
 
@@ -611,8 +611,6 @@ A chill ran down my spine. William didn’t just want the inheritance—he wante
 
 William had not overlooked Hanger—he had erased him. Because the moment we questioned the stableman, the truth would no longer be his to control.
 
-<br><br><br>
-<br><br><br>
 ## Chapter 9: Shadows of the Empire
 
 For days, I had noticed unfamiliar figures in the village - men whose bearing and attire spoke of government service rather than local residence. Their presence confirmed Holmes's earlier hint about matters extending beyond military jurisdiction.
@@ -657,7 +655,6 @@ As I watched Holmes examine the telegrams, his expression darkening, I couldn't 
 
 The fog thickened as we departed, swallowing the street lamps. Ahead lay Cartwright's secrets, then our separate paths into what felt increasingly like a carefully laid snare.
 
-<br><br><br>
 ## Chapter 10: The Innkeeper's Warning
 
 The village inn was quiet when we arrived. A low fire burned in the hearth, casting flickering shadows along the wooden beams. Lieutenant Cartwright sat in a shadowed corner, hunched over a half-empty glass. His uniform was crisp, but the exhaustion in his posture betrayed his unease.
@@ -746,6 +743,7 @@ Holmes smirked. "Oh, he will. The question is—will he help himself?"
 
 The rain had stopped, but the weight of the coming storm still hung in the air.
 
+<br><br><br>
 ## Chapter 11: Mycroft's Intervention
 
 The rain had slowed to a fine drizzle by the time we arrived at Baker Street. Holmes had barely removed his coat when Mrs. Hudson intercepted us with a knowing glance.
@@ -824,6 +822,8 @@ I straightened, my pulse quickening. "A false hiding place?"
 
 Holmes’s fingers drummed once against the wood. "That, Watson, is the question I intend to answer—before someone ensures we never do."
 
+<br><br><br>
+<br><br><br>
 ## Chapter 13: The Colonel's Gambit
 
 The stable quarters were modest, with a single cot pushed against the wall and an old wooden trunk at the foot of it. Hanger sat at a small desk, polishing a brass buckle, but the tension in his shoulders betrayed him.
@@ -927,9 +927,9 @@ Holmes, I suspected, would prove otherwise.
 
 ## Chapter 15: The Fall of a Traitor
 
-![Chapter 10 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10A.webp)
-
 "Each person in this room," Holmes began, pacing deliberately, "had reason to seek Edward's chest. William believed it held inheritance documents that could challenge Edward's claim. Lieutenant Cartwright hoped to recover compromising letters. Lady Blackwood sought proof of her son's suspicions. And Katherine – she wanted justice for her husband."
+
+![Chapter 10 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10A.webp)
 
 Holmes paused, studying each face. "But only one person knew its true contents. Only one understood why Edward Blackwood had to die."
 
@@ -1009,6 +1009,9 @@ Lady Blackwood held her head high. "You underestimated my son, Colonel. He was m
  
 The man who had orchestrated so much devastation was led away in handcuffs, his bravado replaced by a grim, silent resignation.
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 16: Echoes of Honour
 
 Holmes’s gaze locked onto William. “Tell me, do you believe Edward died a fool? That he deserved nothing from you?”
