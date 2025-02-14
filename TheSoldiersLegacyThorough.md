@@ -127,7 +127,7 @@ Through mist-shrouded carriage windows, I watched as London's grey suburbs gave 
 
 ![Chapter 5 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
 
-Cartwright's quarters were as I had expected—orderly, rigid, uncomfortably impersonal. A desk sat against the far wall, a neatly arranged stack of reports beside a locked dispatch box. His uniform was folded with exacting care. The evening bugle call drifted through the open window, a sharp note against the heavy silence inside the room.
+The room was unnervingly tidy.  Reports were stacked precisely on the desk, a locked dispatch box beside them. Cartwright's uniform lay folded with military precision. The sharp call of the evening bugle pierced the silence.
 
 Holmes's gaze flickered over the space before settling on Cartwright. He did not sit, but rather stood in the centre of the room, arms clasped behind his back.
 
@@ -189,7 +189,7 @@ Holmes allowed himself the faintest smile. "And next time, Watson, he won't have
 
 ![Chapter 2 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2A.webp)
 
-The mist curled thick around Blackwood Manor as our carriage approached, its great stone façade looming in the dimming afternoon light. The house exuded the weight of centuries—thick oak beams, uneven corridors, walls that seemed slightly misaligned. Many Elizabethan-era manors contained hidden recesses, remnants of times when sheltering fugitives or priests had been a necessity.
+Blackwood Manor loomed through the thick mist, its stone façade heavy with the weight of centuries. Uneven corridors and slightly misaligned walls hinted at the hidden recesses common in Elizabethan manors.
 
 Holmes trailed his fingers along the dark wood paneling as we were led inside. The solemn butler moved silently ahead, pausing at the threshold of the dimly lit drawing room, where the fire cast flickering shadows on Lady Blackwood’s mourning dress.
 
@@ -239,15 +239,11 @@ I frowned. "Then whoever moved it must have lifted it beyond this point?"
 
 "Exactly. A casual thief would have dragged it—leaving an uneven trail. The absence of such marks indicates planning, precision... and intent."
 
-Holmes’s gaze swept the study, his keen eyes flickering to the large bookcase against the far wall. His fingers traced along the wood before he pressed lightly against one edge.
+Holmes ran his fingers along the dark wood paneling… "Curious," he murmured. "There's a… subtle unevenness here."
 
-A faint shift—almost imperceptible—responded beneath his touch.
+"Unevenness?" I asked.
 
-"Interesting," he murmured. He adjusted his grip, then, as if deciding against further investigation, he straightened. "Not yet, Watson."
-
-I raised an eyebrow. "You suspect something?"
-
-"I suspect many things, but I require proof."
+Holmes shrugged slightly.  "A possibility.  But I need to confirm something first.  Come, Watson, I require a specific volume from the library.  A treatise on Elizabethan architecture, if I recall correctly."
 
 He turned to Lady Blackwood. "Does the house have a library?"
 
@@ -257,7 +253,7 @@ Holmes exhaled, dusting off his gloves. "Then that is where we must look next."
 
 ![Chapter 2 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2B.webp)
 
-The library was dim, lined with towering bookshelves that smelled of aged parchment and oak. The room was vast, yet strangely oppressive, the sheer volume of books pressing in from all sides. Holmes entered first, his fingers brushing over the spines as he moved toward the far wall.
+The library smelled of old paper and oak. Towering shelves lined the walls, their shadows heavy in the dim light.  Holmes entered first, his fingers brushing over the spines as he moved toward the far wall.
 
 Then, abruptly, he halted.
 
@@ -329,9 +325,7 @@ A flash of irritation crossed William's face, but he masked it quickly.
 
 I caught myself nodding slightly.
 
-William's tone was rational, almost persuasive. There was a quiet certainty to the way he spoke—not wild anger, but careful calculation.
-
-"Katherine may think she's secured her future," he continued, swirling the brandy in his glass, "but she'll soon discover the estate obeys more than a single will. If she continues to meddle, I'll see to it that her good fortune is short-lived."
+William swirled the brandy in his glass, a calculating look in his eyes. "Katherine's future isn't as secure as she thinks. The estate… it has other claimants." He paused, a subtle threat in his voice. "And I won't be denied."
 
 Something in his phrasing made me uneasy.
 
@@ -344,59 +338,59 @@ Holmes studied him carefully.
 "Curious," he murmured.
 
 "What is?" William asked sharply.
-
-"You speak of your brother's death as though you know more than the official reports suggest. And yet, you did not attend the funeral, nor did you inquire about the investigation."
-
-William's scowl deepened. "You think I had something to do with it?"
-
-Holmes merely tilted his head slightly, allowing the silence to linger.
-
-William exhaled sharply. He reached for his pipe but seemed to think better of it. Then, almost as an afterthought, he muttered,
-
-"Cartwright isn't the only one with blood on his hands. Ask about... Fort Kalyan's 'special shipments'."
-
-I stiffened.
-
-Holmes's expression remained neutral, but I could see the sharp flicker of interest in his eyes.
-
-"Special shipments?" I echoed.
-
-But William did not elaborate. He merely waved a hand dismissively. "Ask around. See what you find."
-
-The casual way he said it was too convenient. A calculated slip—as though he wanted us to latch onto something specific.
-
-Holmes let the silence stretch.
-
-Then, suddenly, William's expression shifted. His sneer faded just slightly, and in its place, something almost imperceptible. Regret? No—something deeper.
-
-"He wasn't always against me," he muttered. "When we were boys, he taught me to fix a pocket watch—patient, steady hands. Gave it to me on my fifteenth birthday. Said I'd learned well enough to keep it running myself."
-
-His jaw tightened.
-
-"And yet, in the end, I was never meant to hold anything that mattered."
-
-For a moment, the bitterness wavered. Then, just as quickly, it returned.
-
-Holmes said nothing, only watching.
-
-As we stepped into the hallway, the firelight flickering across the polished floor, I exhaled, feeling the weight of the conversation settle over me.
-
-"I almost believed him," I admitted.
-
-Holmes's voice was quiet, but firm. "That was his intent, Watson."
-
-I frowned. "Do you think he's lying?"
-
-"Lying outright? No. But truth, when carefully placed, can be more dangerous than falsehood. He wants you to suspect Katherine, to believe she had the most to gain."
-
-"And you don't?"
-
-Holmes did not answer immediately. Instead, he glanced back at the door to William's study.
-
-"I think William Blackwood is a man who expects to be doubted, Watson. And that is precisely why he does not lie outright. He lets truth and falsehood blur—until even the most rational man begins to doubt what he knows."
-
-<br><br><br>
-<br><br><br>
+ 
+ "You speak of your brother's death as though you know more than the official reports suggest. And yet, you did not attend the funeral, nor did you inquire about the investigation."
+ 
+ William's scowl deepened. "You think I had something to do with it?"
+ 
+ Holmes merely tilted his head slightly, allowing the silence to linger.
+ 
+ William exhaled sharply. He reached for his pipe but seemed to think better of it. Then, almost as an afterthought, he muttered,
+ 
+ "Cartwright isn't the only one with blood on his hands. Ask about... Fort Kalyan's 'special shipments'."
+ 
+ I stiffened.
+ 
+ Holmes's expression remained neutral, but I could see the sharp flicker of interest in his eyes.
+ 
+ "Special shipments?" I echoed.
+ 
+ But William did not elaborate. He merely waved a hand dismissively. "Ask around. See what you find."
+ 
+ The casual way he said it was too convenient. A calculated slip—as though he wanted us to latch onto something specific.
+ 
+ Holmes let the silence stretch.
+ 
+ Then, suddenly, William's expression shifted. His sneer faded just slightly, and in its place, something almost imperceptible. Regret? No—something deeper.
+ 
+ "He wasn't always against me," he muttered. "When we were boys, he taught me to fix a pocket watch—patient, steady hands. Gave it to me on my fifteenth birthday. Said I'd learned well enough to keep it running myself."
+ 
+ His jaw tightened.
+ 
+ "And yet, in the end, I was never meant to hold anything that mattered."
+ 
+ For a moment, the bitterness wavered. Then, just as quickly, it returned.
+ 
+ Holmes said nothing, only watching.
+ 
+ As we stepped into the hallway, the firelight flickering across the polished floor, I exhaled, feeling the weight of the conversation settle over me.
+ 
+ "I almost believed him," I admitted.
+ 
+ Holmes's voice was quiet, but firm. "That was his intent, Watson."
+ 
+ I frowned. "Do you think he's lying?"
+ 
+ "Lying outright? No. But truth, when carefully placed, can be more dangerous than falsehood. He wants you to suspect Katherine, to believe she had the most to gain."
+ 
+ "And you don't?"
+ 
+ Holmes did not answer immediately. Instead, he glanced back at the door to William's study.
+ 
+ "I think William Blackwood is a man who expects to be doubted, Watson. And that is precisely why he does not lie outright. He lets truth and falsehood blur—until even the most rational man begins to doubt what he knows."
+ 
+ <br><br><br>
+ <br><br><br>
 ## Chapter 6: The Widow's Confession
 
 Holmes sat in silence, his keen gaze sweeping the landscape, while my thoughts turned to Katherine Blackwood—the widow of a man whose death seemed far from ordinary.
@@ -534,13 +528,13 @@ Rain drummed steadily against the stable roof as we found Hanger. Inside, the wa
 
 ![Chapter 6 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter6A.webp)
 
+I noticed the usual stable smells.  But Holmes took a slow, deliberate breath, his nostrils flaring slightly, and then his eyes narrowed. He watched Hanger with an unusual intensity, his gaze fixed on a small, worn leather pouch tucked into Hanger's belt.
+
+"Fine horses you have here" Holmes remarked, approaching Hanger. "We're here to inquire about Mr. Blackwood's affairs."
+
 Holmes studied him. "Your hands tell an interesting story, Mr Hanger."
 
 Hanger barely looked up. "I tend to my work, Mr Holmes."
-
-Holmes took a slow step forward. "That brass polish—it matches exactly what I found in Captain Blackwood’s study."
-
-Hanger’s grip on the bridle faltered, his face tightening. "I polish the stable fixtures."
 
 Holmes’s tone remained light but unyielding. "And yet William speaks of you with particular suspicion. He implies you might be involved in certain… irregularities."
 
@@ -558,7 +552,6 @@ A flicker of something—fear, regret—crossed Hanger’s face. His knuckles wh
 
 "A man does what he must, Mr Holmes."
 
-Piecing It Together
 As we walked back through the dusk, the rain had eased, leaving behind a damp chill.
 
 "You saw something in there," I said.
@@ -786,31 +779,15 @@ As we left 221B, Mycroft’s words echoed in my mind. This was no longer just a 
 
 The hour was late when we returned to Blackwood Manor, the mist curling around the estate like a living thing. Our footsteps echoed against the stone corridor as Holmes led the way to the east wing's library.
 
-Holmes ran his fingers lightly along the wooden paneling, pausing now and then. He did not immediately explain, which meant he was leading me toward an answer rather than providing it outright.
+Holmes's gaze drifted across the bookcase. I remembered his comment about the unevenness in the study paneling earlier that evening, and wondered if there was a connection.  He paused, his eyes fixed on a small, almost imperceptible crack in the wall near the edge of the bookcase. He leaned closer, examining it carefully.
 
-"What do you see, Watson?" he asked suddenly.
+"Interesting," he murmured, tracing the crack with his fingertip. "It aligns perfectly with the edge of this book."
 
-I frowned, glancing around. "Dust, old wood, the usual relics of a house its age."
+He reached for the volume, a slim, worn history of Elizabethan England.  As he pulled it gently from the shelf, I noticed a slight resistance, a subtle click.  He turned the book over in his hands, examining the spine.
 
-Holmes inclined his head. "Precisely. And yet—" He gestured toward the floorboards, where the dust had been subtly disturbed. "Someone has been here recently."
+"And here," he said quietly, "is the key."  He pointed to a small, almost invisible indentation on the book's cover, perfectly positioned to depress a hidden mechanism.
 
-I crouched to inspect the area. The fine layer of dust showed something large had once sat there. But the disturbance was uneven—more like something had been dragged away rather than simply lifted.
-
-![ChapterThePriestHole1](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/ChapterThePriestHole1.webp)
-
-Holmes observed me with quiet amusement. "You are improving, Watson. This was the chest’s last known location—but it was not its final one."
-
-I exhaled sharply. "Then where?"
-
-Holmes pressed lightly against an unassuming wooden panel. A soft click followed, and the wood creaked open, revealing a narrow passage.
-
-I peered inside. Expecting to see the chest waiting for us, I stepped forward—but the space was empty.
-
-Holmes ran his fingers along the wooden paneling of the study earlier that evening, pausing just long enough for me to notice. "Curious," he murmured, tracing a faint gap between the boards. That night, in the library, his suspicions were confirmed. He pressed against an unassuming wooden panel, and with a soft click, the passage revealed itself—but the space was empty. "It was here." Holmes muttered. "And someone knew to move it."
-
-A flicker of unease stirred in my chest. "Holmes—"
-
-But he was already examining the edges of the alcove, his expression unreadable. He traced his gloved fingers along the wood, his movements slow, deliberate. Finally, he exhaled.
+He pressed the book gently against the wall. A soft click echoed from behind the bookcase, and a section of the wood creaked open, evealing a narrow, dark passage, barely wide enough for a man to squeeze through.  The priest hole smelled of damp earth and something else... old and musty. Holmes squeezed into the cramped space. I saw his nose twitch; he was sniffing the air. He moved further in, his expression thoughtful. His gaze settled on a worn leather pouch in the corner. He picked it up, examined it, and his face hardened. "Empty," he muttered grimly.
 
 "This was meant to deceive us, Watson."
 
@@ -836,17 +813,17 @@ Hanger's hands stilled. Slowly, he set the buckle aside. "I don't know what you 
 
 Holmes’s gaze never wavered. "The priest hole. It's empty."
 
-The color drained slightly from Hanger's face.
+The colour drained slightly from Hanger's face.
+
+Holmes raised an eyebrow. "Cloves. The same scent I found… in the priest hole, along with a pouch identical to yours. The cloves have undone you, Hanger. You moved the chest."
 
 Holmes continued, his voice quiet, almost conversational. "Colonel Hawthorne’s career has been marked by curious coincidences. Supply routes compromised. Intelligence leaked. And now, a dedicated officer dead after discovering discrepancies in military records. Edward suspected something, didn’t he?"
 
-Hanger’s knuckles whitened around the cloth in his hands. "You don’t understand—"
+Hanger's knuckles whitened on the cloth. "You don't understand—"
 
-Holmes stepped closer. "I understand loyalty, Mr. Hanger. But to whom is it truly owed? To a man who exploited your hardship? Or to Edward, who trusted you? To Katherine, who now stands to lose everything?"
+Holmes stepped closer. "Loyalty, Mr. Hanger.  But to whom? Hawthorne, who exploited your desperation? Or Edward, who trusted you?  Katherine, who now risks losing everything?"
 
-Hanger swallowed hard, unable to meet Holmes's gaze. "I knew it was wrong, but my sister... she was all I had left. I couldn't watch her suffer, not when Hawthorne offered a way out. William denied me help when she was ill. But Hawthorne saw an opportunity in my resentment. Used my knowledge of the house to hide evidence that could expose him."
-
-His fingers curled around a worn letter he had pulled from his pocket. "She writes me every week. Says the medicine’s helping. If Hawthorne cuts her off..." His voice faltered. "He knows exactly how to keep me in line."
+Hanger swallowed, avoiding Holmes's gaze. "It was for my sister. Hawthorne… he offered help. William turned us away when she was sick. Hawthorne… he used my resentment."  He pulled out a worn letter, his fingers twisting it. "She writes every week… the medicine… If Hawthorne stops…" He couldn't finish the sentence.
 
 Holmes produced the small brass key Lady Blackwood had entrusted to me. "Edward's records could bring justice. Or they could disappear forever, leaving his killer free."
 
@@ -864,17 +841,15 @@ Holmes’s voice cut through the room like steel. "Why?"
 
 Hanger swallowed hard. "Hawthorne’s men were watching me too closely. If they got to it first, they’d have destroyed everything inside." His voice wavered slightly. "I thought I was doing the right thing."
 
-Hanger hesitated before answering. "The west wing," he finally admitted. "In the old wine cellar beneath the servants' quarters."
+"Wait, Holmes," I interjected, pulling out my notebook.  Flipping through my notes from our earlier conversation with Lady Blackwood, I recalled a detail that had previously slipped my mind. "Lady Blackwood mentioned a hidden passage, connecting the study to the wine cellar.  Edward, she said, used it to move 'sensitive items'."
 
-"Move it? How?" I questioned, my curiosity piqued.
+Holmes's eyes narrowed thoughtfully. "Sensitive items… and a secure, hidden location. The wine cellar" He paused, his gaze fixed on Hanger.
 
-"The night it vanished, I waited until the household was asleep," Hanger explained, his eyes darting toward the door as if ensuring we were alone. "The servants' quarters were empty—most of the staff had gone to the village fair. I knew it was my only chance."
+Hanger hesitated, his face a mask of conflicting emotions. Finally, he gave a slow, reluctant nod. "Yes," he admitted, his voice barely above a whisper. "But I had to. Hawthorne's men, they were becoming too conspicuous near the priest hole. I needed to conceal it somewhere more secure."
 
-"But how did you manage it alone?" I pressed. "That chest is no small thing."
+"More secure for whom, Hanger?" Holmes pressed, his tone sharp. "For you? Or for Hawthorne?"
 
-"There’s a hidden passage, sir," Hanger responded, his voice dropping to a near whisper. "Runs from the study to the wine cellar. Edward showed it to me years ago, when he needed help moving some... sensitive items. I used it that night. Took me near an hour, but I got the chest down to the cellar without a soul noticing."
-
-Holmes exhaled slowly, his mind already forming the next move. "A bold decision, Mr. Hanger. And a dangerous one."
+Hanger's shoulders slumped, his resolve crumbling. "I… I was at a loss," he confessed, his voice laced with desperation.
 
 As we walked back toward the manor, Holmes’s hands were clasped behind his back, his pace slower than usual. The weight of the case—of Edward’s death, the corruption, and the final location of the chest—seemed to press upon him.
 
@@ -997,7 +972,7 @@ Holmes turned. "Inspector?"
 
 "Colonel Reginald Hawthorne," Lestrade declared, "you are under arrest for conspiracy and treason."
 
-The man who had controlled secrets sat silent as the cuffs clicked shut.
+Lestrade stepped forward, his hand resting on the butt of his pistol.  "Colonel Hawthorne," he announced, his voice ringing with authority, "you are under arrest for conspiracy and treason."  Hawthorne's face paled.  He glanced around the room, as if searching for an escape. The click of the handcuffs echoed through the silent room and the man who had controlled secrets sat silent.
 
 Lestrade adjusted his gloves, glancing at Holmes. "Your telegram was timely. We had men in place before dawn."
 
