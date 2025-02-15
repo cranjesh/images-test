@@ -13,7 +13,7 @@
 2. [The Lieutenant's Secrets](#chapter-2-the-lieutenants-secrets) 
 3. [Arrival at Blackwood Manor](#chapter-3-arrival-at-blackwood-manor)
 4. [The Vanishing Chest](#chapter-4-the-vanishing-chest)
-5. [The Brother's Resentment](#chapter-5-The-brothers-resentment)
+5. [The Brother's Resentment](#chapter-5-the-brothers-resentment)
 6. [The Widow's Confession](#chapter-6-the-widows-confession)
 7. [Whispers in the Manor](#chapter-7-whispers-in-the-manor)
 8. [The Stable Hand's Secret](#chapter-8-the-stable-hands-secret)
@@ -25,16 +25,18 @@
 14. [The Final Assembly](#chapter-14-the-final-assembly)
 15. [The Fall of a Traitor](#chapter-15-the-fall-of-a-traitor)
 16. [Echoes of Honour](#chapter-16-echoes-of-honour)
-17. [The Soldier's Legacy](#chapter-16-the-soldiers-legacy)
+17. [The Soldier's Legacy](#chapter-17-the-soldiers-legacy)
 
 <br><br>
-## Chapter 1: Lady Blackwood's Visit
+## Chapter 1: The Mother's Plea
 
 Rain beat steadily against the windows of 221B Baker Street as I completed the notes from our previous case. Holmes leant forward in his armchair, scrutinising a telegram with the intensity of a student grappling with a difficult equation. His pipe smoke curled toward the ceiling in rhythmic spirals, his mind clearly at work on some unseen thread.
 
 "A matter of inheritance," he murmured, almost to himself. "And yet the client fears something darker."
 
-I set down my pen, suppressing a sigh. Inheritance disputes were common enough—bitter quarrels over wills, squabbles among estranged relatives. Hardly the sort of affair that would intrigue Holmes. Before I could voice my skepticism, a sharp knock at the door interrupted our quiet.
+I set down my pen, suppressing a sigh. Inheritance disputes were common enough—bitter quarrels over wills, squabbles among estranged relatives. 
+
+Hardly the sort of affair that would intrigue Holmes. Before I could voice my skepticism, a sharp knock at the door interrupted our quiet.
 
 Mrs. Hudson appeared moments later, announcing, "Lady Blackwood to see you, Mr. Holmes."
 
@@ -116,9 +118,6 @@ I had thought this was merely a matter of inheritance. But Holmes's silence told
 
 The chest was more than a relic—it was a message, waiting to be read.
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
 ## Chapter 2: The Lieutenant's Secrets
 
 Holmes’s network of informants had revealed that Lieutenant Cartwright was stationed near Blackwood Manor—a coincidence too pointed to ignore.
@@ -197,11 +196,15 @@ Holmes gave a small nod, his sharp gaze sweeping the room, registering every det
 <br><br><br>
 ## Chapter 4: The Vanishing Chest
 
-Lady Blackwood led us down a narrow corridor, the air growing heavy with the scent of dust and disuse. A palpable stillness hung over the study, as if it had been frozen in time since the chest vanished. Holmes moved with quiet precision, his gloved fingers brushing lightly over the supply ledger on the desk.
+Lady Blackwood led us down a narrow corridor, the air growing heavy with the scent of dust and disuse. A palpable stillness hung over the study, as if it had been frozen in time since the chest vanished. 
+
+Holmes moved with quiet precision, his gloved fingers brushing lightly over the supply ledger on the desk.
 
 ![Study](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Study.webp)
 
-"This study was my son's favourite room," Lady Blackwood explained, her voice a hushed whisper. "He always felt a connection to its history. This manor, you know, has its secrets. The wine cellar, well, it's rather extensive. Edward used to joke that it could hide a small army. Every room, every closet, even the extensive wine cellar, has been examined. We found nothing."
+"This study was my son's favourite room," Lady Blackwood explained, her voice a hushed whisper. 
+
+She continued, "He always felt a connection to its history. This manor, you know, has its secrets. The wine cellar, well, it's rather extensive. Edward used to joke that it could hide a small army. Every room, every closet, even the extensive wine cellar, has been examined. We found nothing."
 
 Holmes flipped through the ledger, his brow furrowing. "Curious. These numbers don’t align with standard military provisions. Your son was tracking something far more significant, Lady Blackwood."
 
@@ -342,9 +345,7 @@ I frowned. "Do you think he's lying?"
 Holmes did not answer immediately. Instead, he glanced back at the door to William's study.
 
 "I think William Blackwood is a man who expects to be doubted, Watson. And that is precisely why he does not lie outright. He lets truth and falsehood blur—until even the most rational man begins to doubt what he knows."
- 
- <br><br><br>
- <br><br><br>
+
 ## Chapter 6: The Widow's Confession
 
 Holmes sat in silence, his keen gaze sweeping the landscape. My thoughts were on Katherine Blackwood—the widow of a man whose death seemed far from ordinary.
@@ -459,7 +460,9 @@ I shivered.
 
 Holmes did not suspect Katherine—but until the chest was found, her future—and the truth—remained uncertain.
 <br><br><br>
-
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 7: Whispers in the Manor
 
 The manor's corridors darkened as the evening wore on, gas lamps casting flickering shadows along the walls. The weight of the investigation settled over me—a sense that we were walking through the remnants of something far greater than a simple inheritance dispute.
@@ -530,6 +533,10 @@ Across the manor grounds, a figure sat at the village inn’s window. A well-dre
 
 Holmes followed my line of sight and gave the smallest nod. "Interesting."
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 9: Shadows of the Empire
 
 For days, I had noticed unfamiliar figures in the village - men whose bearing and attire spoke of government service rather than local residence. Their presence confirmed Holmes's earlier hint about matters extending beyond military jurisdiction.
@@ -574,6 +581,10 @@ As I watched Holmes examine the telegrams, his expression darkening, I couldn't 
 
 The fog thickened as we departed, swallowing the street lamps. Ahead lay Cartwright's secrets, then our separate paths into what felt increasingly like a carefully laid snare.
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 10: The Innkeeper's Warning
 
 The village inn was quiet when we arrived. A low fire burned in the hearth, casting flickering shadows along the wooden beams. Lieutenant Cartwright sat in a shadowed corner, hunched over a half-empty glass. His uniform was crisp, but the exhaustion in his posture betrayed his unease.
@@ -662,6 +673,9 @@ Holmes smirked. "Oh, he will. The question is—will he help himself?"
 
 The rain had stopped, but the weight of the coming storm still hung in the air.
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
 <br><br><br>
 ## Chapter 11: Mycroft's Intervention
 
@@ -832,6 +846,10 @@ Then, with quiet finality, he stepped through the manor’s door.
 "Now, we let Hawthorne make his move."
 
 <br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 14: The Final Assembly
 
 Before dawn, a telegram sent by Holmes:
@@ -860,6 +878,11 @@ I had no doubt—Hawthorne thought himself untouchable.
 
 Holmes, I suspected, would prove otherwise.
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ## Chapter 15: The Fall of a Traitor
 
 Holmes paced the length of the drawing-room, his sharp gaze sweeping over the assembled faces. The fire crackled in the grate, casting flickering shadows upon the walls. At last, he spoke.
@@ -965,6 +988,8 @@ I exhaled, shaking my head. "I don’t suppose you’ll tell me when you decided
 
 Holmes’s lips curled in the faintest of smiles. "Now, Watson, where then would be the mystery?"
 
+<br><br><br>
+<br><br><br>
 <br><br><br>
 <br><br><br>
 <br><br><br>
