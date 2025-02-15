@@ -695,6 +695,8 @@ Mycroft exhaled. "Spare me. I verified your suspicions regarding Colonel Hawthor
 
 Holmes skimmed the documents, his expression sharpening. "Diversion of funds, fictitious suppliers, and high-ranking officials in the East India Company implicated."
 
+Mycroft tapped a dossier on the table. "Hawthorne was not just a thief, Sherlock. He was a collector of vulnerabilities. He had compiled records of indiscretions among the highest military echelons—gambling debts, affairs, off-ledger transactions. He was positioning himself not just as a beneficiary of corruption, but as its overseer. The empire could not afford a man like that to hold the reins."
+
 I frowned. "So this isn’t just supply theft?"
 
 "Not remotely," Mycroft declared. "Blackwood’s records hold enough leverage to topple men of considerable power. Hawthorne, it seems, is one of them."
@@ -711,10 +713,8 @@ A faint smile touched Holmes’s lips. "I rather think not. Watson and I have al
 
 As we left 221B, Mycroft’s words echoed in my mind. This was no longer just a missing chest. We were about to force the hand of powerful men who would do anything to stay in the dark.
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
+<br><br>
+
 ## Chapter 12: The Priest Hole's Secret
 
 The hour was late when we returned to Blackwood Manor, the mist curling around the estate like a living thing. Our footsteps echoed against the stone corridor as Holmes led the way to the east wing's library.
@@ -723,7 +723,7 @@ Holmes's gaze drifted across the bookcase. I remembered his comment about the un
 
 "Interesting," he murmured, tracing the crack with his fingertip. "It aligns perfectly with the edge of this book."
 
-He reached for the volume, a slim, worn history of Elizabethan England.  As he pulled it gently from the shelf, I noticed a slight resistance, a subtle click.  He turned the book over in his hands, examining the spine.
+He reached for the volume, a slim, worn history of Elizabethan England. It seemed slightly out of place, jutting out a fraction of an inch further than the books on either side. As he pulled it gently from the shelf, I noticed a distinct patch of undisturbed dust behind the book, contrasting sharply with the slightly smudged area where it had been sitting. It was as if this particular volume had been moved recently, and perhaps not even placed back quite correctly. As he pulled it gently from the shelf, I noticed a slight resistance, a subtle click.  He turned the book over in his hands, examining the spine.
 
 "And here," he said quietly, "is the key."  He pointed to a small, almost invisible indentation on the book's cover, perfectly positioned to depress a hidden mechanism.
 
@@ -893,6 +893,8 @@ He paused, letting the words settle. "But only one among you knew its true conte
 
 A heavy silence fell over the room. The tension was thick as the London fog. Holmes stood near the fireplace, his expression inscrutable. Hawthorne shifted impatiently.
 
+Holmes's voice cut through the heavy silence. "It wasn’t enough to profit from the shadows, was it, Colonel? You knew exposure was inevitable, so you prepared your insurance. The names on these pages—generals, ministers, even members of Parliament—each one marked with debts owed, secrets buried. You meant to hold them all at your mercy." His gaze was unyielding. "But you miscalculated. The man you killed, Edward Blackwood, would not be silenced so easily."
+
 "You have spoken in riddles long enough, Holmes," he scoffed.
 
 Holmes raised an eyebrow. "Most revealing," he murmured. "A man secure in his innocence does not rush to declare another’s failure." He turned, pacing slowly. "We have before us a tale of resentment and deceit. Lieutenant Cartwright, burdened by past indiscretions. William Blackwood, consumed by jealousy and the lure of inheritance. And you, Colonel, with the most to lose."
@@ -909,10 +911,7 @@ Hawthorne’s eyes darkened. A smirk returned to his lips, but it did not quite 
 
 Two men stepped forward from the doorway, their intent clear.
 
-Lestrade’s Arrival – Hawthorne’s Arrest
-At that moment, the door burst open.
-
-"Colonel Reginald Hawthorne!"
+At that moment, the door burst open. "Colonel Reginald Hawthorne!"
 
 Hawthorne turned sharply. In the doorway stood Inspector Lestrade, flanked by two officers.
 
@@ -988,11 +987,6 @@ I exhaled, shaking my head. "I don’t suppose you’ll tell me when you decided
 
 Holmes’s lips curled in the faintest of smiles. "Now, Watson, where then would be the mystery?"
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
 ## Chapter 16: Echoes of Honour
 
 Holmes’s gaze locked onto William. “Tell me, do you believe Edward died a fool? That he deserved nothing from you?”
