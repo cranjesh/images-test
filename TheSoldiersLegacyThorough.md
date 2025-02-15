@@ -121,133 +121,111 @@ The chest was more than a relic—it was a message, waiting to be read.
 <br><br><br>
 ## Chapter 2: The Lieutenant's Secrets
 
-Holmes's network of informants had revealed that Lieutenant Cartwright had been deployed near Blackwood Manor—a coincidence too perfect to ignore.
+Holmes’s network of informants had revealed that Lieutenant Cartwright was stationed near Blackwood Manor—a coincidence too pointed to ignore.
 
-Through mist-shrouded carriage windows, I watched as London's grey suburbs gave way to the garrison's stark brick buildings. The rhythmic thud of hooves against cobblestones slowed as we neared the barracks, where soldiers in crisp uniforms moved with military precision.
+Through mist-shrouded carriage windows, I watched as London’s grey suburbs gave way to the garrison’s stark brick buildings. The rhythmic thud of hooves against cobblestones slowed as we neared the barracks.  The air here was different – less fog, more the sharp tang of polished metal and horseflesh.  Soldiers, their faces grim and set, moved with a practiced, almost mechanical precision.
 
 ![Chapter 5 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
 
-The room was unnervingly tidy.  Reports were stacked precisely on the desk, a locked dispatch box beside them. Cartwright's uniform lay folded with military precision. The sharp call of the evening bugle pierced the silence.
+The room was unnervingly tidy. Reports were stacked with military exactitude on the desk, a locked dispatch box beside them. Cartwright’s uniform lay folded with similar precision, as if ready for immediate inspection. The sharp call of the evening bugle pierced the silence.
 
-Holmes's gaze flickered over the space before settling on Cartwright. He did not sit, but rather stood in the centre of the room, arms clasped behind his back.
+Holmes’s gaze flickered across the room before settling on Cartwright. He remained standing, arms clasped behind his back, his posture suggesting a man on edge.
 
-"You're uneasy, Lieutenant," Holmes observed. "Not about our presence, but about what we might already know."
+“You’re uneasy, Lieutenant,” Holmes observed, his voice low. “Not about our presence, but about what we might already know.”
 
-Cartwright stiffened slightly.
+Cartwright stiffened, his jaw tightening almost imperceptibly.  He gestured towards two chairs, the movement jerky and uncoordinated. “I shall assist to the best of my ability, Mr. Holmes, though I’m uncertain what intelligence I can provide.”
 
-Holmes wasted no time. "We are investigating the circumstances of Captain Blackwood's death and the disappearance of his chest. Your insight would be invaluable."
+Holmes fixed him with a piercing stare. “Let’s start with Captain Blackwood’s final days. What did you observe?”
 
-Cartwright gestured for us to sit, his posture rigid. "I shall assist to the best of my ability, Mr Holmes, though I'm uncertain what intelligence I can provide."
+Cartwright’s fingers twitched almost imperceptibly, then stilled. He cleared his throat. “The Captain maintained his usual exactitude in his duties, sir, but in those final weeks, his demeanour altered. He appeared…preoccupied. Protocol prevented me from inquiring further.”
 
-Holmes fixed him with a piercing gaze. "Let's start with Captain Blackwood's final days. What did you observe?"
+As he spoke, I noted something odd. His voice was steady, controlled—but his hands betrayed him. The slight tremor in his fingers, the way he pressed them together as if willing them still, did not go unnoticed.
 
-Cartwright's fingers drummed once against the desk before he caught himself, quickly clasping them together. "The Captain maintained his usual exactitude in duties, sir, but in those final weeks, his demeanour altered. He appeared... preoccupied with certain matters. Protocol prevented me from inquiring further."
+“The Captain was an honourable man,” Cartwright continued, his gaze flickering towards the locked dispatch box. “Perhaps too honourable for what he discovered.”
 
-As he spoke, I noted something odd. His voice was steady, controlled—but his hands betrayed him. The slight tremor in his fingers, the way he kept them pressed together as if willing them still, did not go unnoticed.
+“And on the night of his death?” Holmes challenged, his gaze sharp as a scalpel.
 
-"The Captain was an honourable man," Cartwright continued, though his voice carried a strain beneath the words. "Perhaps too honourable for what he discovered."
+Cartwright’s posture tightened. “Colonel Hawthorne hosted a dinner at the officers’ mess. The Captain departed early, citing urgent correspondence. The following morning…” He paused, his gaze returning to the dispatch box. “We discovered him at the base of the cliffs.”
 
-"And on the night of his death?" Holmes challenged, his gaze sharp as a scalpel.
+Holmes’s eyes narrowed. “Do you suspect foul play?”
 
-Cartwright's posture tightened. "Colonel Hawthorne hosted a dinner at the officers' mess. The Captain departed early, citing urgent correspondence. The following morning..." A pause. "We discovered him at the base of the cliffs."
+Cartwright’s gaze flicked—just briefly—towards the locked dispatch box before he replied. “The evidence remains inconclusive, sir. However, the Captain had expressed concerns regarding supply record discrepancies. He never named specific officers, but his caution regarding Colonel Hawthorne was…notable.”
 
-Holmes's eyes narrowed. "Do you suspect foul play?"
+Holmes leaned forward. “You visited Blackwood Manor last week, delivering Edward’s personal effects. What exactly did you bring?”
 
-Cartwright's gaze flicked—just briefly—toward the locked dispatch box on his desk before he replied.
+“Per regulations, sir: his compass, correspondence, and personal journal.”
 
-"The evidence remains inconclusive, sir. However, the Captain had expressed concerns regarding supply record discrepancies. He never named specific officers, but his caution regarding Colonel Hawthorne was... notable."
+“And the chest?”
 
-Holmes leaned forward. "You visited Blackwood Manor last week, delivering Edward's personal effects. What exactly did you bring?"
+Cartwright hesitated, his gaze darting nervously around the room before settling once more on the dispatch box. The pause was minute, but telling.
 
-"Per regulations, sir: his compass, correspondence, and personal journal."
+“I knew of it,” he admitted, his voice barely a whisper. “The Captain kept important documents inside. And now it’s been stolen.”
 
-"And the chest?"
+Holmes’s expression did not change. “Do you have any suspicions, Lieutenant?”
 
-For the first time, Cartwright hesitated.
+Cartwright’s jaw tightened.  He looked away, as if trying to avoid Holmes’s gaze. “It’s not my place to speculate, sir.”
 
-The pause was minute, but telling.
+Holmes’s voice was quiet. “Not your place, or not safe to?”
 
-"I knew of it," he admitted. "The Captain kept important documents inside. And now it's been stolen."
+A flicker of something—doubt, fear—passed across Cartwright’s face. Gone as quickly as it came.
 
-Holmes's expression did not change. "Do you have any suspicions, Lieutenant?"
-
-Cartwright's jaw tightened. "It's not my place to speculate, sir."
-
-Holmes's voice was quiet. "Not your place, or not safe to?"
-
-A flicker of something—doubt, fear—passed across Cartwright's face. Gone as quickly as it came.
-
-Holmes studied him a moment longer, then exhaled. "Very well, Lieutenant. We'll speak again."
+Holmes studied him a moment longer, then exhaled. “Very well, Lieutenant. We’ll speak again.”
 
 As we stepped into the corridor, I glanced back. Cartwright remained seated, his gaze locked on the locked dispatch box.
 
-The moment we were out of earshot, I turned to Holmes. "He's hiding something."
+The moment we were out of earshot, I turned to Holmes. “He’s hiding something.”
 
-Holmes allowed himself the faintest smile. "And next time, Watson, he won't have a choice."
+Holmes allowed himself the faintest smile. “And next time, Watson, he won’t have a choice.”
 
 ## Chapter 3: Arrival at Blackwood Manor
 
 ![Chapter 2 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2A.webp)
 
-Blackwood Manor loomed through the thick mist, its stone façade heavy with the weight of centuries. Uneven corridors and slightly misaligned walls hinted at the hidden recesses common in Elizabethan manors.
+Blackwood Manor loomed through the thick mist, a hulking silhouette against the grey.  The stone façade, slick with damp, seemed to absorb the weak light, its weight of centuries pressing down on the very air.  The mist muffled all sound save for the soft drip of moisture from the eaves and the distant, mournful cry of a raven.
 
-Holmes trailed his fingers along the dark wood paneling as we were led inside. The solemn butler moved silently ahead, pausing at the threshold of the dimly lit drawing room, where the fire cast flickering shadows on Lady Blackwood’s mourning dress.
+Holmes trailed his fingers along the dark, intricately carved wood paneling as we were led inside. The air within the manor was heavy, redolent with the scent of damp stone and something indefinably ancient. The solemn butler moved silently ahead, his footsteps swallowed by the thick carpets. He paused at the threshold of the dimly lit drawing room.  The fire in the hearth offered a flickering, unreliable warmth, its light painting the room in shifting shadows that danced across Lady Blackwood’s mourning dress.
 
-"Thank you for coming, Mr. Holmes," she whispered.
+"Thank you for coming, Mr. Holmes," she whispered, her voice barely a breath.
 
 ![BlackwoodManorPlan](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/BlackwoodManorPlan.webp)
 
-Holmes gave a small nod, his sharp gaze sweeping the room. His fingers traced faint scratches on the floor near the hearth. Without a word, he crouched, brushing dust from the marks.
+Holmes gave a small nod, his sharp gaze sweeping the room, registering every detail in an instant. His fingers traced faint scratches on the floor near the hearth. Without a word, he crouched, brushing dust from the marks.
 
-"Would you show us to the study?" he asked.
+
 
 <br><br><br>
 <br><br><br>
 ## Chapter 4: The Vanishing Chest
 
-Lady Blackwood led us down a narrow corridor. 
+Lady Blackwood led us down a narrow corridor, the air growing heavy with the scent of dust and disuse. A palpable stillness hung over the study, as if it had been frozen in time since the chest vanished. Holmes moved with quiet precision, his gloved fingers brushing lightly over the supply ledger on the desk.
 
 ![Study](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Study.webp)
 
-The air in the study was heavy with dust and disuse. I felt an almost palpable stillness, as if the room had been left untouched since the chest disappeared. Holmes moved with quiet precision, his gloved fingers brushing over the supply ledger on the desk.
+"This study was my son's favourite room," Lady Blackwood explained, her voice a hushed whisper. "He always felt a connection to its history. This manor, you know, has its secrets. The wine cellar, well, it's rather extensive. Edward used to joke that it could hide a small army. Every room, every closet, even the extensive wine cellar, has been examined. We found nothing."
 
-Lady Blackwood explained. "This study was my son's favourite room. He always felt a connection to its history. This manor, you know, has its secrets. The wine cellar, well, it's rather extensive. Edward used to joke that it could hide a small army. Every room, every closet, even the extensive wine cellar, had been examined. We found nothing. "
+Holmes flipped through the ledger, his brow furrowing. "Curious. These numbers don’t align with standard military provisions. Your son was tracking something far more significant, Lady Blackwood."
 
-He flipped through the pages, his brow furrowing. "Curious. These numbers don’t align with standard military provisions. Your son was tracking something far more significant, Lady Blackwood."
+Lady Blackwood stiffened, her hands clenching at her sides. "Significant? What do you mean?"
 
-Lady Blackwood stiffened. "Significant? What do you mean?"
+Holmes didn't answer immediately. Instead, he crouched near the floor, his fingers lightly tracing faint scratches in the thick dust. "Watson, observe."
 
-Holmes did not answer immediately. Instead, he crouched near the floor, fingers lightly tracing scratches where the missing chest had once stood.
+I leaned in. The marks were subtle, but deliberate. "These scratches—" I began, then stopped, a prickle of unease running down my spine.
 
-"Observe, Watson."
+"They aren’t scuff marks from careless movement," Holmes stated, his voice low. "The chest wasn’t stolen. It was moved." He gestured toward the doorway. "And look—they stop abruptly at the threshold. Beyond this room, there is no further disturbance."
 
-I leaned in. The marks were subtle, but deliberate.
+Lady Blackwood’s breath caught in a small gasp. "Then it may still be in the house?"
 
-"These scratches—" I began, before stopping myself. Something about them felt wrong.
-
-"They aren’t scuff marks from careless movement. The chest wasn’t stolen. It was moved."
-
-Holmes nodded approvingly. "Precisely. And look—" He gestured toward the doorway.
-
-The marks stopped abruptly at the threshold.
-
-"Beyond this room, there is no further disturbance."
-
-Lady Blackwood’s breath caught. "Then it may still be in the house?"
-
-Holmes exhaled. "Not just possible—likely. If the chest had been taken out of the manor, we would expect a continued trail of scuff marks, at the very least. But there are none."
+Holmes exhaled, a thoughtful expression on his face. "Not just possible—likely. If the chest had been taken out of the manor, we would expect a continued trail of scuff marks, at the very least. But there are none."
 
 I frowned. "Then whoever moved it must have lifted it beyond this point?"
 
-"Exactly. A casual thief would have dragged it—leaving an uneven trail. The absence of such marks indicates planning, precision... and intent."
+"Exactly," Holmes agreed.  "A casual thief would have dragged it—leaving an uneven trail. The absence of such marks indicates planning, precision... and intent."
 
-Holmes ran his fingers along the dark wood paneling… "Curious," he murmured. "There's a… subtle unevenness here."
+He ran his fingers along the dark wood paneling near the fireplace, a faint smile playing on his lips. "Curious. There's a…subtle unevenness here."
 
 "Unevenness?" I asked.
 
-Holmes shrugged slightly.  "A possibility.  But I need to confirm something first.  Come, Watson, I require a specific volume from the library.  A treatise on Elizabethan architecture, if I recall correctly."
-
-He turned to Lady Blackwood. "Does the house have a library?"
+Holmes shrugged slightly. "A possibility. But I need to confirm something first. Come, Watson, I require a specific volume from the library. A treatise on Elizabethan architecture, if I recall correctly." He turned to Lady Blackwood. "Does the house have a library?"
 
 "Yes, through the adjoining door."
 
@@ -255,45 +233,33 @@ Holmes exhaled, dusting off his gloves. "Then that is where we must look next."
 
 ![Chapter 2 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter2B.webp)
 
-The library smelled of old paper and oak. Towering shelves lined the walls, their shadows heavy in the dim light.  Holmes entered first, his fingers brushing over the spines as he moved toward the far wall.
+The library reeked of old paper and oak, the scent thick and musty. Towering shelves lined the walls, their shadows stretching long and distorted in the dim light.  Motes of dust danced in the single shaft of sunlight that pierced the gloom. Holmes entered first, his fingers brushing over the spines of the books as he moved toward the far wall.
 
-Then, abruptly, he halted.
+Then, abruptly, he halted, his gaze fixed on the floor. "Curious."
 
-"Curious."
+I followed his gaze. "The dust—it’s been disturbed," I noted. "As though something large was moved and replaced."
 
-I followed his gaze.
+"Not just moved—rotated," Holmes corrected, pointing to faint diagonal scratches on the wooden floor.
 
-"The dust—it’s been disturbed," I noted. "As though something large was moved and replaced."
+I crouched beside him, running my fingers along the marks. "Then the chest was placed here deliberately?"
 
-"Not just moved—rotated," Holmes corrected, gesturing toward faint diagonal scratches on the wooden floor.
-
-I crouched beside him, running my fingers along the marks.
-
-"Then the chest was placed here deliberately?"
-
-"Yes, and more importantly—" Holmes ran a gloved hand lightly over the floorboards. His eyes narrowed slightly.
-
-"The disturbance is recent, but look here—the dust has resettled unevenly."
+"Yes, and more importantly—" Holmes ran a gloved hand lightly over the floorboards, his eyes narrowing. "The disturbance is recent, but look here—the dust has resettled unevenly."
 
 I furrowed my brow. "That means it was here, but not for long?"
 
 "Exactly." Holmes straightened, brushing off his hands. "This was not the final hiding place. It was left here temporarily, then moved again."
 
-Lady Blackwood’s voice wavered. "This room hasn’t been touched in years."
+Lady Blackwood’s voice wavered, a hint of desperation creeping in. "This room hasn’t been touched in years."
 
 Holmes’s gaze flicked up sharply. "Until recently."
 
-A cold weight settled in my stomach. This was no common burglary. Someone within this house had taken the chest.
-
-Someone who knew exactly where to put it—if only for a short while.
+A cold weight settled in my stomach. This was no common burglary. Someone within this house had taken the chest. Someone who knew exactly where to put it—if only for a short while.
 
 Holmes turned, his expression darkening. "And they did not act alone."
 
-I looked again at the disturbed dust, at the deliberate concealment of the chest’s absence.
+I looked again at the disturbed dust, at the deliberate concealment of the chest’s absence. The implications were clear.
 
-The implications were clear.
-
-"The chest had not vanished. It had been hidden." I exhaled. "And whoever had hidden it was waiting—for what, I did not yet know."
+"The chest had not vanished. It had been hidden," I exhaled. "And whoever had hidden it was waiting—for what, I did not yet know."
 
 ## Chapter 5: The Brother's Resentment
 
@@ -303,15 +269,13 @@ The corridors of Blackwood Manor felt colder as Holmes and I made our way toward
 
 Inside, William's study was a stark contrast to Edward's orderly workspace. The room was cluttered with papers, ledgers stacked haphazardly, a half-filled brandy glass abandoned near an inkwell. A faint tang of pipe smoke lingered, mingling with the musty scent of old books. William himself stood by the window, arms crossed, staring out as though deep in thought.
 
-At our entrance, he turned, his sharp features hardening further.
+At our entrance, he turned, his sharp features hardening.
 
-"Mr Holmes, Dr Watson," he greeted tersely, gesturing to the chairs opposite his desk. "I assume this visit concerns my brother's untimely demise—or perhaps the inheritance?"
+"Mr. Holmes, Dr. Watson," he greeted tersely, gesturing to the chairs opposite his desk. "I assume this visit concerns my brother's untimely demise—or perhaps the inheritance?"
 
-Holmes took a seat with calm precision. "Both, Mr Blackwood. Specifically, the disappearance of your brother's chest and its implications for the estate."
+Holmes took a seat with calm precision. "Both, Mr. Blackwood. Specifically, the disappearance of your brother's chest and its implications for the estate."
 
-William's lips curled into a sneer as he leaned back in his chair.
-
-"Implications for Katherine, you mean." He exhaled sharply. "Convenient, isn't it? The chest vanishes, the will goes missing, and suddenly, my dear sister-in-law's future is secured."
+William's lips curled into a sneer as he leaned back in his chair. "Implications for Katherine, you mean." He exhaled sharply. "Convenient, isn't it? The chest vanishes, the will goes missing, and suddenly, my dear sister-in-law's future is secured."
 
 I frowned at the venom in his tone.
 
@@ -321,11 +285,7 @@ Holmes raised an eyebrow. "You suggest Katherine is involved?"
 
 Holmes steepled his fingers. "Fascinating. And yet, I notice you are very specific about what Katherine stands to gain, but rather vague about what you stand to lose."
 
-A flash of irritation crossed William's face, but he masked it quickly.
-
-"My father's decision to favour Edward over me was nothing short of favouritism." His voice was measured, but there was a cold undercurrent of resentment beneath it. "The estate should have been mine. I have fought for years to earn my place, while Edward... he was handed everything."
-
-I caught myself nodding slightly.
+A flash of irritation crossed William's face, his fingers drumming briefly on the armrest, but he masked it quickly. "My father's decision to favour Edward over me was nothing short of favouritism." His voice was measured, but there was a cold undercurrent of resentment. "The estate should have been mine. I have fought for years to earn my place, while Edward... he was handed everything."
 
 William swirled the brandy in his glass, a calculating look in his eyes. "Katherine's future isn't as secure as she thinks. The estate… it has other claimants." He paused, a subtle threat in his voice. "And I won't be denied."
 
@@ -335,87 +295,79 @@ Holmes remained impassive. "And yet, your brother's death has left you no closer
 
 William hesitated, his gaze flickering toward the window. "Edward was many things, but careless wasn't one of them." His fingers tightened around the glass. "If you want my opinion, someone wanted him out of the way—and whoever it was, they succeeded."
 
-Holmes studied him carefully.
-
-"Curious," he murmured.
+Holmes studied him carefully. "Curious," he murmured.
 
 "What is?" William asked sharply.
- 
- "You speak of your brother's death as though you know more than the official reports suggest. And yet, you did not attend the funeral, nor did you inquire about the investigation."
- 
- William's scowl deepened. "You think I had something to do with it?"
- 
- Holmes merely tilted his head slightly, allowing the silence to linger.
- 
- William exhaled sharply. He reached for his pipe but seemed to think better of it. Then, almost as an afterthought, he muttered,
- 
- "Cartwright isn't the only one with blood on his hands. Ask about... Fort Kalyan's 'special shipments'."
- 
- I stiffened.
- 
- Holmes's expression remained neutral, but I could see the sharp flicker of interest in his eyes.
- 
- "Special shipments?" I echoed.
- 
- But William did not elaborate. He merely waved a hand dismissively. "Ask around. See what you find."
- 
- The casual way he said it was too convenient. A calculated slip—as though he wanted us to latch onto something specific.
- 
- Holmes let the silence stretch.
- 
- Then, suddenly, William's expression shifted. His sneer faded just slightly, and in its place, something almost imperceptible. Regret? No—something deeper.
- 
- "He wasn't always against me," he muttered. "When we were boys, he taught me to fix a pocket watch—patient, steady hands. Gave it to me on my fifteenth birthday. Said I'd learned well enough to keep it running myself."
- 
- His jaw tightened.
- 
- "And yet, in the end, I was never meant to hold anything that mattered."
- 
- For a moment, the bitterness wavered. Then, just as quickly, it returned.
- 
- Holmes said nothing, only watching.
- 
- As we stepped into the hallway, the firelight flickering across the polished floor, I exhaled, feeling the weight of the conversation settle over me.
- 
- "I almost believed him," I admitted.
- 
- Holmes's voice was quiet, but firm. "That was his intent, Watson."
- 
- I frowned. "Do you think he's lying?"
- 
- "Lying outright? No. But truth, when carefully placed, can be more dangerous than falsehood. He wants you to suspect Katherine, to believe she had the most to gain."
- 
- "And you don't?"
- 
- Holmes did not answer immediately. Instead, he glanced back at the door to William's study.
- 
- "I think William Blackwood is a man who expects to be doubted, Watson. And that is precisely why he does not lie outright. He lets truth and falsehood blur—until even the most rational man begins to doubt what he knows."
+
+"You speak of your brother's death as though you know more than the official reports suggest. And yet, you did not attend the funeral, nor did you inquire about the investigation."
+
+William's scowl deepened. "You think I had something to do with it?"
+
+Holmes merely tilted his head slightly, allowing the silence to linger.
+
+William exhaled sharply. He reached for his pipe but seemed to think better of it, his hand hovering over the tobacco pouch. Then, almost as an afterthought, he muttered, "Cartwright isn't the only one with blood on his hands. Ask about... Fort Kalyan's 'special shipments'."
+
+I stiffened.
+
+Holmes's expression remained neutral, but I could see the sharp flicker of interest in his eyes.
+
+"Special shipments?" I echoed.
+
+But William did not elaborate. He merely waved a hand dismissively. "Ask around. See what you find." The casualness of the gesture felt forced, too deliberate.
+
+Holmes let the silence stretch.
+
+Then, suddenly, William's expression shifted. His sneer faltered, and in its place, something almost imperceptible flickered in his eyes. Regret? No—something deeper.  He looked down at his hands, his fingers tracing the rim of his brandy glass.
+
+"He wasn't always against me," he muttered, his voice barely audible. "When we were boys, he taught me to fix a pocket watch—patient, steady hands. Gave it to me on my fifteenth birthday. Said I'd learned well enough to keep it running myself."
+
+His jaw tightened. "And yet, in the end, I was never meant to hold anything that mattered."
+
+For a moment, the bitterness wavered, replaced by a flicker of something raw and vulnerable. Then, just as quickly, the mask returned.
+
+Holmes said nothing, only watching.
+
+As we stepped into the hallway, the firelight flickering across the polished floor, I exhaled, feeling the weight of the conversation settle over me.
+
+"I almost believed him," I admitted.
+
+Holmes's voice was quiet, but firm. "That was his intent, Watson."
+
+I frowned. "Do you think he's lying?"
+
+"Lying outright? No. But truth, when carefully placed, can be more dangerous than falsehood. He wants you to suspect Katherine, to believe she had the most to gain."
+
+"And you don't?"
+
+Holmes did not answer immediately. Instead, he glanced back at the door to William's study.
+
+"I think William Blackwood is a man who expects to be doubted, Watson. And that is precisely why he does not lie outright. He lets truth and falsehood blur—until even the most rational man begins to doubt what he knows."
  
  <br><br><br>
  <br><br><br>
 ## Chapter 6: The Widow's Confession
 
-Holmes sat in silence, his keen gaze sweeping the landscape, while my thoughts turned to Katherine Blackwood—the widow of a man whose death seemed far from ordinary.
+Holmes sat in silence, his keen gaze sweeping the landscape. My thoughts were on Katherine Blackwood—the widow of a man whose death seemed far from ordinary.
 
-As we walked into the drawing room, she stood to greet us. Her figure was slight yet composed, but her pale complexion and dark-circled eyes betrayed the toll of grief. The flickering glow of the fireplace cast long shadows across the room, deepening the hollowness in her face.
+As we walked into the drawing room, she stood to greet us. Her figure was slight yet composed, but her pale complexion and the dark circles beneath her eyes spoke of sleepless nights and deep grief. The flickering firelight cast long shadows across the room, accentuating the hollowness in her face.
 
-Holmes inclined his head. "Mrs Blackwood," he said, bowing slightly. "Thank you for meeting with us under such difficult circumstances."
+Holmes inclined his head. "Mrs. Blackwood," he said, bowing slightly. "Thank you for meeting with us under such difficult circumstances."
 
-"Mr Holmes, Dr Watson," she returned, her voice steady but low. "Please, sit. I hardly know where to begin."
+"Mr. Holmes, Dr. Watson," she returned, her voice steady but low, though a slight tremor betrayed her composure. "Please, sit. I hardly know where to begin."
 
 Holmes took a seat, his voice carrying its usual steadiness but with an unusual gentleness. "Wherever you feel most comfortable, madam. Perhaps with your late husband."
 
 ![Chapter 3 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter3A.webp)
 
-She tightened her grip on the handkerchief in her lap. When she spoke, her voice was measured, deliberate—but fragile beneath the surface.
+She tightened her grip on the handkerchief clutched in her lap, the knuckles of her hand whitening.  When she spoke, her voice was measured, deliberate—but fragile beneath the surface.
 
 "Edward was a devoted husband and father—principled, kind. The official report of his death—a fall from the cliffs—" Katherine hesitated, exhaling sharply. She pressed her fingers to her lips as if stopping the word from escaping. "It doesn't feel right."
 
-I studied her carefully. She was grieving, that much was certain. But there was something else—a quiet exhaustion, as if she had spent the past weeks fighting battles no one else could see.
+I studied her carefully. Grief was etched in every line of her face, in the way she held herself, in the almost imperceptible tremor in her hand.  There was something else too—a quiet exhaustion, as if she had spent the past weeks fighting battles no one else could see.
 
 Holmes exhaled slowly. "The missing chest—tell me about it."
 
-Her composure wavered, if only for a second. "It was locked, kept in his study among his other belongings. Three nights ago, it vanished. The only ones present were William, Colonel Hawthorne, and Lieutenant Cartwright."
+Her composure wavered for a second, her breath catching in her throat.  "It was locked, kept in his study among his other belongings. Three nights ago, it vanished. The only ones present were William, Colonel Hawthorne, and Lieutenant Cartwright."
 
 Holmes's gaze flickered slightly. "William. Your husband's brother. You mentioned his resentment?"
 
@@ -423,23 +375,23 @@ She gave a short, bitter nod. "He was furious when the estate passed to Edward. 
 
 Holmes studied her, his voice measured. "Did William's behaviour change recently? Any particular event that heightened his interest in the estate?"
 
-Katherine frowned in thought. "Yes. It was around the time he began demanding to see Edward's documents. He accused my husband of hiding something."
+Katherine frowned in thought, her brow furrowing. "Yes. It was around the time he began demanding to see Edward's documents. He accused my husband of hiding something."
 
 Holmes's tone remained neutral, though his gaze sharpened. "And what did he believe Edward was hiding?"
 
-She exhaled slowly. "Something to do with our great-uncle's inheritance. When he died in India, William became convinced that there were undisclosed assets or properties that should have passed to the estate."
+She exhaled slowly, her shoulders slumping slightly.  "Something to do with our great-uncle's inheritance. When he died in India, William became convinced that there were undisclosed assets or properties that should have passed to the estate."
 
 Holmes tapped his fingers together. "And Edward's response?"
 
-"He dismissed it. Claimed William was chasing ghosts. But…" She hesitated. "Now that I think about it, he never explicitly denied having those documents."
+"He dismissed it. Claimed William was chasing ghosts. But…" She hesitated, her gaze drifting towards the fireplace.  "Now that I think about it, he never explicitly denied having those documents."
 
 Holmes nodded, his expression unreadable. "Most intriguing."
 
 A hush settled over the room, thick with unspoken truths. Holmes had unearthed something deeper than a mere family dispute. Edward Blackwood had held a secret—one his brother was desperate to uncover. And now, it seemed, that secret had cost him his life.
 
-Holmes sat forward slightly. "Mrs Blackwood, Lieutenant Cartwright's concern for your welfare seems... particular."
+Holmes sat forward slightly. "Mrs. Blackwood, Lieutenant Cartwright's concern for your welfare seems…particular."
 
-Katherine's fingers twisted her handkerchief. "We were acquainted before Edward. Nothing more."
+Katherine's fingers twisted the handkerchief in her lap, the fabric creasing under the pressure.  "We were acquainted before Edward. Nothing more."
 
 I caught something in her voice—not quite hesitation, not quite falsehood—something carefully chosen.
 
@@ -451,23 +403,23 @@ She did.
 
 Holmes studied her. "Correspondence that Edward had already seen?"
 
-Katherine paled. Her fingers clenched around the letter in her lap—a movement so small I almost missed it.
+Katherine paled, her breath catching in her throat. Her fingers clenched around the letter in her lap—a movement so small I almost missed it.
 
 "How did you—" She turned the letter over in her hands, her gaze distant. The firelight caught the edges of the worn paper, its seal faintly smudged.
 
-"I read them at night sometimes," she murmured. "Not for answers—just to remember his words before things changed."
+"I read them at night sometimes," she murmured, her voice barely above a whisper. "Not for answers—just to remember his words before things changed."
 
-She hesitated.
+She hesitated, her gaze falling to the letter in her lap.
 
 "Edward never declared it outright, but he knew. Cartwright's attentions were persistent once, though I never encouraged them. Edward was not a jealous man, but he distrusted easily. I wonder now if his suspicions ran deeper than I realised."
 
-Her fingers tightened slightly around the letter.
+Her fingers tightened slightly around the letter, the paper crinkling softly.
 
 "His last letters were different. Shorter. Cautious. As if he feared he was writing for more than my eyes."
 
-I watched her carefully. The grief was real. The exhaustion was real.
+I watched her carefully. The grief was real, etched into her very being. The exhaustion was palpable.
 
-Holmes's gaze softened. "Your husband suspected something, Mrs Blackwood. I mean to find out what."
+Holmes's gaze softened. "Your husband suspected something, Mrs. Blackwood. I mean to find out what."
 
 She met his gaze, her expression unreadable but firm.
 
@@ -477,15 +429,15 @@ The fire crackled softly, filling the silence that followed. Holmes studied her 
 
 Holmes rose to his feet and began pacing. I turned to Katherine and spoke quietly.
 
-"And your children, Mrs Blackwood? How are they faring?"
+"And your children, Mrs. Blackwood? How are they faring?"
 
-She gave a small, tired smile. "They're young, Dr Watson… too young to understand."
+She gave a small, tired smile, the corners of her mouth turning down slightly. "They're young, Dr. Watson… too young to understand."
 
 The sorrow in her voice was unmistakable.
 
 I nodded, offering what little comfort words could provide. Holmes, ever perceptive, had paused his pacing and observed her for a moment before speaking again.
 
-"Thank you, Mrs Blackwood. You have been most helpful," Holmes said gently. "With your permission, we would like to speak with others now."
+"Thank you, Mrs. Blackwood. You have been most helpful," Holmes said gently. "With your permission, we would like to speak with others now."
 
 Katherine composed herself and nodded.
 
@@ -526,39 +478,37 @@ I stepped back into the shadows as William strode past, his expression a mix of 
 <br><br><br>
 ## Chapter 8: The Stable Hand's Secret
 
-Rain drummed steadily against the stable roof as we found Hanger. Inside, the warmth of hay and leather filled the air as he worked, each stroke of the brush against the horse’s flank measured and precise.
+Rain drummed steadily against the stable roof, a soothing counterpoint to the growing unease within me. Inside the stable, the warm, earthy scent of hay and leather mingled with the damp smell of horse sweat. Hanger worked in the dim light, each stroke of the brush against the horse’s flank measured and precise.
+
+Holmes took a slow, deliberate breath, his nostrils flaring slightly. His gaze narrowed, fixed on a small, worn leather pouch tucked into Hanger's belt.
 
 ![Chapter 6 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter6A.webp)
 
-I noticed the usual stable smells.  But Holmes took a slow, deliberate breath, his nostrils flaring slightly, and then his eyes narrowed. He watched Hanger with an unusual intensity, his gaze fixed on a small, worn leather pouch tucked into Hanger's belt.
+"Fine horses you have here," Holmes remarked, approaching Hanger. "We're here to inquire about Mr. Blackwood's affairs."
 
-"Fine horses you have here" Holmes remarked, approaching Hanger. "We're here to inquire about Mr. Blackwood's affairs."
-
-Holmes studied him. "Your hands tell an interesting story, Mr Hanger."
-
-Hanger barely looked up. "I tend to my work, Mr Holmes."
+Hanger barely looked up, his movements stiff. "I tend to my work, Mr. Holmes."
 
 Holmes’s tone remained light but unyielding. "And yet William speaks of you with particular suspicion. He implies you might be involved in certain… irregularities."
 
-The brush stilled.
+The brush stilled. Hanger’s shoulders tightened.
 
-"William Blackwood’s always had it out for me, Mr Holmes." Bitterness crept into his voice. "When I needed help with my sister’s medical bills, he turned me away. Said it wasn’t his concern."
+"William Blackwood’s always had it out for me, Mr. Holmes." Bitterness crept into his voice. "When I needed help with my sister’s medical bills, he turned me away. Said it wasn’t his concern."
 
 Holmes nodded, as if filing this away. "The chest vanished from the study. Did you see anything unusual that night?"
 
-Hanger’s eyes flicked toward the east wing—so quick it might have gone unnoticed. He resumed his work. "I keep to my duties, sir. Nothing more."
+Hanger’s eyes flicked toward the east wing—so quick it might have gone unnoticed. He resumed his work, the brush strokes now more agitated. "I keep to my duties, sir. Nothing more."
 
 Holmes leaned against the stable door. "Colonel Hawthorne seems more… understanding of financial hardships."
 
 A flicker of something—fear, regret—crossed Hanger’s face. His knuckles whitened on the brush handle.
 
-"A man does what he must, Mr Holmes."
+"A man does what he must, Mr. Holmes."
 
-As we walked back through the dusk, the rain had eased, leaving behind a damp chill.
+As we walked back through the dusk, the rain had eased, leaving behind a damp chill.  For days, I had noticed unfamiliar figures in the village – men whose bearing and attire spoke of government service rather than local residence. Their presence confirmed Holmes's earlier hint about matters extending beyond military jurisdiction.
 
-"You saw something in there," I said.
+"You saw something in there," I said to Holmes.
 
-Holmes didn’t answer immediately, his gaze fixed on the windows of the east wing. Then, finally— "Three things, Watson. First, the brass marks in the study matched this polish—not military-issue, but a cheap civilian variety trying to mimic it."
+He didn’t answer immediately, his gaze fixed on the windows of the east wing. Then, finally— "Three things, Watson. First, the brass marks in the study matched this polish—not military-issue, but a cheap civilian variety trying to mimic it."
 
 I frowned. "And the second?"
 
@@ -579,32 +529,6 @@ Across the manor grounds, a figure sat at the village inn’s window. A well-dre
 "Holmes." I nudged him slightly.
 
 Holmes followed my line of sight and gave the smallest nod. "Interesting."
-
-I swallowed. "Foreign Office?"
-
-"Undoubtedly."
-
-We didn’t approach. We didn’t need to. The man was not watching us. He was watching the manor.
-
-As we reached the manor steps, I hesitated, my thoughts still circling William’s words.
-
-"Holmes, this is more than just a missing will, isn’t it?"
-
-Holmes gave a slight nod. "It always was, Watson."
-
-I took a steadying breath. William was waiting for the will to disappear. The Foreign Office was waiting for something to surface. Hanger was waiting for someone to find what he already knew.
-
-But something felt wrong. "William accused nearly everyone—Katherine, Cartwright, even Hawthorne. But not once did he mention Hanger. Why?"
-
-Holmes barely paused before answering. "Because, Watson, he wants the chest to stay lost."
-
-I frowned. "Then he knows something about it?"
-
-"He knows enough to want it buried. And he suspects Hanger, but saying so would only draw our attention to him." Holmes exhaled, his gaze shifting toward the east wing. "Instead, he directs suspicion elsewhere, hoping we chase shadows while the truth sits in plain sight."
-
-A chill ran down my spine. William didn’t just want the inheritance—he wanted control. And the chest, whatever was inside it, threatened that control. I had thought this was merely a matter of inheritance. But the deeper we dug, the clearer it became—the chest was more than a legal dispute. It was a danger waiting to be uncovered. And someone was willing to do anything to keep it hidden.
-
-William had not overlooked Hanger—he had erased him. Because the moment we questioned the stableman, the truth would no longer be his to control.
 
 ## Chapter 9: Shadows of the Empire
 
