@@ -211,6 +211,8 @@ Lady Blackwood led us down a narrow corridor.
 
 The air in the study was heavy with dust and disuse. I felt an almost palpable stillness, as if the room had been left untouched since the chest disappeared. Holmes moved with quiet precision, his gloved fingers brushing over the supply ledger on the desk.
 
+Lady Blackwood explained. "This study was my son's favourite room. He always felt a connection to its history. This manor, you know, has its secrets. The wine cellar, well, it's rather extensive. Edward used to joke that it could hide a small army. Every room, every closet, even the extensive wine cellar, had been examined. We found nothing. "
+
 He flipped through the pages, his brow furrowing. "Curious. These numbers don’t align with standard military provisions. Your son was tracking something far more significant, Lady Blackwood."
 
 Lady Blackwood stiffened. "Significant? What do you mean?"
@@ -843,40 +845,74 @@ Hanger swallowed hard. "Hawthorne’s men were watching me too closely. If they 
 
 "Wait, Holmes," I interjected, pulling out my notebook.  Flipping through my notes from our earlier conversation with Lady Blackwood, I recalled a detail that had previously slipped my mind. "Lady Blackwood mentioned a hidden passage, connecting the study to the wine cellar.  Edward, she said, used it to move 'sensitive items'."
 
-Holmes's eyes narrowed thoughtfully. "Sensitive items… and a secure, hidden location. The wine cellar" He paused, his gaze fixed on Hanger.
+Holmes's eyes narrowed thoughtfully. "Sensitive items… and a secure, hidden location. The wine cellar. Given Lady Blackwood's earlier assurances. She had explained that after the chest had vanished, the premises had been thoroughly searched, but not after it was moved from its temporary location of the priest hole." He paused, his gaze fixed on Hanger.
 
-Hanger hesitated, his face a mask of conflicting emotions. Finally, he gave a slow, reluctant nod. "Yes," he admitted, his voice barely above a whisper. "But I had to. Hawthorne's men, they were becoming too conspicuous near the priest hole. I needed to conceal it somewhere more secure."
+Hanger hesitated, his face a mask of conflicting emotions. At last, he gave a slow, reluctant nod.
 
-"More secure for whom, Hanger?" Holmes pressed, his tone sharp. "For you? Or for Hawthorne?"
+"Yes," he admitted, his voice barely more than a whisper. "Hawthorne’s men were too close. I had to move it."
 
-Hanger's shoulders slumped, his resolve crumbling. "I… I was at a loss," he confessed, his voice laced with desperation.
+Holmes’s gaze sharpened. "For your protection, or his?"
 
-As we walked back toward the manor, Holmes’s hands were clasped behind his back, his pace slower than usual. The weight of the case—of Edward’s death, the corruption, and the final location of the chest—seemed to press upon him.
+Hanger swallowed hard. "I did not know what else to do."
 
-"You knew," I said at last.
+Without another word, Holmes turned briskly toward the cellar, the lantern swinging at his side. The air was damp, thick with the scent of oak and aged wood.
 
-Holmes did not look at me. "I suspected. Mycroft confirmed it."
+Hanger gestured to a shadowed corner. "There. Behind the wine barrels."
 
-I hesitated. "Then Hawthorne knows too. He won’t wait for us to act."
+Holmes was already there, fingers tracing the iron-bound lid. From his pocket, he produced a key, and with a swift, practiced motion, turned it in the lock. The mechanism clicked open.
 
-Holmes finally turned his gaze to me. "That depends. If he were certain of what we knew, the chest would already be gone. But he isn’t."
+I frowned. "You had the key?"
 
-A sudden rustling in the hedges made me stiffen. Holmes barely turned his head. His voice dropped lower. "Three men. One watching from the treeline, another near the stables, and the last—"
+Holmes did not look up. "Naturally."
 
-"The manor?" I guessed.
+Lifting the lid, he sifted through the brittle pages—ledgers, letters, official documents. His fingers paused, resting on something beneath the sheaf of papers. A flicker of something unreadable passed across his face.
 
-Holmes nodded. "Hawthorne’s men aren’t just watching us—they’re waiting for a signal."
+I stepped forward. "It’s all here?"
 
-Holmes paused to scribble telegrams.
+Holmes murmured, almost to himself, "The will, the estate papers. Everything Lady Blackwood requires."
 
-Then he turned toward the door. "Now, we bait Hawthorne into making his move."
+Then, without further inspection, he snapped the lid shut and straightened, brushing the dust from his coat.
+
+Something was amiss. His movements were precise, deliberate—too much so. But before I could question him, he turned to Hanger.
+
+"You have lived in London?"
+
+Hanger hesitated. "Aye. Why?"
+
+Holmes dusted off his sleeves. "Still know your way around?"
+
+Hanger’s brow furrowed. "Well enough."
+
+Holmes met his gaze. "Good." He adjusted his gloves, tugging them tighter. "I may have need of a man who moves unseen."
+
+Hanger stiffened, but Holmes had already turned away. The conversation was over.
+
+As we left the cellar, Holmes’s hands were clasped behind his back, his pace unhurried.
+
+"You knew," I muttered.
+
+Holmes did not glance at me. "Suspected. Mycroft confirmed it."
+
+I exhaled. "Then Hawthorne knows as well."
+
+"Had he been certain, Watson, the chest would be long gone."
+
+A rustle in the hedgerow. Holmes did not turn his head. His voice dropped slightly. "Three men. One at the treeline, another by the stables, and—"
+
+"The manor," I finished.
+
+A pause. Holmes withdrew a slip of paper from his coat, scrawled a brief note, folded it neatly, and slid it into his pocket.
+
+Then, with quiet finality, he stepped through the manor’s door.
+
+"Now, we let Hawthorne make his move."
 
 <br><br><br>
 ## Chapter 14: The Final Assembly
 
 Before dawn, a telegram sent by Holmes:
 
-The drawing room at Blackwood Manor had become a stage for the final act. Holmes had summoned all key players: Lady Blackwood, Katherine, William, Lieutenant Cartwright, Colonel Hawthorne, and Mr. Hanger. The morning light cast long shadows across their faces. The household had been eerily still that morning, the kind of silence that only precedes something inevitable.
+The drawing room at Blackwood Manor had become a stage for the final act. Holmes had summoned all key players: Lady Blackwood, Katherine, William, Lieutenant Cartwright and Colonel Hawthorne. The morning light cast long shadows across their faces. The household had been eerily still that morning, the kind of silence that only precedes something inevitable.
 
 I saw when Holmes had barely stepped away, when a shadow slid into his path. Colonel Hawthorne.
 
@@ -902,87 +938,108 @@ Holmes, I suspected, would prove otherwise.
 
 ## Chapter 15: The Fall of a Traitor
 
-"Each person in this room," Holmes began, pacing deliberately, "had reason to seek Edward's chest. William believed it held inheritance documents that could challenge Edward's claim. Lieutenant Cartwright hoped to recover compromising letters. Lady Blackwood sought proof of her son's suspicions. And Katherine – she wanted justice for her husband."
+Holmes paced the length of the drawing-room, his sharp gaze sweeping over the assembled faces. The fire crackled in the grate, casting flickering shadows upon the walls. At last, he spoke.
+
+"Each of you," he began, his tone calm yet deliberate, "had reason to seek Edward Blackwood’s chest. William Blackwood believed it contained documents that might overturn his brother’s claim. Lieutenant Cartwright sought to recover certain compromising letters. Lady Blackwood wished to confirm her son’s suspicions. And Katherine—she sought justice for her husband."
+
+He paused, letting the words settle. "But only one among you knew its true contents. Only one understood why Edward Blackwood had to die."
+
+A heavy silence fell over the room. The tension was thick as the London fog. Holmes stood near the fireplace, his expression inscrutable. Hawthorne shifted impatiently.
+
+"You have spoken in riddles long enough, Holmes," he scoffed.
+
+Holmes raised an eyebrow. "Most revealing," he murmured. "A man secure in his innocence does not rush to declare another’s failure." He turned, pacing slowly. "We have before us a tale of resentment and deceit. Lieutenant Cartwright, burdened by past indiscretions. William Blackwood, consumed by jealousy and the lure of inheritance. And you, Colonel, with the most to lose."
+
+Hawthorne leaned back, arms folded across his chest. "And yet, Holmes, you have no proof."
+
+Holmes turned his attention to a small wooden chest resting against the wall. William’s breath caught. Katherine stiffened. Hawthorne’s smirk wavered for the briefest moment.
+
+Holmes placed a hand upon the chest. "This, Colonel," he said coolly, "is what you were willing to kill for."
 
 ![Chapter 10 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10A.webp)
 
-Holmes paused, studying each face. "But only one person knew its true contents. Only one understood why Edward Blackwood had to die."
+Hawthorne’s eyes darkened. A smirk returned to his lips, but it did not quite reach his eyes. "Take it," he commanded.
 
-The tension in the drawing room of Blackwood Manor was thick. Holmes stood near the fireplace, his gaze unreadable, as the gathered faces watched him expectantly. Hawthorne’s patience was fraying.
+Two men stepped forward from the doorway, their intent clear.
 
-“You have spoken in circles, Holmes,” Hawthorne scoffed.
+Lestrade’s Arrival – Hawthorne’s Arrest
+At that moment, the door burst open.
 
-Holmes raised an eyebrow slightly. "Most revealing," he observed. “A man confident in his innocence would hardly be so eager to declare my failure.” He turned, pacing slowly. “We have here a tale of resentment and deception. Lieutenant Cartwright, burdened by past indiscretions. William Blackwood, driven by inheritance and jealousy. And you, Colonel, with the most to lose.”
+"Colonel Reginald Hawthorne!"
 
-Hawthorne leaned back, arms crossed. “And yet, Holmes, you have no proof.”
+Hawthorne turned sharply. In the doorway stood Inspector Lestrade, flanked by two officers.
 
-He strode to the wall, where an unassuming wooden chest sat. William’s breath hitched. Katherine stiffened. Hawthorne’s smirk faltered.
+"You are under arrest for conspiracy and treason."
 
-Holmes withdrew a small brass key and, with deliberate slowness, unlocked the chest. The lid creaked open. Inside, stacks of military records, sealed letters, and official dispatches lay in pristine condition. Holmes lifted a bundle of documents.
+A flicker of tension crossed Hawthorne’s face. His hired men hesitated. Lestrade’s drawn pistol left them in no doubt. They stepped back without a word.
 
-"The chest," Holmes continued, gesturing to the corner where it now sat, "contains more than family secrets. Edward documented everything: military secrets sold to foreign powers, defense plans compromised, a network of betrayal reaching the highest offices."
+Hawthorne’s fingers twitched. "Inspector," he said, his tone measured, "I would advise you to reconsider. There are men—men of influence—who will not look kindly upon this."
 
-I stepped forward, holding up a handful of papers from the chest. "Indeed," I added, my voice firm. "Here are detailed records of missing supplies—gunpowder, rifles, provisions—all meticulously logged by Edward. Each entry is dated and signed, with notes pointing to irregularities in the supply chain."
+Lestrade hesitated for a mere fraction of a second. But it was long enough.
 
-I set the ledger aside and picked up another document. "There are also forged invoices," I continued, "showing payments made to fictitious suppliers. These were used to cover the theft of military resources, funneling funds into private accounts."
+Holmes Opens the Chest – Hawthorne Questions the Arrest
+Holmes, now standing over the chest, unlatched its lid and swung it open. The hinges creaked softly. Inside lay only the will and estate papers.
 
-Finally, I held up a sealed letter, its wax imprint broken. "And here," I declared, my tone growing somber, "are letters implicating high-ranking officials in the East India Company. Colonel Hawthorne’s name appears repeatedly. Edward had uncovered a network of corruption, and it cost him his life."
+A murmur of confusion rippled through the room. Hawthorne’s smirk flickered, but only for a moment. He straightened, his voice regaining its edge.
 
-Holmes stepped forward, his gaze fixed on Hawthorne. "This chest was no mere keepsake, Colonel. It was a weapon—one that could destroy careers, dismantle empires, and expose the rot at the heart of the East India Company. The audit isn’t just about Hawthorne—it’s about a network of corruption that spans continents. Edward’s findings could bring it all crashing down."
+"Quite the performance, Holmes," he said smoothly, crossing his arms. "But where is your proof? These are legal documents—estate matters, nothing more. Hardly the stuff of treason."
 
-The air thickened. Katherine gasped softly. Cartwright turned pale. William’s fingers twitched at his sides.
+His gaze shifted toward Lestrade. "You have nothing. A flimsy accusation and a public spectacle—that is all this is. You have overplayed your hand."
 
-Hawthorne leaned back. "You think I wanted to hide these documents? No, Holmes. I needed to open them." "For blackmail," Holmes declared. "A crude word. This is leverage, Holmes. The kind that builds empires. Do you think they'll let this case stand?"
+A few murmurs rose in agreement. Even I felt a flicker of doubt. Could it be that Holmes had miscalculated?
 
-"The documents no longer belong to you." Hawthorne's smirk remained. "The Foreign Office understands discretion, Holmes. These documents won't see daylight."
+But Holmes remained unmoved. He reached into his coat, withdrew a folded telegram, and let it fall onto the desk.
 
-“I’m afraid your grand reveal has come to an abrupt end,” Hawthorne said, clapping slowly. At his signal, two shadowy figures materialized at opposite doorways, muskets poised. “My men are quite efficient at handling complications, Mr. Holmes.” he added, voice dripping with menace.
+Hawthorne’s smirk froze. Slowly, he picked up the slip of paper and unfolded it.
 
-I stiffened as they advanced, boots scuffing against the floorboards. They weren’t hesitating. One moved toward the chest, the other toward Holmes.
+THE TIMES, LONDON
+DOCUMENTS RECEIVED. FIRST EDITION PRESS READY. EXPECT PUBLICATION BY NOON.
+REGARDS, M.
 
-I swallowed hard, glancing at him. Surely he saw the danger? But Holmes remained perfectly still, hands at his sides, watching Hawthorne like a chess player waiting for a blunder.
+Hawthorne’s grip on the telegram tightened. His jaw clenched.
 
-"Holmes," I murmured. "They’re not bluffing."
+"You... sent them?"
 
-"No," he agreed quietly. "But neither am I."
+Holmes’s voice was calm, almost casual. "Before we even left the cellar, Colonel. The documents are already beyond your reach."
 
-Hawthorne let out a short laugh. "Let’s be reasonable, shall we? You’re outnumbered. And before you imagine some miraculous escape—" He nodded at his men. "Take the documents."
+Hawthorne turned to his men, but they no longer met his gaze.
 
-One of them reached for the chest.
+"Edward Blackwood documented everything," Holmes continued. "He compiled military records, lists of stolen supplies, financial transactions—every piece of evidence required to expose the corruption at play. That is what you sought to destroy, Colonel. And that is what has already been sent to The Times."
 
-Holmes exhaled. Not in frustration. Not in fear. Something else.
+A shift occurred in the room. Hawthorne’s hired men looked away. No one was willing to intervene now.
 
-The door burst open, Inspector Lestrade stepped in, flanked by two officers.
+Holmes’s tone remained even. "Your allies are not silencing evidence, Colonel. They are cutting you loose. You are no longer an asset—you are a liability."
 
-"Colonel Reginald Hawthorne," Lestrade announced, "you are under arrest for conspiracy and treason."
+For the first time that evening, Hawthorne’s mask slipped.
 
-Hawthorne turned his attention to the newcomer, a thin smile on his lips. “Inspector, I strongly advise you to reconsider your next course of action. There are men—men far above your rank—who would be most displeased.”
+Lestrade stepped forward, his grip firm as he took hold of Hawthorne’s arm.
 
-Lestrade hesitated for a fraction of a second. Just long enough.
+"Colonel Reginald Hawthorne, you are under arrest for conspiracy and treason."
 
-Holmes's tone remained precise and cold. "Which is why those documents are already with the military tribunal. And The Times. By now, the ink has dried on the first article."
+Hawthorne did not resist. The iron cuffs clicked into place.
 
-Hawthorne's smirk vanished.
-
-"Your allies aren't silencing evidence," Holmes said softly. "They're distancing themselves. You're no longer an asset—you're a liability."
-
-For the first time, Hawthorne's jaw clenched.
-
-Holmes turned. "Inspector?"
-
-"Colonel Reginald Hawthorne," Lestrade declared, "you are under arrest for conspiracy and treason."
-
-Lestrade stepped forward, his hand resting on the butt of his pistol.  "Colonel Hawthorne," he announced, his voice ringing with authority, "you are under arrest for conspiracy and treason."  Hawthorne's face paled.  He glanced around the room, as if searching for an escape. The click of the handcuffs echoed through the silent room and the man who had controlled secrets sat silent.
-
-Lestrade adjusted his gloves, glancing at Holmes. "Your telegram was timely. We had men in place before dawn."
-
-Holmes gave a slight nod. "I expected no less."
-
-Lady Blackwood held her head high. "You underestimated my son, Colonel. He was more than a piece in your schemes."
- 
 ![Chapter 10 B](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter10B.webp)
- 
-The man who had orchestrated so much devastation was led away in handcuffs, his bravado replaced by a grim, silent resignation.
+
+Lestrade adjusted his gloves. "Your telegram was timely, Holmes. We had men in place before dawn."
+
+Holmes inclined his head slightly. "I expected no less."
+
+Lady Blackwood stood tall. "You underestimated my son, Colonel. He was more than a pawn in your schemes."
+
+And so, the man who had orchestrated so much deception was led away in silence, his bravado replaced by grim resignation.
+
+Final Conversation – Holmes and Watson
+As the tension in the room eased, I turned to Holmes. "You removed them in the cellar," I said, the realization striking me suddenly.
+
+Holmes’s expression remained unreadable. "A necessary precaution, Watson. Had we relied on the chest alone, Hawthorne would have ensured its destruction before the night was through. This way, the evidence was beyond his reach before he even stepped into this room."
+
+Hanger, who had remained silent until now, let out a sharp breath. "London’s streets move quickly for those who know them."
+
+Holmes gave a slight nod. "Indeed."
+
+I exhaled, shaking my head. "I don’t suppose you’ll tell me when you decided all this?"
+
+Holmes’s lips curled in the faintest of smiles. "Now, Watson, where then would be the mystery?"
 
 <br><br><br>
 <br><br><br>
