@@ -54,7 +54,7 @@ Holmes observed her in silence, his sharp gaze flicking over the damp hem of her
 
 "You walked here in the rain. A carriage would have been more sensible, yet you chose urgency over comfort. That tells me this matter is dire."  
 
-Lady Blackwood started, her grip tightening on her reticule. "Yes, Mr. Holmes, I—"  
+Lady Blackwood started, her grip tightening on her handbag. "Yes, Mr. Holmes, I—"  
 
 Holmes tilted his head slightly, his gaze lingering on the fresh creases in her mourning dress. "You have suffered a recent loss. And the morning papers mention irregularities at the East India Company. Your son's chest has vanished, hasn't it?"  
 
@@ -78,7 +78,7 @@ Holmes steepled his fingers. "Tell me more about the missing chest."
 
 She nodded. "We were surprised when Edward purchased the chest just a few months ago and last used it during his visit two months past. He was quite particular about it—he even had the lock replaced just before returning to India. But the night before the East India Company's audit was to begin, it vanished without a trace. He had been insistent on keeping it safe."  
 
-Something about that struck me as odd. Why would a man so meticulous about securing his affairs be careless enough to leave something so important at risk?  
+A peculiarity in that detail arrested my attention. Why would a man so meticulous about securing his affairs be careless enough to leave something so important at risk?  
 
 "Who had access to the study?" Holmes asked.  
 
@@ -90,7 +90,7 @@ She exhaled shakily. "I do not know what to believe, Mr. Holmes. Perhaps it is n
 
 Something in her words sent an unpleasant chill through me. I shifted in my seat, trying to suppress it.  
 
-"The chest held his will, among other documents," she repeated. Her fingers clenched slightly around the reticule. "I—I hardly know what else. Edward never spoke of it, but he was insistent that it remain safe. As though it were his final safeguard."  
+"The chest held his will, among other documents," she repeated. Her fingers clenched slightly around the handbag. "I—I hardly know what else. Edward never spoke of it, but he was insistent that it remain safe. As though it were his final safeguard."  
 
 I glanced at Holmes, expecting him to reassure her, to dismiss her concerns as unwarranted. But his expression had darkened, his gaze distant.  
 
@@ -108,7 +108,7 @@ Lady Blackwood's voice broke through the quiet. "And the chest, Mr. Holmes? Do y
 
 Holmes turned to her, his expression unreadable. "You may expect us at Blackwood Manor tomorrow. The chest will be found, Lady Blackwood."  
 
-She exhaled slowly, her fingers tightening around the reticule in her lap. The relief on her face was evident, yet I could not shake the feeling that Holmes had already seen beyond the surface of this case.  
+She exhaled slowly, her fingers tightening around the handbag in her lap. The relief on her face was evident, yet I could not shake the feeling that Holmes had already seen beyond the surface of this case.  
 
 As the fire crackled in the hearth, I found myself watching him closely. He had not dismissed the missing chest as a simple inheritance matter. Nor had he asked after the will or financial disputes. His focus had been elsewhere—from the moment Lady Blackwood had spoken.  
 
@@ -182,7 +182,7 @@ Holmes allowed himself the faintest smile. “And next time, Watson, he won’t 
 
 Blackwood Manor loomed through the thick mist, a hulking silhouette against the grey.  The stone façade, slick with damp, seemed to absorb the weak light, its weight of centuries pressing down on the very air.  The mist muffled all sound save for the soft drip of moisture from the eaves and the distant, mournful cry of a raven.
 
-Holmes trailed his fingers along the dark, intricately carved wood paneling as we were led inside. The air within the manor was heavy, redolent with the scent of damp stone and something indefinably ancient. The solemn butler moved silently ahead, his footsteps swallowed by the thick carpets. He paused at the threshold of the dimly lit drawing room.  The fire in the hearth offered a flickering, unreliable warmth, its light painting the room in shifting shadows that danced across Lady Blackwood’s mourning dress.
+Holmes trailed his fingers along the dark, intricately carved wood paneling as we were led inside. The air within the manor was heavy, rich with the scent of damp stone and something indefinably ancient. The solemn butler moved silently ahead, his footsteps swallowed by the thick carpets. He paused at the threshold of the dimly lit drawing room.  The fire in the hearth offered a flickering, unreliable warmth, its light painting the room in shifting shadows that danced across Lady Blackwood’s mourning dress.
 
 "Thank you for coming, Mr. Holmes," she whispered, her voice barely a breath.
 
@@ -252,7 +252,7 @@ I crouched beside him, running my fingers along the marks. "Then the chest was p
 
 "Yes, and more importantly—" Holmes ran a gloved hand lightly over the floorboards, his eyes narrowing. "The disturbance is recent, but look here—the dust has resettled unevenly."
 
-I furrowed my brow. "That means it was here, but not for long?"
+I furrowed my brow. "Does this suggest it rested here but briefly??"
 
 "Exactly." Holmes straightened, brushing off his hands. "This was not the final hiding place. It was left here temporarily, then moved again."
 
@@ -282,7 +282,7 @@ At our entrance, he turned, his sharp features hardening.
 
 Holmes took a seat with calm precision. "Both, Mr. Blackwood. Specifically, the disappearance of your brother's chest and its implications for the estate."
 
-William's lips curled into a sneer as he leaned back in his chair. "Implications for Katherine, you mean." He exhaled sharply. "Convenient, isn't it? The chest vanishes, the will goes missing, and suddenly, my dear sister-in-law's future is secured."
+William's lips curled into a sneer as he leaned back in his chair. "Implications for Katherine, you mean." He exhaled sharply. "How fortunate for her, is it not?? The chest vanishes, the will goes missing, and suddenly, my dear sister-in-law's future is secured."
 
 I frowned at the venom in his tone.
 
@@ -479,7 +479,7 @@ I remained still, my breath held, but the floor beneath me betrayed my caution. 
 
 William stopped speaking. A heavy silence followed. Footsteps approached, slow and deliberate. My pulse quickened. Then—a soft rustle. A loose sheet of paper slipped from a nearby stack and drifted to the floor.
 
-William exhaled sharply. “Damn window drafts…” The footsteps hesitated, then turned away.
+William exhaled sharply. “Confound these infernal draughts…” The footsteps hesitated, then turned away.
 
 “I’ll see you out,” William said, his tone clipped. A chair scraped back, followed by the soft tread of retreating steps.
 The conversation was over.
@@ -722,7 +722,7 @@ Holmes leaned back. "Then Hawthorne will come for the chest himself."
 
 A faint smile touched Holmes’s lips. "I rather think not. Watson and I have already set our trap."
 
-As we left 221B, Mycroft’s words echoed in my mind. This was no longer just a missing chest. We were about to force the hand of powerful men who would do anything to stay in the dark.
+As we left 221B and stepped into the fog-laden street, Holmes paused, his gaze distant. “Mycroft’s revelations demand immediate action, Watson. The chest’s secrets lie at Blackwood Manor, and I’ll not wait for Hawthorne to outpace us.” 
 
 <br><br>
 
