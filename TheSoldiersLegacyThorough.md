@@ -206,6 +206,10 @@ Holmes moved with quiet precision, his gloved fingers brushing lightly over the 
 
 She continued, "He always felt a connection to its history. This manor, you know, has its secrets. The wine cellar, well, it's rather extensive. Edward used to joke that it could hide a small army. Every room, every closet, even the extensive wine cellar, has been examined. We found nothing."
 
+Lady Blackwood hesitated before continuing. "Edward often spoke of the house’s old secrets. He once told me that in the days of the Reformation, this very manor held hiding places for priests fleeing persecution—hidden passages, concealed compartments. He joked that one could lose a fortune in this house and never find it again."
+
+Holmes’s brow lifted slightly. "A house built to hide things. Most intriguing."
+
 Holmes flipped through the ledger, his brow furrowing. "Curious. These numbers don’t align with standard military provisions. Your son was tracking something far more significant, Lady Blackwood."
 
 Lady Blackwood stiffened, her hands clenching at her sides. "Significant? What do you mean?"
@@ -743,6 +747,10 @@ Holmes’s fingers drummed once against the wood. "That, Watson, is the question
 <br><br><br>
 ## Chapter 13: The Colonel's Gambit
 
+Holmes’s steps slowed as we neared the stable, his expression unusually grave. He glanced toward the darkened manor windows. "Watson, men like Hawthorne do not rely solely on rank or reputation. They cultivate influence—debtors in high places, favors owed, secrets traded like currency. Bringing him down will require more than proof."
+
+I nodded, my brow furrowing. "A man with such reach will not fall simply because the truth is known—he will fight to keep it buried."
+
 The stable quarters were modest, with a single cot pushed against the wall and an old wooden trunk at the foot of it. Hanger sat at a small desk, polishing a brass buckle, but the tension in his shoulders betrayed him.
 
 ![ChapterThePriestHole2](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/ChapterThePriestHole2.webp)
@@ -825,7 +833,7 @@ Holmes met his gaze. "Good." He adjusted his gloves, tugging them tighter. "I ma
 
 Hanger stiffened, but Holmes had already turned away. The conversation was over.
 
-As we left the cellar, Holmes’s hands were clasped behind his back, his pace unhurried.
+As we turned to leave, I caught Hanger’s fingers brush his coat—where a small bulge hadn’t been before. I frowned but said nothing. Holmes’s hands were clasped behind his back, his pace unhurried. 
 
 "You knew," I muttered.
 
