@@ -475,11 +475,29 @@ As Holmes and I passed the dimly lit library, a voice cut through the hush—sha
 
 "…Hanger," William Blackwood muttered with disdain. "The man's loyalties were always questionable. If anyone's meddling with the estate, it's him. He seemed loyal to Hawthorne for reasons I can't fathom." A bitter laugh followed. "They'll never pin anything on me. Not with Katherine parading her innocence and Cartwright lurking like a scolded child."
 
-I tensed. This was no casual grievance.
+I remained still, my breath held, but the floor beneath me betrayed my caution. A single, treacherous creak echoed through the corridor.
 
-William tapped his fingers against the desk. "Hargreave, my lawyer says we need only wait. No will, no challenge. The courts will favor the next male heir, and by then, any objections will be nothing more than noise."
+William stopped speaking.
 
-I stepped back into the shadows as William strode past, his expression a mix of frustration and self-satisfaction. The identity of his confidant remained hidden in the library's gloom. Holmes said nothing but met my gaze. Whatever was in that chest, it was more than a legal document—it was power.
+A heavy silence followed. Footsteps approached, slow and deliberate. My pulse quickened.
+
+Then—a soft rustle.
+
+A loose sheet of paper slipped from a nearby stack and drifted to the floor.
+
+William exhaled sharply. "Damn window drafts…" The footsteps hesitated, then turned away.
+
+"…Hargreave, my lawyer says we need only wait. No will, no challenge. The courts will favor the next male heir, and by then, any objections will be nothing more than noise."
+
+"I'll see you out," William said, his tone clipped. A chair scraped back, followed by the soft tread of retreating steps.
+
+The conversation was over.
+
+Only then did I release the breath I had been holding. I glanced at Holmes. Though he said nothing, there was something measured in his stillness—an assurance that the moment had passed.
+
+I swallowed hard and whispered, "That was too close."
+
+Holmes, still watching through the dim light, murmured, "His fingers—did you see? He clenched his fist at the mention of the will. There is fear beneath his resentment."
 
 <br><br><br>
 <br><br><br>
