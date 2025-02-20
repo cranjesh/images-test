@@ -214,7 +214,7 @@ Holmes flipped through the ledger, his brow furrowing. "Curious. These numbers d
 
 Lady Blackwood stiffened, her hands clenching at her sides. "Significant? What do you mean?"
 
-Holmes didn't answer immediately. Instead, he crouched near the floor, his fingers lightly tracing faint scratches in the thick dust. "Watson, observe."
+Holmes didn't answer immediately. Instead, he crouched near the floor, his fingers lightly tracing faint scratches in the thick dust. A faint, sharp whiff of polish lingered there, barely noticeable. "Watson, observe."
 
 I leaned in. The marks were subtle, but deliberate. "These scratches—" I began, then stopped, a prickle of unease running down my spine.
 
@@ -473,31 +473,20 @@ The manor's corridors darkened as the evening wore on, gas lamps casting flicker
 
 As Holmes and I passed the dimly lit library, a voice cut through the hush—sharp, irritated.
 
-"…Hanger," William Blackwood muttered with disdain. "The man's loyalties were always questionable. If anyone's meddling with the estate, it's him. He seemed loyal to Hawthorne for reasons I can't fathom." A bitter laugh followed. "They'll never pin anything on me. Not with Katherine parading her innocence and Cartwright lurking like a scolded child."
+“…Hanger,” William Blackwood muttered with disdain. “The man’s loyalties were always questionable. If anyone’s meddling with the estate, it’s him—him and Hawthorne. And that chest… Edward knew something, something in those papers that got him killed.” A bitter laugh followed. “Hargreave says we need only wait. No will, no challenge. The courts will favor me soon enough.”
 
 I remained still, my breath held, but the floor beneath me betrayed my caution. A single, treacherous creak echoed through the corridor.
 
-William stopped speaking.
+William stopped speaking. A heavy silence followed. Footsteps approached, slow and deliberate. My pulse quickened. Then—a soft rustle. A loose sheet of paper slipped from a nearby stack and drifted to the floor.
 
-A heavy silence followed. Footsteps approached, slow and deliberate. My pulse quickened.
+William exhaled sharply. “Damn window drafts…” The footsteps hesitated, then turned away.
 
-Then—a soft rustle.
-
-A loose sheet of paper slipped from a nearby stack and drifted to the floor.
-
-William exhaled sharply. "Damn window drafts…" The footsteps hesitated, then turned away.
-
-"…Hargreave, my lawyer says we need only wait. No will, no challenge. The courts will favor the next male heir, and by then, any objections will be nothing more than noise."
-
-"I'll see you out," William said, his tone clipped. A chair scraped back, followed by the soft tread of retreating steps.
-
+“I’ll see you out,” William said, his tone clipped. A chair scraped back, followed by the soft tread of retreating steps.
 The conversation was over.
 
-Only then did I release the breath I had been holding. I glanced at Holmes. Though he said nothing, there was something measured in his stillness—an assurance that the moment had passed.
+Only then did I release the breath I had been holding. I glanced at Holmes and whispered, “He didn’t tell us that—about the chest and Edward’s death. He doesn’t want us to find it.”
 
-I swallowed hard and whispered, "That was too close."
-
-Holmes, still watching through the dim light, murmured, "His fingers—did you see? He clenched his fist at the mention of the will. There is fear beneath his resentment."
+Holmes, still watching through the dim light, murmured, “His fingers—did you see? He clenched his fist at the mention of the will. He fears it being found.”
 
 <br><br><br>
 <br><br><br>
@@ -782,6 +771,8 @@ Holmes’s gaze never wavered. "The priest hole. It's empty."
 The colour drained slightly from Hanger's face.
 
 Holmes raised an eyebrow. "Cloves. The same scent I found… in the priest hole, along with a pouch identical to yours. The cloves have undone you, Hanger. You moved the chest."
+
+It struck me like a bolt—Holmes sniffing the air like a hound, that very first visit. Likely clove oil, I thought, for old joints worn by stable toil.
 
 Holmes continued, his voice quiet, almost conversational. "Colonel Hawthorne’s career has been marked by curious coincidences. Supply routes compromised. Intelligence leaked. And now, a dedicated officer dead after discovering discrepancies in military records. Edward suspected something, didn’t he?"
 
