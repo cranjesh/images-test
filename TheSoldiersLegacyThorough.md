@@ -738,7 +738,9 @@ He reached for the volume, a slim, worn history of Elizabethan England. It seeme
 
 "And here," he said quietly, "is the key."  He pointed to a small, almost invisible indentation on the book's cover, perfectly positioned to depress a hidden mechanism.
 
-He pressed the book gently against the wall. A soft click echoed from behind the bookcase, and a section of the wood creaked open, evealing a narrow, dark passage, barely wide enough for a man to squeeze through.  The priest hole smelled of damp earth and something else... old and musty. Holmes squeezed into the cramped space. I saw his nose twitch; he was sniffing the air. He moved further in, his expression thoughtful. His gaze settled on a worn leather pouch in the corner. He picked it up, examined it, and his face hardened. "Empty," he muttered grimly.
+He pressed the book gently against the wall. A soft click echoed from behind the bookcase, and a section of the wood creaked open, evealing a narrow, dark passage, barely wide enough for a man to squeeze through. The priest hole smelled of damp earth and something else... old and musty. Holmes squeezed into the cramped space. I saw his nose twitch; he was sniffing the air. He moved further in, his expression thoughtful. His gaze settled on a worn leather pouch in the corner. He picked it up, examined it, and his face hardened. "Empty," he muttered grimly.
+
+![PriestHole](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/ChapterThePriestHole1.webp)
 
 "This was meant to deceive us, Watson."
 
