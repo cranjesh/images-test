@@ -126,7 +126,7 @@ Through mist-shrouded carriage windows, I watched as London’s grey suburbs gav
 
 ![Chapter 5 A](https://raw.githubusercontent.com/cranjesh/images-test/refs/heads/main/Chapter5A.webp)
 
-The room was unnervingly tidy. Reports were stacked with military exactitude on the desk, a locked dispatch box beside them. Cartwright’s uniform lay folded with similar precision, as if ready for immediate inspection. The sharp call of the evening bugle pierced the silence.
+The room was unnervingly tidy. Reports were stacked with military exactitude on the desk, a locked dispatch box beside them. Cartwright’s uniform lay folded with similar precision, as if ready for immediate inspection.
 
 Holmes’s gaze flickered across the room before settling on Cartwright. He remained standing, arms clasped behind his back, his posture suggesting a man on edge.
 
@@ -206,7 +206,7 @@ Holmes moved with quiet precision, his gloved fingers brushing lightly over the 
 
 She continued, "He always felt a connection to its history. This manor, you know, has its secrets. The wine cellar, well, it's rather extensive. Edward used to joke that it could hide a small army. Every room, every closet, even the extensive wine cellar, has been examined. We found nothing."
 
-Lady Blackwood hesitated before continuing. "Edward often spoke of the house’s old secrets. He once told me that in the days of the Reformation, this very manor held hiding places for priests fleeing persecution—hidden passages, concealed compartments. He joked that one could lose a fortune in this house and never find it again."
+Lady Blackwood hesitated. 'Edward often spoke of the house’s old secrets—hidden passages from the Reformation, concealed compartments.'
 
 Holmes’s brow lifted slightly. "A house built to hide things. Most intriguing."
 
@@ -326,7 +326,7 @@ Holmes let the silence stretch.
 
 Then, suddenly, William's expression shifted. His sneer faltered, and in its place, something almost imperceptible flickered in his eyes. Regret? No—something deeper.  He looked down at his hands, his fingers tracing the rim of his brandy glass.
 
-"He wasn't always against me," he muttered, his voice barely audible. "When we were boys, he taught me to fix a pocket watch—patient, steady hands. Gave it to me on my fifteenth birthday. Said I'd learned well enough to keep it running myself."
+"He wasn't always against me," he muttered, his voice barely audible. "When we were boys, he taught me to fix a pocket watch. Gave it to me on my fifteenth birthday.. Said I'd learned well enough to keep it running myself."
 
 His jaw tightened. "And yet, in the end, I was never meant to hold anything that mattered."
 
@@ -420,7 +420,7 @@ She hesitated, her gaze falling to the letter in her lap.
 
 Her fingers tightened slightly around the letter, the paper crinkling softly.
 
-"His last letters were different. Shorter. Cautious. As if he feared he was writing for more than my eyes."
+"His last letters were cautious, as if written for more than my eyes. I fear his suspicions ran deeper."
 
 I watched her carefully. The grief was real, etched into her very being. The exhaustion was palpable.
 
@@ -479,9 +479,7 @@ I remained still, my breath held, but the floor beneath me betrayed my caution. 
 
 William stopped speaking. A heavy silence followed. Footsteps approached, slow and deliberate. My pulse quickened. Then—a soft rustle. A loose sheet of paper slipped from a nearby stack and drifted to the floor.
 
-William exhaled sharply. “Confound these infernal draughts…” The footsteps hesitated, then turned away.
-
-“I’ll see you out,” William said, his tone clipped. A chair scraped back, followed by the soft tread of retreating steps.
+William exhaled sharply. “Confound these infernal draughts… I’ll see you out,” William said, his tone clipped. A chair scraped back, followed by the soft tread of retreating steps.
 The conversation was over.
 
 Only then did I release the breath I had been holding. I glanced at Holmes and whispered, “He didn’t tell us that—about the chest and Edward’s death. He doesn’t want us to find it.”
@@ -530,7 +528,7 @@ I frowned. "And the second?"
 
 My pulse quickened. "And the third?"
 
-"When I mentioned William’s financial records, Hanger reacted. A man denied help by his employer becomes vulnerable to other offers."
+"When I mentioned William’s financial records, Hanger reacted."
 
 I exhaled. "Then why move the chest at all?"
 
